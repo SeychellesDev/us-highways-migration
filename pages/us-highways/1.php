@@ -3065,14 +3065,14 @@
                 <tr>
                     <td class="content text-dark small">774.33 mi ( + 1.12 mi )</td>
                     <td class="content text-dark small">1246.34 km ( + 1.81 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/1902.php">SC-1902 - Williamson Dr</a>, Burnettown, South Carolina 29849</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/1902.php">Aiken SR 1902 - Williamson Dr</a>, Burnettown, South Carolina 29849</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">774.95 mi ( + 0.62 mi )</td>
                     <td class="content text-dark small">1247.34 km ( + 1.00 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/67.php">SC-67 - Duncan Rd (WB) / Anthony Dr (EB)</a>, Burnettown, South Carolina 29849</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/67.php">Aiken SR 67 - Duncan Rd (WB) / Anthony Dr (EB)</a>, Burnettown, South Carolina 29849</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3100,49 +3100,63 @@
                 <tr>
                     <td class="content text-dark small">779.42 mi ( + 0.47 mi )</td>
                     <td class="content text-dark small">1254.54 km ( + 0.76 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/81.php">SC-81 - Main St</a>(concurrent with <a href="../state-highways/sc/191.php">SC-191</a>), Graniteville, South Carolina 29829</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/191.php">SC-191 - Main St</a>(concurrent with <a href="../secondary-roads/sc/ai/81.php">Aiken SR 81</a>), Graniteville, South Carolina 29829</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">780.01 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">1255.50 km ( + 0.96 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/70.php">SC-70 - Greenville Rd</a>, Graniteville, South Carolina 29829</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/70.php">Aiken SR 70 - Greenville Rd</a>, Graniteville, South Carolina 29829</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">781.37 mi ( + 1.36 mi )</td>
                     <td class="content text-dark small">1257.68 km ( + 2.18 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/19.php">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Graniteville, South Carolina 29829<br><a href="#scus1bypai">US-1 Bypass - Robert M. Bell Pkwy (NB)</a> (concurrent with <a href="78.php/#scus78bypai">US-78 Bypass</a>, <a href="../state-highways/sc/19.php">SC-19</a>, & <a href="../state-highways/sc/118.php">SC-118</a>), Graniteville, South Carolina 29829</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 Bypass - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#scus1bypai">US-1 Bypass - Robert M. Bell Pkwy (NB)</a> (concurrent with <a href="78.php/#scus78bypai">US-78 Bypass</a>, <a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 Bypass</a>, & <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark">W Richland Ave, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">781.54 mi ( + 0.17 mi )</td>
                     <td class="content text-dark small">1257.96 km ( + 0.28 km )</td>
-                    <td class="content text-dark">SC-421 - Augusta Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/421.php">SC-421 - Augusta Rd</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">784.68 mi ( + 3.14 mi )</td>
-                    <td class="content text-dark small">1263.01 km ( + 5.05 km )</td>
-                    <td class="content text-dark">SC-19 - NW Laurens St, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark small">784.13 mi ( + 2.59 mi )</td>
+                    <td class="content text-dark small">1263.01 km ( + 4.17 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ai/105.php">Aiken SR 105 - Vaucluse Rd</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">784.68 mi ( + 0.55 mi )</td>
+                    <td class="content text-dark small">1263.01 km ( + 0.88 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/19.php">SC-19 - NW Laurens St</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">784.96 mi ( + 0.28 mi )</td>
                     <td class="content text-dark small">1263.47 km ( + 0.46 km )</td>
-                    <td class="content text-dark">US-1 - NE York St, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">US-1 - NE York St, Aiken, South Carolina 29801<br><a href="78.php">US-78 - W Richland Ave</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark">NE York St, Aiken, South Carolina 29801</td>
                     <td class="content text-dark">End concurrency with US-78</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">786.44 mi ( + 1.48 mi )</td>
-                    <td class="content text-dark small">1265.85 km ( + 2.38 km )</td>
-                    <td class="content text-dark">US-1 Bypass, US-78 Bypass, and SC-118 - Rudy Mason Pkwy (SB) / Rutland Dr (NB), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark small">785.54 mi ( + 0.58 mi )</td>
+                    <td class="content text-dark small">1264.40 km ( + 0.93 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/29.php">Aiken SR 29 - NE Hampton Ave</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">NE York St, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">End concurrency with US-78</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">786.44 mi ( + 0.90 mi )</td>
+                    <td class="content text-dark small">1265.85 km ( + 1.45 km )</td>
+                    <td class="content text-dark"><a href="78.php/#scus78bypai">US-78 Bypass - Rudy Mason Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801<br><a href="1.php/#scus1bypai">US-1 Bypass - Rutland Dr (NB)</a> (concurrency <a href="78.php/#scus78bypai">US-78 Bypass</a> and <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3156,217 +3170,280 @@
                 <tr>
                     <td class="content text-dark small">788.54 mi ( + 1.44 mi )</td>
                     <td class="content text-dark small">1269.23 km ( + 2.32 km )</td>
-                    <td class="content text-dark">Aiken SR 283 - Gun Range Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/283.php">Aiken SR 283 - Gun Range Rd</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">789.44 mi ( + 0.90 mi )</td>
-                    <td class="content text-dark small">1270.68 km ( + 1.45 km )</td>
-                    <td class="content text-dark">Aiken SR 2190 - Millrace Cir, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark small">789.36 mi ( + 0.82 mi )</td>
+                    <td class="content text-dark small">1270.55 km ( + 1.32 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/1904.php">Aiken SR 283 - Gun Range Rd</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">789.44 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">1270.68 km ( + 0.13 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/2190.php">Aiken SR 2190 - Millrace Cir</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">789.56 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">1270.88 km ( + 0.20 km )</td>
-                    <td class="content text-dark">Aiken SR 2190 - Millrace Cir, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/2190.php">Aiken SR 2190 - Millrace Cir</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">790.34 mi ( + 0.78 mi )</td>
                     <td class="content text-dark small">1272.14 km ( + 1.26 km )</td>
-                    <td class="content text-dark">Aiken SR 566 - Pearlship St, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/556.php">Aiken SR 566 - Pearlship St</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">791.29 mi ( + 0.95 mi )</td>
                     <td class="content text-dark small">1273.68 km ( + 1.54 km )</td>
-                    <td class="content text-dark">SC-26 - Reynolds Pond Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/26.php">Aiken SR 26 - Reynolds Pond Rd</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">791.77 mi ( + 0.48 mi )</td>
                     <td class="content text-dark small">1274.45 km ( + 0.77 km )</td>
-                    <td class="content text-dark">SC-207 - Beaver Dam Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/207.php">Aiken SR 207 - Beaver Dam Rd</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">792.32 mi ( + 0.55 mi )</td>
-                    <td class="content text-dark small">1275.33 km ( + 0.88 km )</td>
-                    <td class="content text-dark">Aiken SR 553 - Windham Way, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark small">792.07 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">1275.93 km ( + 0.48 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/2313.php">Aiken SR 2313 - Old Jordan Rd</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">792.32 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">1275.33 km ( + 0.40 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/1693.php">Aiken SR 1693 - Windham Blvd</a>, Aiken, South Carolina 29801<br><a href="../secondary-roads/sc/ai/553.php">Aiken SR 553 - Windham Way</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">792.41 mi ( + 0.09 mi )</td>
                     <td class="content text-dark small">1275.48 km ( + 0.15 km )</td>
-                    <td class="content text-dark">Aiken SR 555 - Old Kimbill Trl, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/555.php">Aiken SR 555 - Old Kimbill Trl</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">793.01 mi ( + 0.60 mi )</td>
-                    <td class="content text-dark small">1276.44 km ( + 0.96 km )</td>
-                    <td class="content text-dark">I-20, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark small">793.94 mi ( + 0.53 mi )</td>
+                    <td class="content text-dark small">1276.34 km ( + 0.86 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/706.php">Aiken SR 706</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">793.52 mi ( + 0.51 mi )</td>
-                    <td class="content text-dark small">1277.27 km ( + 0.83 km )</td>
-                    <td class="content text-dark">SC-155 - Piper Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark small">793.01 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">1276.44 km ( + 0.10 km )</td>
+                    <td class="content text-dark"><a href="../interstates/20.php">I-20</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">793.44 mi ( + 0.43 mi )</td>
+                    <td class="content text-dark small">1277.13 km ( + 0.69 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/155.php">Aiken SR 154 - Old Camp Long Rd</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">793.52 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">1277.27 km ( + 0.14 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/155.php">Aiken SR 155 - Piper Rd</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">793.62 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">1277.43 km ( + 0.16 km )</td>
-                    <td class="content text-dark">Aiken SR 438 - Mack Donald Ln, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/438.php">Aiken SR 438 - Mack Donald Ln</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">793.72 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">1277.59 km ( + 0.16 km )</td>
-                    <td class="content text-dark">Aiken SR 439 - Starling Ct, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/439.php">Aiken SR 439 - Starling Ct</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">794.75 mi ( + 1.03 mi )</td>
                     <td class="content text-dark small">1279.24 km ( + 1.65 km )</td>
-                    <td class="content text-dark">Aiken SR 548 - Horned Owl Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/548.php">Aiken SR 548 - Horned Owl Rd</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">795.86 mi ( + 1.11 mi )</td>
-                    <td class="content text-dark small">1281.03 km ( + 1.79 km )</td>
-                    <td class="content text-dark">Aiken SR 533 - Bridge Creek Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark small">794.92 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">1279.52 km ( + 0.28 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/1469.php">Aiken SR 1469 - Morris Rd</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">795.02 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">1279.69 km ( + 0.17 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/154.php">Aiken SR 154 - Edisto Rd</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">795.86 mi ( + 0.84 mi )</td>
+                    <td class="content text-dark small">1281.03 km ( + 1.34 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/533.php">Aiken SR 533 - Bridge Creek Rd</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">796.44 mi ( + 0.58 mi )</td>
                     <td class="content text-dark small">1281.97 km ( + 0.94 km )</td>
-                    <td class="content text-dark">Aiken SR 524 - Bogeyville Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/524.php">Aiken SR 524 - Bogeyville Rd</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">797.78 mi ( + 1.34 mi )</td>
                     <td class="content text-dark small">1284.13 km ( + 2.16 km )</td>
-                    <td class="content text-dark">SC-1725 - Old 4 Notch Rd (WB)<br>Aiken SR 549 - Cumbee Trl Rd (EB), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/1725.php">Aiken SR 1725 - Old 4 Notch Rd (WB)</a>, Aiken, South Carolina 29801<br><a href="../secondary-roads/sc/ai/549.php">Aiken SR 549 - Cumbee Trail Rd</a> (EB), Aiken, South Carolina 29801</td>
                     <td class="content text-dark">N Columbia Hwy, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">799.07 mi ( + 1.29 mi )</td>
                     <td class="content text-dark small">1286.20 km ( + 2.07 km )</td>
-                    <td class="content text-dark">Aiken SR 540 - Keys Pond Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/540.php">Aiken SR 540 - Keys Pond Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">800.35 mi ( + 1.28 mi )</td>
                     <td class="content text-dark small">1288.26 km ( + 2.06 km )</td>
-                    <td class="content text-dark">SC-209 - Dairy Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/209.php">Aiken SR 209 - Dairy Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">800.70 mi ( + 0.35 mi )</td>
                     <td class="content text-dark small">1288.82 km ( + 0.56 km )</td>
-                    <td class="content text-dark">Aiken SR 530 - Winding Trail Lp, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/530.php">Aiken SR 530 - Winding Trail Lp</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">800.89 mi ( + 0.19 mi )</td>
                     <td class="content text-dark small">1289.12 km ( + 0.30 km )</td>
-                    <td class="content text-dark">Aiken SR 529 - Kenner Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/529.php">Aiken SR 529 - Kenner Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">801.25 mi ( + 0.36 mi )</td>
                     <td class="content text-dark small">1289.69 km ( + 0.57 km )</td>
-                    <td class="content text-dark">SC-25 - State Rd (WB) / Mt Pleasant Rd (EB), Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/25.php">Aiken SR 25 - State Rd (WB) / Mt Pleasant Rd (EB)</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">802.03 mi ( + 0.78 mi )</td>
                     <td class="content text-dark small">1290.95 km ( + 1.26 km )</td>
-                    <td class="content text-dark">Aiken SR 521 - Dusk Trail Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/521.php">Aiken SR 521 - Dusk Trail Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">802.07 mi ( + 0.04 mi )</td>
                     <td class="content text-dark small">1291.01 km ( + 0.06 km )</td>
-                    <td class="content text-dark">Aiken SR 521 - Dusk Trail Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/513.php">Aiken SR 513 - Vanest Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">802.66 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">1291.97 km ( + 0.96 km )</td>
-                    <td class="content text-dark">SC-392 - Engineer Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/392.php">SC-392 - Engineer Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">803.49 mi ( + 0.83 mi )</td>
                     <td class="content text-dark small">1293.30 km ( + 1.33 km )</td>
-                    <td class="content text-dark">Aiken SR 513 - Vanest Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/513.php">Aiken SR 513 - Vanest Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">804.00 mi ( + 0.51 mi )</td>
                     <td class="content text-dark small">1294.12 km ( + 0.82 km )</td>
-                    <td class="content text-dark">SC-151 - Old Shoals Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/151.php">Aiken SR 151 - Old Shoals Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">805.70 mi ( + 1.70 mi )</td>
-                    <td class="content text-dark small">1296.86 km ( + 2.74 km )</td>
-                    <td class="content text-dark">Aiken SR 589 - Cromer Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark small">804.33 mi ( + 0.33 mi )</td>
+                    <td class="content text-dark small">1294.65 km ( + 0.53 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/563.php">Aiken SR 563 - Trojan Rd (WB)</a>, Monetta, South Carolina 29105<br><a href="../secondary-roads/sc/ai/1223.php">Aiken SR 1223 - State Rd (EB)</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">806.43 mi ( + 0.73 mi )</td>
-                    <td class="content text-dark small">1298.03 km ( + 1.17 km )</td>
-                    <td class="content text-dark">SC-39 - Main St & Old Ninety Six Indian Trl (SB) / Main St & Old Ninety Six Indian Hwy (NB), Monetta, South Carolina 29105</td>
+                    <td class="content text-dark small">805.70 mi ( + 1.37 mi )</td>
+                    <td class="content text-dark small">1296.86 km ( + 2.71km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/589.php">Aiken SR 589 - Cromer Rd</a>, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">806.24 mi ( + 0.54 mi )</td>
+                    <td class="content text-dark small">1297.73 km ( + 0.87 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/39.php">Aiken SR 37 - Musketeers Rd (SB) / Early Sims Rd (NB)</a>, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">806.43 mi ( + 0.19 mi )</td>
+                    <td class="content text-dark small">1298.03 km ( + 0.30 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/39.php">SC-39 - Old Ninety Six Indian Hwy (SB) / Main St (NB)</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">806.86 mi ( + 0.43 mi )</td>
                     <td class="content text-dark small">1298.72 km ( + 0.69 km )</td>
-                    <td class="content text-dark">Aiken SR 587 - Cato St, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/587.php">Aiken SR 587 - Cato St</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">807.76 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">1300.17 km ( + 1.45 km )</td>
-                    <td class="content text-dark">SC-109 - Bethel Rd (WB) / Chinquapin Church Rd (EB), Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/109.php">Aiken SR 109 - Bethel Rd (WB) / Chinquapin Church Rd (EB)</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">808.33 mi ( + 0.57 mi )</td>
-                    <td class="content text-dark small">1301.09 km ( + 0.92 km )</td>
-                    <td class="content text-dark">Aiken SR 585 - Bethel Rd (WB) / Peach Orchard Rd (EB), Monetta, South Carolina 29105</td>
+                    <td class="content text-dark small">807.88 mi ( + 0.12 mi )</td>
+                    <td class="content text-dark small">1300.36 km ( + 0.19 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/109.php">Aiken SR 109 - Bethel Rd (WB) / Chinquapin Church Rd (EB)</a>, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">808.33 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">1301.09 km ( + 0.73 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/585.php">Aiken SR 585 - Peach Orchard Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3374,41 +3451,63 @@
                     <td class="content text-dark small">808.90 mi ( + 0.57 mi )</td>
                     <td class="content text-dark small">1302.00 km ( + 0.91 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">US-1, Batesburg-Leesville, South Carolina 29006</td>
-                    <td class="content text-dark">End Aiken County, Start Lexington County</td>
+                    <td class="content text-dark">US-1, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">End Aiken County, Start Saluda County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">810.98 mi ( + 2.08 mi )</td>
                     <td class="content text-dark small">1305.35 km ( + 3.35 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W Columbia Ave, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark">End Saluda County, Start Lexington County</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">811.23 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">1305.75 km ( + 0.40 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/86.php">Lexington SR 86 - S Bethlehem Rd (SB) / N Bethlehem Rd (NB)</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">812.25 mi ( + 1.27 mi )</td>
-                    <td class="content text-dark small">1307.39 km ( + 2.04 km )</td>
-                    <td class="content text-dark">US-178 & SC-391 - S Pine St (SB) / Pine St (NB), Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark small">812.25 mi ( + 1.02 mi )</td>
+                    <td class="content text-dark small">1307.39 km ( + 1.64 km )</td>
+                    <td class="content text-dark"><a href="178.php">US-178 - S Pine St (SB) / Pine St (NB)</a> (concurrent with <a href="../state-highways/391.php">SC-391</a>), Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">813.31 mi ( + 1.06 mi )</td>
                     <td class="content text-dark small">1309.09 km ( + 1.70 km )</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/47.php">Lexington SR 47 - Shealy Rd</a>, Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark">E Columbia Ave, Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">814.30 mi ( + 0.99 mi )</td>
                     <td class="content text-dark small">1310.69 km ( + 1.60 km )</td>
-                    <td class="content text-dark">SC-245 - S Lee St (SB) / N Lee St (NB), Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/245.php">SC-245 - S Lee St (SB) / N Lee St (NB)</a>, Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">815.29 mi ( + 0.99 mi )</td>
-                    <td class="content text-dark small">1312.29 km ( + 1.60 km )</td>
+                    <td class="content text-dark small">814.38 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">1310.82 km ( + 0.13 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/124.php">Lexington SR 124 - Main St</a>, Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">814.64 mi ( + 0.26 mi )</td>
+                    <td class="content text-dark small">1311.23 km ( + 0.41 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/34.php">Lexington SR 34 - Main St</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">815.29 mi ( + 0.65 mi )</td>
+                    <td class="content text-dark small">1312.29 km ( + 1.06 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/330.php">Lexington SR 330 - Broad St</a>, Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark">Augusta Hwy, Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6754,16 +6853,51 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/19.php">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Graniteville, South Carolina 29829<br><a href="#us1">US-1 Jefferson Davis Hwy (NB/SB)</a> (concurrent with <a href="78.php">US-78</a>), Graniteville, South Carolina 29829</td>
-                    <td class="content text-dark">Robert M Bell Pkwy, Graniteville, South Carolina 29829</td>
-                    <td class="content text-dark">Start of Bypass Route</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#us1">US-1 Jefferson Davis Hwy (NB/SB)</a> (concurrent with <a href="78.php">US-78</a>), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Robert M Bell Pkwy, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Start of Bypass Route<br>Start concurrency with SC-19 Bypass and SC-118</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.22 mi ( + 0.20 mi )</td>
-                    <td class="content text-dark small">0.33 km ( + 0.33 km )</td>
+                    <td class="content text-dark small">1.29 mi ( + 1.29 mi )</td>
+                    <td class="content text-dark small">2.08 km ( + 2.08 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/80.php">Aiken SR 80 - Trolley Line Rd</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Spur</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.53 mi ( + 0.24 mi )</td>
+                    <td class="content text-dark small">2.46 km ( + 0.38 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">University Pkwy, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.02 mi ( + 0.49 mi )</td>
+                    <td class="content text-dark small">3.25 km ( + 0.79 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/1303.php">SC-1303 - Hudson Rd (SB) / Croft Mill Rd (NB)</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.48 mi ( + 0.46 mi )</td>
+                    <td class="content text-dark small">3.99 km ( + 0.74 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ai/105.php">SC-105 - Vaucluse Rd</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.64 mi ( + 2.16 mi )</td>
+                    <td class="content text-dark small">7.46 km ( + 3.47 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/19.php">SC-19 - NW Laurens St</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Rutland Dr, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">End concurrency with SC-19 Bypass</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">5.63 mi ( + 0.99 mi )</td>
+                    <td class="content text-dark small">9.06 km ( + 1.60 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - NE York St</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Bypass Route</td>
                 </tr>
             </section>
             </table>

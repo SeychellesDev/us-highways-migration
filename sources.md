@@ -1,0 +1,18 @@
+# Sources
+
+- Google Maps [maps.google.com]
+- KYTC Kentucky List of Primary Road Systems in Jefferson County [https://transportation.ky.gov/Planning/State%20Primary%20Road%20System%20Lists/Jefferson.pdf]
+- SCDOT South Carolina County Route Maps [https://info2.scdot.org/GISMapping/GISMapdl/Forms/AllItems.aspx]
+- SCSH List of County Routes in Aiken County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Aiken.pdf]
+- SCSH List of County Routes in Saluda County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Saluda.pdf]
+- SCSH List of County Routes in Saluda County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Lexington.pdf]
+- Wikipedia List of County Routes in New Jersey by County [https://en.wikipedia.org/wiki/Category:County_routes_in_New_Jersey]
+- Wikipedia List of County Routes in New York State by County [https://en.wikipedia.org/wiki/Category:County_routes_in_New_York_(state)]
+- Wikipedia List of Ιnterstate Highways by State [https://en.wikipedia.org/wiki/Lists_of_Interstate_Highways]
+- Wikipedia List of Kentucky Supplemental/Secondary Routes (#3500-6999) [https://en.wikipedia.org/wiki/List_of_Kentucky_supplemental_roads_and_rural_secondary_highways_(3500%E2%80%936999)]
+- Wikipedia List of United States Numbered Highways [https://en.wikipedia.org/wiki/List_of_United_States_Numbered_Highways]
+- Wikipedia List of US-1 Special Routes [https://en.wikipedia.org/wiki/Special_routes_of_U.S._Route_1]
+- Wikipedia List of State Highways in Hawaii [https://en.wikipedia.org/wiki/List_of_state_highways_in_Hawaii]
+- Wikipedia List of State Highways in New Jersey [https://en.wikipedia.org/wiki/List_of_state_highways_in_New_Jersey]
+- Wikipedia List of State Highways in New York [https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/List_of_state_routes_in_New_York]
+- Wikipedia List of State Highways in Pennsylvania [https://en.wikipedia.org/wiki/List_of_state_routes_in_Pennsylvania]

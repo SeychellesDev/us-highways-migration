@@ -1806,8 +1806,8 @@
                     <td class="content text-dark small">215.66 mi ( + 1.60 mi )</td>
                     <td class="content text-dark small">347.22 km ( + 2.58 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">S Broadway, Yonkers, New York 10705</td>
-                    <td class="content text-dark">End Bronx County, Start Westchester County</td>
+                    <td class="content text-dark">N Broadway, Yonkers, New York 10705</td>
+                    <td class="content text-dark"></td>
                 </tr>
             </section>
             </table>

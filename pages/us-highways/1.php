@@ -3514,14 +3514,84 @@
                 <tr>
                     <td class="content text-dark small">815.62 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">1312.82 km ( + 0.53 km )</td>
-                    <td class="content text-dark">SC-23 - E Church St, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/23.php">SC-23 - E Church St</a>, Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">823.06 mi ( + 7.44 mi )</td>
-                    <td class="content text-dark small">1324.79 km ( + 11.97 km )</td>
+                    <td class="content text-dark small">815.69 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">1312.93 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/158.php">Lexington SR 158 - Windmill Rd</a>, Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">816.34 mi ( + 0.65 mi )</td>
+                    <td class="content text-dark small">1313.98 km ( + 1.05 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/955.php">Lexington SR 955</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">817.23 mi ( + 0.89 mi )</td>
+                    <td class="content text-dark small">1315.42 km ( + 1.44 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/1537.php">Lexington SR 1537 - Little Creek Dr</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">817.77 mi ( + 0.54 mi )</td>
+                    <td class="content text-dark small">1316.30 km ( + 0.88 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/1612.php">Lexington SR 1612 - Cheyenne Trl</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">818.22 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">1317.02 km ( + 0.72 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/31.php">Lexington SR 31 - W Hampton St</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">819.60 mi ( + 1.38 mi )</td>
+                    <td class="content text-dark small">1319.24 km ( + 2.22 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/1265.php">Lexington SR 1265 - Hallman Wagon Rd</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">820.27 mi ( + 0.67 mi )</td>
+                    <td class="content text-dark small">1320.32 km ( + 1.08 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/277.php">Lexington SR 277 - Lewie Rd</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">820.39 mi ( + 0.12 mi )</td>
+                    <td class="content text-dark small">1320.52 km ( + 0.20 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/54.php">Lexington SR 54 - Cedar Grove Rd</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">821.17 mi ( + 0.78 mi )</td>
+                    <td class="content text-dark small">1321.78 km ( + 1.26 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/1849.php">Lexington SR 1849 - Schofield Rd</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">821.46 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">1322.24 km ( + 0.46 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/24.php">Lexington SR 24 - Peach Festival Rd (SB) / Priceville Rd (NB)</a>, Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">823.06 mi ( + 1.60 mi )</td>
+                    <td class="content text-dark small">1324.79 km ( + 2.55 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/113">Lexington SR 113 - Spring Hill Rd</a>, Lexington, South Carolina 29072</td>
                     <td class="content text-dark">Augusta Hwy, Lexington, South Carolina 29072</td>
                     <td class="content text-dark"></td>
                 </tr>

@@ -3591,35 +3591,105 @@
                 <tr>
                     <td class="content text-dark small">823.06 mi ( + 1.60 mi )</td>
                     <td class="content text-dark small">1324.79 km ( + 2.55 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/113">Lexington SR 113 - Spring Hill Rd</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/113.php">Lexington SR 113 - Spring Hill Rd</a>, Lexington, South Carolina 29072</td>
                     <td class="content text-dark">Augusta Hwy, Lexington, South Carolina 29072</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">829.05 mi ( + 5.99 mi )</td>
-                    <td class="content text-dark small">1334.43 km ( + 9.64 km )</td>
+                    <td class="content text-dark small">823.27 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">1325.13 km ( + 0.34 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/301.php">Lexington SR 301 - St Pauls Church Rd</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">824.03 mi ( + 0.76 mi )</td>
+                    <td class="content text-dark small">1326.36 km ( + 1.23 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/115.php">Lexington SR 115 - Spool Wheel Rd</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">825.14 mi ( + 1.11 mi )</td>
+                    <td class="content text-dark small">1328.15 km ( + 1.79 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/880.php">Lexington SR 880 - Windy Rd</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">825.78 mi ( + 0.64 mi )</td>
+                    <td class="content text-dark small">1329.18 km ( + 1.03 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/169.php">Lexington SR 169 - Calks Ferry Rd</a> (concurrent with <a href="../secondary-roads/sc/lx/278.php">Lexington SR 278</a>), Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">826.99 mi ( + 1.21 mi )</td>
+                    <td class="content text-dark small">1331.13 km ( + 1.95 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/879.php">Lexington SR 879 - Olde Farm Rd</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">827.40 mi ( + 0.41 mi )</td>
+                    <td class="content text-dark small">1331.78 km ( + 0.65 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/204.php">Lexington SR 204 - Pisgah Church Rd (SB) / Charter Oak Rd (NB)</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">828.14 mi ( + 0.74 mi )</td>
+                    <td class="content text-dark small">1332.97 km ( + 1.19 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/172.php">Lexington SR 172 - Hermitage Rd (SB) / Wise Ferry Rd (NB)</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">828.28 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">1333.20 km ( + 0.23 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/172.php">Lexington SR 172 - Hermitage Rd (SB) / Wise Ferry Rd (NB)</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">829.05 mi ( + 0.77 mi )</td>
+                    <td class="content text-dark small">1334.43 km ( + 1.23 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W Main St, Lexington, South Carolina 29072</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">830.23 mi ( + 1.18 mi )</td>
-                    <td class="content text-dark small">1336.34 km ( + 1.91 km )</td>
-                    <td class="content text-dark">US-378, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark small">829.86 mi ( + 0.81 mi )</td>
+                    <td class="content text-dark small">1335.75 km ( + 1.32 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/77.php">Lexington SR 77 - Barr Rd</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">830.23 mi ( + 0.37 mi )</td>
+                    <td class="content text-dark small">1336.34 km ( + 0.59 km )</td>
+                    <td class="content text-dark"><a href="378.php">US-378</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with US-378</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">830.81 mi ( + 0.58 mi )</td>
+                    <td class="content text-dark small">1337.27 km ( + 0.93 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/127.php">Lexington SR 127 - Park Rd</a>, Lexington, South Carolina 29072</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-378</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">830.85 mi ( + 0.62 mi )</td>
                     <td class="content text-dark small">1337.33 km ( + 0.99 km )</td>
-                    <td class="content text-dark">US-1 - W Main St, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"><a href="378.php">US-378 - Columbia Ave (NB)</a>, Lexington, South Carolina 29072<br>US-1 - W Main St (NB), Lexington, South Carolina 29072</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-378</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">831.38 mi ( + 0.53 mi )</td>
                     <td class="content text-dark small">1338.19 km ( + 0.86 km )</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark"><a href="../state-highways/sc/6.php">SC-6 - S Church St</a> (concurrent with <a href="../secondary-roads/sc/lx/91.php">Lexington SR 91</a>), Lexington, South Carolina 29072</td>
                     <td class="content text-dark">E Main St, Lexington, South Carolina 29072</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3638,8 +3708,15 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">834.03 mi ( + 1.63 mi )</td>
-                    <td class="content text-dark small">1342.47 km ( + 2.63 km )</td>
+                    <td class="content text-dark small">832.70 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">1340.33 km ( + 0.49 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/167.php">Lexington SR 167 - Cedarcrest Dr</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">834.03 mi ( + 1.33 mi )</td>
+                    <td class="content text-dark small">1342.47 km ( + 2.14 km )</td>
                     <td class="content text-dark">I-20, Oak Grove, South Carolina 29073</td>
                     <td class="content text-dark">Augusta Rd, Oak Grove, South Carolina 29073</td>
                     <td class="content text-dark"></td>

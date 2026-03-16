@@ -3696,7 +3696,7 @@
                 <tr>
                     <td class="content text-dark small">831.50 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">1338.39 km ( + 0.20 km )</td>
-                    <td class="content text-dark">SC-6 - S Lake Dr (SB) / N Lake Dr (NB), Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/6.php">SC-6 - S Lake Dr (SB) / N Lake Dr (NB)</a>, Lexington, South Carolina 29072</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3715,37 +3715,121 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">834.03 mi ( + 1.33 mi )</td>
-                    <td class="content text-dark small">1342.47 km ( + 2.14 km )</td>
-                    <td class="content text-dark">I-20, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark small">833.59 mi ( + 0.89 mi )</td>
+                    <td class="content text-dark small">1341.76 km ( + 1.43 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/1063.php">Lexington SR 1063 - Morgan Dr</a>, Lexington, South Carolina 29072</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">834.03 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">1342.47 km ( + 0.71 km )</td>
+                    <td class="content text-dark"><a href="../interstates/20.php">I-20</a>, Oak Grove, South Carolina 29073</td>
                     <td class="content text-dark">Augusta Rd, Oak Grove, South Carolina 29073</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">839.23 mi ( + 5.20 mi )</td>
-                    <td class="content text-dark small">1350.84 km ( + 8.37 km )</td>
-                    <td class="content text-dark">I-26, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark small">834.18 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">1342.72 km ( + 0.25 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/1065.php">Lexington SR 1065 - Cedar Rd</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">834.33 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">1342.98 km ( + 0.26 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/897.php">Lexington SR 897 - Dooley Rd</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">834.98 mi ( + 0.65 mi )</td>
+                    <td class="content text-dark small">1344.02 km ( + 1.04 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/921.php">Lexington SR 921 - Laurel Rd</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">835.41 mi ( + 0.43 mi )</td>
+                    <td class="content text-dark small">1344.72 km ( + 0.70 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/1082.php">Lexington SR 1082 - Kitti Wake Dr</a> (concurrent with <a href="../secondary-roads/sc/lx/70.php">Lexington SR 70</a>), Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">835.85 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">1345.43 km ( + 0.71 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/357.php">Lexington SR 357 - Maple Rd</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">836.25 mi ( + 0.40 mi )</td>
+                    <td class="content text-dark small">1346.07 km ( + 0.64 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/386.php">Lexington SR 386 - St Davids Church Rd (SB) / Oak Rd (NB)</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">837.00 mi ( + 0.75 mi )</td>
+                    <td class="content text-dark small">1347.27 km ( + 1.20 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/685.php">Lexington SR 685 - Jessamine Rd</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">837.35 mi ( + 0.35 mi )</td>
+                    <td class="content text-dark small">1347.83 km ( + 0.56 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/1508.php">Lexington SR 1508 - Ermine Rd</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">837.98 mi ( + 0.63 mi )</td>
+                    <td class="content text-dark small">1348.85 km ( + 1.02 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/71.php">Lexington SR 71 - Wattling Rd</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">838.46 mi ( + 0.48 mi )</td>
+                    <td class="content text-dark small">1349.62 km ( + 0.77 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/383.php">Lexington SR 383 - Delree St</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">838.63 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">1349.90 km ( + 0.28 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/274.php">Lexington SR 274 - Methodist Park Rd</a>, Oak Grove, South Carolina 29073</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">839.23 mi ( + 0.60 mi )</td>
+                    <td class="content text-dark small">1350.84 km ( + 1.22 km )</td>
+                    <td class="content text-dark"><a href="../interstates/26.php">I-26</a>, Oak Grove, South Carolina 29073</td>
                     <td class="content text-dark">Augusta Rd, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">839.90 mi ( + 0.67 mi )</td>
-                    <td class="content text-dark small">1351.93 km ( + 1.09 km )</td>
-                    <td class="content text-dark">SC-12 - Jarvis Klapman Blvd, West Columbia, South Carolina 29169</td>
+                    <td class="content text-dark small">839.85 mi ( + 0.62 mi )</td>
+                    <td class="content text-dark small">1351.85 km ( + 1.01 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/lx/30.php">Lexington SR 30 - Dreher Rd (SB) / Leaphart Rd (NB)</a>, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">840.57 mi ( + 0.67 mi )</td>
-                    <td class="content text-dark small">1353.02 km ( + 1.09 km )</td>
-                    <td class="content text-dark">SC-12 - Jarvis Klapman Blvd, West Columbia, South Carolina 29169</td>
+                    <td class="content text-dark small">839.90 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">1351.93 km ( + 0.08 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/12.php">SC-12 - Jarvis Klapman Blvd</a>, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">841.93 mi ( + 1.36 mi )</td>
-                    <td class="content text-dark small">1355.21 km ( + 2.19 km )</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark small">841.93 mi ( + 0.69 mi )</td>
+                    <td class="content text-dark small">1355.21 km ( + 1.10 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/35.php">SC-35 - 12th St (SB) / N 12th St (NB)</a>, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark">Meeting Rd, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark"></td>
                 </tr>

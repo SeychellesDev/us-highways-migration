@@ -3936,7 +3936,7 @@
 					<td class="content text-dark small">1383.23 km ( + 8.57 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Elgin, South Carolina 29045</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End Richland County, Start Kershaw County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">861.03 mi ( + 1.69 mi )</td>

@@ -3850,28 +3850,28 @@
                 <tr>
                     <td class="content text-dark small">843.02 mi ( + 0.37 mi )</td>
 					<td class="content text-dark small">1356.95 km ( + 0.60 km )</td>
-                    <td class="content text-dark">US-321 (SB) - Huger St / US-321 (to I-126 & US-76 (WB) / I-126 Business, US-21, US-76, US-176, & US-321 (EB)) (NB), Columbia, South Carolina 29201</td>
+                    <td class="content text-dark"><a href="21.php">US-21 - Huger St</a> (concurrent with <a href="176.php">US-176</a> and <a href="321.php">US-321</a>), Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">843.61 mi ( + 0.59 mi )</td>
 					<td class="content text-dark small">1357.90 km ( + 0.95 km )</td>
-                    <td class="content text-dark">SC-48 (SB) - Assembly St, Columbia, South Carolina 29201</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/48.php">SC-48 - Assembly St</a>, Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">844.01 mi ( + 0.40 mi )</td>
 					<td class="content text-dark small">1358.54 km ( + 0.64 km )</td>
-                    <td class="content text-dark">US-76 (to SC-277) - Bull St, Columbia, South Carolina 29201</td>
+                    <td class="content text-dark"><a href="76.php">US-76</a> - Bull St, Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-76</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">844.95 mi ( + 0.94 mi )</td>
 					<td class="content text-dark small">1360.05 km ( + 1.51 km )</td>
-                    <td class="content text-dark">US-76 & US-378 (SB) - Millwood Ave <br> US-1 (NB), Columbia, South Carolina 29201</td>
+                    <td class="content text-dark"><a href="76.php">US-76 (SB) - Millwood Ave</a> (concurrent with <a href="378.php">US-378</a>), Columbia, South Carolina 29201<br>US-1 (NB), Columbia, South Carolina 29201</td>
                     <td class="content text-dark">Millwood Ave, Columbia, South Carolina 29201</td>
                     <td class="content text-dark">End concurrency with US-76 & US-378</td>
                 </tr>
@@ -3885,14 +3885,14 @@
                 <tr>
                     <td class="content text-dark small">845.33 mi ( + 0.29 mi )</td>
 					<td class="content text-dark small">1360.67 km ( + 0.47 km )</td>
-                    <td class="content text-dark">SC-12 - Taylor St, Columbia, South Carolina 29201</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/12.php">SC-12 - Taylor St (WB) / Forest Dr (EB)</a>, Columbia, South Carolina 29201</td>
                     <td class="content text-dark">Two Notch Rd, Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">845.62 mi ( + 0.29 mi )</td>
 					<td class="content text-dark small">1361.14 km ( + 0.47 km )</td>
-                    <td class="content text-dark">SC-16 - W Beltline Blvd (WB) / N Beltline (EB), Columbia, South Carolina 29201</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/16.php">SC-16 - W Beltline Blvd (WB) / N Beltline (EB)</a>, Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3913,20 +3913,27 @@
                 <tr>
                     <td class="content text-dark small">849.90 mi ( + 2.10 mi )</td>
 					<td class="content text-dark small">1368.04 km ( + 3.38 km )</td>
-                    <td class="content text-dark">I-20, Dentsville, South Carolina 29223</td>
+                    <td class="content text-dark"><a href="../interstates/20.php">I-20</a>, Dentsville, South Carolina 29223</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">850.62 mi ( + 0.72 mi )</td>
 					<td class="content text-dark small">1369.20 km ( + 1.16 km )</td>
-                    <td class="content text-dark">I-77 - Charles F. Bolden Hwy, Dentsville, South Carolina 29223</td>
+                    <td class="content text-dark"><a href="../interstates/77.php">I-77 - Charles F. Bolden Hwy</a>, Dentsville, South Carolina 29223</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">859.34 mi ( + 8.72 mi )</td>
-					<td class="content text-dark small">1383.23 km ( + 14.03 km )</td>
+                    <td class="content text-dark small">854.01 mi ( + 3.39 mi )</td>
+					<td class="content text-dark small">1374.66 km ( + 5.46 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/rl/1274.php">Richland SR 1274 - Brickyard Rd</a>, Dentsville, South Carolina 29223</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">859.34 mi ( + 5.33 mi )</td>
+					<td class="content text-dark small">1383.23 km ( + 8.57 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Elgin, South Carolina 29045</td>
                     <td class="content text-dark"></td>

@@ -3827,337 +3827,337 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">841.93 mi ( + 0.69 mi )</td>
-                    <td class="content text-dark small">1355.21 km ( + 1.10 km )</td>
+                    <td class="content text-dark small">841.26 mi ( + 1.36 mi )</td>
+					<td class="content text-dark small">1354.12 km ( + 2.19 km )</td>
                     <td class="content text-dark"><a href="../state-highways/sc/35.php">SC-35 - 12th St (SB) / N 12th St (NB)</a>, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark">Meeting Rd, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">843.11 mi ( + 1.18 mi )</td>
-                    <td class="content text-dark small">1357.10 km ( + 1.89 km )</td>
-                    <td class="content text-dark">US-378 - Sunset Blvd, West Columbia, South Carolina 29169</td>
+                    <td class="content text-dark small">842.44 mi ( + 1.18 mi )</td>
+					<td class="content text-dark small">1356.01 km ( + 1.89 km )</td>
+                    <td class="content text-dark"><a href="378.php">US-378 - Sunset Blvd</a>, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark">Gervais St, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark">Start concurrency with US-378</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">843.32 mi ( + 0.21 mi )</td>
-                    <td class="content text-dark small">1357.44 km ( + 0.34 km )</td>
+                    <td class="content text-dark small">842.65 mi ( + 0.21 mi )</td>
+					<td class="content text-dark small">1356.35 km ( + 0.34 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Gervais St, Columbia, South Carolina 29201</td>
                     <td class="content text-dark">End Lexington County, Start Richland County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">843.69 mi ( + 0.37 mi )</td>
-                    <td class="content text-dark small">1358.04 km ( + 0.60 km )</td>
+                    <td class="content text-dark small">843.02 mi ( + 0.37 mi )</td>
+					<td class="content text-dark small">1356.95 km ( + 0.60 km )</td>
                     <td class="content text-dark">US-321 (SB) - Huger St / US-321 (to I-126 & US-76 (WB) / I-126 Business, US-21, US-76, US-176, & US-321 (EB)) (NB), Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">844.28 mi ( + 0.59 mi )</td>
-                    <td class="content text-dark small">1358.99 km ( + 0.95 km )</td>
+                    <td class="content text-dark small">843.61 mi ( + 0.59 mi )</td>
+					<td class="content text-dark small">1357.90 km ( + 0.95 km )</td>
                     <td class="content text-dark">SC-48 (SB) - Assembly St, Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">844.68 mi ( + 0.40 mi )</td>
-                    <td class="content text-dark small">1359.63 km ( + 0.64 km )</td>
+                    <td class="content text-dark small">844.01 mi ( + 0.40 mi )</td>
+					<td class="content text-dark small">1358.54 km ( + 0.64 km )</td>
                     <td class="content text-dark">US-76 (to SC-277) - Bull St, Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-76</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">845.62 mi ( + 0.94 mi )</td>
-                    <td class="content text-dark small">1361.14 km ( + 1.51 km )</td>
+                    <td class="content text-dark small">844.95 mi ( + 0.94 mi )</td>
+					<td class="content text-dark small">1360.05 km ( + 1.51 km )</td>
                     <td class="content text-dark">US-76 & US-378 (SB) - Millwood Ave <br> US-1 (NB), Columbia, South Carolina 29201</td>
                     <td class="content text-dark">Millwood Ave, Columbia, South Carolina 29201</td>
                     <td class="content text-dark">End concurrency with US-76 & US-378</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">845.71 mi ( + 0.09 mi )</td>
-                    <td class="content text-dark small">1361.29 km ( + 0.15 km )</td>
+                    <td class="content text-dark small">845.04 mi ( + 0.09 mi )</td>
+					<td class="content text-dark small">1360.20 km ( + 0.15 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Millwood Ave, Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">846.00 mi ( + 0.29 mi )</td>
-                    <td class="content text-dark small">1361.76 km ( + 0.47 km )</td>
+                    <td class="content text-dark small">845.33 mi ( + 0.29 mi )</td>
+					<td class="content text-dark small">1360.67 km ( + 0.47 km )</td>
                     <td class="content text-dark">SC-12 - Taylor St, Columbia, South Carolina 29201</td>
                     <td class="content text-dark">Two Notch Rd, Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">846.29 mi ( + 0.29 mi )</td>
-                    <td class="content text-dark small">1362.23 km ( + 0.47 km )</td>
+                    <td class="content text-dark small">845.62 mi ( + 0.29 mi )</td>
+					<td class="content text-dark small">1361.14 km ( + 0.47 km )</td>
                     <td class="content text-dark">SC-16 - W Beltline Blvd (WB) / N Beltline (EB), Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">846.90 mi ( + 0.61 mi )</td>
-                    <td class="content text-dark small">1363.22 km ( + 0.99 km )</td>
+                    <td class="content text-dark small">846.23 mi ( + 0.61 mi )</td>
+					<td class="content text-dark small">1362.13 km ( + 0.99 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Two Notch Rd, Forest Acres, South Carolina 29206</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">848.47 mi ( + 1.57 mi )</td>
-                    <td class="content text-dark small">1365.75 km ( + 2.53 km )</td>
+                    <td class="content text-dark small">847.80 mi ( + 1.57 mi )</td>
+					<td class="content text-dark small">1364.66 km ( + 2.53 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Two Notch Rd, Dentsville, South Carolina 29223</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">850.57 mi ( + 2.10 mi )</td>
-                    <td class="content text-dark small">1369.13 km ( + 3.38 km )</td>
+                    <td class="content text-dark small">849.90 mi ( + 2.10 mi )</td>
+					<td class="content text-dark small">1368.04 km ( + 3.38 km )</td>
                     <td class="content text-dark">I-20, Dentsville, South Carolina 29223</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">851.29 mi ( + 0.72 mi )</td>
-                    <td class="content text-dark small">1370.29 km ( + 1.16 km )</td>
+                    <td class="content text-dark small">850.62 mi ( + 0.72 mi )</td>
+					<td class="content text-dark small">1369.20 km ( + 1.16 km )</td>
                     <td class="content text-dark">I-77 - Charles F. Bolden Hwy, Dentsville, South Carolina 29223</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">860.01 mi ( + 8.72 mi )</td>
-                    <td class="content text-dark small">1384.32 km ( + 14.03 km )</td>
+                    <td class="content text-dark small">859.34 mi ( + 8.72 mi )</td>
+					<td class="content text-dark small">1383.23 km ( + 14.03 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Elgin, South Carolina 29045</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">861.70 mi ( + 1.69 mi )</td>
-                    <td class="content text-dark small">1387.04 km ( + 2.72 km )</td>
+                    <td class="content text-dark small">861.03 mi ( + 1.69 mi )</td>
+					<td class="content text-dark small">1385.95 km ( + 2.72 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Main St, Elgin, South Carolina 29045</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">865.89 mi ( + 4.19 mi )</td>
-                    <td class="content text-dark small">1393.78 km ( + 6.74 km )</td>
+                    <td class="content text-dark small">865.22 mi ( + 4.19 mi )</td>
+					<td class="content text-dark small">1392.69 km ( + 6.74 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Main St, Lugoff, South Carolina 29078</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">869.28 mi ( + 3.39 mi )</td>
-                    <td class="content text-dark small">1399.24 km ( + 5.46 km )</td>
+                    <td class="content text-dark small">868.61 mi ( + 3.39 mi )</td>
+					<td class="content text-dark small">1398.15 km ( + 5.46 km )</td>
                     <td class="content text-dark">US-601 - Jamie Ln, Lugoff, South Carolina 29078</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency US-601</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">869.86 mi ( + 0.58 mi )</td>
-                    <td class="content text-dark small">1400.18 km ( + 0.94 km )</td>
+                    <td class="content text-dark small">869.19 mi ( + 0.58 mi )</td>
+					<td class="content text-dark small">1399.09 km ( + 0.94 km )</td>
                     <td class="content text-dark">SC-34 - Ward Rd (WB), Lugoff, South Carolina 29078</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with SC-34</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">871.86 mi ( + 2.00 mi )</td>
-                    <td class="content text-dark small">1403.40 km ( + 3.22 km )</td>
+                    <td class="content text-dark small">871.19 mi ( + 2.00 mi )</td>
+					<td class="content text-dark small">1402.31 km ( + 3.22 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W Dekalb St, Camden, South Carolina 29020</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">872.37 mi ( + 0.51 mi )</td>
-                    <td class="content text-dark small">1404.22 km ( + 0.82 km )</td>
+                    <td class="content text-dark small">871.70 mi ( + 0.51 mi )</td>
+					<td class="content text-dark small">1403.13 km ( + 0.82 km )</td>
                     <td class="content text-dark">US-521 Bypass, Camden, South Carolina 29020</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">873.59 mi ( + 1.22 mi )</td>
-                    <td class="content text-dark small">1406.18 km ( + 1.96 km )</td>
+                    <td class="content text-dark small">872.92 mi ( + 1.22 mi )</td>
+					<td class="content text-dark small">1405.09 km ( + 1.96 km )</td>
                     <td class="content text-dark">US-521 Bypass - Chestnut Ferry Rd, Camden, South Carolina 29020</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">874.60 mi ( + 1.01 mi )</td>
-                    <td class="content text-dark small">1407.80 km ( + 1.62 km )</td>
+                    <td class="content text-dark small">873.93 mi ( + 1.01 mi )</td>
+					<td class="content text-dark small">1406.71 km ( + 1.62 km )</td>
                     <td class="content text-dark">US-521 (SB) - Broad St <br> US-521 & US-601 (NB), Camden, South Carolina 29020</td>
                     <td class="content text-dark">E Dekalb St, Camden, South Carolina 29020</td>
                     <td class="content text-dark">End concurrency with US-601</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">875.98 mi ( + 1.38 mi )</td>
-                    <td class="content text-dark small">1410.02 km ( + 2.22 km )</td>
+                    <td class="content text-dark small">875.31 mi ( + 1.38 mi )</td>
+					<td class="content text-dark small">1408.93 km ( + 2.22 km )</td>
                     <td class="content text-dark">SC-34 - Bishopville Hwy, Camden, South Carolina 29020</td>
                     <td class="content text-dark">Jefferson Davis Hwy, Camden, South Carolina 29020</td>
                     <td class="content text-dark">End concurrency with SC-34</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">885.73 mi ( + 9.75 mi )</td>
-                    <td class="content text-dark small">1425.72 km ( + 15.70 km )</td>
+                    <td class="content text-dark small">885.06 mi ( + 9.75 mi )</td>
+					<td class="content text-dark small">1424.63 km ( + 15.70 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Bethune, South Carolina 29009</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">894.24 mi ( + 8.51 mi )</td>
-                    <td class="content text-dark small">1439.41 km ( + 13.69 km )</td>
+                    <td class="content text-dark small">893.57 mi ( + 8.51 mi )</td>
+					<td class="content text-dark small">1438.32 km ( + 13.69 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W King St, Bethune, South Carolina 29009</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">894.85 mi ( + 0.61 mi )</td>
-                    <td class="content text-dark small">1440.39 km ( + 0.98 km )</td>
+                    <td class="content text-dark small">894.18 mi ( + 0.61 mi )</td>
+					<td class="content text-dark small">1439.30 km ( + 0.98 km )</td>
                     <td class="content text-dark">SC-341 - S Main St, Bethune, South Carolina 29009</td>
                     <td class="content text-dark">E King St, Bethune, South Carolina 29009</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">895.48 mi ( + 0.63 mi )</td>
-                    <td class="content text-dark small">1441.40 km ( + 1.01 km )</td>
+                    <td class="content text-dark small">894.81 mi ( + 0.63 mi )</td>
+					<td class="content text-dark small">1440.31 km ( + 1.01 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Bethune, South Carolina 29009</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">896.79 mi ( + 1.31 mi )</td>
-                    <td class="content text-dark small">1443.52 km ( + 2.12 km )</td>
+                    <td class="content text-dark small">896.12 mi ( + 1.31 mi )</td>
+					<td class="content text-dark small">1442.43 km ( + 2.12 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, McBee, South Carolina 29009</td>
                     <td class="content text-dark">End Kershaw County, Start Chesterfield County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">900.79 mi ( + 4.00 mi )</td>
-                    <td class="content text-dark small">1449.96 km ( + 6.44 km )</td>
+                    <td class="content text-dark small">900.12 mi ( + 4.00 mi )</td>
+					<td class="content text-dark small">1448.87 km ( + 6.44 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S 7th St, McBee, South Carolina 29009</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">901.68 mi ( + 0.89 mi )</td>
-                    <td class="content text-dark small">1451.38 km ( + 1.42 km )</td>
+                    <td class="content text-dark small">901.01 mi ( + 0.89 mi )</td>
+					<td class="content text-dark small">1450.29 km ( + 1.42 km )</td>
                     <td class="content text-dark">SC-151 - W Pine Ave (WB) / E Pine Ave (EB), McBee, South Carolina 29009</td>
                     <td class="content text-dark">N 7th St, McBee, South Carolina 29009</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">902.18 mi ( + 0.50 mi )</td>
-                    <td class="content text-dark small">1452.18 km ( + 0.80 km )</td>
+                    <td class="content text-dark small">901.51 mi ( + 0.50 mi )</td>
+					<td class="content text-dark small">1451.09 km ( + 0.80 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, McBee, South Carolina 29009</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">903.57 mi ( + 1.39 mi )</td>
-                    <td class="content text-dark small">1454.41 km ( + 2.23 km )</td>
+                    <td class="content text-dark small">902.90 mi ( + 1.39 mi )</td>
+					<td class="content text-dark small">1453.32 km ( + 2.23 km )</td>
                     <td class="content text-dark">SC-145, McBee, South Carolina 29009</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">912.39 mi ( + 8.82 mi )</td>
-                    <td class="content text-dark small">1468.60 km ( + 14.19 km )</td>
+                    <td class="content text-dark small">911.72 mi ( + 8.82 mi )</td>
+					<td class="content text-dark small">1467.51 km ( + 14.19 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Patrick, South Carolina 29584</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">916.49 mi ( + 4.10 mi )</td>
-                    <td class="content text-dark small">1475.20 km ( + 6.60 km )</td>
+                    <td class="content text-dark small">915.82 mi ( + 4.10 mi )</td>
+					<td class="content text-dark small">1474.11 km ( + 6.60 km )</td>
                     <td class="content text-dark">SC-102 - Polson St (WB) / Turnage St (EB), Patrick, South Carolina 29584</td>
                     <td class="content text-dark">Main St, Patrick, South Carolina 29584</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">917.00 mi ( + 0.51 mi )</td>
-                    <td class="content text-dark small">1476.01 km ( + 0.81 km )</td>
+                    <td class="content text-dark small">916.33 mi ( + 0.51 mi )</td>
+					<td class="content text-dark small">1474.92 km ( + 0.81 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Patrick, South Carolina 29584</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">926.32 mi ( + 9.32 mi )</td>
-                    <td class="content text-dark small">1491.01 km ( + 15.00 km )</td>
+                    <td class="content text-dark small">925.65 mi ( + 9.32 mi )</td>
+					<td class="content text-dark small">1489.92 km ( + 15.00 km )</td>
                     <td class="content text-dark">US-52 - E US-52, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">E US-52, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">Start concurrency with US-52</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">928.67 mi ( + 2.35 mi )</td>
-                    <td class="content text-dark small">1494.79 km ( + 3.78 km )</td>
+                    <td class="content text-dark small">928.00 mi ( + 2.35 mi )</td>
+					<td class="content text-dark small">1493.70 km ( + 3.78 km )</td>
                     <td class="content text-dark">SC-9 - Market St, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">Market St, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">Start concurrency with SC-9</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">929.53 mi ( + 0.86 mi )</td>
-                    <td class="content text-dark small">1496.18 km ( + 1.39 km )</td>
+                    <td class="content text-dark small">928.86 mi ( + 0.86 mi )</td>
+					<td class="content text-dark small">1495.09 km ( + 1.39 km )</td>
                     <td class="content text-dark">US-1, US-52 & SC-9 - 2nd St, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">2nd St, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">929.91 mi ( + 0.38 mi )</td>
-                    <td class="content text-dark small">1496.79 km ( + 0.61 km )</td>
+                    <td class="content text-dark small">929.24 mi ( + 0.38 mi )</td>
+					<td class="content text-dark small">1495.70 km ( + 0.61 km )</td>
                     <td class="content text-dark">US-1 & SC-9 - Powe St, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">Powe St, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">930.54 mi ( + 0.63 mi )</td>
-                    <td class="content text-dark small">1497.80 km ( + 1.01 km )</td>
+                    <td class="content text-dark small">929.87 mi ( + 0.63 mi )</td>
+					<td class="content text-dark small">1496.71 km ( + 1.01 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">930.68 mi ( + 0.14 mi )</td>
-                    <td class="content text-dark small">1498.03 km ( + 0.23 km )</td>
+                    <td class="content text-dark small">930.01 mi ( + 0.14 mi )</td>
+					<td class="content text-dark small">1496.94 km ( + 0.23 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Wallace, South Carolina 29596</td>
                     <td class="content text-dark">End Chesterfield County, Start Marlboro County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">931.80 mi ( + 1.12 mi )</td>
-                    <td class="content text-dark small">1499.83 km ( + 1.80 km )</td>
+                    <td class="content text-dark small">931.13 mi ( + 1.12 mi )</td>
+					<td class="content text-dark small">1498.74 km ( + 1.80 km )</td>
                     <td class="content text-dark">Marlboro SR 36 - Community Rd (SB)<br>US-1, Wallace, South Carolina 29596 (NB), Wallace, South Carolina 29596</td>
                     <td class="content text-dark">US-1, Wallace, South Carolina 29596</td>
                     <td class="content text-dark">End concurrency with SC-9</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">931.89 mi ( + 0.09 mi )</td>
-                    <td class="content text-dark small">1499.98 km ( + 0.15 km )</td>
+                    <td class="content text-dark small">931.22 mi ( + 0.09 mi )</td>
+					<td class="content text-dark small">1498.89 km ( + 0.15 km )</td>
                     <td class="content text-dark">Marlboro SR 133 - Wallace Dr, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">932.23 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">1500.53 km ( + 0.55 km )</td>
+                    <td class="content text-dark small">931.56 mi ( + 0.34 mi )</td>
+					<td class="content text-dark small">1499.44 km ( + 0.55 km )</td>
                     <td class="content text-dark">Marlboro SR 262 - Delta Height Rd, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">932.54 mi ( + 0.31 mi )</td>
-                    <td class="content text-dark small">1501.02 km ( + 0.49 km )</td>
+                    <td class="content text-dark small">931.87 mi ( + 0.31 mi )</td>
+					<td class="content text-dark small">1499.93 km ( + 0.49 km )</td>
                     <td class="content text-dark">Marlboro SR 312 - Rocky Ridge Rd, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">932.86 mi ( + 0.32 mi )</td>
-                    <td class="content text-dark small">1501.53 km ( + 0.51 km )</td>
+                    <td class="content text-dark small">932.19 mi ( + 0.32 mi )</td>
+					<td class="content text-dark small">1500.44 km ( + 0.51 km )</td>
                     <td class="content text-dark">Marlboro SR 97 & Marlboro SR 113 - Billy Wallace Rd, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">937.73 mi ( + 4.87 mi )</td>
-                    <td class="content text-dark small">1509.37 km ( + 7.84 km )</td>
+                    <td class="content text-dark small">937.06 mi ( + 4.87 mi )</td>
+					<td class="content text-dark small">1508.28 km ( + 7.84 km )</td>
                     <td class="content text-dark">Marlboro SR 113 - Kimrey Rd, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
@@ -4165,1051 +4165,1051 @@
             </section>
             <section id="ncus1">
                 <tr>
-                    <td class="content text-dark small">938.34 mi ( + 0.61 mi )</td>
-                    <td class="content text-dark small">1510.36 km ( + 0.99 km )</td>
+                    <td class="content text-dark small">937.67 mi ( + 0.61 mi )</td>
+					<td class="content text-dark small">1509.27 km ( + 0.99 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark">End US-1 in South Carolina, Start US-1 in North Carolina<br>End Marlboro County, Start Richmond County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">940.06 mi ( + 1.72 mi )</td>
-                    <td class="content text-dark small">1513.12 km ( + 2.76 km )</td>
+                    <td class="content text-dark small">939.39 mi ( + 1.72 mi )</td>
+					<td class="content text-dark small">1512.03 km ( + 2.76 km )</td>
                     <td class="content text-dark">Richmond SR 1100 - Grenaco Village Rd, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">941.89 mi ( + 1.83 mi )</td>
-                    <td class="content text-dark small">1516.07 km ( + 2.95 km )</td>
+                    <td class="content text-dark small">941.22 mi ( + 1.83 mi )</td>
+					<td class="content text-dark small">1514.98 km ( + 2.95 km )</td>
                     <td class="content text-dark">Richmond SR 1103 - Old Cheraw Hwy, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">943.57 mi ( + 1.68 mi )</td>
-                    <td class="content text-dark small">1518.78 km ( + 2.71 km )</td>
+                    <td class="content text-dark small">942.90 mi ( + 1.68 mi )</td>
+					<td class="content text-dark small">1517.69 km ( + 2.71 km )</td>
                     <td class="content text-dark">Richmond SR 1104 - Osborne Rd, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">946.37 mi ( + 2.80 mi )</td>
-                    <td class="content text-dark small">1523.29 km ( + 4.51 km )</td>
+                    <td class="content text-dark small">945.70 mi ( + 2.80 mi )</td>
+					<td class="content text-dark small">1522.20 km ( + 4.51 km )</td>
                     <td class="content text-dark">Richmond SR 1106 - Osborne Rd, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">947.11 mi ( + 0.74 mi )</td>
-                    <td class="content text-dark small">1524.49 km ( + 1.20 km )</td>
+                    <td class="content text-dark small">946.44 mi ( + 0.74 mi )</td>
+					<td class="content text-dark small">1523.40 km ( + 1.20 km )</td>
                     <td class="content text-dark">Richmond SR 1108 - Rosalyn Rd (WB) / Mizpah Rd (EB), Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">947.90 mi ( + 0.79 mi )</td>
-                    <td class="content text-dark small">1525.77 km ( + 1.28 km )</td>
+                    <td class="content text-dark small">947.23 mi ( + 0.79 mi )</td>
+					<td class="content text-dark small">1524.68 km ( + 1.28 km )</td>
                     <td class="content text-dark">I-74, US-74, & US-74 Bypass - G. R. Kindley Fwy & Andrew Jackson Hwy, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">947.98 mi ( + 0.08 mi )</td>
-                    <td class="content text-dark small">1525.90 km ( + 0.13 km )</td>
+                    <td class="content text-dark small">947.31 mi ( + 0.08 mi )</td>
+					<td class="content text-dark small">1524.81 km ( + 0.13 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, East Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">948.70 mi ( + 0.72 mi )</td>
-                    <td class="content text-dark small">1527.06 km ( + 1.16 km )</td>
+                    <td class="content text-dark small">948.03 mi ( + 0.72 mi )</td>
+					<td class="content text-dark small">1525.97 km ( + 1.16 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Hancock St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">948.84 mi ( + 0.14 mi )</td>
-                    <td class="content text-dark small">1527.29 km ( + 0.23 km )</td>
+                    <td class="content text-dark small">948.17 mi ( + 0.14 mi )</td>
+					<td class="content text-dark small">1526.20 km ( + 0.23 km )</td>
                     <td class="content text-dark">US-1 & US-220 - S Hancock St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">S US-1, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">948.92 mi ( + 0.08 mi )</td>
-                    <td class="content text-dark small">1527.42 km ( + 0.13 km )</td>
+                    <td class="content text-dark small">948.25 mi ( + 0.08 mi )</td>
+					<td class="content text-dark small">1526.33 km ( + 0.13 km )</td>
                     <td class="content text-dark">Richmond SR 1974 - Forrest St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">S Hancock St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">949.10 mi ( + 0.18 mi )</td>
-                    <td class="content text-dark small">1527.70 km ( + 0.28 km )</td>
+                    <td class="content text-dark small">948.43 mi ( + 0.18 mi )</td>
+					<td class="content text-dark small">1526.61 km ( + 0.28 km )</td>
                     <td class="content text-dark">US-220, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">949.47 mi ( + 0.37 mi )</td>
-                    <td class="content text-dark small">1528.30 km ( + 0.60 km )</td>
+                    <td class="content text-dark small">948.80 mi ( + 0.37 mi )</td>
+					<td class="content text-dark small">1527.21 km ( + 0.60 km )</td>
                     <td class="content text-dark">Richmond SR 1966 - Airport Rd (SB) / S Caroline St (NB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">949.68 mi ( + 0.21 mi )</td>
-                    <td class="content text-dark small">1528.64 km ( + 0.34 km )</td>
+                    <td class="content text-dark small">949.01 mi ( + 0.21 mi )</td>
+					<td class="content text-dark small">1527.55 km ( + 0.34 km )</td>
                     <td class="content text-dark">Richmond SR 1903 - Mill Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">949.91 mi ( + 0.23 mi )</td>
-                    <td class="content text-dark small">1529.01 km ( + 0.37 km )</td>
+                    <td class="content text-dark small">949.24 mi ( + 0.23 mi )</td>
+					<td class="content text-dark small">1527.92 km ( + 0.37 km )</td>
                     <td class="content text-dark">US-74 Business - W Broad St W (WB) / E Broad St (EB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">950.09 mi ( + 0.18 mi )</td>
-                    <td class="content text-dark small">1529.31 km ( + 0.30 km )</td>
+                    <td class="content text-dark small">949.42 mi ( + 0.18 mi )</td>
+					<td class="content text-dark small">1528.22 km ( + 0.30 km )</td>
                     <td class="content text-dark">US-1 - E Franklin St & E Washington St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">E Washington St (SB) / E Franklin St (NB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">950.24 mi ( + 0.15 mi )</td>
-                    <td class="content text-dark small">1529.55 km ( + 0.24 km )</td>
+                    <td class="content text-dark small">949.57 mi ( + 0.15 mi )</td>
+					<td class="content text-dark small">1528.46 km ( + 0.24 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Fayetteville Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">950.38 mi ( + 0.14 mi )</td>
-                    <td class="content text-dark small">1529.77 km ( + 0.22 km )</td>
+                    <td class="content text-dark small">949.71 mi ( + 0.14 mi )</td>
+					<td class="content text-dark small">1528.68 km ( + 0.22 km )</td>
                     <td class="content text-dark">US-1 & Richmond SR 1643 - E Washington St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">951.27 mi ( + 0.89 mi )</td>
-                    <td class="content text-dark small">1531.21 km ( + 1.44 km )</td>
+                    <td class="content text-dark small">950.60 mi ( + 0.89 mi )</td>
+					<td class="content text-dark small">1530.12 km ( + 1.44 km )</td>
                     <td class="content text-dark">NC-1646 - N Long St (SB)<br>Richmond SR 1423 - Richmond Rd (NB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">951.79 mi ( + 0.52 mi )</td>
-                    <td class="content text-dark small">1532.05 km ( + 0.84 km )</td>
+                    <td class="content text-dark small">951.12 mi ( + 0.52 mi )</td>
+					<td class="content text-dark small">1530.96 km ( + 0.84 km )</td>
                     <td class="content text-dark">Richmond SR 1424 - Roberdel Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">952.36 mi ( + 0.57 mi )</td>
-                    <td class="content text-dark small">1532.97 km ( + 0.92 km )</td>
+                    <td class="content text-dark small">951.69 mi ( + 0.57 mi )</td>
+					<td class="content text-dark small">1531.88 km ( + 0.92 km )</td>
                     <td class="content text-dark">Richmond SR 1426 - Old Aberdeen Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">952.92 mi ( + 0.56 mi )</td>
-                    <td class="content text-dark small">1533.87 km ( + 0.90 km )</td>
+                    <td class="content text-dark small">952.25 mi ( + 0.56 mi )</td>
+					<td class="content text-dark small">1532.78 km ( + 0.90 km )</td>
                     <td class="content text-dark">Richmond SR 1503 - Philadelphia Dr, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">US-1, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">953.14 mi ( + 0.22 mi )</td>
-                    <td class="content text-dark small">1534.22 km ( + 0.35 km )</td>
+                    <td class="content text-dark small">952.47 mi ( + 0.22 mi )</td>
+					<td class="content text-dark small">1533.13 km ( + 0.35 km )</td>
                     <td class="content text-dark">Richmond SR 1504 - Philadelphia Dr, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">954.36 mi ( + 1.22 mi )</td>
-                    <td class="content text-dark small">1536.18 km ( + 1.96 km )</td>
+                    <td class="content text-dark small">953.69 mi ( + 1.22 mi )</td>
+					<td class="content text-dark small">1535.09 km ( + 1.96 km )</td>
                     <td class="content text-dark">Richmond SR 1442 - Wiregrass Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">955.19 mi ( + 0.83 mi )</td>
-                    <td class="content text-dark small">1537.51 km ( + 1.33 km )</td>
+                    <td class="content text-dark small">954.52 mi ( + 0.83 mi )</td>
+					<td class="content text-dark small">1536.42 km ( + 1.33 km )</td>
                     <td class="content text-dark">Richmond SR 1696 - Fairway Dr, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">955.42 mi ( + 0.23 mi )</td>
-                    <td class="content text-dark small">1537.88 km ( + 0.37 km )</td>
+                    <td class="content text-dark small">954.75 mi ( + 0.23 mi )</td>
+					<td class="content text-dark small">1536.79 km ( + 0.37 km )</td>
                     <td class="content text-dark">Richmond SR 1475 - McDonald Church Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">958.21 mi ( + 2.79 mi )</td>
-                    <td class="content text-dark small">1542.36 km ( + 4.48 km )</td>
+                    <td class="content text-dark small">957.54 mi ( + 2.79 mi )</td>
+					<td class="content text-dark small">1541.27 km ( + 4.48 km )</td>
                     <td class="content text-dark">Richmond SR 177, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">959.32 mi ( + 1.11 mi )</td>
-                    <td class="content text-dark small">1544.15 km ( + 1.79 km )</td>
+                    <td class="content text-dark small">958.65 mi ( + 1.11 mi )</td>
+					<td class="content text-dark small">1543.06 km ( + 1.79 km )</td>
                     <td class="content text-dark">Richmond SR 1001 - Marston Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">959.71 mi ( + 0.39 mi )</td>
-                    <td class="content text-dark small">1544.78 km ( + 0.63 km )</td>
+                    <td class="content text-dark small">959.04 mi ( + 0.39 mi )</td>
+					<td class="content text-dark small">1543.69 km ( + 0.63 km )</td>
                     <td class="content text-dark">Richmond SR 1484 - Powers St, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">961.52 mi ( + 1.81 mi )</td>
-                    <td class="content text-dark small">1547.69 km ( + 2.91 km )</td>
+                    <td class="content text-dark small">960.85 mi ( + 1.81 mi )</td>
+					<td class="content text-dark small">1546.60 km ( + 2.91 km )</td>
                     <td class="content text-dark">Richmond SR 1479 - James G Watson Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">962.58 mi ( + 1.06 mi )</td>
-                    <td class="content text-dark small">1549.40 km ( + 1.71 km )</td>
+                    <td class="content text-dark small">961.91 mi ( + 1.06 mi )</td>
+					<td class="content text-dark small">1548.31 km ( + 1.71 km )</td>
                     <td class="content text-dark">Richmond SR 1475 - Caddell Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark">Main St, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">963.58 mi ( + 1.00 mi )</td>
-                    <td class="content text-dark small">1551.01 km ( + 1.61 km )</td>
+                    <td class="content text-dark small">962.91 mi ( + 1.00 mi )</td>
+					<td class="content text-dark small">1549.92 km ( + 1.61 km )</td>
                     <td class="content text-dark">Richmond SR 1004 - Little Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">964.45 mi ( + 0.87 mi )</td>
-                    <td class="content text-dark small">1552.41 km ( + 1.40 km )</td>
+                    <td class="content text-dark small">963.78 mi ( + 0.87 mi )</td>
+					<td class="content text-dark small">1551.32 km ( + 1.40 km )</td>
                     <td class="content text-dark">Richmond SR 1528 - Vincent-Gibson Ave, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">964.73 mi ( + 0.28 mi )</td>
-                    <td class="content text-dark small">1552.86 km ( + 0.45 km )</td>
+                    <td class="content text-dark small">964.06 mi ( + 0.28 mi )</td>
+					<td class="content text-dark small">1551.77 km ( + 0.45 km )</td>
                     <td class="content text-dark">Richmond SR 1600 - Rushing Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">967.11 mi ( + 2.38 mi )</td>
-                    <td class="content text-dark small">1556.69 km ( + 3.83 km )</td>
+                    <td class="content text-dark small">966.44 mi ( + 2.38 mi )</td>
+					<td class="content text-dark small">1555.60 km ( + 3.83 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark">End Richmond County, Start Moore County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">969.14 mi ( + 2.03 mi )</td>
-                    <td class="content text-dark small">1559.96 km ( + 3.27 km )</td>
+                    <td class="content text-dark small">968.47 mi ( + 2.03 mi )</td>
+					<td class="content text-dark small">1558.87 km ( + 3.27 km )</td>
                     <td class="content text-dark">Moore SR 1102 - Thunder Rd (WB) / Addor Rd (EB), Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">970.07 mi ( + 0.93 mi )</td>
-                    <td class="content text-dark small">1561.45 km ( + 1.49 km )</td>
+                    <td class="content text-dark small">969.40 mi ( + 0.93 mi )</td>
+					<td class="content text-dark small">1560.36 km ( + 1.49 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Walnut St, Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">970.72 mi ( + 0.65 mi )</td>
-                    <td class="content text-dark small">1562.50 km ( + 1.05 km )</td>
+                    <td class="content text-dark small">970.05 mi ( + 0.65 mi )</td>
+					<td class="content text-dark small">1561.41 km ( + 1.05 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Walnut St, Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">970.83 mi ( + 0.11 mi )</td>
-                    <td class="content text-dark small">1562.68 km ( + 0.18 km )</td>
+                    <td class="content text-dark small">970.16 mi ( + 0.11 mi )</td>
+					<td class="content text-dark small">1561.59 km ( + 0.18 km )</td>
                     <td class="content text-dark">Moore SR 1156 - W Baltimore Ave (WB) / E Baltimore Ave (EB), Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">971.44 mi ( + 0.61 mi )</td>
-                    <td class="content text-dark small">1563.66 km ( + 0.98 km )</td>
+                    <td class="content text-dark small">970.77 mi ( + 0.61 mi )</td>
+					<td class="content text-dark small">1562.57 km ( + 0.98 km )</td>
                     <td class="content text-dark">Moore SR 2118 - N Currant St, Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">971.48 mi ( + 0.04 mi )</td>
-                    <td class="content text-dark small">1563.73 km ( + 0.07 km )</td>
+                    <td class="content text-dark small">970.81 mi ( + 0.04 mi )</td>
+					<td class="content text-dark small">1562.64 km ( + 0.07 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">972.43 mi ( + 0.95 mi )</td>
-                    <td class="content text-dark small">1565.26 km ( + 1.53 km )</td>
+                    <td class="content text-dark small">971.76 mi ( + 0.95 mi )</td>
+					<td class="content text-dark small">1564.17 km ( + 1.53 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">973.38 mi ( + 0.95 mi )</td>
-                    <td class="content text-dark small">1566.78 km ( + 1.52 km )</td>
+                    <td class="content text-dark small">972.71 mi ( + 0.95 mi )</td>
+					<td class="content text-dark small">1565.69 km ( + 1.52 km )</td>
                     <td class="content text-dark">Moore SR 1112 - Roseland Rd, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark">S Sandhills Blvd, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">973.49 mi ( + 0.11 mi )</td>
-                    <td class="content text-dark small">1566.96 km ( + 0.18 km )</td>
+                    <td class="content text-dark small">972.82 mi ( + 0.11 mi )</td>
+					<td class="content text-dark small">1565.87 km ( + 0.18 km )</td>
                     <td class="content text-dark">US-15, US-501, & NC-211, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-15, US-501, & NC-211</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">973.77 mi ( + 0.28 mi )</td>
-                    <td class="content text-dark small">1567.41 km ( + 0.45 km )</td>
+                    <td class="content text-dark small">973.10 mi ( + 0.28 mi )</td>
+					<td class="content text-dark small">1566.32 km ( + 0.45 km )</td>
                     <td class="content text-dark">NC-5 - W South St, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">973.96 mi ( + 0.19 mi )</td>
-                    <td class="content text-dark small">1567.71 km ( + 0.30 km )</td>
+                    <td class="content text-dark small">973.29 mi ( + 0.19 mi )</td>
+					<td class="content text-dark small">1566.62 km ( + 0.30 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Sandhills Blvd, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">975.43 mi ( + 1.47 mi )</td>
-                    <td class="content text-dark small">1570.08 km ( + 2.37 km )</td>
+                    <td class="content text-dark small">974.76 mi ( + 1.47 mi )</td>
+					<td class="content text-dark small">1568.99 km ( + 2.37 km )</td>
                     <td class="content text-dark">US-15, US-501, & NC-211, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-15, US-501, & NC-211</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">975.87 mi ( + 0.44 mi )</td>
-                    <td class="content text-dark small">1570.79 km ( + 0.71 km )</td>
+                    <td class="content text-dark small">975.20 mi ( + 0.44 mi )</td>
+					<td class="content text-dark small">1569.70 km ( + 0.71 km )</td>
                     <td class="content text-dark">Moore SR 2055 - N Poplar St, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark">US-1, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">976.18 mi ( + 0.31 mi )</td>
-                    <td class="content text-dark small">1571.29 km ( + 0.50 km )</td>
+                    <td class="content text-dark small">975.51 mi ( + 0.31 mi )</td>
+					<td class="content text-dark small">1570.20 km ( + 0.50 km )</td>
                     <td class="content text-dark">Moore SR 2053 - Saunders Blvd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">976.77 mi ( + 0.59 mi )</td>
-                    <td class="content text-dark small">1572.23 km ( + 0.94 km )</td>
+                    <td class="content text-dark small">976.10 mi ( + 0.59 mi )</td>
+					<td class="content text-dark small">1571.14 km ( + 0.94 km )</td>
                     <td class="content text-dark">Moore SR 1205 - W Morganton Rd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">977.40 mi ( + 0.63 mi )</td>
-                    <td class="content text-dark small">1573.24 km ( + 1.01 km )</td>
+                    <td class="content text-dark small">976.73 mi ( + 0.63 mi )</td>
+					<td class="content text-dark small">1572.15 km ( + 1.01 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Sandhills Blvd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">977.60 mi ( + 0.20 mi )</td>
-                    <td class="content text-dark small">1573.56 km ( + 0.32 km )</td>
+                    <td class="content text-dark small">976.93 mi ( + 0.20 mi )</td>
+					<td class="content text-dark small">1572.47 km ( + 0.32 km )</td>
                     <td class="content text-dark">Moore SR 1848 - W Pennsylvania Ave, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">978.71 mi ( + 1.11 mi )</td>
-                    <td class="content text-dark small">1575.34 km ( + 1.78 km )</td>
+                    <td class="content text-dark small">978.04 mi ( + 1.11 mi )</td>
+					<td class="content text-dark small">1574.25 km ( + 1.78 km )</td>
                     <td class="content text-dark">NC-2 - Midland Rd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">979.32 mi ( + 0.61 mi )</td>
-                    <td class="content text-dark small">1576.32 km ( + 0.98 km )</td>
+                    <td class="content text-dark small">978.65 mi ( + 0.61 mi )</td>
+					<td class="content text-dark small">1575.23 km ( + 0.98 km )</td>
                     <td class="content text-dark">Moore SR 2164 - Air Tool Dr, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">980.18 mi ( + 0.86 mi )</td>
-                    <td class="content text-dark small">1577.71 km ( + 1.39 km )</td>
+                    <td class="content text-dark small">979.51 mi ( + 0.86 mi )</td>
+					<td class="content text-dark small">1576.62 km ( + 1.39 km )</td>
                     <td class="content text-dark">Moore SR 2088 - Brothers Rd (SB)<br>NC-1870 - Westover Rd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">980.43 mi ( + 0.25 mi )</td>
-                    <td class="content text-dark small">1578.10 km ( + 0.39 km )</td>
+                    <td class="content text-dark small">979.76 mi ( + 0.25 mi )</td>
+					<td class="content text-dark small">1577.01 km ( + 0.39 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">981.22 mi ( + 0.79 mi )</td>
-                    <td class="content text-dark small">1579.37 km ( + 1.27 km )</td>
+                    <td class="content text-dark small">980.55 mi ( + 0.79 mi )</td>
+					<td class="content text-dark small">1578.28 km ( + 1.27 km )</td>
                     <td class="content text-dark">Moore SR 2080 - N May St, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">981.50 mi ( + 0.28 mi )</td>
-                    <td class="content text-dark small">1579.82 km ( + 0.45 km )</td>
+                    <td class="content text-dark small">980.83 mi ( + 0.28 mi )</td>
+					<td class="content text-dark small">1578.73 km ( + 0.45 km )</td>
                     <td class="content text-dark">Moore SR 2124 - Equestrian Rd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">982.09 mi ( + 0.59 mi )</td>
-                    <td class="content text-dark small">1580.78 km ( + 0.96 km )</td>
+                    <td class="content text-dark small">981.42 mi ( + 0.59 mi )</td>
+					<td class="content text-dark small">1579.69 km ( + 0.96 km )</td>
                     <td class="content text-dark">Moore SR 2026 - Youngs Rd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">983.17 mi ( + 1.08 mi )</td>
-                    <td class="content text-dark small">1582.51 km ( + 1.73 km )</td>
+                    <td class="content text-dark small">982.50 mi ( + 1.08 mi )</td>
+					<td class="content text-dark small">1581.42 km ( + 1.73 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">983.77 mi ( + 0.60 mi )</td>
-                    <td class="content text-dark small">1583.48 km ( + 0.97 km )</td>
+                    <td class="content text-dark small">983.10 mi ( + 0.60 mi )</td>
+					<td class="content text-dark small">1582.39 km ( + 0.97 km )</td>
                     <td class="content text-dark">Moore SR 1853 - Aiken Rd (SB) / Camp Easter Rd (NB), Vass, North Carolina, 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">984.52 mi ( + 0.75 mi )</td>
-                    <td class="content text-dark small">1584.69 km ( + 1.21 km )</td>
+                    <td class="content text-dark small">983.85 mi ( + 0.75 mi )</td>
+					<td class="content text-dark small">1583.60 km ( + 1.21 km )</td>
                     <td class="content text-dark">US-1 Business, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">985.11 mi ( + 0.59 mi )</td>
-                    <td class="content text-dark small">1585.64 km ( + 0.95 km )</td>
+                    <td class="content text-dark small">984.44 mi ( + 0.59 mi )</td>
+					<td class="content text-dark small">1584.55 km ( + 0.95 km )</td>
                     <td class="content text-dark">Moore SR 1864 - James St, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">985.56 mi ( + 0.45 mi )</td>
-                    <td class="content text-dark small">1586.36 km ( + 0.72 km )</td>
+                    <td class="content text-dark small">984.89 mi ( + 0.45 mi )</td>
+					<td class="content text-dark small">1585.27 km ( + 0.72 km )</td>
                     <td class="content text-dark">NC-690 & Moore SR 1001 - Main St, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">986.25 mi ( + 0.69 mi )</td>
-                    <td class="content text-dark small">1587.47 km ( + 1.11 km )</td>
+                    <td class="content text-dark small">985.58 mi ( + 0.69 mi )</td>
+					<td class="content text-dark small">1586.38 km ( + 1.11 km )</td>
                     <td class="content text-dark">Moore SR 2005 - N Alma St, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">988.43 mi ( + 2.18 mi )</td>
-                    <td class="content text-dark small">1590.99 km ( + 3.52 km )</td>
+                    <td class="content text-dark small">987.76 mi ( + 2.18 mi )</td>
+					<td class="content text-dark small">1589.90 km ( + 3.52 km )</td>
                     <td class="content text-dark">Moore SR 1825 - Cranes Creek Rd, Vass, North Carolina 28394</td>
                     <td class="content text-dark">US-1, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">989.55 mi ( + 1.12 mi )</td>
-                    <td class="content text-dark small">1592.79 km ( + 1.80 km )</td>
+                    <td class="content text-dark small">988.88 mi ( + 1.12 mi )</td>
+					<td class="content text-dark small">1591.70 km ( + 1.80 km )</td>
                     <td class="content text-dark">Moore SR 2099 - Pineywood Church Rd, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">990.48 mi ( + 0.93 mi )</td>
-                    <td class="content text-dark small">1594.29 km ( + 1.50 km )</td>
+                    <td class="content text-dark small">989.81 mi ( + 0.93 mi )</td>
+					<td class="content text-dark small">1593.20 km ( + 1.50 km )</td>
                     <td class="content text-dark">Moore SR 2005 - Atkins Rd, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">990.72 mi ( + 0.24 mi )</td>
-                    <td class="content text-dark small">1594.68 km ( + 0.39 km )</td>
+                    <td class="content text-dark small">990.05 mi ( + 0.24 mi )</td>
+					<td class="content text-dark small">1593.59 km ( + 0.39 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">991.01 mi ( + 0.29 mi )</td>
-                    <td class="content text-dark small">1595.14 km ( + 0.46 km )</td>
+                    <td class="content text-dark small">990.34 mi ( + 0.29 mi )</td>
+					<td class="content text-dark small">1594.05 km ( + 0.46 km )</td>
                     <td class="content text-dark">NC-24 & NC-27, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">991.67 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">1596.20 km ( + 1.06 km )</td>
+                    <td class="content text-dark small">991.00 mi ( + 0.66 mi )</td>
+					<td class="content text-dark small">1595.11 km ( + 1.06 km )</td>
                     <td class="content text-dark">Moore SR 2000 - Page Store Rd, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">992.20 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">1597.06 km ( + 0.86 km )</td>
+                    <td class="content text-dark small">991.53 mi ( + 0.53 mi )</td>
+					<td class="content text-dark small">1595.97 km ( + 0.86 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Sanford, North Carolina 27330</td>
                     <td class="content text-dark">End Moore County, Start Lee County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">993.87 mi ( + 1.67 mi )</td>
-                    <td class="content text-dark small">1599.74 km ( + 2.68 km )</td>
+                    <td class="content text-dark small">993.20 mi ( + 1.67 mi )</td>
+					<td class="content text-dark small">1598.65 km ( + 2.68 km )</td>
                     <td class="content text-dark">US-1 Business & Lee SR 1182 - Cedar Lane Rd  (WB)<br>NC-1182 - Pine Forrest Rd (EB), Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">997.09 mi ( + 3.22 mi )</td>
-                    <td class="content text-dark small">1604.92 km ( + 5.18 km )</td>
+                    <td class="content text-dark small">996.42 mi ( + 3.22 mi )</td>
+					<td class="content text-dark small">1603.83 km ( + 5.18 km )</td>
                     <td class="content text-dark">US-15 & US-501 - White Hill Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-15 & US-501</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">998.32 mi ( + 1.23 mi )</td>
-                    <td class="content text-dark small">1606.89 km ( + 1.97 km )</td>
+                    <td class="content text-dark small">997.65 mi ( + 1.23 mi )</td>
+					<td class="content text-dark small">1605.80 km ( + 1.97 km )</td>
                     <td class="content text-dark">Lee SR 1300 - Chris Cole Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">999.53 mi ( + 1.21 mi )</td>
-                    <td class="content text-dark small">1608.83 km ( + 1.94 km )</td>
+                    <td class="content text-dark small">998.86 mi ( + 1.21 mi )</td>
+					<td class="content text-dark small">1607.74 km ( + 1.94 km )</td>
                     <td class="content text-dark">Lee SR 1303 - Center Church Rd (WB)<br>NC-78 - Tramway Rd (EB), Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1000.06 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">1609.68 km ( + 0.85 km )</td>
+                    <td class="content text-dark small">999.39 mi ( + 0.53 mi )</td>
+					<td class="content text-dark small">1608.59 km ( + 0.85 km )</td>
                     <td class="content text-dark">Lee SR 1237 - Carthage St, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1000.54 mi ( + 0.48 mi )</td>
-                    <td class="content text-dark small">1610.45 km ( + 0.77 km )</td>
+                    <td class="content text-dark small">999.87 mi ( + 0.48 mi )</td>
+					<td class="content text-dark small">1609.36 km ( + 0.77 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Claude E. Pope Memorial Hwy, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1001.93 mi ( + 1.39 mi )</td>
-                    <td class="content text-dark small">1612.69 km ( + 2.24 km )</td>
+                    <td class="content text-dark small">1001.26 mi ( + 1.39 mi )</td>
+					<td class="content text-dark small">1611.60 km ( + 2.24 km )</td>
                     <td class="content text-dark">NC-42 - Wicker St, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1002.76 mi ( + 0.83 mi )</td>
-                    <td class="content text-dark small">1614.02 km ( + 1.33 km )</td>
+                    <td class="content text-dark small">1002.09 mi ( + 0.83 mi )</td>
+					<td class="content text-dark small">1612.93 km ( + 1.33 km )</td>
                     <td class="content text-dark">Lee SR 1009 - Carbonton Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1003.83 mi ( + 1.07 mi )</td>
-                    <td class="content text-dark small">1615.73 km ( + 1.71 km )</td>
+                    <td class="content text-dark small">1003.16 mi ( + 1.07 mi )</td>
+					<td class="content text-dark small">1614.64 km ( + 1.71 km )</td>
                     <td class="content text-dark">US-421 Business - N Horner Blvd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1005.01 mi ( + 1.18 mi )</td>
-                    <td class="content text-dark small">1617.63 km ( + 1.90 km )</td>
+                    <td class="content text-dark small">1004.34 mi ( + 1.18 mi )</td>
+					<td class="content text-dark small">1616.54 km ( + 1.90 km )</td>
                     <td class="content text-dark">US-421, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1005.88 mi ( + 0.87 mi )</td>
-                    <td class="content text-dark small">1619.04 km ( + 1.41 km )</td>
+                    <td class="content text-dark small">1005.21 mi ( + 0.87 mi )</td>
+					<td class="content text-dark small">1617.95 km ( + 1.41 km )</td>
                     <td class="content text-dark">US-15, US-15 Business, US-501, US-501 Business, & NC-87 - Hawkins Ave, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-15 & US-501</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1009.04 mi ( + 3.16 mi )</td>
-                    <td class="content text-dark small">1624.13 km ( + 5.09 km )</td>
+                    <td class="content text-dark small">1008.37 mi ( + 3.16 mi )</td>
+					<td class="content text-dark small">1623.04 km ( + 5.09 km )</td>
                     <td class="content text-dark">Lee SR 1415 - Colon Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1011.59 mi ( + 2.55 mi )</td>
-                    <td class="content text-dark small">1628.23 km ( + 4.10 km )</td>
+                    <td class="content text-dark small">1010.92 mi ( + 2.55 mi )</td>
+					<td class="content text-dark small">1627.14 km ( + 4.10 km )</td>
                     <td class="content text-dark">Lee SR 1423 - Farrell Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1013.94 mi ( + 2.35 mi )</td>
-                    <td class="content text-dark small">1632.01 km ( + 3.78 km )</td>
+                    <td class="content text-dark small">1013.27 mi ( + 2.35 mi )</td>
+					<td class="content text-dark small">1630.92 km ( + 3.78 km )</td>
                     <td class="content text-dark">Lee SR 1466 - Deep River Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1014.28 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">1632.56 km ( + 0.55 km )</td>
+                    <td class="content text-dark small">1013.61 mi ( + 0.34 mi )</td>
+					<td class="content text-dark small">1631.47 km ( + 0.55 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Claude E. Pope Memorial Hwy, Moncure, North Carolina 27559</td>
                     <td class="content text-dark">End Lee County, Start Chatham County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1014.78 mi ( + 0.50 mi )</td>
-                    <td class="content text-dark small">1633.36 km ( + 0.80 km )</td>
+                    <td class="content text-dark small">1014.11 mi ( + 0.50 mi )</td>
+					<td class="content text-dark small">1632.27 km ( + 0.80 km )</td>
                     <td class="content text-dark">Chatham SR 1012 - Moncure Pittsboro Rd, Moncure, North Carolina 27559</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1019.79 mi ( + 5.01 mi )</td>
-                    <td class="content text-dark small">1641.43 km ( + 8.07 km )</td>
+                    <td class="content text-dark small">1019.12 mi ( + 5.01 mi )</td>
+					<td class="content text-dark small">1640.34 km ( + 8.07 km )</td>
                     <td class="content text-dark">Chatham SR 1011 - Old US 1 Hwy, Moncure, North Carolina 27559</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1020.91 mi ( + 1.12 mi )</td>
-                    <td class="content text-dark small">1643.23 km ( + 1.80 km )</td>
+                    <td class="content text-dark small">1020.24 mi ( + 1.12 mi )</td>
+					<td class="content text-dark small">1642.14 km ( + 1.80 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Claude E. Pope Memorial Hwy, Apex, North Carolina 27502</td>
                     <td class="content text-dark">End Chatham County, Start Wake County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1024.33 mi ( + 3.42 mi )</td>
-                    <td class="content text-dark small">1648.73 km ( + 5.50 km )</td>
+                    <td class="content text-dark small">1023.66 mi ( + 3.42 mi )</td>
+					<td class="content text-dark small">1647.64 km ( + 5.50 km )</td>
                     <td class="content text-dark">Wake SR 1127 - New Hill Holleman Rd, Apex, North Carolina 27502</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1028.17 mi ( + 3.84 mi )</td>
-                    <td class="content text-dark small">1654.92 km ( + 6.19 km )</td>
+                    <td class="content text-dark small">1027.50 mi ( + 3.84 mi )</td>
+					<td class="content text-dark small">1653.83 km ( + 6.19 km )</td>
                     <td class="content text-dark">NC-540 - Western Wake Fwy, Apex, North Carolina 27502</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1030.31 mi ( + 2.14 mi )</td>
-                    <td class="content text-dark small">1658.36 km ( + 3.44 km )</td>
+                    <td class="content text-dark small">1029.64 mi ( + 2.14 mi )</td>
+					<td class="content text-dark small">1657.27 km ( + 3.44 km )</td>
                     <td class="content text-dark">NC-55 - E Williams St, Apex, North Carolina 27502</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1032.06 mi ( + 1.75 mi )</td>
-                    <td class="content text-dark small">1661.18 km ( + 2.82 km )</td>
+                    <td class="content text-dark small">1031.39 mi ( + 1.75 mi )</td>
+					<td class="content text-dark small">1660.09 km ( + 2.82 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Claude E. Pope Memorial Hwy, Cary, North Carolina 27511</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1033.45 mi ( + 1.39 mi )</td>
-                    <td class="content text-dark small">1663.41 km ( + 2.23 km )</td>
+                    <td class="content text-dark small">1032.78 mi ( + 1.39 mi )</td>
+					<td class="content text-dark small">1662.32 km ( + 2.23 km )</td>
                     <td class="content text-dark">US-64 (WB) / Tryon Rd (EB), Cary, North Carolina 27511</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-64</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1037.24 mi ( + 3.79 mi )</td>
-                    <td class="content text-dark small">1669.52 km ( + 6.11 km )</td>
+                    <td class="content text-dark small">1036.57 mi ( + 3.79 mi )</td>
+					<td class="content text-dark small">1668.43 km ( + 6.11 km )</td>
                     <td class="content text-dark">I-40 - Tom Bradshaw Fwy, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark">Raleigh Beltline, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark">End concurrency with US-64, Start concurrency with I-440-NC </td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1040.47 mi ( + 3.23 mi )</td>
-                    <td class="content text-dark small">1674.71 km ( + 5.19 km )</td>
+                    <td class="content text-dark small">1039.80 mi ( + 3.23 mi )</td>
+					<td class="content text-dark small">1673.62 km ( + 5.19 km )</td>
                     <td class="content text-dark">NC-54 - Hillsborough St, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1043.78 mi ( + 3.31 mi )</td>
-                    <td class="content text-dark small">1680.03 km ( + 5.32 km )</td>
+                    <td class="content text-dark small">1043.11 mi ( + 3.31 mi )</td>
+					<td class="content text-dark small">1678.94 km ( + 5.32 km )</td>
                     <td class="content text-dark">US-70 & NC-50 - Glenwood Ave, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1047.98 mi ( + 4.20 mi )</td>
-                    <td class="content text-dark small">1686.79 km ( + 6.76 km )</td>
+                    <td class="content text-dark small">1047.31 mi ( + 4.20 mi )</td>
+					<td class="content text-dark small">1685.70 km ( + 6.76 km )</td>
                     <td class="content text-dark">US-401 - Capital Blvd, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark">Capital Blvd, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark">End concurrency with I-440-NC, Start concurrency with US-401</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1050.18 mi ( + 2.20 mi )</td>
-                    <td class="content text-dark small">1690.34 km ( + 3.55 km )</td>
+                    <td class="content text-dark small">1049.51 mi ( + 2.20 mi )</td>
+					<td class="content text-dark small">1689.25 km ( + 3.55 km )</td>
                     <td class="content text-dark">US-401 - Louisburg Rd, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-401</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1052.90 mi ( + 2.72 mi )</td>
-                    <td class="content text-dark small">1694.71 km ( + 4.37 km )</td>
+                    <td class="content text-dark small">1052.23 mi ( + 2.72 mi )</td>
+					<td class="content text-dark small">1693.62 km ( + 4.37 km )</td>
                     <td class="content text-dark">I-540-NC - Northern Wake Expy, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1054.46 mi ( + 1.56 mi )</td>
-                    <td class="content text-dark small">1697.22 km ( + 2.51 km )</td>
+                    <td class="content text-dark small">1053.79 mi ( + 1.56 mi )</td>
+					<td class="content text-dark small">1696.13 km ( + 2.51 km )</td>
                     <td class="content text-dark">Wake SR 2006 - Durant Rd (WB) / Perry Creek Rd (EB), Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1055.60 mi ( + 1.14 mi )</td>
-                    <td class="content text-dark small">1699.06 km ( + 1.84 km )</td>
+                    <td class="content text-dark small">1054.93 mi ( + 1.14 mi )</td>
+					<td class="content text-dark small">1697.97 km ( + 1.84 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Capital Blvd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1056.74 mi ( + 1.14 mi )</td>
-                    <td class="content text-dark small">1700.90 km ( + 1.84 km )</td>
+                    <td class="content text-dark small">1056.07 mi ( + 1.14 mi )</td>
+					<td class="content text-dark small">1699.81 km ( + 1.84 km )</td>
                     <td class="content text-dark">Wake SR 2045 - Burlington Mills Rd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1058.09 mi ( + 1.35 mi )</td>
-                    <td class="content text-dark small">1703.08 km ( + 2.18 km )</td>
+                    <td class="content text-dark small">1057.42 mi ( + 1.35 mi )</td>
+					<td class="content text-dark small">1701.99 km ( + 2.18 km )</td>
                     <td class="content text-dark">Wake SR 2182, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1058.70 mi ( + 0.61 mi )</td>
-                    <td class="content text-dark small">1704.06 km ( + 0.98 km )</td>
+                    <td class="content text-dark small">1058.03 mi ( + 0.61 mi )</td>
+					<td class="content text-dark small">1702.97 km ( + 0.98 km )</td>
                     <td class="content text-dark">US-1 Alternate - S Main St, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1060.08 mi ( + 1.38 mi )</td>
-                    <td class="content text-dark small">1706.28 km ( + 2.22 km )</td>
+                    <td class="content text-dark small">1059.41 mi ( + 1.38 mi )</td>
+					<td class="content text-dark small">1705.19 km ( + 2.22 km )</td>
                     <td class="content text-dark">NC-98 - Dr Calvin Jones Hwy, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1061.03 mi ( + 0.95 mi )</td>
-                    <td class="content text-dark small">1707.81 km ( + 1.53 km )</td>
+                    <td class="content text-dark small">1060.36 mi ( + 0.95 mi )</td>
+					<td class="content text-dark small">1706.72 km ( + 1.53 km )</td>
                     <td class="content text-dark">NC-98 - Durham Rd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1061.60 mi ( + 0.57 mi )</td>
-                    <td class="content text-dark small">1708.73 km ( + 0.92 km )</td>
+                    <td class="content text-dark small">1060.93 mi ( + 0.57 mi )</td>
+					<td class="content text-dark small">1707.64 km ( + 0.92 km )</td>
                     <td class="content text-dark">Wake SR 1929 - Wake Union Church Rd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1063.13 mi ( + 1.53 mi )</td>
-                    <td class="content text-dark small">1711.19 km ( + 2.46 km )</td>
+                    <td class="content text-dark small">1062.46 mi ( + 1.53 mi )</td>
+					<td class="content text-dark small">1710.10 km ( + 2.46 km )</td>
                     <td class="content text-dark">Wake SR 1909 - Purnell Rd (WB)<br>Wake SR 1931 - Harris Rd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1063.66 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">1712.04 km ( + 0.85 km )</td>
+                    <td class="content text-dark small">1062.99 mi ( + 0.53 mi )</td>
+					<td class="content text-dark small">1710.95 km ( + 0.85 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End Wake County, Start Franklin County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1063.78 mi ( + 0.12 mi )</td>
-                    <td class="content text-dark small">1712.24 km ( + 0.20 km )</td>
+                    <td class="content text-dark small">1063.11 mi ( + 0.12 mi )</td>
+					<td class="content text-dark small">1711.15 km ( + 0.20 km )</td>
                     <td class="content text-dark">Franklin SR 1135 - Wall Rd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1064.68 mi ( + 0.90 mi )</td>
-                    <td class="content text-dark small">1713.69 km ( + 1.45 km )</td>
+                    <td class="content text-dark small">1064.01 mi ( + 0.90 mi )</td>
+					<td class="content text-dark small">1712.60 km ( + 1.45 km )</td>
                     <td class="content text-dark">Franklin SR 1147 - Holden Rd, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark">US-1, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1065.58 mi ( + 0.90 mi )</td>
-                    <td class="content text-dark small">1715.14 km ( + 1.45 km )</td>
+                    <td class="content text-dark small">1064.91 mi ( + 0.90 mi )</td>
+					<td class="content text-dark small">1714.05 km ( + 1.45 km )</td>
                     <td class="content text-dark">Franklin SR 1138 - Green Rd (WB) / Mosswood Blvd (EB), Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1066.14 mi ( + 0.56 mi )</td>
-                    <td class="content text-dark small">1716.08 km ( + 0.94 km )</td>
+                    <td class="content text-dark small">1065.47 mi ( + 0.56 mi )</td>
+					<td class="content text-dark small">1714.99 km ( + 0.94 km )</td>
                     <td class="content text-dark">NC-96, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1067.17 mi ( + 1.03 mi )</td>
-                    <td class="content text-dark small">1717.74 km ( + 1.66 km )</td>
+                    <td class="content text-dark small">1066.50 mi ( + 1.03 mi )</td>
+					<td class="content text-dark small">1716.65 km ( + 1.66 km )</td>
                     <td class="content text-dark">US-1 Alternate - Park Ave, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1067.51 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">1718.29 km ( + 0.55 km )</td>
+                    <td class="content text-dark small">1066.84 mi ( + 0.34 mi )</td>
+					<td class="content text-dark small">1717.20 km ( + 0.55 km )</td>
                     <td class="content text-dark">Franklin SR 1133 - Bert Winston Rd, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1069.45 mi ( + 1.94 mi )</td>
-                    <td class="content text-dark small">1721.41 km ( + 3.12 km )</td>
+                    <td class="content text-dark small">1068.78 mi ( + 1.94 mi )</td>
+					<td class="content text-dark small">1720.32 km ( + 3.12 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1070.29 mi ( + 0.84 mi )</td>
-                    <td class="content text-dark small">1722.77 km ( + 1.36 km )</td>
+                    <td class="content text-dark small">1069.62 mi ( + 0.84 mi )</td>
+					<td class="content text-dark small">1721.68 km ( + 1.36 km )</td>
                     <td class="content text-dark">Franklin SR 1127 - Pocomoke Rd (WB), S Cheatham St (EB), Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1070.79 mi ( + 0.50 mi )</td>
-                    <td class="content text-dark small">1723.57 km ( + 0.80 km )</td>
+                    <td class="content text-dark small">1070.12 mi ( + 0.50 mi )</td>
+					<td class="content text-dark small">1722.48 km ( + 0.80 km )</td>
                     <td class="content text-dark">NC-56 - W Green St, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1070.90 mi ( + 0.11 mi )</td>
-                    <td class="content text-dark small">1723.75 km ( + 0.18 km )</td>
+                    <td class="content text-dark small">1070.23 mi ( + 0.11 mi )</td>
+					<td class="content text-dark small">1722.66 km ( + 0.18 km )</td>
                     <td class="content text-dark">Franklin SR 1206 - Mason St, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1070.96 mi ( + 0.06 mi )</td>
-                    <td class="content text-dark small">1723.84 km ( + 0.09 km )</td>
+                    <td class="content text-dark small">1070.29 mi ( + 0.06 mi )</td>
+					<td class="content text-dark small">1722.75 km ( + 0.09 km )</td>
                     <td class="content text-dark">Franklin SR 1263 - American Legion Rd, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1071.46 mi ( + 0.50 mi )</td>
-                    <td class="content text-dark small">1724.64 km ( + 0.80 km )</td>
+                    <td class="content text-dark small">1070.79 mi ( + 0.50 mi )</td>
+					<td class="content text-dark small">1723.55 km ( + 0.80 km )</td>
                     <td class="content text-dark">Franklin SR 1127 - N Cheatham St, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1071.81 mi ( + 0.35 mi )</td>
-                    <td class="content text-dark small">1725.20 km ( + 0.56 km )</td>
+                    <td class="content text-dark small">1071.14 mi ( + 0.35 mi )</td>
+					<td class="content text-dark small">1724.11 km ( + 0.56 km )</td>
                     <td class="content text-dark">Franklin SR 1204 - Mann St, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1074.26 mi ( + 2.45 mi )</td>
-                    <td class="content text-dark small">1729.15 km ( + 3.95 km )</td>
+                    <td class="content text-dark small">1073.59 mi ( + 2.45 mi )</td>
+					<td class="content text-dark small">1728.06 km ( + 3.95 km )</td>
                     <td class="content text-dark">Franklin SR 1207 - Winston St, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1075.56 mi ( + 1.30 mi )</td>
-                    <td class="content text-dark small">1731.25 km ( + 2.10 km )</td>
+                    <td class="content text-dark small">1074.89 mi ( + 1.30 mi )</td>
+					<td class="content text-dark small">1730.16 km ( + 2.10 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark">End Franklin County, Start Vance County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1080.68 mi ( + 5.12 mi )</td>
-                    <td class="content text-dark small">1739.48 km ( + 8.23 km )</td>
+                    <td class="content text-dark small">1080.01 mi ( + 5.12 mi )</td>
+					<td class="content text-dark small">1738.39 km ( + 8.23 km )</td>
                     <td class="content text-dark">US-1 Business - Raleigh Rd, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-1 Bypass</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1081.34 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">1740.54 km ( + 1.06 km )</td>
+                    <td class="content text-dark small">1080.67 mi ( + 0.66 mi )</td>
+					<td class="content text-dark small">1739.45 km ( + 1.06 km )</td>
                     <td class="content text-dark">Vance SR 1113 - S Lake Lodge Rd<!--(WB)--><br>Vance SR 1107 (EB), Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1083.53 mi ( + 2.19 mi )</td>
-                    <td class="content text-dark small">1744.07 km ( + 3.53 km )</td>
+                    <td class="content text-dark small">1082.86 mi ( + 2.19 mi )</td>
+					<td class="content text-dark small">1742.98 km ( + 3.53 km )</td>
                     <td class="content text-dark">US-1 Business - Raleigh Rd, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1084.08 mi ( + 0.55 mi )</td>
-                    <td class="content text-dark small">1744.95 km ( + 0.88 km )</td>
+                    <td class="content text-dark small">1083.41 mi ( + 0.55 mi )</td>
+					<td class="content text-dark small">1743.86 km ( + 0.88 km )</td>
                     <td class="content text-dark">Vance SR 1115 - Bear Pond Rd, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1085.77 mi ( + 1.69 mi )</td>
-                    <td class="content text-dark small">1747.67 km ( + 2.72 km )</td>
+                    <td class="content text-dark small">1085.10 mi ( + 1.69 mi )</td>
+					<td class="content text-dark small">1746.58 km ( + 2.72 km )</td>
                     <td class="content text-dark">Vance SR 1148 - Epsom Rd (WB) / Vanco Mill Rd (EB), Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1085.87 mi ( + 0.10 mi )</td>
-                    <td class="content text-dark small">1747.83 km ( + 0.16 km )</td>
+                    <td class="content text-dark small">1085.20 mi ( + 0.10 mi )</td>
+					<td class="content text-dark small">1746.74 km ( + 0.16 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1087.24 mi ( + 1.37 mi )</td>
-                    <td class="content text-dark small">1750.04 km ( + 2.21 km )</td>
+                    <td class="content text-dark small">1086.57 mi ( + 1.37 mi )</td>
+					<td class="content text-dark small">1748.95 km ( + 2.21 km )</td>
                     <td class="content text-dark">NC-39 - E Andrews Ave, Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1087.92 mi ( + 0.68 mi )</td>
-                    <td class="content text-dark small">1751.14 km ( + 1.10 km )</td>
+                    <td class="content text-dark small">1087.25 mi ( + 0.68 mi )</td>
+					<td class="content text-dark small">1750.05 km ( + 1.10 km )</td>
                     <td class="content text-dark">Vance SR 1518 - Water St (WB) / Newton Dairy Rd (EB), Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1089.60 mi ( + 1.68 mi )</td>
-                    <td class="content text-dark small">1753.84 km ( + 2.70 km )</td>
+                    <td class="content text-dark small">1088.93 mi ( + 1.68 mi )</td>
+					<td class="content text-dark small">1752.75 km ( + 2.70 km )</td>
                     <td class="content text-dark">Vance SR 1001 - Warrenton Rd, Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1090.70 mi ( + 1.10 mi )</td>
-                    <td class="content text-dark small">1755.61 km ( + 1.77 km )</td>
+                    <td class="content text-dark small">1090.03 mi ( + 1.10 mi )</td>
+					<td class="content text-dark small">1754.52 km ( + 1.77 km )</td>
                     <td class="content text-dark">US-158 - N Garnett St, Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-158, End concurrency with US-1 Bypass</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1091.88 mi ( + 1.18 mi )</td>
-                    <td class="content text-dark small">1757.51 km ( + 1.90 km )</td>
+                    <td class="content text-dark small">1091.21 mi ( + 1.18 mi )</td>
+					<td class="content text-dark small">1756.42 km ( + 1.90 km )</td>
                     <td class="content text-dark">Vance SR 1507 - Brookston Rd, Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1093.24 mi ( + 1.36 mi )</td>
-                    <td class="content text-dark small">1759.70 km ( + 2.19 km )</td>
+                    <td class="content text-dark small">1092.57 mi ( + 1.36 mi )</td>
+					<td class="content text-dark small">1758.61 km ( + 2.19 km )</td>
                     <td class="content text-dark">I-85, Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1093.52 mi ( + 0.28 mi )</td>
-                    <td class="content text-dark small">1760.14 km ( + 0.44 km )</td>
+                    <td class="content text-dark small">1092.85 mi ( + 0.28 mi )</td>
+					<td class="content text-dark small">1759.05 km ( + 0.44 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Broad St, Middleburg, North Carolina 27537</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1093.86 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">1760.69 km ( + 0.55 km )</td>
+                    <td class="content text-dark small">1093.19 mi ( + 0.34 mi )</td>
+					<td class="content text-dark small">1759.60 km ( + 0.55 km )</td>
                     <td class="content text-dark">Vance SR 1501 - N Carroll St, Middleburg, North Carolina 27537</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1094.07 mi ( + 0.21 mi )</td>
-                    <td class="content text-dark small">1761.02 km ( + 0.33 km )</td>
+                    <td class="content text-dark small">1093.40 mi ( + 0.21 mi )</td>
+					<td class="content text-dark small">1759.93 km ( + 0.33 km )</td>
                     <td class="content text-dark">NC-1369 - N Lee Ave, Middleburg, North Carolina 27537</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1094.51 mi ( + 0.44 mi )</td>
-                    <td class="content text-dark small">1761.73 km ( + 0.71 km )</td>
+                    <td class="content text-dark small">1093.84 mi ( + 0.44 mi )</td>
+					<td class="content text-dark small">1760.64 km ( + 0.71 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Middleburg, North Carolina 27537</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1095.57 mi ( + 1.06 mi )</td>
-                    <td class="content text-dark small">1763.44 km ( + 1.71 km )</td>
+                    <td class="content text-dark small">1094.90 mi ( + 1.06 mi )</td>
+					<td class="content text-dark small">1762.35 km ( + 1.71 km )</td>
                     <td class="content text-dark">Vance SR 1376 - John H. Bullock Rd, Middleburg, North Carolina 27537</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1095.71 mi ( + 0.14 mi )</td>
-                    <td class="content text-dark small">1763.66 km ( + 0.22 km )</td>
+                    <td class="content text-dark small">1095.04 mi ( + 0.14 mi )</td>
+					<td class="content text-dark small">1762.57 km ( + 0.22 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Norlina, North Carolina 27563</td>
                     <td class="content text-dark">End Vance County, Start Warren County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1099.55 mi ( + 3.84 mi )</td>
-                    <td class="content text-dark small">1769.84 km ( + 6.18 km )</td>
+                    <td class="content text-dark small">1098.88 mi ( + 3.84 mi )</td>
+					<td class="content text-dark small">1768.75 km ( + 6.18 km )</td>
                     <td class="content text-dark">Warren SR 1233 - Wycoff Rd, Norlina, North Carolina 27563</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1101.83 mi ( + 2.28 mi )</td>
-                    <td class="content text-dark small">1773.50 km ( + 3.66 km )</td>
+                    <td class="content text-dark small">1101.16 mi ( + 2.28 mi )</td>
+					<td class="content text-dark small">1772.41 km ( + 3.66 km )</td>
                     <td class="content text-dark">US-158 & US-401, Norlina, North Carolina 27563</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-401, End concurrency with US-158</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1105.31 mi ( + 3.48 mi )</td>
-                    <td class="content text-dark small">1779.10 km ( + 5.60 km )</td>
+                    <td class="content text-dark small">1104.64 mi ( + 3.48 mi )</td>
+					<td class="content text-dark small">1778.01 km ( + 5.60 km )</td>
                     <td class="content text-dark">Warren SR 1213 - Michael's Quarry Rd, Norlina, North Carolina 27563</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1105.86 mi ( + 0.55 mi )</td>
-                    <td class="content text-dark small">1779.99 km ( + 0.89 km )</td>
+                    <td class="content text-dark small">1105.19 mi ( + 0.55 mi )</td>
+					<td class="content text-dark small">1778.90 km ( + 0.89 km )</td>
                     <td class="content text-dark">NC-1305 - Wise-Five Forks Rd, Norlina, North Carolina 27563</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1106.00 mi ( + 0.14 mi )</td>
-                    <td class="content text-dark small">1780.21 km ( + 0.22 km )</td>
+                    <td class="content text-dark small">1105.33 mi ( + 0.14 mi )</td>
+					<td class="content text-dark small">1779.12 km ( + 0.22 km )</td>
                     <td class="content text-dark">Warren SR 1372 - Old Wise School Rd, Norlina, North Carolina 27563</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1108.88 mi ( + 2.88 mi )</td>
-                    <td class="content text-dark small">1784.84 km ( + 4.63 km )</td>
+                    <td class="content text-dark small">1108.21 mi ( + 2.88 mi )</td>
+					<td class="content text-dark small">1783.75 km ( + 4.63 km )</td>
                     <td class="content text-dark">I-85, Norlina, North Carolina 27563</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-401</td>
@@ -5217,1314 +5217,1314 @@
             </section>
             <section id="vaus1">
                 <tr>
-                    <td class="content text-dark small">1109.62 mi ( + 0.74 mi )</td>
-                    <td class="content text-dark small">1786.03 km ( + 1.19 km )</td>
+                    <td class="content text-dark small">1108.95 mi ( + 0.74 mi )</td>
+					<td class="content text-dark small">1784.94 km ( + 1.19 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Boydton, Virginia 23917</td>
                     <td class="content text-dark">End US-1 in North Carolina, Start US-1 in Virginia<br>End Warren County, Start Mecklenburg County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1114.80 mi ( + 5.18 mi )</td>
-                    <td class="content text-dark small">1794.36 km ( + 8.33 km )</td>
+                    <td class="content text-dark small">1114.13 mi ( + 5.18 mi )</td>
+					<td class="content text-dark small">1793.27 km ( + 8.33 km )</td>
                     <td class="content text-dark">Mecklenburg SR 615 - Redlawn Rd, Boydton, Virginia 23917</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1118.61 mi ( + 3.81 mi )</td>
-                    <td class="content text-dark small">1800.50 km ( + 6.14 km )</td>
+                    <td class="content text-dark small">1117.94 mi ( + 3.81 mi )</td>
+					<td class="content text-dark small">1799.41 km ( + 6.14 km )</td>
                     <td class="content text-dark">US-58, Boydton, Virginia 23917</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-58</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1122.07 mi ( + 3.46 mi )</td>
-                    <td class="content text-dark small">1806.06 km ( + 5.56 km )</td>
+                    <td class="content text-dark small">1121.40 mi ( + 3.46 mi )</td>
+					<td class="content text-dark small">1804.97 km ( + 5.56 km )</td>
                     <td class="content text-dark">Mecklenburg SR 780 - Theater Rd</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-58, Start concurrency with Mecklenburg SR 780</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1122.27 mi ( + 0.20 mi )</td>
-                    <td class="content text-dark small">1806.38 km ( + 0.32 km )</td>
+                    <td class="content text-dark small">1121.60 mi ( + 0.20 mi )</td>
+					<td class="content text-dark small">1805.29 km ( + 0.32 km )</td>
                     <td class="content text-dark">US-1 - W Danville Rd, South Hill, Virginia 23970</td>
                     <td class="content text-dark">W Danville Rd, South Hill, Virginia 23970</td>
                     <td class="content text-dark">End concurrency with Mecklenburg SR 780</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1124.86 mi ( + 2.59 mi )</td>
-                    <td class="content text-dark small">1810.54 km ( + 4.16 km )</td>
+                    <td class="content text-dark small">1124.19 mi ( + 2.59 mi )</td>
+					<td class="content text-dark small">1809.45 km ( + 4.16 km )</td>
                     <td class="content text-dark">Mecklenburg SR 637 - S Mecklenburg Ave, South Hill, Virginia 23970</td>
                     <td class="content text-dark">S Mecklenburg Ave, South Hill, Virginia 23970</td>
                     <td class="content text-dark">Start concurrency with Mecklenburg SR 637</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1125.02 mi ( + 0.16 mi )</td>
-                    <td class="content text-dark small">1810.79 km ( + 0.25 km )</td>
+                    <td class="content text-dark small">1124.35 mi ( + 0.16 mi )</td>
+					<td class="content text-dark small">1809.70 km ( + 0.25 km )</td>
                     <td class="content text-dark">VA-47 - W Atlantic St (WB) / E Atlantic St (EB), South Hill, Virginia 23970</td>
                     <td class="content text-dark">N Mecklenburg Ave, South Hill, Virginia 23970</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1125.38 mi ( + 0.36 mi )</td>
-                    <td class="content text-dark small">1811.37 km ( + 0.58 km )</td>
+                    <td class="content text-dark small">1124.71 mi ( + 0.36 mi )</td>
+					<td class="content text-dark small">1810.28 km ( + 0.58 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Mecklenburg SR 637</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1127.24 mi ( + 1.86 mi )</td>
-                    <td class="content text-dark small">1814.36 km ( + 2.99 km )</td>
+                    <td class="content text-dark small">1126.57 mi ( + 1.86 mi )</td>
+					<td class="content text-dark small">1813.27 km ( + 2.99 km )</td>
                     <td class="content text-dark">VA-138 - Union Mill Rd, South Hill, Virginia 23970</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1127.69 mi ( + 0.45 mi )</td>
-                    <td class="content text-dark small">1815.09 km ( + 0.73 km )</td>
+                    <td class="content text-dark small">1127.02 mi ( + 0.45 mi )</td>
+					<td class="content text-dark small">1814.00 km ( + 0.73 km )</td>
                     <td class="content text-dark">I-85, South Hill, Virginia 23970</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1128.11 mi ( + 0.42 mi )</td>
-                    <td class="content text-dark small">1815.76 km ( + 0.67 km )</td>
+                    <td class="content text-dark small">1127.44 mi ( + 0.42 mi )</td>
+					<td class="content text-dark small">1814.67 km ( + 0.67 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, South Hill, Virginia 23970</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1131.69 mi ( + 3.58 mi )</td>
-                    <td class="content text-dark small">1821.52 km ( + 5.76 km )</td>
+                    <td class="content text-dark small">1131.02 mi ( + 3.58 mi )</td>
+					<td class="content text-dark small">1820.43 km ( + 5.76 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Boydton Plank Rd, Brodnax, Virginia 23920</td>
                     <td class="content text-dark">End Mecklenburg County, Start Brunswick County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1132.07 mi ( + 0.38 mi )</td>
-                    <td class="content text-dark small">1822.13 km ( + 0.61 km )</td>
+                    <td class="content text-dark small">1131.40 mi ( + 0.38 mi )</td>
+					<td class="content text-dark small">1821.04 km ( + 0.61 km )</td>
                     <td class="content text-dark">Brunswick SR 657 - Tanner Town Rd, Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1133.61 mi ( + 1.54 mi )</td>
-                    <td class="content text-dark small">1824.61 km ( + 2.48 km )</td>
+                    <td class="content text-dark small">1132.94 mi ( + 1.54 mi )</td>
+					<td class="content text-dark small">1823.52 km ( + 2.48 km )</td>
                     <td class="content text-dark">Brunswick SR 637 - Old Indian Rd, Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1136.39 mi ( + 2.78 mi )</td>
-                    <td class="content text-dark small">1829.09 km ( + 4.48 km )</td>
+                    <td class="content text-dark small">1135.72 mi ( + 2.78 mi )</td>
+					<td class="content text-dark small">1828.00 km ( + 4.48 km )</td>
                     <td class="content text-dark">Brunswick SR 644 - Grandy Rd (SB) / Brunswick Dr (NB), Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1137.63 mi ( + 1.24 mi )</td>
-                    <td class="content text-dark small">1831.08 km ( + 1.99 km )</td>
+                    <td class="content text-dark small">1136.96 mi ( + 1.24 mi )</td>
+					<td class="content text-dark small">1829.99 km ( + 1.99 km )</td>
                     <td class="content text-dark">Brunswick SR 762 - Tower Rd, Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1137.73 mi ( + 0.10 mi )</td>
-                    <td class="content text-dark small">1831.24 km ( + 0.16 km )</td>
+                    <td class="content text-dark small">1137.06 mi ( + 0.10 mi )</td>
+					<td class="content text-dark small">1830.15 km ( + 0.16 km )</td>
                     <td class="content text-dark">Brunswick SR 763 - Millville Rd, Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1139.15 mi ( + 1.42 mi )</td>
-                    <td class="content text-dark small">1833.53 km ( + 2.29 km )</td>
+                    <td class="content text-dark small">1138.48 mi ( + 1.42 mi )</td>
+					<td class="content text-dark small">1832.44 km ( + 2.29 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Boydton Plank Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1139.61 mi ( + 0.46 mi )</td>
-                    <td class="content text-dark small">1834.27 km ( + 0.74 km )</td>
+                    <td class="content text-dark small">1138.94 mi ( + 0.46 mi )</td>
+					<td class="content text-dark small">1833.18 km ( + 0.74 km )</td>
                     <td class="content text-dark">VA-46 - Christanna Hwy, Alberta 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1139.86 mi ( + 0.25 mi )</td>
-                    <td class="content text-dark small">1834.67 km ( + 0.40 km )</td>
+                    <td class="content text-dark small">1139.19 mi ( + 0.25 mi )</td>
+					<td class="content text-dark small">1833.58 km ( + 0.40 km )</td>
                     <td class="content text-dark">Brunswick SR 758 - Little Doe Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1140.73 mi ( + 0.87 mi )</td>
-                    <td class="content text-dark small">1836.07 km ( + 1.40 km )</td>
+                    <td class="content text-dark small">1140.06 mi ( + 0.87 mi )</td>
+					<td class="content text-dark small">1834.98 km ( + 1.40 km )</td>
                     <td class="content text-dark">Brunswick SR F-077 - Colonial Downs Pl, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1140.77 mi ( + 0.04 mi )</td>
-                    <td class="content text-dark small">1836.13 km ( + 0.06 km )</td>
+                    <td class="content text-dark small">1140.10 mi ( + 0.04 mi )</td>
+					<td class="content text-dark small">1835.04 km ( + 0.06 km )</td>
                     <td class="content text-dark">Brunswick SR 634 - Liberty Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1141.04 mi ( + 0.27 mi )</td>
-                    <td class="content text-dark small">1836.57 km ( + 0.44 km )</td>
+                    <td class="content text-dark small">1140.37 mi ( + 0.27 mi )</td>
+					<td class="content text-dark small">1835.48 km ( + 0.44 km )</td>
                     <td class="content text-dark">I-85, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1141.31 mi ( + 0.27 mi )</td>
-                    <td class="content text-dark small">1837.00 km ( + 0.43 km )</td>
+                    <td class="content text-dark small">1140.64 mi ( + 0.27 mi )</td>
+					<td class="content text-dark small">1835.91 km ( + 0.43 km )</td>
                     <td class="content text-dark">Brunswick SR F078 - Rosebud Ln, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1141.52 mi ( + 0.21 mi )</td>
-                    <td class="content text-dark small">1837.34 km ( + 0.34 km )</td>
+                    <td class="content text-dark small">1140.85 mi ( + 0.21 mi )</td>
+					<td class="content text-dark small">1836.25 km ( + 0.34 km )</td>
                     <td class="content text-dark">Brunswick SR 1401 - Main St, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1141.86 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">1837.89 km ( + 0.55 km )</td>
+                    <td class="content text-dark small">1141.19 mi ( + 0.34 mi )</td>
+					<td class="content text-dark small">1836.80 km ( + 0.55 km )</td>
                     <td class="content text-dark">Brunswick SR 1416 - Connelly St, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1141.97 mi ( + 0.11 mi )</td>
-                    <td class="content text-dark small">1838.06 km ( + 0.17 km )</td>
+                    <td class="content text-dark small">1141.30 mi ( + 0.11 mi )</td>
+					<td class="content text-dark small">1836.97 km ( + 0.17 km )</td>
                     <td class="content text-dark">Brunswick SR 1407 - Center St, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1142.30 mi ( + 0.33 mi )</td>
-                    <td class="content text-dark small">1838.60 km ( + 0.54 km )</td>
+                    <td class="content text-dark small">1141.63 mi ( + 0.33 mi )</td>
+					<td class="content text-dark small">1837.51 km ( + 0.54 km )</td>
                     <td class="content text-dark">Brunswick SR 1406 - Prestwood Rd (SB) / Selma St (NB), Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1142.42 mi ( + 0.12 mi )</td>
-                    <td class="content text-dark small">1838.79 km ( + 0.19 km )</td>
+                    <td class="content text-dark small">1141.75 mi ( + 0.12 mi )</td>
+					<td class="content text-dark small">1837.70 km ( + 0.19 km )</td>
                     <td class="content text-dark">Brunswick SR 1403 - 2nd Ave, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1142.80 mi ( + 0.38 mi )</td>
-                    <td class="content text-dark small">1839.40 km ( + 0.61 km )</td>
+                    <td class="content text-dark small">1142.13 mi ( + 0.38 mi )</td>
+					<td class="content text-dark small">1838.31 km ( + 0.61 km )</td>
                     <td class="content text-dark">Brunswick SR 606 - Virginia Ave, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1143.18 mi ( + 0.38 mi )</td>
-                    <td class="content text-dark small">1840.02 km ( + 0.62 km )</td>
+                    <td class="content text-dark small">1142.51 mi ( + 0.38 mi )</td>
+					<td class="content text-dark small">1838.93 km ( + 0.62 km )</td>
                     <td class="content text-dark">Brunswick SR 614 - Beaver Dam Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Brunswick SR 614</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1143.20 mi ( + 0.02 mi )</td>
-                    <td class="content text-dark small">1840.06 km ( + 0.04 km )</td>
+                    <td class="content text-dark small">1142.53 mi ( + 0.02 mi )</td>
+					<td class="content text-dark small">1838.97 km ( + 0.04 km )</td>
                     <td class="content text-dark">Brunswick SR 614 - Pitch Kettle Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Brunswick SR 614</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1144.27 mi ( + 1.07 mi )</td>
-                    <td class="content text-dark small">1841.78 km ( + 1.72 km )</td>
+                    <td class="content text-dark small">1143.60 mi ( + 1.07 mi )</td>
+					<td class="content text-dark small">1840.69 km ( + 1.72 km )</td>
                     <td class="content text-dark">Brunswick SR 726 - Chestnut Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1145.04 mi ( + 0.77 mi )</td>
-                    <td class="content text-dark small">1843.01 km ( + 1.23 km )</td>
+                    <td class="content text-dark small">1144.37 mi ( + 0.77 mi )</td>
+					<td class="content text-dark small">1841.92 km ( + 1.23 km )</td>
                     <td class="content text-dark">Brunswick SR 642 - Poor House Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Brunswick SR 642</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1145.38 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">1843.56 km ( + 0.55 km )</td>
+                    <td class="content text-dark small">1144.71 mi ( + 0.34 mi )</td>
+					<td class="content text-dark small">1842.47 km ( + 0.55 km )</td>
                     <td class="content text-dark">Brunswick SR 642 - Zero Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark">Boydton Plank Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark">End concurrency with Brunswick SR 642</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1145.72 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">1844.11 km ( + 0.55 km )</td>
+                    <td class="content text-dark small">1145.05 mi ( + 0.34 mi )</td>
+					<td class="content text-dark small">1843.02 km ( + 0.55 km )</td>
                     <td class="content text-dark">Brunswick SR 642 - Zero Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark">Boydton Plank Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark">End concurrency with Brunswick SR 642</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1146.73 mi ( + 1.01 mi )</td>
-                    <td class="content text-dark small">1845.74 km ( + 1.63 km )</td>
+                    <td class="content text-dark small">1146.06 mi ( + 1.01 mi )</td>
+					<td class="content text-dark small">1844.65 km ( + 1.63 km )</td>
                     <td class="content text-dark">Brunswick SR 643 - Flat Rock Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1147.27 mi ( + 0.54 mi )</td>
-                    <td class="content text-dark small">1846.62 km ( + 0.88 km )</td>
+                    <td class="content text-dark small">1146.60 mi ( + 0.54 mi )</td>
+					<td class="content text-dark small">1845.53 km ( + 0.88 km )</td>
                     <td class="content text-dark">Brunswick SR 630 - Sturgeon Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Brunswick SR 630</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1147.34 mi ( + 0.07 mi )</td>
-                    <td class="content text-dark small">1846.74 km ( + 0.12 km )</td>
+                    <td class="content text-dark small">1146.67 mi ( + 0.07 mi )</td>
+					<td class="content text-dark small">1845.65 km ( + 0.12 km )</td>
                     <td class="content text-dark">Brunswick SR 630 - Waqua Creek Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Brunswick SR 630</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1150.01 mi ( + 2.67 mi )</td>
-                    <td class="content text-dark small">1851.03 km ( + 4.29 km )</td>
+                    <td class="content text-dark small">1149.34 mi ( + 2.67 mi )</td>
+					<td class="content text-dark small">1849.94 km ( + 4.29 km )</td>
                     <td class="content text-dark">Brunswick SR 765 - Shady Pl, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1150.16 mi ( + 0.15 mi )</td>
-                    <td class="content text-dark small">1851.27 km ( + 0.24 km )</td>
+                    <td class="content text-dark small">1149.49 mi ( + 0.15 mi )</td>
+					<td class="content text-dark small">1850.18 km ( + 0.24 km )</td>
                     <td class="content text-dark">Brunswick SR 764 - Wynn Creek Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1151.22 mi ( + 1.06 mi )</td>
-                    <td class="content text-dark small">1852.98 km ( + 1.71 km )</td>
+                    <td class="content text-dark small">1150.55 mi ( + 1.06 mi )</td>
+					<td class="content text-dark small">1851.89 km ( + 1.71 km )</td>
                     <td class="content text-dark">Brunswick SR 1110 - King Ave, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1151.35 mi ( + 0.13 mi )</td>
-                    <td class="content text-dark small">1853.19 km ( + 0.21 km )</td>
+                    <td class="content text-dark small">1150.68 mi ( + 0.13 mi )</td>
+					<td class="content text-dark small">1852.10 km ( + 0.21 km )</td>
                     <td class="content text-dark">Brunswick SR 629 - Rawlings Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1152.37 mi ( + 1.02 mi )</td>
-                    <td class="content text-dark small">1854.83 km ( + 1.64 km )</td>
+                    <td class="content text-dark small">1151.70 mi ( + 1.02 mi )</td>
+					<td class="content text-dark small">1853.74 km ( + 1.64 km )</td>
                     <td class="content text-dark">Brunswick SR 712 - Old Stage Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1152.60 mi ( + 0.23 mi )</td>
-                    <td class="content text-dark small">1855.20 km ( + 0.37 km )</td>
+                    <td class="content text-dark small">1151.93 mi ( + 0.23 mi )</td>
+					<td class="content text-dark small">1854.11 km ( + 0.37 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Boydton Plank Rd, McKenney, Virginia 23872</td>
                     <td class="content text-dark">End Brunswick County, Start Dinwiddie County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1155.34 mi ( + 2.74 mi )</td>
-                    <td class="content text-dark small">1859.61 km ( + 4.41 km )</td>
+                    <td class="content text-dark small">1154.67 mi ( + 2.74 mi )</td>
+					<td class="content text-dark small">1858.52 km ( + 4.41 km )</td>
                     <td class="content text-dark">VA-40 - Doyle Rd, McKenney, Virginia 23872</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1160.73 mi ( + 5.39 mi )</td>
-                    <td class="content text-dark small">1868.28 km ( + 8.67 km )</td>
+                    <td class="content text-dark small">1160.06 mi ( + 5.39 mi )</td>
+					<td class="content text-dark small">1867.19 km ( + 8.67 km )</td>
                     <td class="content text-dark">Dinwiddie SR 650 - Lew Jones Rd, McKenney, Virginia 23872</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Dinwiddie SR 650</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1161.04 mi ( + 0.31 mi )</td>
-                    <td class="content text-dark small">1868.78 km ( + 0.50 km )</td>
+                    <td class="content text-dark small">1160.37 mi ( + 0.31 mi )</td>
+					<td class="content text-dark small">1867.69 km ( + 0.50 km )</td>
                     <td class="content text-dark">Dinwiddie SR 650 - First St, McKenney, Virginia 23872</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Dinwiddie SR 650</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1161.22 mi ( + 0.18 mi )</td>
-                    <td class="content text-dark small">1869.07 km ( + 0.29 km )</td>
+                    <td class="content text-dark small">1160.55 mi ( + 0.18 mi )</td>
+					<td class="content text-dark small">1867.98 km ( + 0.29 km )</td>
                     <td class="content text-dark">Dinwiddie SR 646 - Glebe Rd, McKenney, Virginia 23872</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1162.83 mi ( + 1.61 mi )</td>
-                    <td class="content text-dark small">1871.66 km ( + 2.59 km )</td>
+                    <td class="content text-dark small">1162.16 mi ( + 1.61 mi )</td>
+					<td class="content text-dark small">1870.57 km ( + 2.59 km )</td>
                     <td class="content text-dark">Dinwiddie SR F-855 - Blessings Ln, McKenney, Virginia 23872</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1164.04 mi ( + 1.21 mi )</td>
-                    <td class="content text-dark small">1873.60 km ( + 1.94 km )</td>
+                    <td class="content text-dark small">1163.37 mi ( + 1.21 mi )</td>
+					<td class="content text-dark small">1872.51 km ( + 1.94 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Boydton Plank Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1164.84 mi ( + 0.80 mi )</td>
-                    <td class="content text-dark small">1874.89 km ( + 1.29 km )</td>
+                    <td class="content text-dark small">1164.17 mi ( + 0.80 mi )</td>
+					<td class="content text-dark small">1873.80 km ( + 1.29 km )</td>
                     <td class="content text-dark">Dinwiddie SR 647 - Nash Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1165.37 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">1875.75 km ( + 0.86 km )</td>
+                    <td class="content text-dark small">1164.70 mi ( + 0.53 mi )</td>
+					<td class="content text-dark small">1874.66 km ( + 0.86 km )</td>
                     <td class="content text-dark">Dinwiddie SR 627 - Courthouse Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1165.59 mi ( + 0.22 mi )</td>
-                    <td class="content text-dark small">1876.10 km ( + 0.35 km )</td>
+                    <td class="content text-dark small">1164.92 mi ( + 0.22 mi )</td>
+					<td class="content text-dark small">1875.01 km ( + 0.35 km )</td>
                     <td class="content text-dark">Dinwiddie SR 703 - Carson Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1170.57 mi ( + 4.98 mi )</td>
-                    <td class="content text-dark small">1884.11 km ( + 8.01 km )</td>
+                    <td class="content text-dark small">1169.90 mi ( + 4.98 mi )</td>
+					<td class="content text-dark small">1883.02 km ( + 8.01 km )</td>
                     <td class="content text-dark">Dinwiddie SR 660 - Quaker Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1171.46 mi ( + 0.89 mi )</td>
-                    <td class="content text-dark small">1885.54 km ( + 1.43 km )</td>
+                    <td class="content text-dark small">1170.79 mi ( + 0.89 mi )</td>
+					<td class="content text-dark small">1884.45 km ( + 1.43 km )</td>
                     <td class="content text-dark">Dinwiddie SR 613 - White Oak Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1174.12 mi ( + 2.66 mi )</td>
-                    <td class="content text-dark small">1889.82 km ( + 4.28 km )</td>
+                    <td class="content text-dark small">1173.45 mi ( + 2.66 mi )</td>
+					<td class="content text-dark small">1888.73 km ( + 4.28 km )</td>
                     <td class="content text-dark">Dinwiddie SR F-082 - Plane Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1174.16 mi ( + 0.04 mi )</td>
-                    <td class="content text-dark small">1889.88 km ( + 0.06 km )</td>
+                    <td class="content text-dark small">1173.49 mi ( + 0.04 mi )</td>
+					<td class="content text-dark small">1888.79 km ( + 0.06 km )</td>
                     <td class="content text-dark">I-85, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1174.22 mi ( + 0.06 mi )</td>
-                    <td class="content text-dark small">1889.98 km ( + 0.10 km )</td>
+                    <td class="content text-dark small">1173.55 mi ( + 0.06 mi )</td>
+					<td class="content text-dark small">1888.89 km ( + 0.10 km )</td>
                     <td class="content text-dark">Dinwiddie SR F-081 - Frontage Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1174.54 mi ( + 0.32 mi )</td>
-                    <td class="content text-dark small">1890.49 km ( + 0.51 km )</td>
+                    <td class="content text-dark small">1173.87 mi ( + 0.32 mi )</td>
+					<td class="content text-dark small">1889.40 km ( + 0.51 km )</td>
                     <td class="content text-dark">US-460 - Airport St, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-460 Business</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1175.32 mi ( + 0.78 mi )</td>
-                    <td class="content text-dark small">1891.74 km ( + 1.25 km )</td>
+                    <td class="content text-dark small">1174.65 mi ( + 0.78 mi )</td>
+					<td class="content text-dark small">1890.65 km ( + 1.25 km )</td>
                     <td class="content text-dark">Dinwiddie SR 670 - Duncan Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1176.29 mi ( + 0.97 mi )</td>
-                    <td class="content text-dark small">1893.30 km ( + 1.56 km )</td>
+                    <td class="content text-dark small">1175.62 mi ( + 0.97 mi )</td>
+					<td class="content text-dark small">1892.21 km ( + 1.56 km )</td>
                     <td class="content text-dark">I-85 & US-460, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1177.46 mi ( + 1.17 mi )</td>
-                    <td class="content text-dark small">1895.19 km ( + 1.89 km )</td>
+                    <td class="content text-dark small">1176.79 mi ( + 1.17 mi )</td>
+					<td class="content text-dark small">1894.10 km ( + 1.89 km )</td>
                     <td class="content text-dark">VA-226 - Cox Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark">W Washington St, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1177.89 mi ( + 0.43 mi )</td>
-                    <td class="content text-dark small">1895.89 km ( + 0.70 km )</td>
+                    <td class="content text-dark small">1177.22 mi ( + 0.43 mi )</td>
+					<td class="content text-dark small">1894.80 km ( + 0.70 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W Washington St, Petersburg, Virginia 23803</td>
                     <td class="content text-dark">End Dinwiddie County, Start City of Petersburg</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1178.96 mi ( + 1.07 mi )</td>
-                    <td class="content text-dark small">1897.61 km ( + 1.72 km )</td>
+                    <td class="content text-dark small">1178.29 mi ( + 1.07 mi )</td>
+					<td class="content text-dark small">1896.52 km ( + 1.72 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W Washington St (SB) / W Wythe St (NB), Petersburg, Virginia 23803</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1180.45 mi ( + 1.49 mi )</td>
-                    <td class="content text-dark small">1900.01 km ( + 2.40 km )</td>
+                    <td class="content text-dark small">1179.78 mi ( + 1.49 mi )</td>
+					<td class="content text-dark small">1898.92 km ( + 2.40 km )</td>
                     <td class="content text-dark">US-301 Alternate - S Sycamore St, Petersburg, Virginia 23803</td>
                     <td class="content text-dark">E Washington St (SB) / E Wythe St (NB), Petersburg, Virginia 23803</td>
                     <td class="content text-dark">Start concurrency with US-301 Alternate</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1180.53 mi ( + 0.08 mi )</td>
-                    <td class="content text-dark small">1900.14 km ( + 0.13 km )</td>
+                    <td class="content text-dark small">1179.86 mi ( + 0.08 mi )</td>
+					<td class="content text-dark small">1899.05 km ( + 0.13 km )</td>
                     <td class="content text-dark">US-301 & US-1 - S Adams St, Petersburg, Virginia 23803</td>
                     <td class="content text-dark">S Adams St, Petersburg, Virginia 23803</td>
                     <td class="content text-dark">End concurrency with US-301 Alternate & US-460 Business, Start concurrency with US-301</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1180.61 mi ( + 0.08 mi )</td>
-                    <td class="content text-dark small">1900.27 km ( + 0.13 km )</td>
+                    <td class="content text-dark small">1179.94 mi ( + 0.08 mi )</td>
+					<td class="content text-dark small">1899.18 km ( + 0.13 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Adams St, Petersburg, Virginia 23803</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1180.83 mi ( + 0.22 mi )</td>
-                    <td class="content text-dark small">1900.63 km ( + 0.36 km )</td>
+                    <td class="content text-dark small">1180.16 mi ( + 0.22 mi )</td>
+					<td class="content text-dark small">1899.54 km ( + 0.36 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Adams St, Petersburg, Virginia 23803</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1180.94 mi ( + 0.11 mi )</td>
-                    <td class="content text-dark small">1900.81 km ( + 0.18 km )</td>
+                    <td class="content text-dark small">1180.27 mi ( + 0.11 mi )</td>
+					<td class="content text-dark small">1899.72 km ( + 0.18 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">MLK Jr. Brg, Petersburg, Virginia 23803</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1181.23 mi ( + 0.29 mi )</td>
-                    <td class="content text-dark small">1901.28 km ( + 0.47 km )</td>
+                    <td class="content text-dark small">1180.56 mi ( + 0.29 mi )</td>
+					<td class="content text-dark small">1900.19 km ( + 0.47 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">(The) Blvd, Colonial Heights, Virginia 23834</td>
                     <td class="content text-dark">End City of Petersburg, Start City of Colonial Heights</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1182.83 mi ( + 1.60 mi )</td>
-                    <td class="content text-dark small">1903.85 km ( + 2.57 km )</td>
+                    <td class="content text-dark small">1182.16 mi ( + 1.60 mi )</td>
+					<td class="content text-dark small">1902.76 km ( + 2.57 km )</td>
                     <td class="content text-dark">VA-144 - Temple Ave. Colonial Heights, Virginia 23834</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with VA-144</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1183.57 mi ( + 0.74 mi )</td>
-                    <td class="content text-dark small">1905.04 km ( + 1.19 km )</td>
+                    <td class="content text-dark small">1182.90 mi ( + 0.74 mi )</td>
+					<td class="content text-dark small">1903.95 km ( + 1.19 km )</td>
                     <td class="content text-dark">Colonial Heights SR 626 - Temple Ave. Colonial Heights, Virginia 23834</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with VA-144</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1184.54 mi ( + 0.97 mi )</td>
-                    <td class="content text-dark small">1906.60 km ( + 1.56 km )</td>
+                    <td class="content text-dark small">1183.87 mi ( + 0.97 mi )</td>
+					<td class="content text-dark small">1905.51 km ( + 1.56 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">(The) Blvd, Chester, Virginia 23831</td>
                     <td class="content text-dark">End City of Colonial Heights, Start Chesterfield County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1184.77 mi ( + 0.23 mi )</td>
-                    <td class="content text-dark small">1906.97 km ( + 0.37 km )</td>
+                    <td class="content text-dark small">1184.10 mi ( + 0.23 mi )</td>
+					<td class="content text-dark small">1905.88 km ( + 0.37 km )</td>
                     <td class="content text-dark">VA-144 - Harrowgate Rd, Chester, Virginia 23831</td>
                     <td class="content text-dark">US-1, Chester, Virginia 23831</td>
                     <td class="content text-dark">End concurrency with VA-144</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1186.10 mi ( + 1.33 mi )</td>
-                    <td class="content text-dark small">1909.11 km ( + 2.14 km )</td>
+                    <td class="content text-dark small">1185.43 mi ( + 1.33 mi )</td>
+					<td class="content text-dark small">1908.02 km ( + 2.14 km )</td>
                     <td class="content text-dark">Chesterfield SR 620 - Woods Edge Rd, Chester, Virginia 23831</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1186.64 mi ( + 0.54 mi )</td>
-                    <td class="content text-dark small">1909.99 km ( + 0.88 km )</td>
+                    <td class="content text-dark small">1185.97 mi ( + 0.54 mi )</td>
+					<td class="content text-dark small">1908.90 km ( + 0.88 km )</td>
                     <td class="content text-dark">Chesterfield SR 746 - Ruffin Mill Rd, Chester, Virginia 23831</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1189.58 mi ( + 2.94 mi )</td>
-                    <td class="content text-dark small">1914.73 km ( + 4.74 km )</td>
+                    <td class="content text-dark small">1188.91 mi ( + 2.94 mi )</td>
+					<td class="content text-dark small">1913.64 km ( + 4.74 km )</td>
                     <td class="content text-dark">VA-10 - W Hundred Rd, Chester, Virginia 23831</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1191.16 mi ( + 1.58 mi )</td>
-                    <td class="content text-dark small">1917.26 km ( + 2.53 km )</td>
+                    <td class="content text-dark small">1190.49 mi ( + 1.58 mi )</td>
+					<td class="content text-dark small">1916.17 km ( + 2.53 km )</td>
                     <td class="content text-dark">VA-288 - World War II Veterans Memorial Hwy, Chester, Virginia 23831</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1191.44 mi ( + 0.28 mi )</td>
-                    <td class="content text-dark small">1917.71 km ( + 0.45 km )</td>
+                    <td class="content text-dark small">1190.77 mi ( + 0.28 mi )</td>
+					<td class="content text-dark small">1916.62 km ( + 0.45 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Bellwood, Virginia 23237</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1193.50 mi ( + 2.06 mi )</td>
-                    <td class="content text-dark small">1921.03 km ( + 3.32 km )</td>
+                    <td class="content text-dark small">1192.83 mi ( + 2.06 mi )</td>
+					<td class="content text-dark small">1919.94 km ( + 3.32 km )</td>
                     <td class="content text-dark">VA-145 - Chester Rd, Bellwood, Virginia 23237</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1195.12 mi ( + 1.62 mi )</td>
-                    <td class="content text-dark small">1923.64 km ( + 2.61 km )</td>
+                    <td class="content text-dark small">1194.45 mi ( + 1.62 mi )</td>
+					<td class="content text-dark small">1922.55 km ( + 2.61 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Bensley, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1195.95 mi ( + 0.83 mi )</td>
-                    <td class="content text-dark small">1924.98 km ( + 1.34 km )</td>
+                    <td class="content text-dark small">1195.28 mi ( + 0.83 mi )</td>
+					<td class="content text-dark small">1923.89 km ( + 1.34 km )</td>
                     <td class="content text-dark">VA-150 - Chippenham Pkwy, Bensley, Virginia 23234</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1197.10 mi ( + 1.15 mi )</td>
-                    <td class="content text-dark small">1926.83 km ( + 1.85 km )</td>
+                    <td class="content text-dark small">1196.43 mi ( + 1.15 mi )</td>
+					<td class="content text-dark small">1925.74 km ( + 1.85 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Richmond, Virginia, 23234</td>
                     <td class="content text-dark">End Chesterwood County, Start City of Richmond</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1197.15 mi ( + 0.05 mi )</td>
-                    <td class="content text-dark small">1926.91 km ( + 0.08 km )</td>
+                    <td class="content text-dark small">1196.48 mi ( + 0.05 mi )</td>
+					<td class="content text-dark small">1925.82 km ( + 0.08 km )</td>
                     <td class="content text-dark">Richmond SR 647 - Walmsley Blvd, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1197.98 mi ( + 0.83 mi )</td>
-                    <td class="content text-dark small">1928.25 km ( + 1.34 km )</td>
+                    <td class="content text-dark small">1197.31 mi ( + 0.83 mi )</td>
+					<td class="content text-dark small">1927.16 km ( + 1.34 km )</td>
                     <td class="content text-dark">VA-161 - Bells Rd, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1200.11 mi ( + 2.13 mi )</td>
-                    <td class="content text-dark small">1931.69 km ( + 3.44 km )</td>
+                    <td class="content text-dark small">1199.44 mi ( + 2.13 mi )</td>
+					<td class="content text-dark small">1930.60 km ( + 3.44 km )</td>
                     <td class="content text-dark">Richmond SR 637 - N Hopkins Rd, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1201.10 mi ( + 0.99 mi )</td>
-                    <td class="content text-dark small">1933.28 km ( + 1.59 km )</td>
+                    <td class="content text-dark small">1200.43 mi ( + 0.99 mi )</td>
+					<td class="content text-dark small">1932.19 km ( + 1.59 km )</td>
                     <td class="content text-dark">US-360 - Hull St, Richmond, Virginia 23234</td>
                     <td class="content text-dark">Cowardin Ave, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1201.49 mi ( + 0.39 mi )</td>
-                    <td class="content text-dark small">1933.91 km ( + 0.63 km )</td>
+                    <td class="content text-dark small">1200.82 mi ( + 0.39 mi )</td>
+					<td class="content text-dark small">1932.82 km ( + 0.63 km )</td>
                     <td class="content text-dark">US-60 - Semmes Ave, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1201.66 mi ( + 0.17 mi )</td>
-                    <td class="content text-dark small">1934.19 km ( + 0.28 km )</td>
+                    <td class="content text-dark small">1200.99 mi ( + 0.17 mi )</td>
+					<td class="content text-dark small">1933.10 km ( + 0.28 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Robert E. Lee Brg, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1202.37 mi ( + 0.71 mi )</td>
-                    <td class="content text-dark small">1935.34 km ( + 1.15 km )</td>
+                    <td class="content text-dark small">1201.70 mi ( + 0.71 mi )</td>
+					<td class="content text-dark small">1934.25 km ( + 1.15 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Belvidere St, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1202.85 mi ( + 0.48 mi )</td>
-                    <td class="content text-dark small">1936.12 km ( + 0.78 km )</td>
+                    <td class="content text-dark small">1202.18 mi ( + 0.48 mi )</td>
+					<td class="content text-dark small">1935.03 km ( + 0.78 km )</td>
                     <td class="content text-dark">VA-195 - Downtown Expy, Richmond 23234</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1202.98 mi ( + 0.13 mi )</td>
-                    <td class="content text-dark small">1936.34 km ( + 0.22 km )</td>
+                    <td class="content text-dark small">1202.31 mi ( + 0.13 mi )</td>
+					<td class="content text-dark small">1935.25 km ( + 0.22 km )</td>
                     <td class="content text-dark">VA-147 (EB) - W Cary St, Richmond 23234</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1203.07 mi ( + 0.09 mi )</td>
-                    <td class="content text-dark small">1936.49 km ( + 0.15 km )</td>
+                    <td class="content text-dark small">1202.40 mi ( + 0.09 mi )</td>
+					<td class="content text-dark small">1935.40 km ( + 0.15 km )</td>
                     <td class="content text-dark">VA-147 (WB) - W Main St, Richmond 23234</td>
                     <td class="content text-dark">N Belvidere St, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1203.31 mi ( + 0.24 mi )</td>
-                    <td class="content text-dark small">1936.87 km ( + 0.38 km )</td>
+                    <td class="content text-dark small">1202.64 mi ( + 0.24 mi )</td>
+					<td class="content text-dark small">1935.78 km ( + 0.38 km )</td>
                     <td class="content text-dark">US-33 & US-250 - W Broad St, Richmond 23234</td>
                     <td class="content text-dark">N Belvidere St, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1203.65 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">1937.41 km ( + 0.54 km )</td>
+                    <td class="content text-dark small">1202.98 mi ( + 0.34 mi )</td>
+					<td class="content text-dark small">1936.32 km ( + 0.54 km )</td>
                     <td class="content text-dark">I-64 & I-95, Richmond 23234</td>
                     <td class="content text-dark">N Belvidere St, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1203.87 mi ( + 0.22 mi )</td>
-                    <td class="content text-dark small">1937.77 km ( + 0.36 km )</td>
+                    <td class="content text-dark small">1203.20 mi ( + 0.22 mi )</td>
+					<td class="content text-dark small">1936.68 km ( + 0.36 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Chamberlayne Pkwy, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1205.08 mi ( + 1.21 mi )</td>
-                    <td class="content text-dark small">1939.71 km ( + 1.94 km )</td>
+                    <td class="content text-dark small">1204.41 mi ( + 1.21 mi )</td>
+					<td class="content text-dark small">1938.62 km ( + 1.94 km )</td>
                     <td class="content text-dark">US-1 - Azalea Ave, Richmond, Virginia 23234</td>
                     <td class="content text-dark">Azalea Ave, Richmond, Virginia, 23234</td>
                     <td class="content text-dark">End concurrency with US-301</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1205.30 mi ( + 0.22 mi )</td>
-                    <td class="content text-dark small">1940.07 km ( + 0.36 km )</td>
+                    <td class="content text-dark small">1204.63 mi ( + 0.22 mi )</td>
+					<td class="content text-dark small">1938.98 km ( + 0.36 km )</td>
                     <td class="content text-dark">US-1 - Brook Rd, Richmond, Virginia 23234</td>
                     <td class="content text-dark">Brook Rd, Richmond, Virginia, 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1205.34 mi ( + 0.04 mi )</td>
-                    <td class="content text-dark small">1940.13 km ( + 0.06 km )</td>
+                    <td class="content text-dark small">1204.67 mi ( + 0.04 mi )</td>
+					<td class="content text-dark small">1939.04 km ( + 0.06 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Brook Rd, Lakeside, Virginia, 23228</td>
                     <td class="content text-dark">End City of Richmond, Start Henrico County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1205.60 mi ( + 0.26 mi )</td>
-                    <td class="content text-dark small">1940.54 km ( + 0.41 km )</td>
+                    <td class="content text-dark small">1204.93 mi ( + 0.26 mi )</td>
+					<td class="content text-dark small">1939.45 km ( + 0.41 km )</td>
                     <td class="content text-dark">I-95, Lakeside, Virginia, 23228</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1206.45 mi ( + 0.85 mi )</td>
-                    <td class="content text-dark small">1941.91 km ( + 1.37 km )</td>
+                    <td class="content text-dark small">1205.78 mi ( + 0.85 mi )</td>
+					<td class="content text-dark small">1940.82 km ( + 1.37 km )</td>
                     <td class="content text-dark">VA-161 - Hilliard Rd, Lakeside, Virginia, 23228</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1207.17 mi ( + 0.72 mi )</td>
-                    <td class="content text-dark small">1943.08 km ( + 1.17 km )</td>
+                    <td class="content text-dark small">1206.50 mi ( + 0.72 mi )</td>
+					<td class="content text-dark small">1941.99 km ( + 1.17 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Brook Rd, Glen Allen, Virginia 23060</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1207.66 mi ( + 0.49 mi )</td>
-                    <td class="content text-dark small">1943.87 km ( + 0.79 km )</td>
+                    <td class="content text-dark small">1206.99 mi ( + 0.49 mi )</td>
+					<td class="content text-dark small">1942.78 km ( + 0.79 km )</td>
                     <td class="content text-dark">VA-73 - E Parham Rd, Glen Allen, Virginia 23060</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1208.15 mi ( + 0.49 mi )</td>
-                    <td class="content text-dark small">1944.66 km ( + 0.79 km )</td>
+                    <td class="content text-dark small">1207.48 mi ( + 0.49 mi )</td>
+					<td class="content text-dark small">1943.57 km ( + 0.79 km )</td>
                     <td class="content text-dark">VA-73 - E Parham Rd, Glen Allen, Virginia 23060</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1209.79 mi ( + 1.64 mi )</td>
-                    <td class="content text-dark small">1947.30 km ( + 2.64 km )</td>
+                    <td class="content text-dark small">1209.12 mi ( + 1.64 mi )</td>
+					<td class="content text-dark small">1946.21 km ( + 2.64 km )</td>
                     <td class="content text-dark">I-295-VA, Glen Allen, Virginia 23060</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1211.27 mi ( + 1.48 mi )</td>
-                    <td class="content text-dark small">1949.69 km ( + 2.39 km )</td>
+                    <td class="content text-dark small">1210.60 mi ( + 1.48 mi )</td>
+					<td class="content text-dark small">1948.60 km ( + 2.39 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Washington Hwy, Ashland, Virginia 23005</td>
                     <td class="content text-dark">End Henrico County, Start Hanover County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1211.73 mi ( + 0.46 mi )</td>
-                    <td class="content text-dark small">1950.43 km ( + 0.74 km )</td>
+                    <td class="content text-dark small">1211.06 mi ( + 0.46 mi )</td>
+					<td class="content text-dark small">1949.34 km ( + 0.74 km )</td>
                     <td class="content text-dark">Hanover SR 656 - Sliding Hill Rd, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1212.00 mi ( + 0.27 mi )</td>
-                    <td class="content text-dark small">1950.86 km ( + 0.43 km )</td>
+                    <td class="content text-dark small">1211.33 mi ( + 0.27 mi )</td>
+					<td class="content text-dark small">1949.77 km ( + 0.43 km )</td>
                     <td class="content text-dark">Hanover SR 623 - Cedar Ln, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1215.87 mi ( + 3.87 mi )</td>
-                    <td class="content text-dark small">1957.08 km ( + 6.22 km )</td>
+                    <td class="content text-dark small">1215.20 mi ( + 3.87 mi )</td>
+					<td class="content text-dark small">1955.99 km ( + 6.22 km )</td>
                     <td class="content text-dark">Hanover SR 657 - Ashcake Rd, Ashland, Virginia 23005</td>
                     <td class="content text-dark">S Washington Hwy, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1216.73 mi ( + 0.86 mi )</td>
-                    <td class="content text-dark small">1958.46 km ( + 1.38 km )</td>
+                    <td class="content text-dark small">1216.06 mi ( + 0.86 mi )</td>
+					<td class="content text-dark small">1957.37 km ( + 1.38 km )</td>
                     <td class="content text-dark">VA-54 - England St, Ashland, Virginia 23005</td>
                     <td class="content text-dark">N Washington Hwy, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1218.44 mi ( + 1.71 mi )</td>
-                    <td class="content text-dark small">1961.21 km ( + 2.75 km )</td>
+                    <td class="content text-dark small">1217.77 mi ( + 1.71 mi )</td>
+					<td class="content text-dark small">1960.12 km ( + 2.75 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Washington Hwy, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1221.08 mi ( + 2.64 mi )</td>
-                    <td class="content text-dark small">1965.45 km ( + 4.24 km )</td>
+                    <td class="content text-dark small">1220.41 mi ( + 2.64 mi )</td>
+					<td class="content text-dark small">1964.36 km ( + 4.24 km )</td>
                     <td class="content text-dark">Hanover SR 738 - Old Ridge Rd, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1221.97 mi ( + 0.89 mi )</td>
-                    <td class="content text-dark small">1966.89 km ( + 1.44 km )</td>
+                    <td class="content text-dark small">1221.30 mi ( + 0.89 mi )</td>
+					<td class="content text-dark small">1965.80 km ( + 1.44 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Washington Hwy, Doswell, Virginia 23047</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1222.96 mi ( + 0.99 mi )</td>
-                    <td class="content text-dark small">1968.49 km ( + 1.60 km )</td>
+                    <td class="content text-dark small">1222.29 mi ( + 0.99 mi )</td>
+					<td class="content text-dark small">1967.40 km ( + 1.60 km )</td>
                     <td class="content text-dark">VA-30 - Kings Dominion Blvd, Doswell, Virginia 23047</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1224.33 mi ( + 1.37 mi )</td>
-                    <td class="content text-dark small">1970.70 km ( + 2.21 km )</td>
+                    <td class="content text-dark small">1223.66 mi ( + 1.37 mi )</td>
+					<td class="content text-dark small">1969.61 km ( + 2.21 km )</td>
                     <td class="content text-dark">Hanover SR 684 - Verdon Rd, Doswell, Virginia 23047</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1225.98 mi ( + 1.65 mi )</td>
-                    <td class="content text-dark small">1973.35 km ( + 2.65 km )</td>
+                    <td class="content text-dark small">1225.31 mi ( + 1.65 mi )</td>
+					<td class="content text-dark small">1972.26 km ( + 2.65 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark">End Hanover County, Start Caroline County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1228.99 mi ( + 3.01 mi )</td>
-                    <td class="content text-dark small">1978.19 km ( + 4.84 km )</td>
+                    <td class="content text-dark small">1228.32 mi ( + 3.01 mi )</td>
+					<td class="content text-dark small">1977.10 km ( + 4.84 km )</td>
                     <td class="content text-dark">Caroline SR 658 - Jericho Rd (WB)<br>VA-207 - Rogers Clark Blvd (EB), Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1232.64 mi ( + 3.65 mi )</td>
-                    <td class="content text-dark small">1984.06 km ( + 5.87 km )</td>
+                    <td class="content text-dark small">1231.97 mi ( + 3.65 mi )</td>
+					<td class="content text-dark small">1982.97 km ( + 5.87 km )</td>
                     <td class="content text-dark">Caroline SR 601 - Golansville Rd, Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1235.27 mi ( + 2.63 mi )</td>
-                    <td class="content text-dark small">1988.29 km ( + 4.23 km )</td>
+                    <td class="content text-dark small">1234.60 mi ( + 2.63 mi )</td>
+					<td class="content text-dark small">1987.20 km ( + 4.23 km )</td>
                     <td class="content text-dark">Caroline SR 639 - Ladysmith Rd, Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1240.34 mi ( + 5.07 mi )</td>
-                    <td class="content text-dark small">1996.44 km ( + 8.15 km )</td>
+                    <td class="content text-dark small">1239.67 mi ( + 5.07 mi )</td>
+					<td class="content text-dark small">1995.35 km ( + 8.15 km )</td>
                     <td class="content text-dark">Caroline SR 605 - Paige Rd, Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark">Patriot Hwy, Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1240.91 mi ( + 0.57 mi )</td>
-                    <td class="content text-dark small">1997.35 km ( + 0.91 km )</td>
+                    <td class="content text-dark small">1240.24 mi ( + 0.57 mi )</td>
+					<td class="content text-dark small">1996.26 km ( + 0.91 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Patriot Hwy, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark">End Caroline County, Start Spotsylvania County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1243.47 mi ( + 2.56 mi )</td>
-                    <td class="content text-dark small">2001.47 km ( + 4.12 km )</td>
+                    <td class="content text-dark small">1242.80 mi ( + 2.56 mi )</td>
+					<td class="content text-dark small">2000.38 km ( + 4.12 km )</td>
                     <td class="content text-dark">Spotsylvania SR 606 - Morris Rd (WB) / Mudd Tavern Rd (EB), Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1245.41 mi ( + 1.94 mi )</td>
-                    <td class="content text-dark small">2004.59 km ( + 3.12 km )</td>
+                    <td class="content text-dark small">1244.74 mi ( + 1.94 mi )</td>
+					<td class="content text-dark small">2003.50 km ( + 3.12 km )</td>
                     <td class="content text-dark">Spotsylvania SR 632 - N Roxbury Mill Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Spotsylvania SR 632</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1245.94 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">2005.45 km ( + 0.86 km )</td>
+                    <td class="content text-dark small">1245.27 mi ( + 0.53 mi )</td>
+					<td class="content text-dark small">2004.36 km ( + 0.86 km )</td>
                     <td class="content text-dark">Spotsylvania SR 632 - Hickory Ridge Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Spotsylvania SR 632</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1247.72 mi ( + 1.78 mi )</td>
-                    <td class="content text-dark small">2008.32 km ( + 2.87 km )</td>
+                    <td class="content text-dark small">1247.05 mi ( + 1.78 mi )</td>
+					<td class="content text-dark small">2007.23 km ( + 2.87 km )</td>
                     <td class="content text-dark">Spotsylvania SR 608 - Massaponax Church Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1249.10 mi ( + 1.38 mi )</td>
-                    <td class="content text-dark small">2010.54 km ( + 2.22 km )</td>
+                    <td class="content text-dark small">1248.43 mi ( + 1.38 mi )</td>
+					<td class="content text-dark small">2009.45 km ( + 2.22 km )</td>
                     <td class="content text-dark">Spotsylvania SR 749 - Old Telegraph Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1250.03 mi ( + 0.93 mi )</td>
-                    <td class="content text-dark small">2012.04 km ( + 1.50 km )</td>
+                    <td class="content text-dark small">1249.36 mi ( + 0.93 mi )</td>
+					<td class="content text-dark small">2010.95 km ( + 1.50 km )</td>
                     <td class="content text-dark">US-17 - Mills Dr, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-17</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1250.26 mi ( + 0.23 mi )</td>
-                    <td class="content text-dark small">2012.42 km ( + 0.38 km )</td>
+                    <td class="content text-dark small">1249.59 mi ( + 0.23 mi )</td>
+					<td class="content text-dark small">2011.33 km ( + 0.38 km )</td>
                     <td class="content text-dark">US-17 - Mills Dr, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1250.97 mi ( + 0.71 mi )</td>
-                    <td class="content text-dark small">2013.56 km ( + 1.14 km )</td>
+                    <td class="content text-dark small">1250.30 mi ( + 0.71 mi )</td>
+					<td class="content text-dark small">2012.47 km ( + 1.14 km )</td>
                     <td class="content text-dark">I-95 (SB)<br>I-95 & US-17 (NB), Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-17</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1251.72 mi ( + 0.75 mi )</td>
-                    <td class="content text-dark small">2014.76 km ( + 1.20 km )</td>
+                    <td class="content text-dark small">1251.05 mi ( + 0.75 mi )</td>
+					<td class="content text-dark small">2013.67 km ( + 1.20 km )</td>
                     <td class="content text-dark">Spotsylvania SR 636 - Mine Rd (SB) / Hood Dr (NB), Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1252.13 mi ( + 0.41 mi )</td>
-                    <td class="content text-dark small">2015.43 km ( + 0.67 km )</td>
+                    <td class="content text-dark small">1251.46 mi ( + 0.41 mi )</td>
+					<td class="content text-dark small">2014.34 km ( + 0.67 km )</td>
                     <td class="content text-dark">VA-202 - Courthouse Rd (WB) / Lafayette Blvd (EB), Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1252.74 mi ( + 0.61 mi )</td>
-                    <td class="content text-dark small">2016.41 km ( + 0.98 km )</td>
+                    <td class="content text-dark small">1252.07 mi ( + 0.61 mi )</td>
+					<td class="content text-dark small">2015.32 km ( + 0.98 km )</td>
                     <td class="content text-dark">Spotsylvania SR 620 - Harrison Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1253.42 mi ( + 0.68 mi )</td>
-                    <td class="content text-dark small">2017.50 km ( + 1.09 km )</td>
+                    <td class="content text-dark small">1252.75 mi ( + 0.68 mi )</td>
+					<td class="content text-dark small">2016.41 km ( + 1.09 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Emancipation Hwy, Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark">End Spotsylvania County, Start City of Fredericksburg</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1254.99 mi ( + 1.57 mi )</td>
-                    <td class="content text-dark small">2020.02 km ( + 2.52 km )</td>
+                    <td class="content text-dark small">1254.32 mi ( + 1.57 mi )</td>
+					<td class="content text-dark small">2018.93 km ( + 2.52 km )</td>
                     <td class="content text-dark">VA-3 - William St, Fredericksburg, 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1256.38 mi ( + 1.39 mi )</td>
-                    <td class="content text-dark small">2022.26 km ( + 2.24 km )</td>
+                    <td class="content text-dark small">1255.71 mi ( + 1.39 mi )</td>
+					<td class="content text-dark small">2021.17 km ( + 2.24 km )</td>
                     <td class="content text-dark">Fredericksburg SR 639 - Fall Hill Ave, Fredericksburg, 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1256.69 mi ( + 0.31 mi )</td>
-                    <td class="content text-dark small">2022.75 km ( + 0.49 km )</td>
+                    <td class="content text-dark small">1256.02 mi ( + 0.31 mi )</td>
+					<td class="content text-dark small">2021.66 km ( + 0.49 km )</td>
                     <td class="content text-dark">US-17 Business - Princess Anne St, Fredericksburg, 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-17 Business</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1256.79 mi ( + 0.10 mi )</td>
-                    <td class="content text-dark small">2022.92 km ( + 0.17 km )</td>
+                    <td class="content text-dark small">1256.12 mi ( + 0.10 mi )</td>
+					<td class="content text-dark small">2021.83 km ( + 0.17 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Cambridge St, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1257.12 mi ( + 0.33 mi )</td>
-                    <td class="content text-dark small">2023.48 km ( + 0.56 km )</td>
+                    <td class="content text-dark small">1256.45 mi ( + 0.33 mi )</td>
+					<td class="content text-dark small">2022.39 km ( + 0.56 km )</td>
                     <td class="content text-dark">US-17 Business - Warrenton Rd (WB)<br>Stafford SR 664 - Butler Rd (EB), Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-17 Business</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1257.44 mi ( + 0.32 mi )</td>
-                    <td class="content text-dark small">2023.99 km ( + 0.51 km )</td>
+                    <td class="content text-dark small">1256.77 mi ( + 0.32 mi )</td>
+					<td class="content text-dark small">2022.90 km ( + 0.51 km )</td>
                     <td class="content text-dark">Stafford SR 652 - Truslow Rd, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1259.10 mi ( + 1.66 mi )</td>
-                    <td class="content text-dark small">2026.65 km ( + 2.66 km )</td>
+                    <td class="content text-dark small">1258.43 mi ( + 1.66 mi )</td>
+					<td class="content text-dark small">2025.56 km ( + 2.66 km )</td>
                     <td class="content text-dark">Stafford SR 624 - Layhill Rd, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1260.00 mi ( + 0.90 mi )</td>
-                    <td class="content text-dark small">2028.10 km ( + 1.45 km )</td>
+                    <td class="content text-dark small">1259.33 mi ( + 0.90 mi )</td>
+					<td class="content text-dark small">2027.01 km ( + 1.45 km )</td>
                     <td class="content text-dark">Stafford SR 753 - Enon Rd (WB)<br>Stafford SR 676 - Cranes Corner Rd, Falmouth, Virginia 22405</td>
                     <td class="content text-dark">Richmond Hwy, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1261.41 mi ( + 1.41 mi )</td>
-                    <td class="content text-dark small">2030.37 km ( + 2.27 km )</td>
+                    <td class="content text-dark small">1260.74 mi ( + 1.41 mi )</td>
+					<td class="content text-dark small">2029.28 km ( + 2.27 km )</td>
                     <td class="content text-dark">Stafford SR 761 - Potomac Creek Dr, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1262.69 mi ( + 1.28 mi )</td>
-                    <td class="content text-dark small">2032.43 km ( + 2.06 km )</td>
+                    <td class="content text-dark small">1262.02 mi ( + 1.28 mi )</td>
+					<td class="content text-dark small">2031.34 km ( + 2.06 km )</td>
                     <td class="content text-dark">Stafford SR 628 - American Legion Rd (WB) / Eskimo Hill Rd (EB), Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1263.35 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">2033.50 km ( + 1.07 km )</td>
+                    <td class="content text-dark small">1262.68 mi ( + 0.66 mi )</td>
+					<td class="content text-dark small">2032.41 km ( + 1.07 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1264.90 mi ( + 1.55 mi )</td>
-                    <td class="content text-dark small">2036.00 km ( + 2.50 km )</td>
+                    <td class="content text-dark small">1264.23 mi ( + 1.55 mi )</td>
+					<td class="content text-dark small">2034.91 km ( + 2.50 km )</td>
                     <td class="content text-dark">Stafford SR 630 - Courthouse Rd, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1265.14 mi ( + 0.24 mi )</td>
-                    <td class="content text-dark small">2036.38 km ( + 0.38 km )</td>
+                    <td class="content text-dark small">1264.47 mi ( + 0.24 mi )</td>
+					<td class="content text-dark small">2035.29 km ( + 0.38 km )</td>
                     <td class="content text-dark">Stafford SR 631 - Bells Hill Rd (WB)<br>Stafford SR 687 - Hope Rd (EB), Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1266.59 mi ( + 1.45 mi )</td>
-                    <td class="content text-dark small">2038.71 km ( + 2.33 km )</td>
+                    <td class="content text-dark small">1265.92 mi ( + 1.45 mi )</td>
+					<td class="content text-dark small">2037.62 km ( + 2.33 km )</td>
                     <td class="content text-dark">Stafford SR 631 - Bells Hill Rd (WB) / Coal Landing Rd (EB), Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1267.58 mi ( + 0.99 mi )</td>
-                    <td class="content text-dark small">2040.31 km ( + 1.60 km )</td>
+                    <td class="content text-dark small">1266.91 mi ( + 0.99 mi )</td>
+					<td class="content text-dark small">2039.22 km ( + 1.60 km )</td>
                     <td class="content text-dark">Stafford SR 697 - Derrick Ln, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1267.91 mi ( + 0.33 mi )</td>
-                    <td class="content text-dark small">2040.85 km ( + 0.54 km )</td>
+                    <td class="content text-dark small">1267.24 mi ( + 0.33 mi )</td>
+					<td class="content text-dark small">2039.76 km ( + 0.54 km )</td>
                     <td class="content text-dark">Stafford SR 610 - Garrisonville Rd, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1268.09 mi ( + 0.18 mi )</td>
-                    <td class="content text-dark small">2041.14 km ( + 0.29 km )</td>
+                    <td class="content text-dark small">1267.42 mi ( + 0.18 mi )</td>
+					<td class="content text-dark small">2040.05 km ( + 0.29 km )</td>
                     <td class="content text-dark">I-95, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1268.93 mi ( + 0.84 mi )</td>
-                    <td class="content text-dark small">2042.50 km ( + 1.36 km )</td>
+                    <td class="content text-dark small">1268.26 mi ( + 0.84 mi )</td>
+					<td class="content text-dark small">2041.41 km ( + 1.36 km )</td>
                     <td class="content text-dark">Stafford SR 637 - Telegraph Rd, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1269.37 mi ( + 0.44 mi )</td>
-                    <td class="content text-dark small">2043.21 km ( + 0.71 km )</td>
+                    <td class="content text-dark small">1268.70 mi ( + 0.44 mi )</td>
+					<td class="content text-dark small">2042.12 km ( + 0.71 km )</td>
                     <td class="content text-dark">Stafford SR 639 - Woodstock Ln, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1270.31 mi ( + 0.94 mi )</td>
-                    <td class="content text-dark small">2044.73 km ( + 1.52 km )</td>
+                    <td class="content text-dark small">1269.64 mi ( + 0.94 mi )</td>
+					<td class="content text-dark small">2043.64 km ( + 1.52 km )</td>
                     <td class="content text-dark">Stafford SR 638 - Little Forest Church Rd, Boswell's Corner, Virginia 22554</td>
                     <td class="content text-dark">Richmond Hwy, Boswell's Corner, Virginia 22554</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1271.53 mi ( + 1.22 mi )</td>
-                    <td class="content text-dark small">2046.70 km ( + 1.97 km )</td>
+                    <td class="content text-dark small">1270.86 mi ( + 1.22 mi )</td>
+					<td class="content text-dark small">2045.61 km ( + 1.97 km )</td>
                     <td class="content text-dark">Stafford SR 637 - Telegraph Rd, Boswell's Corner, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1272.59 mi ( + 1.06 mi )</td>
-                    <td class="content text-dark small">2048.41 km ( + 1.71 km )</td>
+                    <td class="content text-dark small">1271.92 mi ( + 1.06 mi )</td>
+					<td class="content text-dark small">2047.32 km ( + 1.71 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Quantico, Virginia 22134</td>
                     <td class="content text-dark">End Stafford County, Start Prince William County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1274.81 mi ( + 2.22 mi )</td>
-                    <td class="content text-dark small">2051.98 km ( + 3.57 km )</td>
+                    <td class="content text-dark small">1274.14 mi ( + 2.22 mi )</td>
+					<td class="content text-dark small">2050.89 km ( + 3.57 km )</td>
                     <td class="content text-dark">Prince William SR 619 - Joplin Rd (WB) / Fuller Rd (EB), Quantico, Virginia 22134</td>
                     <td class="content text-dark">Richmond Hwy, Triangle, Virginia 22172</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1275.70 mi ( + 0.89 mi )</td>
-                    <td class="content text-dark small">2053.41 km ( + 1.43 km )</td>
+                    <td class="content text-dark small">1275.03 mi ( + 0.89 mi )</td>
+					<td class="content text-dark small">2052.32 km ( + 1.43 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Dumfries, Virginia 22026</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1277.21 mi ( + 1.51 mi )</td>
-                    <td class="content text-dark small">2055.84 km ( + 2.43 km )</td>
+                    <td class="content text-dark small">1276.54 mi ( + 1.51 mi )</td>
+					<td class="content text-dark small">2054.75 km ( + 2.43 km )</td>
                     <td class="content text-dark">VA-234 - Dumfries Rd, Dumfries, Virginia 22026</td>
                     <td class="content text-dark">Richmond Hwy, Cherry Hill, Virginia 22191</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1278.89 mi ( + 1.68 mi )</td>
-                    <td class="content text-dark small">2058.55 km ( + 2.71 km )</td>
+                    <td class="content text-dark small">1278.22 mi ( + 1.68 mi )</td>
+					<td class="content text-dark small">2057.46 km ( + 2.71 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Leesylvania, Virginia 22191</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1281.95 mi ( + 3.06 mi )</td>
-                    <td class="content text-dark small">2063.48 km ( + 4.93 km )</td>
+                    <td class="content text-dark small">1281.28 mi ( + 3.06 mi )</td>
+					<td class="content text-dark small">2062.39 km ( + 4.93 km )</td>
                     <td class="content text-dark">Prince William SR 642 - Opitz Blvd, Leesylvania, Virginia 22191</td>
                     <td class="content text-dark">Richmond Hwy, Woodbridge, Virginia 22191</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1283.16 mi ( + 1.21 mi )</td>
-                    <td class="content text-dark small">2065.42 km ( + 1.94 km )</td>
+                    <td class="content text-dark small">1282.49 mi ( + 1.21 mi )</td>
+					<td class="content text-dark small">2064.33 km ( + 1.94 km )</td>
                     <td class="content text-dark">VA-294 - Prince William Pkwy, Woodbridge, Virginia 22191</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1284.34 mi ( + 1.18 mi )</td>
-                    <td class="content text-dark small">2067.32 km ( + 1.90 km )</td>
+                    <td class="content text-dark small">1283.67 mi ( + 1.18 mi )</td>
+					<td class="content text-dark small">2066.23 km ( + 1.90 km )</td>
                     <td class="content text-dark">VA-123 - Gordon Blvd, Woodbridge, Virginia 22191</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1284.87 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">2068.18 km ( + 0.86 km )</td>
+                    <td class="content text-dark small">1284.20 mi ( + 0.53 mi )</td>
+					<td class="content text-dark small">2067.09 km ( + 0.86 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Lorton, Virginia 22079</td>
                     <td class="content text-dark">End Prince William County, Start Fairfax County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1285.41 mi ( + 0.54 mi )</td>
-                    <td class="content text-dark small">2069.05 km ( + 0.87 km )</td>
+                    <td class="content text-dark small">1284.74 mi ( + 0.54 mi )</td>
+					<td class="content text-dark small">2067.96 km ( + 0.87 km )</td>
                     <td class="content text-dark">I-95 - Henry G. Shirley Memorial Hwy, Lorton, Virginia 22079</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1288.15 mi ( + 2.74 mi )</td>
-                    <td class="content text-dark small">2073.46 km ( + 4.41 km )</td>
+                    <td class="content text-dark small">1287.48 mi ( + 2.74 mi )</td>
+					<td class="content text-dark small">2072.37 km ( + 4.41 km )</td>
                     <td class="content text-dark">Fairfax SR 642 - Lorton Rd, Lorton, Virginia 22079</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1288.69 mi ( + 0.54 mi )</td>
-                    <td class="content text-dark small">2074.33 km ( + 0.87 km )</td>
+                    <td class="content text-dark small">1288.02 mi ( + 0.54 mi )</td>
+					<td class="content text-dark small">2073.24 km ( + 0.87 km )</td>
                     <td class="content text-dark">Fairfax SR 638 - Pohick Rd, Lorton, Virginia 22079</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1288.91 mi ( + 0.22 mi )</td>
-                    <td class="content text-dark small">2074.69 km ( + 0.36 km )</td>
+                    <td class="content text-dark small">1288.24 mi ( + 0.22 mi )</td>
+					<td class="content text-dark small">2073.60 km ( + 0.36 km )</td>
                     <td class="content text-dark">Fairfax SR 611 - Telegraph Rd, Lorton, Virginia 22079</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1290.24 mi ( + 1.33 mi )</td>
-                    <td class="content text-dark small">2076.82 km ( + 2.13 km )</td>
+                    <td class="content text-dark small">1289.57 mi ( + 1.33 mi )</td>
+					<td class="content text-dark small">2075.73 km ( + 2.13 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Fort Belvoir, Virginia 22060</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1290.49 mi ( + 0.25 mi )</td>
-                    <td class="content text-dark small">2077.23 km ( + 0.41 km )</td>
+                    <td class="content text-dark small">1289.82 mi ( + 0.25 mi )</td>
+					<td class="content text-dark small">2076.14 km ( + 0.41 km )</td>
                     <td class="content text-dark">VA-286 - Fairfax County Pkwy, Fort Belvoir, Virginia 22060</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1291.97 mi ( + 1.48 mi )</td>
-                    <td class="content text-dark small">2079.62 km ( + 2.39 km )</td>
+                    <td class="content text-dark small">1291.30 mi ( + 1.48 mi )</td>
+					<td class="content text-dark small">2078.53 km ( + 2.39 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Woodlawn, Virginia 22309</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1292.33 mi ( + 0.36 mi )</td>
-                    <td class="content text-dark small">2080.21 km ( + 0.59 km )</td>
+                    <td class="content text-dark small">1291.66 mi ( + 0.36 mi )</td>
+					<td class="content text-dark small">2079.12 km ( + 0.59 km )</td>
                     <td class="content text-dark">VA-235 - Jeff Todd Way (NB), Mt Vernon Memorial Hwy (SB), Woodlawn, Virginia 22309</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1295.14 mi ( + 2.81 mi )</td>
-                    <td class="content text-dark small">2084.73 km ( + 4.52 km )</td>
+                    <td class="content text-dark small">1294.47 mi ( + 2.81 mi )</td>
+					<td class="content text-dark small">2083.64 km ( + 4.52 km )</td>
                     <td class="content text-dark">VA-235 - Mt Vernon Hwy, Woodlawn, Virginia 22309</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1295.18 mi ( + 0.04 mi )</td>
-                    <td class="content text-dark small">2084.79 km ( + 0.06 km )</td>
+                    <td class="content text-dark small">1294.51 mi ( + 0.04 mi )</td>
+					<td class="content text-dark small">2083.70 km ( + 0.06 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Hybla Valley, Virginia 22309</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1295.39 mi ( + 0.21 mi )</td>
-                    <td class="content text-dark small">2085.14 km ( + 0.35 km )</td>
+                    <td class="content text-dark small">1294.72 mi ( + 0.21 mi )</td>
+					<td class="content text-dark small">2084.05 km ( + 0.35 km )</td>
                     <td class="content text-dark">Halifax SR 626 - Sherwood Hall Ln, Hybla Valley, Virginia 22309</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1296.62 mi ( + 1.23 mi )</td>
-                    <td class="content text-dark small">2087.11 km ( + 1.97 km )</td>
+                    <td class="content text-dark small">1295.95 mi ( + 1.23 mi )</td>
+					<td class="content text-dark small">2086.02 km ( + 1.97 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Groveton, Virginia 22306</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1298.20 mi ( + 1.58 mi )</td>
-                    <td class="content text-dark small">2089.66 km ( + 2.55 km )</td>
+                    <td class="content text-dark small">1297.53 mi ( + 1.58 mi )</td>
+					<td class="content text-dark small">2088.57 km ( + 2.55 km )</td>
                     <td class="content text-dark">Halifax SR 633 - S Kings Hwy, Groveton, Virginia 22306</td>
                     <td class="content text-dark">Richmond Hwy, Huntington, Virginia 22303</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1298.32 mi ( + 0.12 mi )</td>
-                    <td class="content text-dark small">2089.85 km ( + 0.19 km )</td>
+                    <td class="content text-dark small">1297.65 mi ( + 0.12 mi )</td>
+					<td class="content text-dark small">2088.76 km ( + 0.19 km )</td>
                     <td class="content text-dark">VA-241 - N Kings Hwy, Huntington, Virginia 22303</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1299.39 mi ( + 1.07 mi )</td>
-                    <td class="content text-dark small">2091.58 km ( + 1.73 km )</td>
+                    <td class="content text-dark small">1298.72 mi ( + 1.07 mi )</td>
+					<td class="content text-dark small">2090.49 km ( + 1.73 km )</td>
                     <td class="content text-dark">Halifax SR 629 - Fort Hunt Rd, Huntington, Virginia 22303</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1299.63 mi ( + 0.24 mi )</td>
-                    <td class="content text-dark small">2091.96 km ( + 0.38 km )</td>
+                    <td class="content text-dark small">1298.96 mi ( + 0.24 mi )</td>
+					<td class="content text-dark small">2090.87 km ( + 0.38 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Patrick St, Alexandria, Virginia 22314</td>
                     <td class="content text-dark">End Fairfax County, Start City of Alexandria</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1299.80 mi ( + 0.17 mi )</td>
-                    <td class="content text-dark small">2092.24 km ( + 0.28 km )</td>
+                    <td class="content text-dark small">1299.13 mi ( + 0.17 mi )</td>
+					<td class="content text-dark small">2091.15 km ( + 0.28 km )</td>
                     <td class="content text-dark">I-495 - Capital Bltwy, Alexandria, Virginia 22314</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1300.47 mi ( + 0.67 mi )</td>
-                    <td class="content text-dark small">2093.31 km ( + 1.07 km )</td>
+                    <td class="content text-dark small">1299.80 mi ( + 0.67 mi )</td>
+					<td class="content text-dark small">2092.22 km ( + 1.07 km )</td>
                     <td class="content text-dark">VA-236 - Duke St, Alexandria, Virginia 22314</td>
                     <td class="content text-dark">S Henry St (SB) / S Patrick St (NB), Alexandria, Virginia 22314</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1300.63 mi ( + 0.16 mi )</td>
-                    <td class="content text-dark small">2093.56 km ( + 0.25 km )</td>
+                    <td class="content text-dark small">1299.96 mi ( + 0.16 mi )</td>
+					<td class="content text-dark small">2092.47 km ( + 0.25 km )</td>
                     <td class="content text-dark">VA-7 - King St, Alexandria, Virginia 22314</td>
                     <td class="content text-dark">N Henry St (SB) / N Patrick St (NB), Alexandria, Virginia 22314</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1301.62 mi ( + 0.99 mi )</td>
-                    <td class="content text-dark small">2095.16 km ( + 1.60 km )</td>
+                    <td class="content text-dark small">1300.95 mi ( + 0.99 mi )</td>
+					<td class="content text-dark small">2094.07 km ( + 1.60 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Alexandria, Virginia 22314</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1303.07 mi ( + 1.45 mi )</td>
-                    <td class="content text-dark small">2097.49 km ( + 2.33 km )</td>
+                    <td class="content text-dark small">1302.40 mi ( + 1.45 mi )</td>
+					<td class="content text-dark small">2096.40 km ( + 2.33 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Arlington, Virginia 22202</td>
                     <td class="content text-dark">End City of Alexandria, Start Arlington County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1303.22 mi ( + 0.15 mi )</td>
-                    <td class="content text-dark small">2097.74 km ( + 0.25 km )</td>
+                    <td class="content text-dark small">1302.55 mi ( + 0.15 mi )</td>
+					<td class="content text-dark small">2096.65 km ( + 0.25 km )</td>
                     <td class="content text-dark">VA-120 - S Glebe Rd, Arlington, Virginia 22202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1303.78 mi ( + 0.56 mi )</td>
-                    <td class="content text-dark small">2098.64 km ( + 0.90 km )</td>
+                    <td class="content text-dark small">1303.11 mi ( + 0.56 mi )</td>
+					<td class="content text-dark small">2097.55 km ( + 0.90 km )</td>
                     <td class="content text-dark">VA-233 - Airport Access Rd, Arlington, Virginia 22202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1304.72 mi ( + 0.94 mi )</td>
-                    <td class="content text-dark small">2100.16 km ( + 1.52 km )</td>
+                    <td class="content text-dark small">1304.05 mi ( + 0.94 mi )</td>
+					<td class="content text-dark small">2099.07 km ( + 1.52 km )</td>
                     <td class="content text-dark">I-395 - Henry G. Shirley Memorial Hwy (WB/EB)<br>VA-110 - Richmond Hwy (NB), Arlington, Virginia 22202</td>
                     <td class="content text-dark">Henry G. Shirley Memorial Hwy, Arlington, Virginia 22202</td>
                     <td class="content text-dark">Start concurrency of I-395</td>
@@ -6532,50 +6532,50 @@
             </section>
             <section id="dcus1">
                 <tr>
-                    <td class="content text-dark small">1305.51 mi ( + 0.79 mi )</td>
-                    <td class="content text-dark small">2101.43 km ( + 1.27 km )</td>
+                    <td class="content text-dark small">1304.84 mi ( + 0.79 mi )</td>
+					<td class="content text-dark small">2100.34 km ( + 1.27 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Arland D. Williams Jr. Memorial Hwy, Washington, District of Columbia 20505</td>
                     <td class="content text-dark">End US-1 in Virginia, Start US-1 in District of Columbia<br>End Arlington County</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1306.30 mi ( + 0.79 mi )</td>
-                    <td class="content text-dark small">2102.70 km ( + 1.27 km )</td>
+                    <td class="content text-dark small">1305.63 mi ( + 0.79 mi )</td>
+					<td class="content text-dark small">2101.61 km ( + 1.27 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">SW 14th St, Washington, District of Columbia 20505</td>
                     <td class="content text-dark">End concurrency with I-395</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1307.20 mi ( + 0.90 mi )</td>
-                    <td class="content text-dark small">2104.15 km ( + 1.45 km )</td>
+                    <td class="content text-dark small">1306.53 mi ( + 0.90 mi )</td>
+					<td class="content text-dark small">2103.06 km ( + 1.45 km )</td>
                     <td class="content text-dark">US-50 - NW Constitution Ave, Washington, District of Columbia 20505</td>
                     <td class="content text-dark">NW Constitution Ave, Washington, District of Columbia 20505</td>
                     <td class="content text-dark">Start concurrency with US-50</td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1307.85 mi ( + 0.65 mi )</td>
-                    <td class="content text-dark small">2105.19 km ( + 1.04 km )</td>
+                    <td class="content text-dark small">1307.18 mi ( + 0.65 mi )</td>
+					<td class="content text-dark small">2104.10 km ( + 1.04 km )</td>
                     <td class="content text-dark">US-1 & US-50 - NW 6th St, Washington, District of Columbia 20505</td>
                     <td class="content text-dark">NW 6th St, Washington, District of Columbia 20505</td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1307.90 mi ( + 0.05 mi )</td>
-                    <td class="content text-dark small">2105.27 km ( + 0.08 km )</td>
+                    <td class="content text-dark small">1307.23 mi ( + 0.05 mi )</td>
+					<td class="content text-dark small">2104.18 km ( + 0.08 km )</td>
                     <td class="content text-dark">US-1 Alternate - Pennsylvania Ave, Washington, District of Columbia 20505</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1308.65 mi ( + 0.75 mi )</td>
-                    <td class="content text-dark small">2106.47 km ( + 1.20 km )</td>
+                    <td class="content text-dark small">1307.98 mi ( + 0.75 mi )</td>
+					<td class="content text-dark small">2105.38 km ( + 1.20 km )</td>
                     <td class="content text-dark">US-50 - NW New York Ave, Washington, District of Columbia 20505</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
 <tr>
-                    <td class="content text-dark small">1309.30 mi ( + 0.65 mi )</td>
-                    <td class="content text-dark small">2107.52 km ( + 1.05 km )</td>
+                    <td class="content text-dark small">1308.63 mi ( + 0.65 mi )</td>
+					<td class="content text-dark small">2106.43 km ( + 1.05 km )</td>
                     <td class="content text-dark">US-29 - NW Rhode Island Ave (WB) / NW 6th St (NB), Washington, District of Columbia 20505</td>
                     <td class="content text-dark">NW Rhode Island Ave, Washington, District of Columbia 20505</td>
                     <td class="content text-dark"></td>
@@ -6583,155 +6583,155 @@
             </section>
             <section id="mdus1">
                 <tr>
-                    <td class="content text-dark small">1312.71 mi ( + 3.41 mi )</td>
-                    <td class="content text-dark small">2113.00 km ( + 5.48 km )</td>
+                    <td class="content text-dark small">1312.04 mi ( + 3.41 mi )</td>
+					<td class="content text-dark small">2111.91 km ( + 5.48 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Rhode Island Ave, Mt Ranier, Maryland 20712</td>
                     <td class="content text-dark">End US-1 in District of Columbia, Start US-1 in Maryland<br>Start Prince George's County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1313.10 mi ( + 0.39 mi )</td>
-                    <td class="content text-dark small">2113.65 km ( + 0.65 km )</td>
+                    <td class="content text-dark small">1312.43 mi ( + 0.39 mi )</td>
+					<td class="content text-dark small">2112.56 km ( + 0.65 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Rhode Island Ave, Brentwood, Maryland 20722</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1313.19 mi ( + 0.09 mi )</td>
-                    <td class="content text-dark small">2113.80 km ( + 0.15 km )</td>
+                    <td class="content text-dark small">1312.52 mi ( + 0.09 mi )</td>
+					<td class="content text-dark small">2112.71 km ( + 0.15 km )</td>
                     <td class="content text-dark">MD-208 - 38th St, Mt Ranier, Maryland 20712</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1313.57 mi ( + 0.38 mi )</td>
-                    <td class="content text-dark small">2114.41 km ( + 0.61 km )</td>
+                    <td class="content text-dark small">1312.90 mi ( + 0.38 mi )</td>
+					<td class="content text-dark small">2113.32 km ( + 0.61 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Rhode Island Ave, North Brentwood, Maryland 20722</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1313.83 mi ( + 0.26 mi )</td>
-                    <td class="content text-dark small">2114.83 km ( + 0.42 km )</td>
+                    <td class="content text-dark small">1313.16 mi ( + 0.26 mi )</td>
+					<td class="content text-dark small">2113.74 km ( + 0.42 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Rhode Island Ave, Hyattsville, Maryland 20781</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1314.52 mi ( + 0.69 mi )</td>
-                    <td class="content text-dark small">2115.94 km ( + 1.11 km )</td>
+                    <td class="content text-dark small">1313.85 mi ( + 0.69 mi )</td>
+					<td class="content text-dark small">2114.85 km ( + 1.11 km )</td>
                     <td class="content text-dark">US-1 Alternate - Baltimore Ave, Hyattsville, Maryland 20781</td>
                     <td class="content text-dark">Baltimore Ave, Hyattsville, Maryland 20781</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1315.17 mi ( + 0.65 mi )</td>
-                    <td class="content text-dark small">2116.99 km ( + 1.05 km )</td>
+                    <td class="content text-dark small">1314.50 mi ( + 0.65 mi )</td>
+					<td class="content text-dark small">2115.90 km ( + 1.05 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Baltimore Ave, Riverdale Park, 20737</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1315.28 mi ( + 0.11 mi )</td>
-                    <td class="content text-dark small">2117.16 km ( + 0.17 km )</td>
+                    <td class="content text-dark small">1314.61 mi ( + 0.11 mi )</td>
+					<td class="content text-dark small">2116.07 km ( + 0.17 km )</td>
                     <td class="content text-dark">MD-410 - East West Hwy, Riverdale Park, Maryland 20737</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1316.09 mi ( + 0.81 mi )</td>
-                    <td class="content text-dark small">2118.46 km ( + 1.30 km )</td>
+                    <td class="content text-dark small">1315.42 mi ( + 0.81 mi )</td>
+					<td class="content text-dark small">2117.37 km ( + 1.30 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Baltimore Ave, College Park, Maryland 20742</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1317.90 mi ( + 1.81 mi )</td>
-                    <td class="content text-dark small">2121.37 km ( + 2.91 km )</td>
+                    <td class="content text-dark small">1317.23 mi ( + 1.81 mi )</td>
+					<td class="content text-dark small">2120.28 km ( + 2.91 km )</td>
                     <td class="content text-dark">MD-193 - E University Blvd, College Park, Maryland 20742</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1319.09 mi ( + 1.19 mi )</td>
-                    <td class="content text-dark small">2123.28 km ( + 1.91 km )</td>
+                    <td class="content text-dark small">1318.42 mi ( + 1.19 mi )</td>
+					<td class="content text-dark small">2122.19 km ( + 1.91 km )</td>
                     <td class="content text-dark">I-95 & I-495 - Capital Bltwy, College Park, Maryland 20742</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1319.51 mi ( + 0.42 mi )</td>
-                    <td class="content text-dark small">2123.95 km ( + 0.67 km )</td>
+                    <td class="content text-dark small">1318.84 mi ( + 0.42 mi )</td>
+					<td class="content text-dark small">2122.86 km ( + 0.67 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Baltimore Ave, Beltsville, Maryland 20705</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1322.51 mi ( + 3.00 mi )</td>
-                    <td class="content text-dark small">2128.78 km ( + 4.83 km )</td>
+                    <td class="content text-dark small">1321.84 mi ( + 3.00 mi )</td>
+					<td class="content text-dark small">2127.69 km ( + 4.83 km )</td>
                     <td class="content text-dark">MD-212 - Ritz Way, Beltsville, Maryland 20705</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1322.92 mi ( + 0.41 mi )</td>
-                    <td class="content text-dark small">2129.44 km ( + 0.66 km )</td>
+                    <td class="content text-dark small">1322.25 mi ( + 0.41 mi )</td>
+					<td class="content text-dark small">2128.35 km ( + 0.66 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Baltimore Ave, Konterra, Maryland 20707</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1323.25 mi ( + 0.33 mi )</td>
-                    <td class="content text-dark small">2129.98 km ( + 0.54 km )</td>
+                    <td class="content text-dark small">1322.58 mi ( + 0.33 mi )</td>
+					<td class="content text-dark small">2128.89 km ( + 0.54 km )</td>
                     <td class="content text-dark">MD-200 - Intercounty Conn, Konterra, Maryland 20707</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1324.26 mi ( + 1.01 mi )</td>
-                    <td class="content text-dark small">2131.60 km ( + 1.62 km )</td>
+                    <td class="content text-dark small">1323.59 mi ( + 1.01 mi )</td>
+					<td class="content text-dark small">2130.51 km ( + 1.62 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Baltimore Ave, Laurel, Maryland 20707</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1325.77 mi ( + 1.51 mi )</td>
-                    <td class="content text-dark small">2134.02 km ( + 2.42 km )</td>
+                    <td class="content text-dark small">1325.10 mi ( + 1.51 mi )</td>
+					<td class="content text-dark small">2132.93 km ( + 2.42 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Washington Blvd (SB) / Second St (NB), Laurel, Maryland 20707</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1326.11 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">2134.57 km ( + 0.55 km )</td>
+                    <td class="content text-dark small">1325.44 mi ( + 0.34 mi )</td>
+					<td class="content text-dark small">2133.48 km ( + 0.55 km )</td>
                     <td class="content text-dark">MD-198 (EB) - Gorman Ave, Laurel, Maryland 20707</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1326.20 mi ( + 0.09 mi )</td>
-                    <td class="content text-dark small">2134.72 km ( + 0.15 km )</td>
+                    <td class="content text-dark small">1325.53 mi ( + 0.09 mi )</td>
+					<td class="content text-dark small">2133.63 km ( + 0.15 km )</td>
                     <td class="content text-dark">MD-198 (WB) - Talbott Ave, Laurel, Maryland 20707</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1326.75 mi ( + 0.55 mi )</td>
-                    <td class="content text-dark small">2135.61 km ( + 0.89 km )</td>
+                    <td class="content text-dark small">1326.08 mi ( + 0.55 mi )</td>
+					<td class="content text-dark small">2134.52 km ( + 0.89 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Washington Blvd (SB) / N 2nd St (NB), North Laurel, Maryland 20723</td>
                     <td class="content text-dark">End Prince George's County, Start Howard County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1327.41 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">2136.67 km ( + 1.06 km )</td>
+                    <td class="content text-dark small">1326.74 mi ( + 0.66 mi )</td>
+					<td class="content text-dark small">2135.58 km ( + 1.06 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Washington Blvd, North Laurel, Maryland 20723</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1328.30 mi ( + 0.89 mi )</td>
-                    <td class="content text-dark small">2138.10 km ( + 1.43 km )</td>
+                    <td class="content text-dark small">1327.63 mi ( + 0.89 mi )</td>
+					<td class="content text-dark small">2137.01 km ( + 1.43 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Washington Blvd, Savage, Maryland 20763</td>
                     <td class="content text-dark"></td>

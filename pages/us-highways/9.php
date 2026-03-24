@@ -1803,10 +1803,31 @@
                     <td class="content text-dark">End Bronx County, Start Westchester County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">215.66 mi ( + 1.60 mi )</td>
-                    <td class="content text-dark small">347.22 km ( + 2.58 km )</td>
+                    <td class="content text-dark small">215.52 mi ( + 1.46 mi )</td>
+                    <td class="content text-dark small">346.99 km ( + 2.35 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/983/#nysr983b">NY-983B - Nepperhan Ave</a>, Yonkers, New York 10705</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">215.66 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">347.22 km ( + 0.23 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Broadway, Yonkers, New York 10705</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">216.12 mi ( + 0.46 mi )</td>
+                    <td class="content text-dark small">347.96 km ( + 0.74 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Ashburton Ave</a>, Yonkers, New York 10705</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">216.12 mi ( + 0.46 mi )</td>
+                    <td class="content text-dark small">347.96 km ( + 0.74 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Ashburton Ave</a>, Yonkers, New York 10705</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
             </section>

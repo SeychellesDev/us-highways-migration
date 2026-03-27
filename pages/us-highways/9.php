@@ -1803,10 +1803,150 @@
                     <td class="content text-dark">End Bronx County, Start Westchester County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">215.66 mi ( + 1.60 mi )</td>
-                    <td class="content text-dark small">347.22 km ( + 2.58 km )</td>
+                    <td class="content text-dark small">215.52 mi ( + 1.46 mi )</td>
+                    <td class="content text-dark small">346.99 km ( + 2.35 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/983/#nysr983b">NY-983B - Nepperhan Ave</a>, Yonkers, New York 10705</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">215.66 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">347.22 km ( + 0.23 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Broadway, Yonkers, New York 10705</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">216.12 mi ( + 0.46 mi )</td>
+                    <td class="content text-dark small">347.96 km ( + 0.74 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Ashburton Ave</a>, Yonkers, New York 10705</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">218.93 mi ( + 2.81 mi )</td>
+                    <td class="content text-dark small">352.47 km ( + 4.51 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broadway, Hastings-On-Hudson, New York 10706</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">220.13 mi ( + 1.20 mi )</td>
+                    <td class="content text-dark small">354.40 km ( + 1.93 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/wc/151.php">Westchester CR 151 - Farragut Pkwy</a>, Hastings-On-Hudson, New York 10706</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">220.41 mi ( + 0.28 mi )</td>
+                    <td class="content text-dark small">354.85 km ( + 0.45 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/wc/75i.php">Westchester CR 75I - Warburton Ave</a>, Hastings-On-Hudson, New York 10706</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">220.80 mi ( + 0.39 mi )</td>
+                    <td class="content text-dark small">355.47 km ( + 0.62 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broadway, Dobbs Ferry, New York 10522</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">221.89 mi ( + 1.09 mi )</td>
+                    <td class="content text-dark small">357.23 km ( + 1.76 km )</td>
+                    <td class="content text-dark">US-9 - Broadway (NB), Dobbs Ferry, New York 10522<br><a href="../secondary-roads/ny/wc/134.php">Westchester CR 134 - Ashford Ave</a>, Dobbs Ferry, New York 10522</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">222.25 mi ( + 0.36 mi )</td>
+                    <td class="content text-dark small">357.82 km ( + 0.59 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Broadway, Dobbs Ferry, New York 10522</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">222.36 mi ( + 0.11 mi )</td>
+                    <td class="content text-dark small">358.00 km ( + 0.18 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Broadway, Irvington, New York 10533</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">224.22 mi ( + 1.86 mi )</td>
+                    <td class="content text-dark small">361.00 km ( + 3.00 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Broadway, Tarrytown, New York 10591</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">225.24 mi ( + 1.02 mi )</td>
+                    <td class="content text-dark small">362.64 km ( + 1.64 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/nj-287.php">I-287 - New York Trwy</a>, Tarrytown, New York 10591</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">225.30 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">362.73 km ( + 0.09 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/119.php">NY-119 - White Plains Rd</a>, Tarrytown, New York 10591</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">225.89 mi ( + 0.59 mi )</td>
+                    <td class="content text-dark small">363.68 km ( + 0.95 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/wc/15.php">Westchester CR 15 - Benedict Ave</a>, Tarrytown, New York 10591</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">226.21 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">364.19 km ( + 0.51 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Broadway, Tarrytown, New York 10591</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">226.54 mi ( + 0.33 mi )</td>
+                    <td class="content text-dark small">364.72 km ( + 0.53 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broadway, Tarrytown, New York 10591</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">226.62 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">364.84 km ( + 0.12 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broadway, Sleepy Hollow, New York 10591</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">226.88 mi ( + 0.26 mi )</td>
+                    <td class="content text-dark small">365.26 km ( + 0.42 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/448.php">NY-448 - Bedford Rd</a>, Sleepy Hollow, New York 10591</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">228.51 mi ( + 1.63 mi )</td>
+                    <td class="content text-dark small">367.89 km ( + 2.63 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Broadway, Sleepy Hollow, New York 10591</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">228.68 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">368.16 km ( + 0.27 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/117.php">NY-117 - Phelps Way</a>, Mount Pleasant, New York 10510</td>
+                    <td class="content text-dark">Albany Post Rd, Mount Pleasant, New York 10510</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">229.71 mi ( + 1.03 mi )</td>
+                    <td class="content text-dark small">369.82 km ( + 1.66 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Albany Post Rd, Briarcliff Manor, New York 10510</td>
                     <td class="content text-dark"></td>
                 </tr>
             </section>

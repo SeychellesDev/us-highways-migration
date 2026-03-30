@@ -1,5 +1,5 @@
 <?php include "../../static/top.php"; ?>
-        
+
             <h6 class="dir"><a href="../index-redirect.php">Home</a> > <a href="../list.php">US Highways</a> > US-9</h6>
             <h1 class="header" id="us9">United States Route 9</h1>
             <h2 class="content text-dark">United States Route 9 (US-9) is a north-south route covering a little bit of Delaware through the whole of New York. It is xxx.xx mi (xxx.xx km) long.</h2>
@@ -1947,6 +1947,55 @@
                     <td class="content text-dark small">369.82 km ( + 1.66 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Albany Post Rd, Briarcliff Manor, New York 10510</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">230.54 mi ( + 0.83 mi )</td>
+                    <td class="content text-dark small">371.16 km ( + 1.34 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Highland Ave, Ossining, New York 10562</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">232.37 mi ( + 1.83 mi )</td>
+                    <td class="content text-dark small">374.11 km ( + 2.95 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/133.php">NY-133 - Upper Croton Ave</a>, Ossining, New York 10562</td>
+                    <td class="content text-dark">N Highland Ave, Ossining, New York 10562</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">233.90 mi ( + 1.53 mi )</td>
+                    <td class="content text-dark small">376.58 km ( + 2.47 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Briarcliff-Peekskill Pkwy (SB)</a>, Ossining, New York 10562</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">234.09 mi ( + 0.19 mi )</td>
+                    <td class="content text-dark small">376.89 km ( + 0.31 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Briarcliff-Peekskill Pkwy (NB)</a>, Ossining, New York 10562</td>
+                    <td class="content text-dark">Croton Expy, Ossining, New York 10562</td>
+                    <td class="content text-dark">Start concurrency with NY-9A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">234.24 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">377.13 km ( + 0.24 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Croton Expy, Croton-On-Hudson, New York 10520</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">234.80 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">378.04 km ( + 0.91 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/wc/7.php">Westchester CR 7 - Croton Point Ave</a>, Croton-On-Hudson, New York 10520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">235.48 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">379.14 km ( + 1.10 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">Westchester CR 7 - Croton Point Ave</a>, Croton-On-Hudson, New York 10520</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
             </section>

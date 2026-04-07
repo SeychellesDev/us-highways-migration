@@ -1805,7 +1805,7 @@
                 <tr>
                     <td class="content text-dark small">215.52 mi ( + 1.46 mi )</td>
                     <td class="content text-dark small">346.99 km ( + 2.35 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/ny/983/#nysr983b">NY-983B - Nepperhan Ave</a>, Yonkers, New York 10705</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/983.php/#nysr983b">NY-983B - Nepperhan Ave</a>, Yonkers, New York 10705</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1994,8 +1994,246 @@
                 <tr>
                     <td class="content text-dark small">235.48 mi ( + 0.68 mi )</td>
                     <td class="content text-dark small">379.14 km ( + 1.10 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">Westchester CR 7 - Croton Point Ave</a>, Croton-On-Hudson, New York 10520</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Municipal Pl</a>, Croton-On-Hudson, New York 10520</td>
                     <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">237.85 mi ( + 2.37 mi )</td>
+                    <td class="content text-dark small">382.96 km ( + 3.82 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Croton Expy, Crugers, New York 10520</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">238.12 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">383.39 km ( + 0.43 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Albany Post Rd</a>, Crugers, New York 10520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">238.85 mi ( + 0.73 mi )</td>
+                    <td class="content text-dark small">384.56 km ( + 1.17 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Croton Expy, Montrose, New York 10548</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">240.30 mi ( + 1.45 mi )</td>
+                    <td class="content text-dark small">386.89 km ( + 2.33 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Croton Expy, Buchanan, New York 10511</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">240.98 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">387.99 km ( + 1.10 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Croton Expy, Peekskill, New York 10566</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">241.15 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">388.26 km ( + 0.27 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Welcher St</a> (concurrent with <a href="../secondary-roads/ny/wc/92.php">Westchester CR 92</a>), Peekskill, New York 10566</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">241.15 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">388.26 km ( + 0.27 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/wc/155.php">Westchester CR 155 - Louisa St</a>, Peekskill, New York 10566</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">242.02 mi ( + 0.87 mi )</td>
+                    <td class="content text-dark small">389.66 km ( + 1.40 km )</td>
+                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="202.php">US-202</a> and <a href="../state-highways/ny/35.php">NY-35</a>), Peekskill, New York 10566</td>
+                    <td class="content text-dark">Grand Army of the Republic Hwy, Peekskill, New York 10566</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">242.67 mi ( + 0.65 mi )</td>
+                    <td class="content text-dark small">390.70 km ( + 1.04 km )</td>
+                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy (WB)</a> (concurrent with <a href="202.php">US-202</a> and US-9), Peekskill, New York 10566<br><a href="../state-highways/ny/987.php/#nysr987h">US-6 - Grand Army of the Republic Hwy (EB)</a> (concurrent with <a href="202.php">US-202</a>), Peekskill, New York 10566</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">242.75 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">390.83 km ( + 0.13 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Grand Army of the Republic Hwy, Cortlandt, New York 10567</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">242.81 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">390.92 km ( + 0.09 km )</td>
+                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="202.php">US-202</a>), Cortlandt, New York 10567</td>
+                    <td class="content text-dark">Albany Post Rd, Cortlandt, New York 10567</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">245.07 mi ( + 2.26 mi )</td>
+                    <td class="content text-dark small">394.55 km ( + 3.63 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Albany Post Rd, Philipstown, New York 10524</td>
+                    <td class="content text-dark">End Westchester County, Start Putnam County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">246.77 mi ( + 1.70 mi )</td>
+                    <td class="content text-dark small">397.29 km ( + 2.74 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/403.php">NY-403 - Cat Rock Rd</a>, Philipstown, New York 10524</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">249.10 mi ( + 2.33 mi )</td>
+                    <td class="content text-dark small">401.03 km ( + 3.74 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/pu/11.php">Putnam CR 11 - Snake Hill Rd</a>, Philipstown, New York 10524</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">253.20 mi ( + 4.10 mi )</td>
+                    <td class="content text-dark small">407.62 km ( + 6.59 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/301.php">NY-301 - Cold Spring Carmel Rd</a>, Philipstown, New York 10524</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">254.91 mi ( + 1.71 mi )</td>
+                    <td class="content text-dark small">410.37 km ( + 2.75 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/pu/10.php">Putnam CR 10 - Fishkill Rd</a>, Philipstown, New York 10524</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">257.34 mi ( + 2.43 mi )</td>
+                    <td class="content text-dark small">414.28 km ( + 3.91 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Fishkill, New York 12524</td>
+                    <td class="content text-dark">End Putnam County, Start Dutchess County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">259.83 mi ( + 2.49 mi )</td>
+                    <td class="content text-dark small">418.29 km ( + 4.01 km )</td>
+                    <td class="content text-dark"><a href="../interstates/84.php">I-84</a>, Fishkill, New York 12524</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">260.77 mi ( + 0.94 mi )</td>
+                    <td class="content text-dark small">419.80 km ( + 1.51 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/52.php">NY-52 - Main St</a>, Fishkill, New York 12524</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">261.98 mi ( + 1.21 mi )</td>
+                    <td class="content text-dark small">421.75 km ( + 1.95 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Wappinger, New York 12590</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">263.07 mi ( + 1.09 mi )</td>
+                    <td class="content text-dark small">423.51 km ( + 1.76 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/35.php">Dutchess CR 35 - Osborne Hill Rd</a>, Wappinger, New York 12590</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">263.90 mi ( + 0.83 mi )</td>
+                    <td class="content text-dark small">423.85 km ( + 1.34 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/28.php">Dutchess CR 28 - Old Hopewell Rd</a>, Wappinger, New York 12590</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">264.57 mi ( + 0.67 mi )</td>
+                    <td class="content text-dark small">424.92 km ( + 1.07 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/93.php">Dutchess CR 93 - Middlebush Rd (WB) / Myers Corners Rd (EB)</a>, Wappinger, New York 12590</td>
+                    <td class="content text-dark">Albany Post Rd, Wappinger, New York 12590</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">265.25 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">426.02 km ( + 1.10 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/104.php">Dutchess CR 104 - New Hackensack Rd</a>, Wappinger, New York 12590</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">265.97 mi ( + 0.72 mi )</td>
+                    <td class="content text-dark small">427.18 km ( + 1.16 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">South Rd, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">266.56 mi ( + 0.59 mi )</td>
+                    <td class="content text-dark small">428.13 km ( + 0.95 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9d">NY-9D - W Main St</a>, Poughkeepsie, New York 12603<br><a href="../secondary-roads/ny/du/77.php">Dutchess CR 77 - Vassar Rd</a>, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">269.16 mi ( + 2.60 mi )</td>
+                    <td class="content text-dark small">432.31 km ( + 4.18 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/48.php">Dutchess CR 48 - IBM Rd</a>, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">269.53 mi ( + 0.37 mi )</td>
+                    <td class="content text-dark small">432.90 km ( + 0.59 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/113.php">NY-113 - Spackenkill Rd</a>, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">271.39 mi ( + 1.86 mi )</td>
+                    <td class="content text-dark small">435.89 km ( + 2.99 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">272.90 mi ( + 1.51 mi )</td>
+                    <td class="content text-dark small">438.32 km ( + 2.43 km )</td>
+                    <td class="content text-dark"><a href="44.php">US-44 - Church St</a> (concurrent with <a href="../state-highways/ny/55.php">NY-55</a>), Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">273.93 mi ( + 1.03 mi )</td>
+                    <td class="content text-dark small">439.98 km ( + 1.66 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Delafield St, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">274.06 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">440.19 km ( + 0.21 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9g">NY-9G - Marist Dr</a>, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">274.21 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">440.43 km ( + 0.24 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">North Rd, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">275.38 mi ( + 1.17 mi )</td>
+                    <td class="content text-dark small">442.32 km ( + 1.89 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">North Rd, Hyde Park, New York 12538</td>
                     <td class="content text-dark"></td>
                 </tr>
             </section>

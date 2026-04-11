@@ -2233,7 +2233,35 @@
                     <td class="content text-dark small">275.38 mi ( + 1.17 mi )</td>
                     <td class="content text-dark small">442.32 km ( + 1.89 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">North Rd, Hyde Park, New York 12538</td>
+                    <td class="content text-dark">Albany Post Rd, Hyde Park, New York 12538</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">277.02 mi ( + 1.64 mi )</td>
+                    <td class="content text-dark small">444.96 km ( + 2.64 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/40.php/nycr40adu">Dutchess CR 40A - St. Andrews Rd</a>, Hyde Park, New York 12538</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">279.24 mi ( + 2.22 mi )</td>
+                    <td class="content text-dark small">448.53 km ( + 3.57 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/41.php">Dutchess CR 41 - W Market St (WB) / E Market St (EB)</a>, Hyde Park, New York 12538</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">283.18 mi ( + 3.94 mi )</td>
+                    <td class="content text-dark small">454.87 km ( + 6.34 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/37.php">Dutchess CR 37 - N Cross Rd</a>, Hyde Park, New York 12538</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">285.34 mi ( + 2.16 mi )</td>
+                    <td class="content text-dark small">458.35 km ( + 3.48 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Albany Post Rd, Rhinebeck, New York 12572</td>
                     <td class="content text-dark"></td>
                 </tr>
             </section>

@@ -3114,7 +3114,7 @@
                 <tr>
                     <td class="content text-dark small">781.37 mi ( + 1.36 mi )</td>
                     <td class="content text-dark small">1257.68 km ( + 2.18 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 Bypass - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#scus1bypai">US-1 Bypass - Robert M. Bell Pkwy (NB)</a> (concurrent with <a href="78.php/#scus78bypai">US-78 Bypass</a>, <a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 Bypass</a>, & <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 Bypass - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#scus1trkai">US-1 Bypass - Robert M. Bell Pkwy (NB)</a> (concurrent with <a href="78.php/#scus78bypai">US-78 Bypass</a>, <a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 Bypass</a>, & <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark">W Richland Ave, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3156,7 +3156,7 @@
                 <tr>
                     <td class="content text-dark small">786.44 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">1265.85 km ( + 1.45 km )</td>
-                    <td class="content text-dark"><a href="78.php/#scus78bypai">US-78 Bypass - Rudy Mason Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801<br><a href="1.php/#scus1bypai">US-1 Bypass - Rutland Dr (NB)</a> (concurrency <a href="78.php/#scus78bypai">US-78 Bypass</a> and <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="78.php/#scus78bypai">US-78 Bypass - Rudy Mason Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801<br><a href="1.php/#scus1trkai">US-1 Bypass - Rutland Dr (NB)</a> (concurrency <a href="78.php/#scus78bypai">US-78 Bypass</a> and <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4660,15 +4660,78 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">925.65 mi ( + 8.06 mi )</td>
-                    <td class="content text-dark small">1489.96 km ( + 12.96 km )</td>
-                    <td class="content text-dark">US-52 - E US-52, Cheraw, South Carolina 29520</td>
-                    <td class="content text-dark">E US-52, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark small">919.71 mi ( + 2.12 mi )</td>
+                    <td class="content text-dark small">1480.41 km ( + 3.41 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/581.php">Chesterfield SR 581 - Campbell Lake Rd</a>, Patrick, South Carolina 29584</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">922.37 mi ( + 2.66 mi )</td>
+                    <td class="content text-dark small">1484.70 km ( + 4.29 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/20.php">Chesterfield SR 20 - Teals Mill Rd</a>, Patrick, South Carolina 29584</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">923.80 mi ( + 1.43 mi )</td>
+                    <td class="content text-dark small">1487.00 km ( + 2.30 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/170.php">Chesterfield SR 170 - Auction Barn Rd</a>, Patrick, South Carolina 29584</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">924.72 mi ( + 0.92 mi )</td>
+                    <td class="content text-dark small">1488.48 km ( + 1.48 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/538.php">Chesterfield SR 538 - McMillan Rd</a>, Patrick, South Carolina 29584</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">925.65 mi ( + 0.93 mi )</td>
+                    <td class="content text-dark small">1489.96 km ( + 1.48 km )</td>
+                    <td class="content text-dark"><a href="52.php">US-52 - E US-52</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark">US-1, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">Start concurrency with US-52</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">928.00 mi ( + 2.35 mi )</td>
-                    <td class="content text-dark small">1493.74 km ( + 3.78 km )</td>
+                    <td class="content text-dark small">926.43 mi ( + 0.78 mi )</td>
+                    <td class="content text-dark small">1491.22 km ( + 1.26 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/395.php">Chesterfield SR 395 - Forest Rd</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">926.60 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">1491.49 km ( + 0.27 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/326.php">Chesterfield SR 326 - Manor Rd (WB)</a>, Cheraw, South Carolina 29520<br><a href="#scus1trkcf">US-1 Truck - Old Cash Rd</a> (concurrent with <a href="52.php/#scus52trkcf">US-52 Truck</a> & <a href="../state-highways/sc/9.php/#scsr9trkcf">SC-9 Truck</a>), Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">927.05 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">1492.21 km ( + 0.72 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/177.php">Chesterfield SR 177 - Inglis Rd (WB) / W Oak St (EB)</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">927.20 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">1492.46 km ( + 0.25 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/606.php">Chesterfield SR 606 - Hall Cir</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">927.28 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">1492.59 km ( + 0.13 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/606.php">Chesterfield SR 606 - Gary Ln</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">928.00 mi ( + 0.80 mi )</td>
+                    <td class="content text-dark small">1493.74 km ( + 1.28 km )</td>
                     <td class="content text-dark">SC-9 - Market St, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">Market St, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">Start concurrency with SC-9</td>
@@ -7657,15 +7720,15 @@
             </section>
             </table>
             <hr>
-            <section id="sec-scus1bypai">
-            <h1 class="header" id="scus1bypai">United States Route 1 Bypass (Graniteville, South Carolina)</h1>
+            <section id="sec-scus1trkai">
+            <h1 class="header" id="scus1trkai">United States Route 1 Bypass (Graniteville, South Carolina)</h1>
             <h2 class="content text-dark">US-1 Bypass is a bypass route in Graniteville, South Carolina. It is 2.10 mi (3.38 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#us1">US-1 Jefferson Davis Hwy (NB/SB)</a> (concurrent with <a href="78.php">US-78</a>), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#us1">US-1 - Jefferson Davis Hwy (NB/SB)</a> (concurrent with <a href="78.php">US-78</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark">Robert M Bell Pkwy, Aiken, South Carolina 29801</td>
                     <td class="content text-dark">Start of Bypass Route<br>Start concurrency with SC-19 Bypass and SC-118</td>
                 </tr>
@@ -7710,6 +7773,119 @@
                     <td class="content text-dark"><a href="#us1">US-1 - NE York St</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Bypass Route</td>
+                </tr>
+            </section>
+            </table>
+            <hr>
+            <section id="sec-scus1trkcf">
+            <h1 class="header" id="scus1trkcf">United States Route 1 Bypass (Cheraw, South Carolina)</h1>
+            <h2 class="content text-dark">US-1 Truck is a bypass route in Cheraw, South Carolina. It is 2.10 mi (3.38 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/326.php">Chesterfield SR 326 - Manor Rd (WB)</a>, Cheraw, South Carolina 29520<br><a href="#us1">US-1</a> (concurrent with <a href="52.php">US-52</a>), Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark">Old Cash Rd, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark">Start of Truck Route<br>Start concurrency with US-52 Truck, SC-9 Truck, & Chesterfield SR 326</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.82 mi ( + 0.82 mi )</td>
+                    <td class="content text-dark small">1.31 km ( + 1.31 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/143.php">Chesterfield SR 143 - Cash Rd</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with Chesterfield SR 143</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.16 mi ( + 0.34 mi )</td>
+                    <td class="content text-dark small">1.85 km ( + 0.54 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/607.php">Chesterfield SR 607 - Fordville Rd</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.48 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">2.37 km ( + 0.52 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/388.php">Chesterfield SR 388 - Stanley Rd</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.86 mi ( + 0.38 mi )</td>
+                    <td class="content text-dark small">2.98 km ( + 0.61 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/426.php">Chesterfield SR 426 - Davis St</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark">Howard Aly, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.94 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">3.10 km ( + 0.12 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/188.php">Chesterfield SR 188 - Martin Luther King Dr</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.16 mi ( + 0.22 mi )</td>
+                    <td class="content text-dark small">3.46 km ( + 0.36 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/380.php">Chesterfield SR 380 - Howard St</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.39 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">3.83 km ( + 0.37 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">2nd St, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.52 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">4.04 km ( + 0.21 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/229.php">Chesterfield SR 229 - Maynard St</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.58 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">4.14 km ( + 0.10 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/86.php">Chesterfield SR 86 - Church St (WB/EB)</a>, Cheraw, South Carolina 29520<br><a href="../secondary-roads/sc/cf/326.php">Chesterfield SR 326 - 2nd St</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark">Church St, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark">End concurrency with Chesterfield SR 143 & Chesterfield SR 326<br>Start concurrency with Chesterfeild SR 86</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.58 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">4.14 km ( + 0.10 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/36.php">Chesterfield SR 36 - Front St</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark">Front St, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.76 mi ( + 0.18 mi )</td>
+                    <td class="content text-dark small">4.44 km ( + 0.30 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/534.php">Chesterfield SR 534 - E Market St</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.83 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">4.55 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/204.php">Chesterfield SR 204 - Duvall St</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.02 mi ( + 0.19 mi )</td>
+                    <td class="content text-dark small">4.86 km ( + 0.31 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/406.php">Chesterfield SR 406 - Service Rd</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.11 mi ( + 0.09 mi )</td>
+                    <td class="content text-dark small">5.00 km ( + 0.14 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Powe St (WB/EB)</a> (concurrent with <a href="../state-highways/sc/9.php">SC-9</a>), Cheraw, South Carolina 29520<br><a href="52.php/scus52trkcf">US-52 Truck - Front St</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Truck Route<br>End concurrency with US-52 Truck & SC-9 Truck</td>
                 </tr>
             </section>
             </table>

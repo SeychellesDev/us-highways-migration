@@ -5,7 +5,7 @@
 - SCDOT South Carolina County Route Maps [https://info2.scdot.org/GISMapping/GISMapdl/Forms/AllItems.aspx]
 - SCSH List of County Routes in Aiken County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Aiken.pdf]
 - SCSH List of County Routes in Saluda County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Saluda.pdf]
-- SCSH List of County Routes in Saluda County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Lexington.pdf]
+- SCSH List of County Routes in Lexington County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Lexington.pdf]
 - Wikipedia List of County Routes in New Jersey by County [https://en.wikipedia.org/wiki/Category:County_routes_in_New_Jersey]
 - Wikipedia List of County Routes in New York State by County [https://en.wikipedia.org/wiki/Category:County_routes_in_New_York_(state)]
 - Wikipedia List of Ιnterstate Highways by State [https://en.wikipedia.org/wiki/Lists_of_Interstate_Highways]

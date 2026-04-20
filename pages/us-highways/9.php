@@ -1677,13 +1677,20 @@
                 <tr>
                     <td class="content text-dark small">206.75 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">332.88 km ( + 0.22 km )</td>
-                    <td class="content text-dark"><a href="#us9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="#njus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">206.86 mi ( + 0.11 mi )</td>
-                    <td class="content text-dark small">333.05 km ( + 0.17 km )</td>
+                    <td class="content text-dark small">206.82 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">333.00 km ( + 0.12 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/4.php">NJ-4</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">206.86 mi ( + 0.04 mi )</td>
+                    <td class="content text-dark small">333.05 km ( + 0.05 km )</td>
                     <td class="content text-dark"><a href="../interstates/95.php">I-95 - New Jersey Tpke</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
@@ -1691,7 +1698,7 @@
                 <tr>
                     <td class="content text-dark small">206.97 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">333.22 km ( + 0.17 km )</td>
-                    <td class="content text-dark"><a href="#us9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="#njus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2594,8 +2601,8 @@
             </section>
             </table>
             <hr>
-            <section id="sec-us-9w">
-            <h1 class="header" id="njus9localuneshu">United States Route 9W</h1>
+            <section id="sec-njus9w">
+            <h1 class="header" id="njus9w">United States Route 9W</h1>
             <h2 class="content text-dark">US-9 has an auxilliary local/bypass route starting in Elizabeth in Union County, passing through Newark in Essex County, and Kearny and Jersey City in Hudson County. It serves these three major cities for 10.06 mi (16.23 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>

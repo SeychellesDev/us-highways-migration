@@ -3461,7 +3461,6 @@
                     <td class="content text-dark">W Columbia Ave, Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark">End Saluda County, Start Lexington County</td>
                 </tr>
-                </tr>
                 <tr>
                     <td class="content text-dark small">811.23 mi ( + 0.25 mi )</td>
                     <td class="content text-dark small">1305.75 km ( + 0.40 km )</td>
@@ -4781,7 +4780,7 @@
                 <tr>
                     <td class="content text-dark small">931.13 mi ( + 1.12 mi )</td>
                     <td class="content text-dark small">1498.78 km ( + 1.80 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/sc/ma/36.php">Marlboro CR 36 - Community Rd (SB)</a><br>US-1, Wallace, South Carolina 29596 (NB), Wallace, South Carolina 29596</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/ma/36.php">Marlboro CR 36 - Community Rd (SB)</a><br>US-1, Wallace, South Carolina 29596 (NB), Wallace, South Carolina 29596<br><a href="../state-highways/sc/9.php">SC-9</a>, Wallace, South Carolina 29596</td>
                     <td class="content text-dark">US-1, Wallace, South Carolina 29596</td>
                     <td class="content text-dark">End concurrency with SC-9</td>
                 </tr>
@@ -4860,28 +4859,28 @@
                 <tr>
                     <td class="content text-dark small">942.90 mi ( + 1.68 mi )</td>
                     <td class="content text-dark small">1517.73 km ( + 2.71 km )</td>
-                    <td class="content text-dark">Richmond SR 1104 - Osborne Rd, Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1104.php">Richmond SR 1104 - Osborne Rd</a>, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">945.70 mi ( + 2.80 mi )</td>
                     <td class="content text-dark small">1522.24 km ( + 4.51 km )</td>
-                    <td class="content text-dark">Richmond SR 1106 - Osborne Rd, Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1106.php">Richmond SR 1106 - Osborne Rd</a>, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">946.44 mi ( + 0.74 mi )</td>
                     <td class="content text-dark small">1523.44 km ( + 1.20 km )</td>
-                    <td class="content text-dark">Richmond SR 1108 - Rosalyn Rd (WB) / Mizpah Rd (EB), Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1108.php">Richmond SR 1108 - Rosalyn Rd (WB) / Mizpah Rd (EB)</a>, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">947.23 mi ( + 0.79 mi )</td>
                     <td class="content text-dark small">1524.72 km ( + 1.28 km )</td>
-                    <td class="content text-dark">I-74, US-74, & US-74 Bypass - G. R. Kindley Fwy & Andrew Jackson Hwy, Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark"><a href="../interstates/74.php">I-74 - G. R. Kindley Fwy & Andrew Jackson Hwy</a> (concurrent with <a href="74.php">US-74</a>), Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4902,42 +4901,42 @@
                 <tr>
                     <td class="content text-dark small">948.17 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">1526.24 km ( + 0.23 km )</td>
-                    <td class="content text-dark">US-1 & US-220 - S Hancock St, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="220.php">US-220 - S Hancock St</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">S US-1, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">948.25 mi ( + 0.08 mi )</td>
                     <td class="content text-dark small">1526.37 km ( + 0.13 km )</td>
-                    <td class="content text-dark">Richmond SR 1974 - Forrest St, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1974.php">Richmond SR 1974 - Forrest St</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">S Hancock St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">948.43 mi ( + 0.18 mi )</td>
                     <td class="content text-dark small">1526.65 km ( + 0.28 km )</td>
-                    <td class="content text-dark">US-220, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="220.php">US-220</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">948.80 mi ( + 0.37 mi )</td>
                     <td class="content text-dark small">1527.25 km ( + 0.60 km )</td>
-                    <td class="content text-dark">Richmond SR 1966 - Airport Rd (SB) / S Caroline St (NB), Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1966.php">Richmond SR 1966 - Airport Rd (SB) / S Caroline St (NB)</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">949.01 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">1527.59 km ( + 0.34 km )</td>
-                    <td class="content text-dark">Richmond SR 1903 - Mill Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1903.php">Richmond SR 1903 - Mill Rd</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">949.24 mi ( + 0.23 mi )</td>
                     <td class="content text-dark small">1527.96 km ( + 0.37 km )</td>
-                    <td class="content text-dark">US-74 Business - W Broad St W (WB) / E Broad St (EB), Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="74.php/ncus74busri">US-74 Business - W Broad St (WB) / E Broad St (EB)</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4958,119 +4957,119 @@
                 <tr>
                     <td class="content text-dark small">949.71 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">1528.72 km ( + 0.22 km )</td>
-                    <td class="content text-dark">US-1 & Richmond SR 1643 - E Washington St, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">US-1 - E Washington St (concurrent with <a href="../secondary-roads/nc/ri/1643.php">Richmond SR 1643</a>), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">950.60 mi ( + 0.89 mi )</td>
                     <td class="content text-dark small">1530.16 km ( + 1.44 km )</td>
-                    <td class="content text-dark">NC-1646 - N Long St (SB)<br>Richmond SR 1423 - Richmond Rd (NB), Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1646.php">NC-1646 - N Long St (SB)</a>, Rockingham, North Carolina 28379<br><a href="../secondary-roads/nc/ri/1423.php">Richmond SR 1423 - Richmond Rd (NB)</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">951.12 mi ( + 0.52 mi )</td>
                     <td class="content text-dark small">1531.00 km ( + 0.84 km )</td>
-                    <td class="content text-dark">Richmond SR 1424 - Roberdel Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1424.php">Richmond SR 1424 - Roberdel Rd</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">951.69 mi ( + 0.57 mi )</td>
                     <td class="content text-dark small">1531.92 km ( + 0.92 km )</td>
-                    <td class="content text-dark">Richmond SR 1426 - Old Aberdeen Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1426.php">Richmond SR 1426 - Old Aberdeen Rd</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">952.25 mi ( + 0.56 mi )</td>
                     <td class="content text-dark small">1532.82 km ( + 0.90 km )</td>
-                    <td class="content text-dark">Richmond SR 1503 - Philadelphia Dr, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1503.php">Richmond SR 1503 - Philadelphia Dr</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">US-1, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">952.47 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">1533.17 km ( + 0.35 km )</td>
-                    <td class="content text-dark">Richmond SR 1504 - Philadelphia Dr, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1504.php">Richmond SR 1504 - Philadelphia Dr</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">953.69 mi ( + 1.22 mi )</td>
                     <td class="content text-dark small">1535.13 km ( + 1.96 km )</td>
-                    <td class="content text-dark">Richmond SR 1442 - Wiregrass Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1442.php">Richmond SR 1442 - Wiregrass Rd</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">954.52 mi ( + 0.83 mi )</td>
                     <td class="content text-dark small">1536.46 km ( + 1.33 km )</td>
-                    <td class="content text-dark">Richmond SR 1696 - Fairway Dr, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1696.php">Richmond SR 1696 - Fairway Dr</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">954.75 mi ( + 0.23 mi )</td>
                     <td class="content text-dark small">1536.83 km ( + 0.37 km )</td>
-                    <td class="content text-dark">Richmond SR 1475 - McDonald Church Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1475.php">Richmond SR 1475 - McDonald Church Rd</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">957.54 mi ( + 2.79 mi )</td>
                     <td class="content text-dark small">1541.31 km ( + 4.48 km )</td>
-                    <td class="content text-dark">Richmond SR 177, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/177.php">NC-177</a>, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">958.65 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">1543.10 km ( + 1.79 km )</td>
-                    <td class="content text-dark">Richmond SR 1001 - Marston Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1001.php">Richmond SR 1001 - Marston Rd</a>, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">959.04 mi ( + 0.39 mi )</td>
                     <td class="content text-dark small">1543.73 km ( + 0.63 km )</td>
-                    <td class="content text-dark">Richmond SR 1484 - Powers St, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1484.php">Richmond SR 1484 - Powers St</a>, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">960.85 mi ( + 1.81 mi )</td>
                     <td class="content text-dark small">1546.64 km ( + 2.91 km )</td>
-                    <td class="content text-dark">Richmond SR 1479 - James G Watson Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1479.php">Richmond SR 1479 - James G Watson Rd</a>, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">961.91 mi ( + 1.06 mi )</td>
                     <td class="content text-dark small">1548.35 km ( + 1.71 km )</td>
-                    <td class="content text-dark">Richmond SR 1475 - Caddell Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1475.php">Richmond SR 1475 - Caddell Rd</a>, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark">Main St, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">962.91 mi ( + 1.00 mi )</td>
                     <td class="content text-dark small">1549.96 km ( + 1.61 km )</td>
-                    <td class="content text-dark">Richmond SR 1004 - Little Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1004.php">Richmond SR 1004 - Little Rd</a>, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">963.78 mi ( + 0.87 mi )</td>
                     <td class="content text-dark small">1551.36 km ( + 1.40 km )</td>
-                    <td class="content text-dark">Richmond SR 1528 - Vincent-Gibson Ave, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1528.php">Richmond SR 1528 - Vincent-Gibson Ave</a>, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">964.06 mi ( + 0.28 mi )</td>
                     <td class="content text-dark small">1551.81 km ( + 0.45 km )</td>
-                    <td class="content text-dark">Richmond SR 1600 - Rushing Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ri/1600.php">Richmond SR 1600 - Rushing Rd</a>, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5084,7 +5083,7 @@
                 <tr>
                     <td class="content text-dark small">968.47 mi ( + 2.03 mi )</td>
                     <td class="content text-dark small">1558.91 km ( + 3.27 km )</td>
-                    <td class="content text-dark">Moore SR 1102 - Thunder Rd (WB) / Addor Rd (EB), Pinebluff, North Carolina 28373</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1102.php">Moore SR 1102 - Thunder Rd (WB) / Addor Rd (EB)</a>, Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5105,14 +5104,14 @@
                 <tr>
                     <td class="content text-dark small">970.16 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">1561.63 km ( + 0.18 km )</td>
-                    <td class="content text-dark">Moore SR 1156 - W Baltimore Ave (WB) / E Baltimore Ave (EB), Pinebluff, North Carolina 28373</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1156.php">Moore SR 1156 - W Baltimore Ave (WB) / E Baltimore Ave (EB)</a>, Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">970.77 mi ( + 0.61 mi )</td>
                     <td class="content text-dark small">1562.61 km ( + 0.98 km )</td>
-                    <td class="content text-dark">Moore SR 2118 - N Currant St, Pinebluff, North Carolina 28373</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2118.php">Moore SR 2118 - N Currant St</a>, Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5133,7 +5132,7 @@
                 <tr>
                     <td class="content text-dark small">972.71 mi ( + 0.95 mi )</td>
                     <td class="content text-dark small">1565.73 km ( + 1.52 km )</td>
-                    <td class="content text-dark">Moore SR 1112 - Roseland Rd, Aberdeen, North Carolina 28315</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1112.php">Moore SR 1112 - Roseland Rd</a>, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark">S Sandhills Blvd, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                 </tr>

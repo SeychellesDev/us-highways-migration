@@ -1829,3 +1829,25 @@ Richland 52
 Richland 53
 Richland 955
 Richland 1274
+US-287
+I-35
+I-820 (TX)
+TX-183
+TX-114
+I-35
+I-30
+US-80
+TX-557
+I-20
+US-61
+I-59
+I-459 (AL)
+I-65
+I-22
+US-65
+I-55
+I-240 (TN)
+US-78
+US-74
+I-140 (NC)
+US-117

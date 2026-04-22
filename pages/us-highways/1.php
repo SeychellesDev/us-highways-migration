@@ -81,7 +81,7 @@
                     <td class="content text-dark small">180.71 km ( + 10.07 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Dixie Hwy, Key Largo, Florida 33037</td>
-                    <td class="content text-dark">End Monroe County, Start Miami-Dade County</td>
+                    <td class="content text-dark">End Monroe County<br>Start Miami-Dade County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">126.40 mi ( + 14.07 mi )</td>
@@ -326,7 +326,7 @@
                     <td class="content text-dark small">252.62 km ( + 1.38 km )</td>
                     <td class="content text-dark"><a href="../interstates/auxiliary/fl-395.php">I-395 - MacArthur Cswy</a> (concurrent with <a href="../state-highways/fl/a1a.php">FL-A1A</a> & <a href="../state-highways/fl/836.php">FL-836</a>), Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with FL-A1A, Start concurrency with FL-836</td>
+                    <td class="content text-dark">End concurrency with FL-A1A<br>Start concurrency with FL-836</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">158.72 mi ( + 1.72 mi )</td>
@@ -424,7 +424,7 @@
                     <td class="content text-dark small">274.61 km ( + 1.27 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Federal Hwy, Hallandale Beach, Florida 33009</td>
-                    <td class="content text-dark">End Miami-Dade County, Start Broward County</td>
+                    <td class="content text-dark">End Miami-Dade County<br>Start Broward County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">171.42 mi ( + 0.77 mi )</td>
@@ -606,7 +606,7 @@
                     <td class="content text-dark small">316.20 km ( + 0.86 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Federal Hwy, Boca Raton, Florida 33431</td>
-                    <td class="content text-dark">End Broward County, Start Palm Beach County</td>
+                    <td class="content text-dark">End Broward County<br>Start Palm Beach County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">199.15 mi ( + 2.64 mi )</td>
@@ -739,7 +739,7 @@
                     <td class="content text-dark small">357.15 km ( + 1.63 km )</td>
                     <td class="content text-dark"><a href="../state-highways/fl/5.php">FL-5 - Belvedere Rd</a>, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with FL-805, Start concurrency with FL-5</td>
+                    <td class="content text-dark">End concurrency with FL-805<br>Start concurrency with FL-5</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">223.21 mi ( + 1.09 mi )</td>
@@ -886,7 +886,7 @@
                     <td class="content text-dark small">390.05 km ( + 1.67 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">SE Federal Hwy, Martin, Florida 33469</td>
-                    <td class="content text-dark">End Palm Beach County, Start Martin County<br>End concurrency with FL-A1A, Start concurrency with Martin CR A1A</td>
+                    <td class="content text-dark">End Palm Beach County<br>Start Martin County<br>End concurrency with FL-A1A<br>Start concurrency with Martin CR A1A</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">247.92 mi ( + 5.36 mi )</td>
@@ -949,7 +949,7 @@
                     <td class="content text-dark small">429.33 km ( + 2.35 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">NW Federal Hwy, Port St. Lucie, Florida 34952</td>
-                    <td class="content text-dark">End Martin County, Start St. Lucie County</td>
+                    <td class="content text-dark">End Martin County<br>Start St. Lucie County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">267.57 mi ( + 0.59 mi )</td>
@@ -1061,7 +1061,7 @@
                     <td class="content text-dark small">462.87 km ( + 1.01 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Florida Ridge, Florida 32962</td>
-                    <td class="content text-dark">End St. Lucie County, Start Indian River County</td>
+                    <td class="content text-dark">End St. Lucie County<br>Start Indian River County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">288.49 mi ( + 0.05 mi )</td>
@@ -1243,7 +1243,7 @@
                     <td class="content text-dark small">499.00 km ( + 1.61 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Dixie Hwy, Micco, Florida 32976</td>
-                    <td class="content text-dark">End Indian River County, Start Brevard County</td>
+                    <td class="content text-dark">End Indian River County<br>Start Brevard County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">313.96 mi ( + 3.09 mi )</td>
@@ -1523,7 +1523,7 @@
                     <td class="content text-dark small">612.48 km ( + 1.15 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Oak Hill, Florida 32759</td>
-                    <td class="content text-dark">End Brevard County, Start Volusia County</td>
+                    <td class="content text-dark">End Brevard County<br>Start Volusia County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">385.30 mi ( + 3.96 mi )</td>
@@ -1761,7 +1761,7 @@
                     <td class="content text-dark small">686.06 km ( + 2.83 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Bunnell, Florida 32110</td>
-                    <td class="content text-dark">End Volusia County, Start Flagler County</td>
+                    <td class="content text-dark">End Volusia County<br>Start Flagler County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">428.79 mi ( + 1.73 mi )</td>
@@ -1859,7 +1859,7 @@
                     <td class="content text-dark small">724.09 km ( + 0.96 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Dixie Hwy, St Augustine, Florida 32086</td>
-                    <td class="content text-dark">End Flagler County, Start St. Johns County</td>
+                    <td class="content text-dark">End Flagler County<br>Start St. Johns County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">451.24 mi ( + 0.52 mi )</td>
@@ -1978,7 +1978,7 @@
                     <td class="content text-dark small">780.14 km ( + 1.28 km )</td>
                     <td class="content text-dark"><a href="../secondary-roads/fl/sj/210.php">St. Johns CR 210 - Race Track Road (WB) / Nocatee Pkwy (EB)</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark">Phillips Hwy, Jacksonville, Florida 32208</td>
-                    <td class="content text-dark">End St. Johns County, Begin Duval County</td>
+                    <td class="content text-dark">End St. Johns County, Start Duval County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">488.21 mi ( + 2.64 mi )</td>
@@ -2230,7 +2230,7 @@
                     <td class="content text-dark small">840.22 km ( + 7.76 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">New Kings Rd, Nassau Village-Ratliff, Florida 32011</td>
-                    <td class="content text-dark">End Duval County, Start Nassau County</td>
+                    <td class="content text-dark">End Duval County<br>Start Nassau County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">521.06 mi ( + 0.39 mi )</td>
@@ -2316,7 +2316,7 @@
                     <td class="content text-dark small">876.54 km ( + 0.28 km )</td>
                     <td class="content text-dark"><a href="../state-highways/ga/4.php">GA-4</a> (concurrent with <a href="../state-highways/ga/15.php">GA-15</a>)</td>
                     <td class="content text-dark">US-1, Folkston, Georgia 31536</td>
-                    <td class="content text-dark">End route in Florida, Start route in Georgia<br>End Nassau County, Start Charlton County<br>End concurrency with FL-15, Start concurrency with GA-4 & GA-15</td>
+                    <td class="content text-dark">End US-1 in Florida<br>Start US-1 in Georgia<br>End Nassau County<br>Start Charlton County<br>End concurrency with FL-15<br>Start concurrency with GA-4 & GA-15</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">545.88 mi ( + 2.68 mi )</td>
@@ -2379,7 +2379,7 @@
                     <td class="content text-dark small">907.96 km ( + 1.37 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jacksonville Hwy, Waycross, Georgia 31503</td>
-                    <td class="content text-dark">End Charlton County, Start Ware County</td>
+                    <td class="content text-dark">End Charlton County<br>Start Ware County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">567.66 mi ( + 4.92 mi )</td>
@@ -2405,7 +2405,7 @@
                 <tr>
                     <td class="content text-dark small">580.98 mi ( + 0.67 mi )</td>
                     <td class="content text-dark small">936.32 km ( + 1.09 km )</td>
-                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23 Business</a> and <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23 Business</a> & <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">SE Georgia Pkwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Start concurrency with US-82 & GA-520</td>
                 </tr>
@@ -2461,7 +2461,7 @@
                 <tr>
                     <td class="content text-dark small">593.45 mi ( + 3.83 mi )</td>
                     <td class="content text-dark small">954.58 km ( + 6.17 km )</td>
-                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23 Business</a> and <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 51303</td>
+                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23 Business</a> & <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 51303</td>
                     <td class="content text-dark">Alma Hwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2470,7 +2470,7 @@
                     <td class="content text-dark small">969.45 km ( + 14.87 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Alma, Georgia 31510</td>
-                    <td class="content text-dark">End Ware County, Start Bacon County</td>
+                    <td class="content text-dark">End Ware County<br>Start Bacon County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">609.28 mi ( + 6.59 mi )</td>
@@ -2526,7 +2526,7 @@
                     <td class="content text-dark small">998.30 km ( + 4.30 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N US-1, Baxley, Georgia 31513</td>
-                    <td class="content text-dark">End Bacon County, Start Appling County</td>
+                    <td class="content text-dark">End Bacon County<br>Start Appling County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">629.37 mi ( + 8.75 mi )</td>
@@ -2568,7 +2568,7 @@
                     <td class="content text-dark small">1032.39 km ( + 0.77 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Lyons, Georgia 30436</td>
-                    <td class="content text-dark">End Appling County, Start Toombs County</td>
+                    <td class="content text-dark">End Appling County<br>Start Toombs County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">643.91 mi ( + 2.11 mi )</td>
@@ -2645,7 +2645,7 @@
                     <td class="content text-dark small">1075.46 km ( + 5.75 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Oak Park, Georgia 30471</td>
-                    <td class="content text-dark">End Toombs County, Start Emanuel County</td>
+                    <td class="content text-dark">End Toombs County<br>Start Emanuel County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">671.95 mi ( + 4.01 mi )</td>
@@ -2743,7 +2743,7 @@
                     <td class="content text-dark small">1139.96 km ( + 20.32 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Memorial Hwy, Wadley, Georgia 30477</td>
-                    <td class="content text-dark">End Emanuel County, Start Jefferson County</td>
+                    <td class="content text-dark">End Emanuel County<br>Start Jefferson County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">710.06 mi ( + 2.09 mi )</td>
@@ -2946,7 +2946,7 @@
                     <td class="content text-dark small">1196.53 km ( + 0.32 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Deans Bridge Rd, Augusta, Georgia 30805</td>
-                    <td class="content text-dark">End Jefferson County, Start Richmond County</td>
+                    <td class="content text-dark">End Jefferson County<br>Start Richmond County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">748.14 mi ( + 4.98 mi )</td>
@@ -3002,7 +3002,7 @@
                     <td class="content text-dark small">1229.53 km ( + 3.69 km )</td>
                     <td class="content text-dark"><a href="../state-highways/ga/4.php">GA-4 - Deans Bridge Rd (NB)</a>, Augusta, Georgia 30815<br><a href="78.php">US-78 - Gordon Hwy (WB/EB)</a> (concurrent with <a href="278.php">US-278</a> & <a href="../state-highways/ga/10.php">GA-10</a>), Augusta, Georgia 30815</td>
                     <td class="content text-dark">Gordon Hwy, Augusta, Georgia 30815</td>
-                    <td class="content text-dark">End concurrency with GA-4, Start concurrency with US-78, US-278, & GA-10</td>
+                    <td class="content text-dark">End concurrency with GA-4<br>Start concurrency with US-78, US-278, & GA-10</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">765.09 mi ( + 1.19 mi )</td>
@@ -3032,7 +3032,7 @@
                     <td class="content text-dark small">1238.08 km ( + 0.41 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Gordon Hwy & Jefferson Davis Hwy, North Augusta, South Carolina 29841</td>
-                    <td class="content text-dark">End US-1 in Georgia, Start US-1 in South Carolina<br>End Richmond County, Start Aiken County<br>Start concurrency with SC-121</td>
+                    <td class="content text-dark">End US-1 in Georgia<br>Start US-1 in South Carolina<br>End Richmond County<br>Start Aiken County<br>Start concurrency with SC-121</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">769.90 mi ( + 0.69 mi )</td>
@@ -3156,7 +3156,7 @@
                 <tr>
                     <td class="content text-dark small">786.44 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">1265.85 km ( + 1.45 km )</td>
-                    <td class="content text-dark"><a href="78.php/#scus78bypai">US-78 Bypass - Rudy Mason Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801<br><a href="1.php/#scus1trkai">US-1 Bypass - Rutland Dr (NB)</a> (concurrency <a href="78.php/#scus78bypai">US-78 Bypass</a> and <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="78.php/#scus78bypai">US-78 Bypass - Rudy Mason Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801<br><a href="1.php/#scus1trkai">US-1 Bypass - Rutland Dr (NB)</a> (concurrent with <a href="78.php/#scus78bypai">US-78 Bypass</a> & <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3452,14 +3452,14 @@
                     <td class="content text-dark small">1302.00 km ( + 0.91 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Monetta, South Carolina 29105</td>
-                    <td class="content text-dark">End Aiken County, Start Saluda County</td>
+                    <td class="content text-dark">End Aiken County<br>Start Saluda County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">810.98 mi ( + 2.08 mi )</td>
                     <td class="content text-dark small">1305.35 km ( + 3.35 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W Columbia Ave, Batesburg-Leesville, South Carolina 29006</td>
-                    <td class="content text-dark">End Saluda County, Start Lexington County</td>
+                    <td class="content text-dark">End Saluda County<br>Start Lexington County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">811.23 mi ( + 0.25 mi )</td>
@@ -3844,12 +3844,12 @@
                     <td class="content text-dark small">1356.35 km ( + 0.34 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Gervais St, Columbia, South Carolina 29201</td>
-                    <td class="content text-dark">End Lexington County, Start Richland County</td>
+                    <td class="content text-dark">End Lexington County<br>Start Richland County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">843.02 mi ( + 0.37 mi )</td>
                     <td class="content text-dark small">1356.95 km ( + 0.60 km )</td>
-                    <td class="content text-dark"><a href="21.php">US-21 - Huger St</a> (concurrent with <a href="176.php">US-176</a> and <a href="321.php">US-321</a>), Columbia, South Carolina 29201</td>
+                    <td class="content text-dark"><a href="21.php">US-21 - Huger St</a> (concurrent with <a href="176.php">US-176</a> & <a href="321.php">US-321</a>), Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3956,7 +3956,7 @@
                     <td class="content text-dark small">1383.23 km ( + 0.67 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Elgin, South Carolina 29045</td>
-                    <td class="content text-dark">End Richland County, Start Kershaw County</td>
+                    <td class="content text-dark">End Richland County<br>Start Kershaw County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">859.36 mi ( + 0.02 mi )</td>
@@ -4164,7 +4164,7 @@
                 <tr>
                     <td class="content text-dark small">871.70 mi ( + 0.51 mi )</td>
                     <td class="content text-dark small">1403.13 km ( + 0.82 km )</td>
-                    <td class="content text-dark"><a href="521.php/#scus521trkke">US-521 Bypass</a> (concurrent with <a href="601.php/#scus601trkke">US-601 Bypass</a> and <a href="../secondary-roads/sc/ke/130.php">Kershaw CR 130</a>), Camden, South Carolina 29020</td>
+                    <td class="content text-dark"><a href="521.php/#scus521trkke">US-521 Bypass</a> (concurrent with <a href="601.php/#scus601trkke">US-601 Bypass</a> & <a href="../secondary-roads/sc/ke/130.php">Kershaw CR 130</a>), Camden, South Carolina 29020</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-521 Bypass</td>
                 </tr>
@@ -4530,7 +4530,7 @@
                     <td class="content text-dark small">1442.47 km ( + 2.12 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, McBee, South Carolina 29009</td>
-                    <td class="content text-dark">End Kershaw County, Start Chesterfield County</td>
+                    <td class="content text-dark">End Kershaw County<br>Start Chesterfield County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">897.00 mi ( + 0.88 mi )</td>
@@ -4775,7 +4775,7 @@
                     <td class="content text-dark small">1496.98 km ( + 0.23 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Wallace, South Carolina 29596</td>
-                    <td class="content text-dark">End Chesterfield County, Start Marlboro County</td>
+                    <td class="content text-dark">End Chesterfield County<br>Start Marlboro County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">931.13 mi ( + 1.12 mi )</td>
@@ -4840,7 +4840,7 @@
                     <td class="content text-dark small">1509.31 km ( + 0.72 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Hamlet, North Carolina 28345</td>
-                    <td class="content text-dark">End US-1 in South Carolina, Start US-1 in North Carolina<br>End Marlboro County, Start Richmond County</td>
+                    <td class="content text-dark">End US-1 in South Carolina<br>Start US-1 in North Carolina<br>End Marlboro County<br>Start Richmond County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">939.39 mi ( + 1.72 mi )</td>
@@ -5078,7 +5078,7 @@
                     <td class="content text-dark small">1555.64 km ( + 3.83 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Pinebluff, North Carolina 28373</td>
-                    <td class="content text-dark">End Richmond County, Start Moore County</td>
+                    <td class="content text-dark">End Richmond County<br>Start Moore County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">968.47 mi ( + 2.03 mi )</td>
@@ -5139,14 +5139,14 @@
                 <tr>
                     <td class="content text-dark small">972.82 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">1565.91 km ( + 0.18 km )</td>
-                    <td class="content text-dark">US-15, US-501, & NC-211, Aberdeen, North Carolina 28315</td>
+                    <td class="content text-dark"><a href="15.php">US-15</a> (concurrent with <a href="501.php">US-501</a> & <a href="../state-highways/nc/211.php">NC-211</a>), Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-15, US-501, & NC-211</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">973.10 mi ( + 0.28 mi )</td>
                     <td class="content text-dark small">1566.36 km ( + 0.45 km )</td>
-                    <td class="content text-dark">NC-5 - W South St, Aberdeen, North Carolina 28315</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/5.php">NC-5 - W South St</a>, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5160,28 +5160,35 @@
                 <tr>
                     <td class="content text-dark small">974.76 mi ( + 1.47 mi )</td>
                     <td class="content text-dark small">1569.03 km ( + 2.37 km )</td>
-                    <td class="content text-dark">US-15, US-501, & NC-211, Aberdeen, North Carolina 28315</td>
+                    <td class="content text-dark"><a href="15.php">US-15</a> (concurrent with <a href="501.php">US-501</a> & <a href="../state-highways/nc/211.php">NC-211</a>), Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-15, US-501, & NC-211</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">975.20 mi ( + 0.44 mi )</td>
                     <td class="content text-dark small">1569.74 km ( + 0.71 km )</td>
-                    <td class="content text-dark">Moore SR 2055 - N Poplar St, Aberdeen, North Carolina 28315</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2055.php">Moore SR 2055 - N Poplar St</a>, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark">US-1, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">975.51 mi ( + 0.31 mi )</td>
                     <td class="content text-dark small">1570.24 km ( + 0.50 km )</td>
-                    <td class="content text-dark">Moore SR 2053 - Saunders Blvd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2053.php">Moore SR 2053 - Saunders Blvd</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">976.10 mi ( + 0.59 mi )</td>
-                    <td class="content text-dark small">1571.18 km ( + 0.94 km )</td>
-                    <td class="content text-dark">Moore SR 1205 - W Morganton Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark small">975.66 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">1570.49 km ( + 0.25 km )</td>
+                    <td class="content text-dark"><a href="#ncus1busmosp">US-1 Business</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">976.10 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">1571.18 km ( + 0.69 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1205.php">Moore SR 1205 - W Morganton Rd</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5195,28 +5202,35 @@
                 <tr>
                     <td class="content text-dark small">976.93 mi ( + 0.20 mi )</td>
                     <td class="content text-dark small">1572.51 km ( + 0.32 km )</td>
-                    <td class="content text-dark">Moore SR 1848 - W Pennsylvania Ave, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1848.php">Moore SR 1848 - W Pennsylvania Ave</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">978.04 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">1574.29 km ( + 1.78 km )</td>
-                    <td class="content text-dark">NC-2 - Midland Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/2.php">NC-2 - Midland Rd</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">978.65 mi ( + 0.61 mi )</td>
-                    <td class="content text-dark small">1575.27 km ( + 0.98 km )</td>
-                    <td class="content text-dark">Moore SR 2164 - Air Tool Dr, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark small">978.21 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">1574.56 km ( + 0.27 km )</td>
+                    <td class="content text-dark"><a href="#ncus1busmosp">US-1 Business</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">978.65 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">1575.27 km ( + 0.71 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2164.php">Moore SR 2164 - Air Tool Dr</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">979.51 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">1576.66 km ( + 1.39 km )</td>
-                    <td class="content text-dark">Moore SR 2088 - Brothers Rd (SB)<br>NC-1870 - Westover Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2088.php">Moore SR 2088 - Brothers Rd (SB)</a>, Southern Pines, North Carolina 28387<br><a href="../state-highways/nc/1870.php">NC-1870 - Westover Rd (NB)</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5230,21 +5244,21 @@
                 <tr>
                     <td class="content text-dark small">980.55 mi ( + 0.79 mi )</td>
                     <td class="content text-dark small">1578.32 km ( + 1.27 km )</td>
-                    <td class="content text-dark">Moore SR 2080 - N May St, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2080.php">Moore SR 2080 - N May St</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">980.83 mi ( + 0.28 mi )</td>
                     <td class="content text-dark small">1578.77 km ( + 0.45 km )</td>
-                    <td class="content text-dark">Moore SR 2124 - Equestrian Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2124.php">Moore SR 2124 - Equestrian Rd</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">981.42 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">1579.73 km ( + 0.96 km )</td>
-                    <td class="content text-dark">Moore SR 2026 - Youngs Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2026.php">Moore SR 2026 - Youngs Rd</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5258,56 +5272,56 @@
                 <tr>
                     <td class="content text-dark small">983.10 mi ( + 0.60 mi )</td>
                     <td class="content text-dark small">1582.43 km ( + 0.97 km )</td>
-                    <td class="content text-dark">Moore SR 1853 - Aiken Rd (SB) / Camp Easter Rd (NB), Vass, North Carolina, 28394</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1853.php">Moore SR 1853 - Aiken Rd (SB) / Camp Easter Rd (NB)</a>, Vass, North Carolina, 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">983.85 mi ( + 0.75 mi )</td>
                     <td class="content text-dark small">1583.64 km ( + 1.21 km )</td>
-                    <td class="content text-dark">US-1 Business, Vass, North Carolina 28394</td>
+                    <td class="content text-dark"><a href="#ncus1busmole">US-1 Business</a>, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">984.44 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">1584.59 km ( + 0.95 km )</td>
-                    <td class="content text-dark">Moore SR 1864 - James St, Vass, North Carolina 28394</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1864.php">Moore SR 1864 - James St</a>, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">984.89 mi ( + 0.45 mi )</td>
                     <td class="content text-dark small">1585.31 km ( + 0.72 km )</td>
-                    <td class="content text-dark">NC-690 & Moore SR 1001 - Main St, Vass, North Carolina 28394</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/690.php">NC-690 - Main St</a> (concurrent with <a href="../secondary-roads/nc/mo/1001.php">Moore SR 1001 - Main St</a>), Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">985.58 mi ( + 0.69 mi )</td>
                     <td class="content text-dark small">1586.42 km ( + 1.11 km )</td>
-                    <td class="content text-dark">Moore SR 2005 - N Alma St, Vass, North Carolina 28394</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2005.php">Moore SR 2005 - N Alma St</a>, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">987.76 mi ( + 2.18 mi )</td>
                     <td class="content text-dark small">1589.94 km ( + 3.52 km )</td>
-                    <td class="content text-dark">Moore SR 1825 - Cranes Creek Rd, Vass, North Carolina 28394</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1825.php">Moore SR 1825 - Cranes Creek Rd</a>, Vass, North Carolina 28394</td>
                     <td class="content text-dark">US-1, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">988.88 mi ( + 1.12 mi )</td>
                     <td class="content text-dark small">1591.74 km ( + 1.80 km )</td>
-                    <td class="content text-dark">Moore SR 2099 - Pineywood Church Rd, Cameron, North Carolina 28326</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2099.php">Moore SR 2099 - Pineywood Church Rd</a>, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">989.81 mi ( + 0.93 mi )</td>
                     <td class="content text-dark small">1593.24 km ( + 1.50 km )</td>
-                    <td class="content text-dark">Moore SR 2005 - Atkins Rd, Cameron, North Carolina 28326</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2005.php">Moore SR 2005 - Atkins Rd</a>, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5321,56 +5335,49 @@
                 <tr>
                     <td class="content text-dark small">990.34 mi ( + 0.29 mi )</td>
                     <td class="content text-dark small">1594.09 km ( + 0.46 km )</td>
-                    <td class="content text-dark">NC-24 & NC-27, Cameron, North Carolina 28326</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/24.php">NC-24</a> (concurrent with <a href="../state-highways/nc/27.php">NC-27</a>), Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">991.00 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">1595.15 km ( + 1.06 km )</td>
-                    <td class="content text-dark">Moore SR 2000 - Page Store Rd, Cameron, North Carolina 28326</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">991.53 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">1596.01 km ( + 0.86 km )</td>
+                    <td class="content text-dark small">991.53 mi ( + 1.19 mi )</td>
+                    <td class="content text-dark small">1596.01 km ( + 1.92 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Sanford, North Carolina 27330</td>
-                    <td class="content text-dark">End Moore County, Start Lee County</td>
+                    <td class="content text-dark">End Moore County<br>Start Lee County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">993.20 mi ( + 1.67 mi )</td>
                     <td class="content text-dark small">1598.69 km ( + 2.68 km )</td>
-                    <td class="content text-dark">US-1 Business & Lee SR 1182 - Cedar Lane Rd  (WB)<br>NC-1182 - Pine Forrest Rd (EB), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="#ncus1busmole">US-1 Business - Cedar Lane Rd (WB)</a> (concurrent with <a href="../secondary-roads/nc/le/1182.php">Lee SR 1182</a>), Sanford, North Carolina 27330<br><a href="../secondary-roads/nc/le/1182.php">Lee SR 1182 - Pine Forrest Rd (EB)</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">996.42 mi ( + 3.22 mi )</td>
                     <td class="content text-dark small">1603.87 km ( + 5.18 km )</td>
-                    <td class="content text-dark">US-15 & US-501 - White Hill Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="15.php">US-15 - White Hill Rd</a> (concurrent with <a href="501.php">US-501</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-15 & US-501</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">997.65 mi ( + 1.23 mi )</td>
                     <td class="content text-dark small">1605.84 km ( + 1.97 km )</td>
-                    <td class="content text-dark">Lee SR 1300 - Chris Cole Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1300.php">Lee SR 1300 - Chris Cole Rd</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">998.86 mi ( + 1.21 mi )</td>
                     <td class="content text-dark small">1607.78 km ( + 1.94 km )</td>
-                    <td class="content text-dark">Lee SR 1303 - Center Church Rd (WB)<br>NC-78 - Tramway Rd (EB), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1303.php">Lee SR 1303 - Center Church Rd (WB)</a>, Sanford, North Carolina 27330<br><a href="../state-highways/nc/78.php">NC-78 - Tramway Rd (EB)</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">999.39 mi ( + 0.53 mi )</td>
                     <td class="content text-dark small">1608.63 km ( + 0.85 km )</td>
-                    <td class="content text-dark">Lee SR 1237 - Carthage St, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1237.php">Lee SR 1237 - Carthage St</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5384,35 +5391,35 @@
                 <tr>
                     <td class="content text-dark small">1001.26 mi ( + 1.39 mi )</td>
                     <td class="content text-dark small">1611.64 km ( + 2.24 km )</td>
-                    <td class="content text-dark">NC-42 - Wicker St, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/42.php">NC-42 - Wicker St (WB)</a>, Sanford, North Carolina 27330<br><a href="../state-highways/nc/42.php">NC-42 - Wicker St (EB)</a> (concurrent with <a href="#ncus1busle">US-1 Business</a>, <a href="15.php/#ncus15busle">US-15 Business</a>, & <a href="501.php/#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1002.09 mi ( + 0.83 mi )</td>
                     <td class="content text-dark small">1612.97 km ( + 1.33 km )</td>
-                    <td class="content text-dark">Lee SR 1009 - Carbonton Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1009.php">Lee SR 1009 - Carbonton Rd</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1003.16 mi ( + 1.07 mi )</td>
                     <td class="content text-dark small">1614.68 km ( + 1.71 km )</td>
-                    <td class="content text-dark">US-421 Business - N Horner Blvd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="421.php/#ncus421busle">US-421 Business - N Horner Blvd</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1004.34 mi ( + 1.18 mi )</td>
                     <td class="content text-dark small">1616.58 km ( + 1.90 km )</td>
-                    <td class="content text-dark">US-421, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="421.php">US-421</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1005.21 mi ( + 0.87 mi )</td>
                     <td class="content text-dark small">1617.99 km ( + 1.41 km )</td>
-                    <td class="content text-dark">US-15, US-15 Business, US-501, US-501 Business, & NC-87 - Hawkins Ave, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="15.php/#ncus15busle">US-15 Business - Hawkins Ave (SB)</a> (concurrent with <a href="501.php/#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330<br><a href="15.php">US-15 - Hawkins Ave (NB)</a> (concurrent with <a href="501.php">US-501</a> & <a href="../state-highways/nc/87.php">NC-87</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-15 & US-501</td>
                 </tr>
@@ -5442,7 +5449,7 @@
                     <td class="content text-dark small">1631.51 km ( + 0.55 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Claude E. Pope Memorial Hwy, Moncure, North Carolina 27559</td>
-                    <td class="content text-dark">End Lee County, Start Chatham County</td>
+                    <td class="content text-dark">End Lee County<br>Start Chatham County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1014.11 mi ( + 0.50 mi )</td>
@@ -5463,7 +5470,7 @@
                     <td class="content text-dark small">1642.18 km ( + 1.80 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Claude E. Pope Memorial Hwy, Apex, North Carolina 27502</td>
-                    <td class="content text-dark">End Chatham County, Start Wake County</td>
+                    <td class="content text-dark">End Chatham County<br>Start Wake County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1023.66 mi ( + 3.42 mi )</td>
@@ -5505,7 +5512,7 @@
                     <td class="content text-dark small">1668.47 km ( + 6.11 km )</td>
                     <td class="content text-dark">I-40 - Tom Bradshaw Fwy, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark">Raleigh Beltline, Raleigh, North Carolina 27608</td>
-                    <td class="content text-dark">End concurrency with US-64, Start concurrency with I-440-NC </td>
+                    <td class="content text-dark">End concurrency with US-64<br>Start concurrency with I-440-NC </td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1039.80 mi ( + 3.23 mi )</td>
@@ -5526,7 +5533,7 @@
                     <td class="content text-dark small">1685.74 km ( + 6.76 km )</td>
                     <td class="content text-dark">US-401 - Capital Blvd, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark">Capital Blvd, Raleigh, North Carolina 27608</td>
-                    <td class="content text-dark">End concurrency with I-440-NC, Start concurrency with US-401</td>
+                    <td class="content text-dark">End concurrency with I-440-NC<br>Start concurrency with US-401</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1049.51 mi ( + 2.20 mi )</td>
@@ -5610,7 +5617,7 @@
                     <td class="content text-dark small">1710.99 km ( + 0.85 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End Wake County, Start Franklin County</td>
+                    <td class="content text-dark">End Wake County<br>Start Franklin County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1063.11 mi ( + 0.12 mi )</td>
@@ -5715,7 +5722,7 @@
                     <td class="content text-dark small">1730.20 km ( + 2.10 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Kittrell, North Carolina 27544</td>
-                    <td class="content text-dark">End Franklin County, Start Vance County</td>
+                    <td class="content text-dark">End Franklin County<br>Start Vance County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1080.01 mi ( + 5.12 mi )</td>
@@ -5841,7 +5848,7 @@
                     <td class="content text-dark small">1762.61 km ( + 0.22 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Norlina, North Carolina 27563</td>
-                    <td class="content text-dark">End Vance County, Start Warren County</td>
+                    <td class="content text-dark">End Vance County<br>Start Warren County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1098.88 mi ( + 3.84 mi )</td>
@@ -5892,7 +5899,7 @@
                     <td class="content text-dark small">1784.98 km ( + 1.19 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Boydton, Virginia 23917</td>
-                    <td class="content text-dark">End US-1 in North Carolina, Start US-1 in Virginia<br>End Warren County, Start Mecklenburg County</td>
+                    <td class="content text-dark">End US-1 in North Carolina<br>Start US-1 in Virginia<br>End Warren County<br>Start Mecklenburg County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1114.13 mi ( + 5.18 mi )</td>
@@ -5913,7 +5920,7 @@
                     <td class="content text-dark small">1805.01 km ( + 5.56 km )</td>
                     <td class="content text-dark">Mecklenburg SR 780 - Theater Rd</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with US-58, Start concurrency with Mecklenburg SR 780</td>
+                    <td class="content text-dark">End concurrency with US-58<br>Start concurrency with Mecklenburg SR 780</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1121.60 mi ( + 0.20 mi )</td>
@@ -5969,7 +5976,7 @@
                     <td class="content text-dark small">1820.47 km ( + 5.76 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Boydton Plank Rd, Brodnax, Virginia 23920</td>
-                    <td class="content text-dark">End Mecklenburg County, Start Brunswick County</td>
+                    <td class="content text-dark">End Mecklenburg County<br>Start Brunswick County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1131.40 mi ( + 0.38 mi )</td>
@@ -6200,7 +6207,7 @@
                     <td class="content text-dark small">1854.15 km ( + 0.37 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Boydton Plank Rd, McKenney, Virginia 23872</td>
-                    <td class="content text-dark">End Brunswick County, Start Dinwiddie County</td>
+                    <td class="content text-dark">End Brunswick County<br>Start Dinwiddie County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1154.67 mi ( + 2.74 mi )</td>
@@ -6333,7 +6340,7 @@
                     <td class="content text-dark small">1894.84 km ( + 0.70 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W Washington St, Petersburg, Virginia 23803</td>
-                    <td class="content text-dark">End Dinwiddie County, Start City of Petersburg</td>
+                    <td class="content text-dark">End Dinwiddie County<br>Start City of Petersburg</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1178.29 mi ( + 1.07 mi )</td>
@@ -6354,7 +6361,7 @@
                     <td class="content text-dark small">1899.09 km ( + 0.13 km )</td>
                     <td class="content text-dark">US-301 & US-1 - S Adams St, Petersburg, Virginia 23803</td>
                     <td class="content text-dark">S Adams St, Petersburg, Virginia 23803</td>
-                    <td class="content text-dark">End concurrency with US-301 Alternate & US-460 Business, Start concurrency with US-301</td>
+                    <td class="content text-dark">End concurrency with US-301 Alternate & US-460 Business<br>Start concurrency with US-301</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1179.94 mi ( + 0.08 mi )</td>
@@ -6382,7 +6389,7 @@
                     <td class="content text-dark small">1900.23 km ( + 0.47 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">(The) Blvd, Colonial Heights, Virginia 23834</td>
-                    <td class="content text-dark">End City of Petersburg, Start City of Colonial Heights</td>
+                    <td class="content text-dark">End City of Petersburg<br>Start City of Colonial Heights</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1182.16 mi ( + 1.60 mi )</td>
@@ -6403,7 +6410,7 @@
                     <td class="content text-dark small">1905.55 km ( + 1.56 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">(The) Blvd, Chester, Virginia 23831</td>
-                    <td class="content text-dark">End City of Colonial Heights, Start Chesterfield County</td>
+                    <td class="content text-dark">End City of Colonial Heights<br>Start Chesterfield County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1184.10 mi ( + 0.23 mi )</td>
@@ -6473,7 +6480,7 @@
                     <td class="content text-dark small">1925.78 km ( + 1.85 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Richmond, Virginia, 23234</td>
-                    <td class="content text-dark">End Chesterwood County, Start City of Richmond</td>
+                    <td class="content text-dark">End Chesterwood County<br>Start City of Richmond</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1196.48 mi ( + 0.05 mi )</td>
@@ -6582,7 +6589,7 @@
                     <td class="content text-dark small">1939.08 km ( + 0.06 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Brook Rd, Lakeside, Virginia, 23228</td>
-                    <td class="content text-dark">End City of Richmond, Start Henrico County</td>
+                    <td class="content text-dark">End City of Richmond<br>Start Henrico County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1204.93 mi ( + 0.26 mi )</td>
@@ -6631,7 +6638,7 @@
                     <td class="content text-dark small">1948.64 km ( + 2.39 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Washington Hwy, Ashland, Virginia 23005</td>
-                    <td class="content text-dark">End Henrico County, Start Hanover County</td>
+                    <td class="content text-dark">End Henrico County<br>Start Hanover County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1211.06 mi ( + 0.46 mi )</td>
@@ -6701,7 +6708,7 @@
                     <td class="content text-dark small">1972.30 km ( + 2.65 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Hwy, Lake Caroline, Virginia 22546</td>
-                    <td class="content text-dark">End Hanover County, Start Caroline County</td>
+                    <td class="content text-dark">End Hanover County<br>Start Caroline County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1228.32 mi ( + 3.01 mi )</td>
@@ -6736,7 +6743,7 @@
                     <td class="content text-dark small">1996.30 km ( + 0.91 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Patriot Hwy, Spotsylvania Courthouse, Virginia 22553</td>
-                    <td class="content text-dark">End Caroline County, Start Spotsylvania County</td>
+                    <td class="content text-dark">End Caroline County<br>Start Spotsylvania County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1242.80 mi ( + 2.56 mi )</td>
@@ -6820,7 +6827,7 @@
                     <td class="content text-dark small">2016.45 km ( + 1.09 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Emancipation Hwy, Fredericksburg, Virginia 22401</td>
-                    <td class="content text-dark">End Spotsylvania County, Start City of Fredericksburg</td>
+                    <td class="content text-dark">End Spotsylvania County<br>Start City of Fredericksburg</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1254.32 mi ( + 1.57 mi )</td>
@@ -6974,7 +6981,7 @@
                     <td class="content text-dark small">2047.36 km ( + 1.71 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Quantico, Virginia 22134</td>
-                    <td class="content text-dark">End Stafford County, Start Prince William County</td>
+                    <td class="content text-dark">End Stafford County<br>Start Prince William County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1274.14 mi ( + 2.22 mi )</td>
@@ -7030,7 +7037,7 @@
                     <td class="content text-dark small">2067.13 km ( + 0.86 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Lorton, Virginia 22079</td>
-                    <td class="content text-dark">End Prince William County, Start Fairfax County</td>
+                    <td class="content text-dark">End Prince William County<br>Start Fairfax County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1284.74 mi ( + 0.54 mi )</td>
@@ -7142,7 +7149,7 @@
                     <td class="content text-dark small">2090.91 km ( + 0.38 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Patrick St, Alexandria, Virginia 22314</td>
-                    <td class="content text-dark">End Fairfax County, Start City of Alexandria</td>
+                    <td class="content text-dark">End Fairfax County<br>Start City of Alexandria</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1299.13 mi ( + 0.17 mi )</td>
@@ -7177,7 +7184,7 @@
                     <td class="content text-dark small">2096.44 km ( + 2.33 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Richmond Hwy, Arlington, Virginia 22202</td>
-                    <td class="content text-dark">End City of Alexandria, Start Arlington County</td>
+                    <td class="content text-dark">End City of Alexandria<br>Start Arlington County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1302.55 mi ( + 0.15 mi )</td>
@@ -7207,7 +7214,7 @@
                     <td class="content text-dark small">2100.38 km ( + 1.27 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Arland D. Williams Jr. Memorial Hwy, Washington, District of Columbia 20505</td>
-                    <td class="content text-dark">End US-1 in Virginia, Start US-1 in District of Columbia<br>End Arlington County</td>
+                    <td class="content text-dark">End US-1 in Virginia<br>Start US-1 in District of Columbia<br>End Arlington County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1305.63 mi ( + 0.79 mi )</td>
@@ -7258,7 +7265,7 @@
                     <td class="content text-dark small">2111.95 km ( + 5.48 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Rhode Island Ave, Mt Ranier, Maryland 20712</td>
-                    <td class="content text-dark">End US-1 in District of Columbia, Start US-1 in Maryland<br>Start Prince George's County</td>
+                    <td class="content text-dark">End US-1 in District of Columbia<br>Start US-1 in Maryland<br>Start Prince George's County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1312.43 mi ( + 0.39 mi )</td>
@@ -7391,7 +7398,7 @@
                     <td class="content text-dark small">2134.56 km ( + 0.89 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Washington Blvd (SB) / N 2nd St (NB), North Laurel, Maryland 20723</td>
-                    <td class="content text-dark">End Prince George's County, Start Howard County</td>
+                    <td class="content text-dark">End Prince George's County<br>Start Howard County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1326.74 mi ( + 0.66 mi )</td>
@@ -7519,7 +7526,7 @@
                     <td class="content text-dark small">3.66 km ( + 1.28 km )</td>
                     <td class="content text-dark"><a href="../state-highways/fl/228.php">FL-228 - Commodore Point Expy</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark">Commodore Point Expy, Jacksonville, Florida 32208</td>
-                    <td class="content text-dark">Begin concurrency with FL-228</td>
+                    <td class="content text-dark">Start concurrency with FL-228</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">2.51 mi ( + 0.24 mi )</td>
@@ -7577,21 +7584,21 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#us1">US-1 - Memorial Dr (SB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">Memorial Dr, Waycross, Georgia 31503</td>
-                    <td class="content text-dark">Start of Business Route<br>Start concurrency with US-23 Business and GA-4 Business</td>
+                    <td class="content text-dark">Start of Business Route<br>Start concurrency with US-23 Business & GA-4 Business</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.21 mi ( + 1.21 mi )</td>
                     <td class="content text-dark small">1.95 km ( + 1.95 km )</td>
                     <td class="content text-dark"><a href="84.php">US-84 - Plant Ave (WB/EB)</a> (concurrent with <a href="../state-highways/ga/38.php">GA-38</a>), Waycross, Georgia 31503<br><a href="../state-highways/ga/122.php">GA-122 - Carswell Ave (WB)</a>, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Plant Ave, Waycross, Georgia 31503</td>
-                    <td class="content text-dark">Start concurrency with US-84 and GA-38</td>
+                    <td class="content text-dark">Start concurrency with US-84 & GA-38</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.40 mi ( + 0.19 mi )</td>
                     <td class="content text-dark small">2.25 km ( + 0.30 km )</td>
                     <td class="content text-dark">US-1 Business - Ossie Davis Pkwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Ossie Davis Pkwy, Waycross, Georgia 31503</td>
-                    <td class="content text-dark">End concurrency with US-84 and GA-38</td>
+                    <td class="content text-dark">End concurrency with US-84 & GA-38</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.93 mi ( + 3.53 mi )</td>
@@ -7603,9 +7610,9 @@
                 <tr>
                     <td class="content text-dark small">9.62 mi ( + 4.69 mi )</td>
                     <td class="content text-dark small">15.48 km ( + 7.55 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Scapa Rd (SB) / Alma Hwy (NB)</a> (concurrent with <a href="23.php">US-23</a> and <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Scapa Rd (SB) / Alma Hwy (NB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Business Route<br>End concurrency with US-23 Business and GA-4 Business</td>
+                    <td class="content text-dark">End of Business Route<br>End concurrency with US-23 Business & GA-4 Business</td>
                 </tr>
             </section>
             </table>
@@ -7718,7 +7725,7 @@
                 <tr>
                     <td class="content text-dark small">2.63 mi ( + 0.74 mi )</td>
                     <td class="content text-dark small">4.24 km ( + 1.19 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy (SB) / US-1 (NB)</a> (concurrent with <a href="../state-highways/ga/17.php">GA-17</a> and <a href="../state-highways/ga/4.php">GA-4</a> (SB/NB) and <a href="221.php">US-221</a> (NB)), Louisville, Georgia 30434</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy (SB) / US-1 (NB)</a> (concurrent with <a href="../state-highways/ga/17.php">GA-17</a>, <a href="../state-highways/ga/4.php">GA-4</a> (SB/NB) & <a href="221.php">US-221</a> (NB)), Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End concurrency with GA-4 Business</td>
                 </tr>
@@ -7733,7 +7740,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Deans Bridge Rd</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a> and <a href="../state-highways/ga/540.php">GA-540</a>), Hephzibah, Georgia 30815</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Deans Bridge Rd</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a> & <a href="../state-highways/ga/540.php">GA-540</a>), Hephzibah, Georgia 30815</td>
                     <td class="content text-dark">Deans Bridge Rd, Hephzibah, Georgia 30815</td>
                     <td class="content text-dark">Start of Spur</td>
                 </tr>
@@ -7757,7 +7764,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#us1">US-1 - Jefferson Davis Hwy (NB/SB)</a> (concurrent with <a href="78.php">US-78</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark">Robert M Bell Pkwy, Aiken, South Carolina 29801</td>
-                    <td class="content text-dark">Start of Truck Route<br>Start concurrency with SC-19 Truck and SC-118</td>
+                    <td class="content text-dark">Start of Truck Route<br>Start concurrency with SC-19 Truck & SC-118</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.29 mi ( + 1.29 mi )</td>
@@ -7814,7 +7821,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#us1">US-1 - W Dekalb St</a> (concurrent with <a href="601.php">US-601</a> & <a href="../state-highways/sc/34.php">SC-34</a>), Camden, South Carolina 29020</td>
                     <td class="content text-dark">Chestnut Ferry Rd, Camden, South Carolina 29020</td>
-                    <td class="content text-dark">Start of Truck Route<br>Start concurrency with SC-19 Bypass and SC-118</td>
+                    <td class="content text-dark">Start of Truck Route<br>Start concurrency with SC-19 Bypass & SC-118</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.05 mi ( + 0.05 mi )</td>
@@ -7991,6 +7998,268 @@
                     <td class="content text-dark"><a href="52.php/scus52trkcf">US-52 Truck - Front St (NB)</a>, Cheraw, South Carolina 29520<br><a href="#us1">US-1 - Powe St (WB/EB)</a> (concurrent with <a href="../state-highways/sc/9.php">SC-9</a>), Cheraw, South Carolina 29520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Truck Route<br>End concurrency with US-52 Truck & SC-9 Truck</td>
+                </tr>
+            </section>
+            </table>
+            <hr>
+            <section id="sec-ncus1busmosp">
+            <h1 class="header" id="ncus1busmosp">United States Route 1 Business (Southern Pines, North Carolina)</h1>
+            <h2 class="content text-dark">US-1 Business is a business route in Southern Pines, North Carolina. It is 3.11 mi (5.00 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us1">US-1</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">US-1 Business, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.48 mi ( + 0.48 mi )</td>
+                    <td class="content text-dark small">0.78 km ( + 0.78 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2160.php">Moore SR 2160 - SW Broad St (NB)</a>, Southern Pines, North Carolina 28387<br><a href="../secondary-roads/nc/mo/1205.php">Moore SR 1205 - W Morganton Rd (WB)</a>, Southern Pines, North Carolina 28387<br><a href="../secondary-roads/nc/mo/2053.php">Moore SR 2053 - E Morganton Rd (EB)</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">SW Broad St, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">Start concurrency with Moore SR 2160</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.78 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">1.26 km ( + 0.48 km )</td>
+                    <td class="content text-dark">US-1 Business - SW Broad St (SB) / E Illinois Ave (NB) (concurrent with <a href="../secondary-roads/nc/mo/2160">Moore SR 2160</a>), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">E Illinois Ave (NB) / SW Broad St (SB), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.81 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">1.30 km ( + 0.04 km )</td>
+                    <td class="content text-dark">US-1 Business (NB) - SE Broad St (concurrent with <a href="../secondary-roads/nc/mo/2160">Moore SR 2160</a>), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">SE Broad St (NB) / SW Broad St (SB), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.17 mi ( + 0.36 mi )</td>
+                    <td class="content text-dark small">1.89 km ( + 0.59 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1848.php">Moore SR 1848 - E Pennsylvania Ave</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">NE Broad St (NB) / NW Broad St (SB), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.44 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">2.33 km ( + 0.44 km )</td>
+                    <td class="content text-dark">US-1 Business (NB) - E Vermont Ave (concurrent with <a href="../secondary-roads/nc/mo/2160">Moore SR 2160</a>), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">E Vermont Ave (NB) / NW Broad St (SB), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.47 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">2.37 km ( + 0.04 km )</td>
+                    <td class="content text-dark">US-1 Business - NW Broad St (concurrent with <a href="../secondary-roads/nc/mo/2160">Moore SR 2160</a>), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">NW Broad St, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.83 mi ( + 0.36 mi )</td>
+                    <td class="content text-dark small">2.95 km ( + 0.58 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Midland Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">End concurrency with Moore SR 2160</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.93 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">3.11 km ( + 0.16 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2032.php">Moore SR 2032 - Clark St</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.67 mi ( + 0.74 mi )</td>
+                    <td class="content text-dark small">4.30 km ( + 1.19 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/2.php">NC-2 - Midland Rd</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">US-1 Business, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.74 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">4.42 km ( + 0.12 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/2029.php">Moore SR 2029 - Yadkin Rd</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.87 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">4.62 km ( + 0.20 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - N Sandhills Blvd</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Business Route</td>
+                </tr>
+            </section>
+            </table>
+            <hr>
+            <section id="sec-ncus1busmole">
+            <h1 class="header" id="ncus1busmole">United States Route 1 Business (Vass, North Carolina)</h1>
+            <h2 class="content text-dark">US-1 Business is a business route in Vass, North Carolina. It is 3.11 mi (5.00 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us1">US-1</a>, Vass, North Carolina 28394</td>
+                    <td class="content text-dark">US-1 Business, Vass, North Carolina 28394</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.61 mi ( + 0.61 mi )</td>
+                    <td class="content text-dark small">0.99 km ( + 0.99 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1864.php">Moore SR 1864 - James St</a>, Vass, North Carolina 28394</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.00 mi ( + 0.39 mi )</td>
+                    <td class="content text-dark small">1.61 km ( + 0.62 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1803.php">Moore SR 1803 - Vass-Carthage Rd</a>, Vass, North Carolina 28394</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.30 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">2.10 km ( + 0.49 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/690.php">NC-690 - Main St (SB)</a> (concurrent with <a href="../secondary-roads/nc/mo/1001.php">Moore SR 1001</a>), Vass, North Carolina 28394<br><a href="../secondary-roads/nc/mo/1805.php">Moore SR 1805 - Union Church Rd (NB)</a></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.70 mi ( + 2.40 mi )</td>
+                    <td class="content text-dark small">5.96 km ( + 3.86 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1825.php">Moore SR 1825 - Cranes Creek Rd</a>, Vass, North Carolina 28394</td>
+                    <td class="content text-dark">US-1 Business, Cameron, North Carolina 28326</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">6.24 mi ( + 2.54 mi )</td>
+                    <td class="content text-dark small">10.05 km ( + 4.09 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/27.php">NC-24</a> (concurrent with <a href="../state-highways/nc/27.php">NC-27</a>), Cameron, North Carolina 28326</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">6.34 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">10.20 km ( + 0.15 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1821.php">Moore SR 1821 - Thommason Rd</a>, Cameron, North Carolina 28326</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">6.88 mi ( + 0.54 mi )</td>
+                    <td class="content text-dark small">11.07 km ( + 0.87 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/mo/1007.php">Moore SR 1007 - Carter St</a>, Cameron, North Carolina 28326</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">7.60 mi ( + 0.72 mi )</td>
+                    <td class="content text-dark small">14.93 km ( + 3.86 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1 Business, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">End Moore County<br>Start Lee County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">9.28 mi ( + 1.68 mi )</td>
+                    <td class="content text-dark small">14.93 km ( + 3.86 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1182.php">Lee SR 1182 - Cedar Lane Rd</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Cedar Lane Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Start concurrency with Lee SR 1182</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">9.41 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">15.14 km ( + 0.21 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Hwy (SB/NB)</a>, Sanford, North Carolina 27330<br><a href="../secondary-roads/nc/le/1182.php">Lee SR 1182 - Pine Forrest Rd</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Lee SR 1182<br>End of Business Route</td>
+                </tr>
+            </section>
+            </table>
+            <hr>
+            <section id="sec-ncus1busle">
+            <h1 class="header" id="ncus1busmole">United States Route 1 Business (Vass, North Carolina)</h1>
+            <h2 class="content text-dark">US-1 Business is a business route in Vass, North Carolina. It is 3.11 mi (5.00 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Claude E. Pope Memorial Hwy</a> (concurrent with <a href="15.php">US-15</a> & <a href="501.php">US-501</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">US-1 Business, Vass, North Carolina 28394</td>
+                    <td class="content text-dark">Start concurrency with US-15 Business & US-501 Business</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.27 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">0.44 km ( + 0.44 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/42.php">NC-42 - Wicker St</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Wicker St, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Start concurrency with NC-42</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.20 mi ( + 0.93 mi )</td>
+                    <td class="content text-dark small">1.94 km ( + 1.50 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/42.php">NC-42 - Wicker St (EB)</a>, Sanford, North Carolina 27330<br>US-1 Business - Carthage St (NB) (concurrent with <a href="15.php/#ncus15busle">NC-15 Business</a>, <a href="501.php/#ncus501busle">US-501 Business</a>, & <a href="../secondary-roads/nc/le/1237.php">Lee SR 1237</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Carthage St, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">End concurrency with NC-42<br>Start concurrency with Lee SR 1237</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.36 mi ( + 0.16 mi )</td>
+                    <td class="content text-dark small">2.20 km ( + 0.26 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1009.php">Lee SR 1009 - Carbonton Rd</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.80 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">2.91 km ( + 0.71 km )</td>
+                    <td class="content text-dark"><a href="421.php/#ncus421busle">US-421 Business - S Horner Blvd (SB) / N Horner Blvd (NB)</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.96 mi ( + 0.16 mi )</td>
+                    <td class="content text-dark small">3.17 km ( + 0.26 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Charlotte Ave, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.01 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">3.25 km ( + 0.08 km )</td>
+                    <td class="content text-dark">US-1 Business - Hawkins Ave (concurrent with <a href="15.php/#ncus15busle">US-15 Business</a> & <a href="501.php/#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Hawkins Ave, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">End concurrency with Lee SR 1237</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.47 mi ( + 0.46 mi )</td>
+                    <td class="content text-dark small">4.00 km ( + 0.75 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1560.php">Lee SR 1560 - E Weatherspoon St</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.90 mi ( + 1.43 mi )</td>
+                    <td class="content text-dark small">6.31 km ( + 2.31 km )</td>
+                    <td class="content text-dark"><a href="421.php">US-421</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.93 mi ( + 1.03 mi )</td>
+                    <td class="content text-dark small">7.97 km ( + 1.66 km )</td>
+                    <td class="content text-dark"><a href="15.php/#ncus15busle">US-15 Bus</a> (concurrent with <a href="501.php/#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">US-1 Business, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">End concurrency with US-15 Business & US-501 Business</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">5.35 mi ( + 0.42 mi )</td>
+                    <td class="content text-dark small">8.64 km ( + 0.67 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Claude E. Pope Memorial Hwy</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Business Route</td>
                 </tr>
             </section>
             </table>

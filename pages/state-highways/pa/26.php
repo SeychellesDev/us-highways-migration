@@ -32,7 +32,7 @@
                     <td class="content text-dark small">2.26 km ( + 0.06 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Clear Ridge Rd, Artemas, Pennsylvania 17211</td>
-                    <td class="content text-dark">End Fulton County, Start Bedford County</td>
+                    <td class="content text-dark">End Fulton County<br>Start Bedford County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">2.81 mi ( + 1.41 mi )</td>
@@ -284,7 +284,7 @@
                     <td class="content text-dark small">77.32 km ( + 1.40 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Raystown Rd, James Creek, Pennsylvania 16657</td>
-                    <td class="content text-dark">End Bedford County, Start Huntingdon County</td>
+                    <td class="content text-dark">End Bedford County<br>Start Huntingdon County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">52.23 mi ( + 1.88 mi )</td>
@@ -445,7 +445,7 @@
                     <td class="content text-dark small">148.51 km ( + 3.28 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">McAlevys Fort Rd, Pine Grove Mills, Pennsylvania 16868</td>
-                    <td class="content text-dark">End Huntingdon County, Start Centre County</td>
+                    <td class="content text-dark">End Huntingdon County<br>Start Centre County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">96.93 mi ( + 1.64 mi )</td>
@@ -578,14 +578,14 @@
                     <td class="content text-dark small">176.01 km ( + 1.64 km )</td>
                     <td class="content text-dark"><a href="../../interstates/99.php">I-99 (NB)</a> (concurrent with <a href="../../us-highways/220.php">US-220</a>), Bellefonte, Pennsylvania 16823<br><a href="64.php">PA-64 - E College Ave (EB)</a>, Bellefonte, Pennsylvania 16823</td>
                     <td class="content text-dark">PA-26, Bellefonte, Pennsylvania 16823</td>
-                    <td class="content text-dark">Start concurrency with I-99 and US-220</td>
+                    <td class="content text-dark">Start concurrency with I-99 & US-220</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">111.37 mi ( + 1.02 mi )</td>
                     <td class="content text-dark small">176.01 km ( + 1.64 km )</td>
                     <td class="content text-dark"><a href="../../interstates/99.php">I-99 (NB)</a> (concurrent with <a href="../../us-highways/220.php">US-220</a>), Bellefonte, Pennsylvania 16823<br><a href="64.php">PA-64 - E College Ave (EB)</a>, Bellefonte, Pennsylvania 16823</td>
                     <td class="content text-dark">PA-26, Bellefonte, Pennsylvania 16823</td>
-                    <td class="content text-dark">Start concurrency with I-99 and US-220</td>
+                    <td class="content text-dark">Start concurrency with I-99 & US-220</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">114.04 mi ( + 2.67 mi )</td>

@@ -144,7 +144,7 @@
                     <td class="content text-dark small">27.34 km ( + 8.12 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">River Rd, West Amwell Township, New Jersey 08530</td>
-                    <td class="content text-dark">End Mercer County, Start Hunterdon County</td>
+                    <td class="content text-dark">End Mercer County<br>Start Hunterdon County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">18.07 mi ( + 1.09 mi )</td>

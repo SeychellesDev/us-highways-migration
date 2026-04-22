@@ -52,7 +52,7 @@
                     <td class="content text-dark small">13.73 km ( + 1.99 km )</td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/539.php">Mercer CR 539 - Old York Rd</a> (concurrent with <a href="../../secondary-roads/nj/524.php">Mercer CR 524</a>), Robbinsville Township, New Jersey 08691</td>
                     <td class="content text-dark">Central Jersey Expy, Upper Freehold Township, New Jersey 08501</td>
-                    <td class="content text-dark">End Mercer County, Start Monmouth County</td>
+                    <td class="content text-dark">End Mercer County<br>Start Monmouth County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">11.77 mi ( + 3.24 mi )</td>
@@ -80,7 +80,7 @@
                     <td class="content text-dark small">26.84 km ( + 2.17 km )</td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/537.php">Monmouth CR 537 - Monmouth Rd</a>, Millstone, New Jersey 08510</td>
                     <td class="content text-dark">Central Jersey Expy, Jackson Township, New Jersey 08527</td>
-                    <td class="content text-dark">Pause Monmouth County, Start Ocean County</td>
+                    <td class="content text-dark">End Monmouth County<br>Start Ocean County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">17.62 mi ( + 0.94 mi )</td>
@@ -115,7 +115,7 @@
                     <td class="content text-dark small">41.15 km ( + 1.94 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Central Jersey Expy, Howell Township, New Jersey 07731</td>
-                    <td class="content text-dark">End Ocean County, Continue Monmouth County</td>
+                    <td class="content text-dark">End Ocean County<br>Start Monmouth County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">27.10 mi ( + 1.53 mi )</td>

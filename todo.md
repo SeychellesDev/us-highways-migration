@@ -9,10 +9,10 @@
 * us-1
 * us-9
 * i-40
+* i-95
 
 ### HIGHER PRIORITY
 
-* i-95
 * i-180
 * i-280
 * i-287

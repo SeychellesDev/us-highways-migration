@@ -1983,14 +1983,14 @@
                 <tr>
                     <td class="content text-dark small">488.21 mi ( + 2.64 mi )</td>
                     <td class="content text-dark small">784.39 km ( + 4.25 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/9/#fl9b">FL-9B (NB)</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/9/#flsr9b">FL-9B (NB)</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">488.54 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">784.91 km ( + 0.52 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/9.php/#fl9b">FL-9B (SB)</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/9.php/#flsr9b">FL-9B (SB)</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

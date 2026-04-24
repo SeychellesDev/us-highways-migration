@@ -2285,6 +2285,111 @@
                     <td class="content text-dark">South Rd, Rhinebeck, New York 12572</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">288.72 mi ( + 2.74 mi )</td>
+                    <td class="content text-dark small">463.79 km ( + 4.42 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Mill St, Rhinebeck, New York 12572</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">289.19 mi ( + 0.47 mi )</td>
+                    <td class="content text-dark small">464.54 km ( + 0.75 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/308.php">NY-308 - W Market St (WB) / E Market St (EB)</a>, Rhinebeck, New York 12572</td>
+                    <td class="content text-dark">Montgomery St, Rhinebeck, New York 12572</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">289.64 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">465.26 km ( + 0.72 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Spring Brook Ave, Rhinebeck, New York 12572</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">291.07 mi ( + 1.43 mi )</td>
+                    <td class="content text-dark small">467.56 km ( + 2.30 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Albany Post Rd, Rhinebeck, New York 12572</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">291.54 mi ( + 0.47 mi )</td>
+                    <td class="content text-dark small">468.32 km ( + 0.76 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9g">NY-9G</a>, Rhinebeck, New York 12572</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">292.61 mi ( + 1.07 mi )</td>
+                    <td class="content text-dark small">470.04 km ( + 1.72 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Albany Post Rd, Red Hook, New York 12571</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">293.29 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">471.15 km ( + 1.11 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Broadway, Red Hook, New York 12571</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">294.48 mi ( + 1.19 mi )</td>
+                    <td class="content text-dark small">473.06 km ( + 1.91 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/199.php">NY-199 - W Market St (WB) / E Market St (EB)</a>, Red Hook, New York 12571</td>
+                    <td class="content text-dark">N Broadway, Red Hook, New York 12571</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">295.19 mi ( + 0.71 mi )</td>
+                    <td class="content text-dark small">474.20 km ( + 1.14 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Albany Post Rd, Red Hook, New York 12571</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">295.19 mi ( + 0.91 mi )</td>
+                    <td class="content text-dark small">475.67 km ( + 1.47 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Old Albany Post Rd, Red Hook, New York 12571</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">295.89 mi ( + 0.70 mi )</td>
+                    <td class="content text-dark small">476.79 km ( + 1.12 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Albany Post Rd, Red Hook, New York 12571</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">296.08 mi ( + 0.19 mi )</td>
+                    <td class="content text-dark small">477.09 km ( + 0.30 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/56.php">Dutchess CR 56 - N Old Post Rd</a></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">297.29 mi ( + 1.21 mi )</td>
+                    <td class="content text-dark small">479.04 km ( + 1.95 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/78.php">Dutchess CR 78 - W Kerley Corners Rd</a></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with Dutchess CR 78</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">297.45 mi ( + 0.16 mi )</td>
+                    <td class="content text-dark small">479.29 km ( + 0.25 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/du/78.php">Dutchess CR 78 - E Kerley Corners Rd</a></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Dutchess CR 78</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">298.40 mi ( + 0.95 mi )</td>
+                    <td class="content text-dark small">480.82 km ( + 1.53 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Dutchess CR 78</td>
+                </tr>
             </section>
             </table>
             <hr>

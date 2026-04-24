@@ -5426,21 +5426,21 @@
                 <tr>
                     <td class="content text-dark small">1008.37 mi ( + 3.16 mi )</td>
                     <td class="content text-dark small">1623.08 km ( + 5.09 km )</td>
-                    <td class="content text-dark">Lee SR 1415 - Colon Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1415.php">Lee SR 1415 - Colon Rd</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1010.92 mi ( + 2.55 mi )</td>
                     <td class="content text-dark small">1627.18 km ( + 4.10 km )</td>
-                    <td class="content text-dark">Lee SR 1423 - Farrell Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1423.php">Lee SR 1423 - Farrell Rd</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1013.27 mi ( + 2.35 mi )</td>
                     <td class="content text-dark small">1630.96 km ( + 3.78 km )</td>
-                    <td class="content text-dark">Lee SR 1466 - Deep River Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/le/1466.php">Lee SR 1466 - Deep River Rd</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5454,14 +5454,14 @@
                 <tr>
                     <td class="content text-dark small">1014.11 mi ( + 0.50 mi )</td>
                     <td class="content text-dark small">1632.31 km ( + 0.80 km )</td>
-                    <td class="content text-dark">Chatham SR 1012 - Moncure Pittsboro Rd, Moncure, North Carolina 27559</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ch/1012.php">Chatham SR 1012 - Moncure Pittsboro Rd</a>, Moncure, North Carolina 27559</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1019.12 mi ( + 5.01 mi )</td>
                     <td class="content text-dark small">1640.38 km ( + 8.07 km )</td>
-                    <td class="content text-dark">Chatham SR 1011 - Old US 1 Hwy, Moncure, North Carolina 27559</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/ch/1011.php">Chatham SR 1011 - Old US 1 Hwy</a>, Moncure, North Carolina 27559</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5475,21 +5475,21 @@
                 <tr>
                     <td class="content text-dark small">1023.66 mi ( + 3.42 mi )</td>
                     <td class="content text-dark small">1647.68 km ( + 5.50 km )</td>
-                    <td class="content text-dark">Wake SR 1127 - New Hill Holleman Rd, Apex, North Carolina 27502</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nc/wa/1127.php">Wake SR 1127 - New Hill Holleman Rd</a>, Apex, North Carolina 27502</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1027.50 mi ( + 3.84 mi )</td>
                     <td class="content text-dark small">1653.87 km ( + 6.19 km )</td>
-                    <td class="content text-dark">NC-540 - Western Wake Fwy, Apex, North Carolina 27502</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/540.php">NC-540 - Western Wake Fwy</a>, Apex, North Carolina 27502</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1029.64 mi ( + 2.14 mi )</td>
                     <td class="content text-dark small">1657.31 km ( + 3.44 km )</td>
-                    <td class="content text-dark">NC-55 - E Williams St, Apex, North Carolina 27502</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/55.php">NC-55 - E Williams St</a>, Apex, North Carolina 27502</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5503,37 +5503,37 @@
                 <tr>
                     <td class="content text-dark small">1032.78 mi ( + 1.39 mi )</td>
                     <td class="content text-dark small">1662.36 km ( + 2.23 km )</td>
-                    <td class="content text-dark">US-64 (WB) / Tryon Rd (EB), Cary, North Carolina 27511</td>
+                    <td class="content text-dark"><a href="64.php">US-64 (WB) / Tryon Rd (EB)</a>, Cary, North Carolina 27511</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-64</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1036.57 mi ( + 3.79 mi )</td>
                     <td class="content text-dark small">1668.47 km ( + 6.11 km )</td>
-                    <td class="content text-dark">I-40 - Tom Bradshaw Fwy, Raleigh, North Carolina 27608</td>
-                    <td class="content text-dark">Raleigh Beltline, Raleigh, North Carolina 27608</td>
-                    <td class="content text-dark">End concurrency with US-64<br>Start concurrency with I-440-NC </td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/nc-440.php">I-440 - Raleigh Bltln (NB)</a><a href="../interstates/40.php">I-40 - Tom Bradshaw Fwy (WB/EB)</a>, Raleigh, North Carolina 27608</td>
+                    <td class="content text-dark">Raleigh Bltln, Raleigh, North Carolina 27608</td>
+                    <td class="content text-dark">End concurrency with US-64<br>Start concurrency with I-440 </td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1039.80 mi ( + 3.23 mi )</td>
                     <td class="content text-dark small">1673.66 km ( + 5.19 km )</td>
-                    <td class="content text-dark">NC-54 - Hillsborough St, Raleigh, North Carolina 27608</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/54.php">NC-54 - Hillsborough St</a>, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1043.11 mi ( + 3.31 mi )</td>
                     <td class="content text-dark small">1678.98 km ( + 5.32 km )</td>
-                    <td class="content text-dark">US-70 & NC-50 - Glenwood Ave, Raleigh, North Carolina 27608</td>
+                    <td class="content text-dark"><a href="70.php">US-70 - Glenwood Ave</a>(concurrent with <a href="../state-highways/nc/50.php">NC-50</a>), Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1047.31 mi ( + 4.20 mi )</td>
                     <td class="content text-dark small">1685.74 km ( + 6.76 km )</td>
-                    <td class="content text-dark">US-401 - Capital Blvd, Raleigh, North Carolina 27608</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/nc-440.php">I-440 - Raleigh Bltln (SB)</a><a href="401.php">US-401 - Capital Blvd (WB/EB)</a>, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark">Capital Blvd, Raleigh, North Carolina 27608</td>
-                    <td class="content text-dark">End concurrency with I-440-NC<br>Start concurrency with US-401</td>
+                    <td class="content text-dark">End concurrency with I-440<br>Start concurrency with US-401</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1049.51 mi ( + 2.20 mi )</td>
@@ -7570,7 +7570,6 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Alternative Route<br>End concurrency with FL-5</td>
                 </tr>
-                </table>
             </section>
             </table>
             <hr>

@@ -179,7 +179,7 @@
                     <td class="content text-dark small">40.11 km ( + 2.26 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">NJ-18, Old Bridge, New Jersey 08857</td>
-                    <td class="content text-dark">End Monmouth County, Start Middlesex County</td>
+                    <td class="content text-dark">End Monmouth County<br>Start Middlesex County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">25.26 mi ( + 0.33 mi )</td>

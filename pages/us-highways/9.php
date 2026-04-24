@@ -118,7 +118,7 @@
                     <td class="content text-dark small">57.68 km ( + 12.16 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Cape May - Lewes Ferry, Lower Township, New Jersey 08204</td>
-                    <td class="content text-dark">End US-9 in Delaware, Start US-9 in New Jersey<br>End Sussex County, Start Cape May County</td>
+                    <td class="content text-dark">End US-9 in Delaware<br>Start US-9 in New Jersey<br>End Sussex County<br>Start Cape May County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">44.83 mi ( + 8.88 mi )</td>
@@ -371,14 +371,14 @@
                     <td class="content text-dark small">118.00 km ( + 0.47 km )</td>
                     <td class="content text-dark"><a href="../state-highways/nj/444.php">NJ-444 - Garden State Pkwy</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark">Garden State Pkwy, Upper Township, New Jersey 08230</td>
-                    <td class="content text-dark">End concurrency with Cape May CR 623, Start concurrency with NJ-444</td>
+                    <td class="content text-dark">End concurrency with Cape May CR 623<br>Start concurrency with NJ-444</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">75.66 mi ( + 2.19 mi )</td>
                     <td class="content text-dark small">121.52 km ( + 3.52 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Garden State Pkwy, Somers Point, New Jersey 08244</td>
-                    <td class="content text-dark">End Cape May County, Start Atlantic County</td>
+                    <td class="content text-dark">End Cape May County<br>Start Atlantic County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">77.22 mi ( + 1.56 mi )</td>
@@ -609,7 +609,7 @@
                     <td class="content text-dark small">156.63 km ( + 0.88 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Garden State Pkwy, Bass River, New Jersey 08087</td>
-                    <td class="content text-dark">End Atlantic County, Start Burlington County</td>
+                    <td class="content text-dark">End Atlantic County<br>Start Burlington County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">99.39 mi ( + 1.97 mi )</td>
@@ -651,7 +651,7 @@
                     <td class="content text-dark small">167.58 km ( + 4.10 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-9, Little Egg Harbor Township, New Jersey 08087</td>
-                    <td class="content text-dark">End Burlington County, Start Ocean County</td>
+                    <td class="content text-dark">End Burlington County<br>Start Ocean County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">105.48 mi ( + 1.25 mi )</td>
@@ -882,7 +882,7 @@
                     <td class="content text-dark small">223.30 km ( + 0.65 km )</td>
                     <td class="content text-dark"><a href="../state-highways/nj/166.php">NJ-166 - Lakewood Rd (SB)</a>, Toms River, New Jersey 08753<br><a href="../state-highways/nj/444.php">NJ-444 - Garden State Pkwy (SB/NB)</a>, Toms River, New Jersey 08753</td>
                     <td class="content text-dark">Lakewood Rd, Toms River, New Jersey 08753</td>
-                    <td class="content text-dark">End concurrency with NJ-444, Start concurrency with NJ-166</td>
+                    <td class="content text-dark">End concurrency with NJ-444<br>Start concurrency with NJ-166</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">139.05 mi ( + 0.21 mi )</td>
@@ -980,7 +980,7 @@
                     <td class="content text-dark small">237.15 km ( + 0.43 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-9, Howell Township, New Jersey 07731</td>
-                    <td class="content text-dark">End Ocean County, Start Monmouth County</td>
+                    <td class="content text-dark">End Ocean County<br>Start Monmouth County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">151.38 mi ( + 3.91 mi )</td>
@@ -1092,7 +1092,7 @@
                     <td class="content text-dark small">266.89 km ( + 1.02 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-9, Old Bridge, New Jersey 08857</td>
-                    <td class="content text-dark">End Monmouth County, Start Middlesex County</td>
+                    <td class="content text-dark">End Monmouth County<br>Start Middlesex County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">166.08 mi ( + 0.13 mi )</td>
@@ -1274,7 +1274,7 @@
                     <td class="content text-dark small">294.14 km ( + 1.94 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Edgar Rd, Rahway, New Jersey 07065</td>
-                    <td class="content text-dark">End Middlesex County, Start Union County<br>Route becomes US-1-9</td>
+                    <td class="content text-dark">End Middlesex County<br>Start Union County<br>Route becomes US-1-9</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">182.37 mi ( + 0.30 mi )</td>
@@ -1400,7 +1400,7 @@
                     <td class="content text-dark small">306.70 km ( + 0.78 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1-9, Newark, New Jersey 07114</td>
-                    <td class="content text-dark">End Union County, Start Essex County</td>
+                    <td class="content text-dark">End Union County<br>Start Essex County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">191.27 mi ( + 1.41 mi )</td>
@@ -1463,7 +1463,7 @@
                     <td class="content text-dark small">315.26 km ( + 0.56 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Pulaski Skwy, Kearny, New Jersey 07032</td>
-                    <td class="content text-dark">End Union County, Start Hudson County</td>
+                    <td class="content text-dark">End Union County<br>Start Hudson County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">195.75 mi ( + 0.56 mi )</td>
@@ -1581,7 +1581,7 @@
                     <td class="content text-dark small">327.31 km ( + 3.85 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Broad Ave, Fairview, New Jersey 07022</td>
-                    <td class="content text-dark">End Hudson County, Start Bergen County</td>
+                    <td class="content text-dark">End Hudson County<br>Start Bergen County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">203.77 mi ( + 0.46 mi )</td>
@@ -1751,7 +1751,7 @@
                     <td class="content text-dark small">334.96 km ( + 0.71 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">George Washington Brg, Manhattan, New York 10033</td>
-                    <td class="content text-dark">End US-9 in New Jersey, Start US-9 in New York<br>End Bergen County, Start New York County<br>End concurrency with US-46</td>
+                    <td class="content text-dark">End US-9 in New Jersey<br>Start US-9 in New York<br>End Bergen County<br>Start New York County<br>End concurrency with US-46</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">208.47 mi ( + 0.42 mi )</td>
@@ -1772,7 +1772,7 @@
                     <td class="content text-dark small">336.16 km ( + 0.36 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W 178th St, Manhattan, New York 10033</td>
-                    <td class="content text-dark">End concurrency with I-95 and US-1</td>
+                    <td class="content text-dark">End concurrency with I-95 & US-1</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">208.86 mi ( + 0.08 mi )</td>
@@ -1793,7 +1793,7 @@
                     <td class="content text-dark small">340.51 km ( + 4.22 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Broadway, Bronx, New York 10463</td>
-                    <td class="content text-dark">End New York County, Start Bronx County</td>
+                    <td class="content text-dark">End New York County<br>Start Bronx County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">213.29 mi ( + 1.80 mi )</td>
@@ -1807,7 +1807,7 @@
                     <td class="content text-dark small">344.64 km ( + 1.24 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Broadway, Yonkers, New York 10705</td>
-                    <td class="content text-dark">End Bronx County, Start Westchester County</td>
+                    <td class="content text-dark">End Bronx County<br>Start Westchester County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">215.52 mi ( + 1.46 mi )</td>
@@ -2057,14 +2057,14 @@
                 <tr>
                     <td class="content text-dark small">242.02 mi ( + 0.87 mi )</td>
                     <td class="content text-dark small">389.66 km ( + 1.40 km )</td>
-                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="202.php">US-202</a> and <a href="../state-highways/ny/35.php">NY-35</a>), Peekskill, New York 10566</td>
+                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="202.php">US-202</a> & <a href="../state-highways/ny/35.php">NY-35</a>), Peekskill, New York 10566</td>
                     <td class="content text-dark">Grand Army of the Republic Hwy, Peekskill, New York 10566</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">242.67 mi ( + 0.65 mi )</td>
                     <td class="content text-dark small">390.70 km ( + 1.04 km )</td>
-                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy (WB)</a> (concurrent with <a href="202.php">US-202</a> and US-9), Peekskill, New York 10566<br><a href="../state-highways/ny/987.php/#nysr987h">US-6 - Grand Army of the Republic Hwy (EB)</a> (concurrent with <a href="202.php">US-202</a>), Peekskill, New York 10566</td>
+                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy (WB)</a> (concurrent with <a href="202.php">US-202</a> & US-9), Peekskill, New York 10566<br><a href="../state-highways/ny/987.php/#nysr987h">US-6 - Grand Army of the Republic Hwy (EB)</a> (concurrent with <a href="202.php">US-202</a>), Peekskill, New York 10566</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2087,7 +2087,7 @@
                     <td class="content text-dark small">394.55 km ( + 3.63 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Albany Post Rd, Philipstown, New York 10524</td>
-                    <td class="content text-dark">End Westchester County, Start Putnam County</td>
+                    <td class="content text-dark">End Westchester County<br>Start Putnam County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">246.77 mi ( + 1.70 mi )</td>
@@ -2122,7 +2122,7 @@
                     <td class="content text-dark small">414.28 km ( + 3.91 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-9, Fishkill, New York 12524</td>
-                    <td class="content text-dark">End Putnam County, Start Dutchess County</td>
+                    <td class="content text-dark">End Putnam County<br>Start Dutchess County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">259.83 mi ( + 2.49 mi )</td>
@@ -2547,7 +2547,7 @@
                     <td class="content text-dark small">1.32 km ( + 0.59 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Spring St, Newark, New Jersey 07114</td>
-                    <td class="content text-dark">End Union County, Start Essex County</td>
+                    <td class="content text-dark">End Union County<br>Start Essex County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.42 mi ( + 0.60 mi )</td>
@@ -2610,7 +2610,7 @@
                     <td class="content text-dark small">10.32 km ( + 0.07 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Lincoln Hwy, Kearny, New Jersey 07032</td>
-                    <td class="content text-dark">End Union County, Start Hudson County</td>
+                    <td class="content text-dark">End Union County<br>Start Hudson County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">6.47 mi ( + 0.08 mi )</td>
@@ -2714,7 +2714,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Tonnelle Ave</a> (concurrent with <a href="#us9">US-9</a> and <a href="46.php">US-46</a>), Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Tonnelle Ave</a> (concurrent with <a href="#us9">US-9</a> & <a href="46.php">US-46</a>), Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark">Fletcher Ave, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                 </tr>

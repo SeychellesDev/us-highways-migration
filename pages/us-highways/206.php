@@ -32,7 +32,7 @@
                     <td class="content text-dark small">10.12 km ( + 5.33 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-206, Shamong, New Jersey 08088</td>
-                    <td class="content text-dark">End Atlantic County, Start Burlington County</td>
+                    <td class="content text-dark">End Atlantic County<br>Start Burlington County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">9.19 mi ( + 3.20 mi )</td>
@@ -284,7 +284,7 @@
                     <td class="content text-dark small">61.21 km ( + 0.08 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Bordentown Rd, Hamilton Township, New Jersey 08619</td>
-                    <td class="content text-dark">End Burlington County, Start Mercer County</td>
+                    <td class="content text-dark">End Burlington County<br>Start Mercer County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">38.79 mi ( + 0.24 mi )</td>
@@ -480,7 +480,7 @@
                     <td class="content text-dark small">92.79 km ( + 4.27 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Van Horne Rd, Montgomery, New Jersey 08558</td>
-                    <td class="content text-dark">End Mercer County, Start Somerset County<br>End concurrency with Mercer CR 533, Start concurrency wtih Somerset CR 533</td>
+                    <td class="content text-dark">End Mercer County<br>Start Somerset County<br>End concurrency with Mercer CR 533<br>Start concurrency wtih Somerset CR 533</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">58.29 mi ( + 0.87 mi )</td>
@@ -711,7 +711,7 @@
                     <td class="content text-dark small">134.3 km ( + 1.23 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-206, Chester Township, New Jersey 07930</td>
-                    <td class="content text-dark">End Somerset County, Start Morris County</td>
+                    <td class="content text-dark">End Somerset County<br>Start Morris County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">87.30 mi ( + 4.04 mi )</td>
@@ -816,7 +816,7 @@
                     <td class="content text-dark small">158.30 km ( + 0.50 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-206, Stanhope, New Jersey 07874</td>
-                    <td class="content text-dark">End Morris County, Start Sussex County</td>
+                    <td class="content text-dark">End Morris County<br>Start Sussex County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">98.50 mi ( + 0.31 mi )</td>
@@ -1147,7 +1147,7 @@
                     <td class="content text-dark small">209.80 km ( + 0.81 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-206, Milford, Pennsylvania 18337</td>
-                    <td class="content text-dark">End route in New Jersey, Start route in Pennsylvania<br>End Sussex County, Start Pike County</td>
+                    <td class="content text-dark">End US-206 in New Jersey<br>Start US-206 in Pennsylvania<br>End Sussex County<br>Start Pike County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">130.79 mi ( + 0.46 mi )</td>

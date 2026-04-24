@@ -1,7 +1,7 @@
 <?php include "../../../../static/top.php"; ?>
         
             <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 6</h6>
-            <h1 class="header" id="njmo6">Monmouth County Route 6</h1>
+            <h1 class="header" id="njcr6mo">Monmouth County Route 6</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) is a county road that connects NJ-35 to Monmouth CR 39. It is 2.37 mi (3.80 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
@@ -37,7 +37,7 @@
                 <tr>
                     <td class="content text-dark small">1.92 mi ( + 0.66 mi )</td>
                     <td class="content text-dark small">3.08 km ( + 1.06 km )</td>
-                    <td class="content text-dark"><a href="#njmo6s">Monmouth CR 6S - Stone Rd</a>, Keyport, New Jersey 07730</td>
+                    <td class="content text-dark"><a href="#njcr6smo">Monmouth CR 6S - Stone Rd</a>, Keyport, New Jersey 07730</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -57,7 +57,7 @@
                 </tr>
             </table>
             <hr>
-            <h1 class="header" id="njmo6s">Monmouth County Route 6 South</h1>
+            <h1 class="header" id="njcr6smo">Monmouth County Route 6 South</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) splits into two roads near the Keyport-Union Beach border. It is 2.86 mi (4.60 km) long and connects Monmouth CR 6 to NJ-36.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
@@ -92,7 +92,7 @@
                 </tr>
             </table>
             <hr>
-            <h1 class="header" id="njmo6a">Monmouth County Route 6A</h1>
+            <h1 class="header" id="njcr6amo">Monmouth County Route 6A</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 6A (Monmouth CR 6A) is an auxiliary route that connects Middlesex CR 689 to NJ-35. It is 1.38 mi (2.21 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
 

@@ -1,5 +1,8 @@
 <!-- did something go wrong with your distances? fear not! -->
 <!-- script sponsored by mypayindia.com -->
+ 
+<!-- php ./us-highways-migration/static/update_distances.php folder/number mile-increment kilometer-increment start-line end-line -->
+
 <?php
 $fileDir = '';
 $incm = 0.0;

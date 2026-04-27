@@ -1,5 +1,8 @@
 <!-- did something go wrong with your distances? fear not! -->
 <!-- script sponsored by mypayindia.com -->
+ 
+<!-- php ./us-highways-migration/static/update_distances.php folder/number mile-increment kilometer-increment start-line end-line -->
+
 <?php
 $fileDir = '';
 $incm = 0.0;
@@ -28,7 +31,7 @@ if($argc == 6) {
             $km = floatval($matches[3]);
             $kmChange = floatval($matches[4]);
             return "<td class=\"content text-dark small\">" . number_format($miles + $incm, 2, '.', '') . " mi ( + " . number_format($milesChange, 2, '.', '') . " mi )</td>\n" .
-                    "\t\t\t\t\t<td class=\"content text-dark small\">" . number_format($km + $inck, 2, '.', '') . " km ( + " . number_format($kmChange, 2, '.', '') . " km )</td>";
+                    "                    <td class=\"content text-dark small\">" . number_format($km + $inck, 2, '.', '') . " km ( + " . number_format($kmChange, 2, '.', '') . " km )</td>";
         }, $middle, -1, $count);
         $content = rtrim($before, "\n") . "\n" . $middle . "\n" . $after;
         file_put_contents($path, $content);

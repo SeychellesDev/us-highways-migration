@@ -2387,8 +2387,148 @@
                     <td class="content text-dark small">298.40 mi ( + 0.95 mi )</td>
                     <td class="content text-dark small">480.82 km ( + 1.53 km )</td>
                     <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Clermont, New York 12526</td>
+                    <td class="content text-dark">End Dutchess County<br>Start Columbia County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">298.72 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">481.33 km ( + 0.51 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/4.php">Columbia CR 4 - Lasher Rd</a>, Clermont, New York 12526</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with Dutchess CR 78</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">300.62 mi ( + 1.90 mi )</td>
+                    <td class="content text-dark small">484.39 km ( + 3.06 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/6.php">Columbia CR 6</a>, Clermont, New York 12526</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">301.41 mi ( + 0.79 mi )</td>
+                    <td class="content text-dark small">485.67 km ( + 1.28 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/8.php">Columbia CR 8</a>, Clermont, New York 12526</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with Columbia CR 8</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">302.19 mi ( + 0.78 mi )</td>
+                    <td class="content text-dark small">486.92 km ( + 1.25 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Livingston, New York 12541</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">302.48 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">487.39 km ( + 0.47 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/8.php">Columbia CR 8 (SB)</a>, Livingston, New York 12541<br><a href="../secondary-roads/ny/co/31.php">Columbia CR 31 - Blue Hill Rd (NB)</a>, Livingston, New York 12541</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Columbia CR 8</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">305.30 mi ( + 2.82 mi )</td>
+                    <td class="content text-dark small">491.92 km ( + 4.53 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/19.php">Columbia CR 19 (SB) / Old Post Rd (NB)</a>, Livingston, New York 12541</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">305.37 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">492.03 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/10.php">Columbia CR 10</a>, Livingston, New York 12541</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">306.13 mi ( + 0.76 mi )</td>
+                    <td class="content text-dark small">493.26 km ( + 1.23 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/19.php">Columbia CR 19 - Old Post Rd</a>, Livingston, New York 12541</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">308.29 mi ( + 2.16 mi )</td>
+                    <td class="content text-dark small">496.73 km ( + 3.47 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/82.php">NY-82 (SB)</a>, Livingston, New York 12541<br><a href="../state-highways/ny/9.php/#nysr9h">NY-9H (NB)</a> (concurrent with <a href="../state-highways/ny/23.php">NY-23</a>), Livingston, New York 12541<br>US-9 (WB) (concurrent with <a href="../state-highways/ny/23.php">NY-23</a>), Livingston, New York 12541</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with NY-23</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">308.85 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">497.63 km ( + 0.90 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Greenport, New York 12534</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">311.04 mi ( + 2.19 mi )</td>
+                    <td class="content text-dark small">501.16 km ( + 3.53 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/31.php">Columbia CR 31 - Blue Hill Rd (SB)</a>, Greenport, New York 12534<br>US-9, Greenport, New York 12534<br><a href="../state-highways/ny/23.php">NY-23 - Claverack Rd</a>, Greenport, New York 12534</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">313.11 mi ( + 2.07 mi )</td>
+                    <td class="content text-dark small">504.50 km ( + 3.34 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Worth Ave, Greenport, New York 12534</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">313.38 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">504.93 km ( + 0.43 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Worth Ave, Hudson, New York 12534</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">313.69 mi ( + 0.31 mi )</td>
+                    <td class="content text-dark small">505.43 km ( + 0.50 km )</td>
+                    <td class="content text-dark">US-9 - Warren St, Hudson, New York 12534</td>
+                    <td class="content text-dark">Warren St, Hudson, New York 12534</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">313.88 mi ( + 0.19 mi )</td>
+                    <td class="content text-dark small">505.73 km ( + 0.30 km )</td>
+                    <td class="content text-dark">US-9 - Park Pl, Hudson, New York 12534</td>
+                    <td class="content text-dark">Park Pl, Hudson, New York 12534</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">313.94 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">505.83 km ( + 0.10 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9g">NY-9G - Columbia St (WB)</a> (concurrent with <a href="../state-highways/ny/23.php/#nysr23b">NY-23B</a>), Hudson, New York 12534<br>US-9 - Green St (EB) (concurrent with <a href="../state-highways/ny/23.php#nysr23b">NY-23B</a>), Hudson, New York 12534</td>
+                    <td class="content text-dark">Green St, Hudson, New York 12534</td>
+                    <td class="content text-dark">Start concurrency with NY-23B</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">314.44 mi ( + 0.50 mi )</td>
+                    <td class="content text-dark small">506.63 km ( + 0.80 km )</td>
+                    <td class="content text-dark">US-9 - Fairview Ave, Hudson, New York 12534<br><a href="../state-highways/ny/23.php/#nysr23b">NY-23B - Green St</a>, Hudson, New York 12534</td>
+                    <td class="content text-dark">Fairview Ave, Hudson, New York 12534</td>
+                    <td class="content text-dark">End concurrency with NY-23B</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">314.89 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">507.36 km ( + 0.73 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Fairview Ave, Greenport, New York 12534</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">317.58 mi ( + 2.69 mi )</td>
+                    <td class="content text-dark small">511.69 km ( + 4.33 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Stottville Village Rd, Stockport, New York 12172</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">317.80 mi ( + 0.22 mi )</td>
+                    <td class="content text-dark small">512.05 km ( + 0.36 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/20.php">Columbia CR 20 - Atlantic Ave</a>, Stockport, New York 12172</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
                 </tr>
             </section>
             </table>

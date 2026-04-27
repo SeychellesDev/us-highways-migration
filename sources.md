@@ -2,6 +2,7 @@
 
 - Google Maps [maps.google.com]
 - KYTC Kentucky List of Primary Road Systems in Jefferson County [https://transportation.ky.gov/Planning/State%20Primary%20Road%20System%20Lists/Jefferson.pdf]
+- Map of Columbia County, NY [https://columbiacountytourism.org/map/]
 - SCDOT South Carolina County Route Maps [https://info2.scdot.org/GISMapping/GISMapdl/Forms/AllItems.aspx]
 - SCSH List of County Routes in Aiken County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Aiken.pdf]
 - SCSH List of County Routes in Saluda County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Saluda.pdf]

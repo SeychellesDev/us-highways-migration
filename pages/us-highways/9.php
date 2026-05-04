@@ -2527,6 +2527,181 @@
                     <td class="content text-dark small">317.80 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">512.05 km ( + 0.36 km )</td>
                     <td class="content text-dark"><a href="../secondary-roads/ny/co/20.php">Columbia CR 20 - Atlantic Ave</a>, Stockport, New York 12172</td>
+                    <td class="content text-dark">US-9, Stockport, New York 12172</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">319.22 mi ( + 1.42 mi )</td>
+                    <td class="content text-dark small">514.34 km ( + 2.29 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/25.php/#nycr25bco">Columbia CR 25B</a>, Stockport, New York 12172</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">319.63 mi ( + 0.41 mi )</td>
+                    <td class="content text-dark small">514.99 km ( + 0.65 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/22.php">Columbia CR 22 - Hogsback Rd</a>, Stockport, New York 12172</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with Columbia CR 22</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">319.94 mi ( + 0.31 mi )</td>
+                    <td class="content text-dark small">515.49 km ( + 0.50 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/22.php">Columbia CR 22 - Station Rd</a>, Stockport, New York 12172</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Columbia CR 22</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">321.03 mi ( + 1.09 mi )</td>
+                    <td class="content text-dark small">517.24 km ( + 1.75 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9j">NY-9J</a>, Stockport, New York 12172</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">323.03 mi ( + 2.00 mi )</td>
+                    <td class="content text-dark small">520.45 km ( + 3.21 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Stuyvesant, New York 12173</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">323.10 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">520.57 km ( + 0.12 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/46.php">Columbia CR 46 - Stuyvesant Falls-Newton Hook Rd</a>, Stuyvesant, New York 12173</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">323.10 mi ( + 0.57 mi )</td>
+                    <td class="content text-dark small">520.57 km ( + 0.91 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/25.php/#nycr25aco">Columbia CR 25A - Hudson Ave</a>, Stuyvesant, New York 12173</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">324.26 mi ( + 1.16 mi )</td>
+                    <td class="content text-dark small">522.43 km ( + 1.86 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/26.php/#nycr26aco">Columbia CR 26A</a>, Stuyvesant, New York 12173</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">324.71 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">523.16 km ( + 0.73 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Stuyvesant, New York 12173</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">324.87 mi ( + 0.16 mi )</td>
+                    <td class="content text-dark small">523.42 km ( + 0.26 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">326.23 mi ( + 1.36 mi )</td>
+                    <td class="content text-dark small">525.60 km ( + 2.18 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/21.php">Columbia CR 21 - Hudson St (SB) / Albany Ave (NB)</a></td>
+                    <td class="content text-dark">Chatham St, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">326.77 mi ( + 0.54 mi )</td>
+                    <td class="content text-dark small">526.47 km ( + 0.87 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">327.17 mi ( + 0.40 mi )</td>
+                    <td class="content text-dark small">527.11 km ( + 0.64 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9h">NY-9H</a>, Kinderhook, New York 12106</td>
+                    <td class="content text-dark">Kinderhook St, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">327.85 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">528.21 km ( + 1.10 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/s.php">Columbia CR S - Main St</a>, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">328.13 mi ( + 0.28 mi )</td>
+                    <td class="content text-dark small">528.65 km ( + 0.44 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Albany Ave, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">328.21 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">528.78 km ( + 0.13 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">328.94 mi ( + 0.73 mi )</td>
+                    <td class="content text-dark small">529.96 km ( + 1.18 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9h">NY-9H</a>, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">331.20 mi ( + 2.26 mi )</td>
+                    <td class="content text-dark small">533.60 km ( + 3.64 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/28.php">Columbia CR 28 - Main St</a>, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">332.40 mi ( + 1.20 mi )</td>
+                    <td class="content text-dark small">535.52 km ( + 1.92 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/32.php">Columbia CR 32</a>, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">332.42 mi ( + 0.02 mi )</td>
+                    <td class="content text-dark small">535.54 km ( + 0.02 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Schodack, New York 12184</td>
+                    <td class="content text-dark">End Columbia County<br>Start Rensselaer County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">333.03 mi ( + 0.61 mi )</td>
+                    <td class="content text-dark small">536.52 km ( + 0.98 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/912.php/#nysr912m">NY-912M - Berkshire Conn (EB)</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">333.10 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">536.63 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/912.php/#nysr912m">NY-912M - Berkshire Conn (WB)</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">333.57 mi ( + 0.47 mi )</td>
+                    <td class="content text-dark small">537.38 km ( + 0.75 km )</td>
+                    <td class="content text-dark"><a href="../interstates/90.php">I-90</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">335.91 mi ( + 2.34 mi )</td>
+                    <td class="content text-dark small">541.15 km ( + 3.77 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/re/4.php">Rensselaer CR 4 - Van Hoesen Rd</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">336.10 mi ( + 0.19 mi )</td>
+                    <td class="content text-dark small">541.46 km ( + 0.31 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/re/6.php">Rensselaer CR 6 - Maple Hill Rd</a>, Schodack, New York 12184</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

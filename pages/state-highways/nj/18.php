@@ -324,7 +324,7 @@
                 <tr>
                     <td class="content text-dark small">42.40 mi ( + 0.17 mi )</td>
                     <td class="content text-dark small">68.25 km ( + 0.27 km )</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-287.php">I-287 - Middlesex Fwy</a>, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/njny-287.php">I-287 - Middlesex Fwy</a>, Piscataway, New Jersey 08854</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

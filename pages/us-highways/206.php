@@ -317,7 +317,7 @@
                 <tr>
                     <td class="content text-dark small">39.80 mi ( + 0.72 mi )</td>
                     <td class="content text-dark small">63.19 km ( + 1.16 km )</td>
-                    <td class="content text-dark"><a href="../interstates/auxiliary/nj-295.php">I-295 - Camden Fwy</a>, Hamilton Township, New Jersey 08619</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/denjpa-295.php">I-295 - Camden Fwy</a>, Hamilton Township, New Jersey 08619</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -408,7 +408,7 @@
                 <tr>
                     <td class="content text-dark small">48.19 mi ( + 1.00 mi )</td>
                     <td class="content text-dark small">77.94 km ( + 1.61 km )</td>
-                    <td class="content text-dark"><a href="../interstates/auxiliary/nj-295.php">I-295 - Camden Fwy</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/denjpa-295.php">I-295 - Camden Fwy</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -618,7 +618,7 @@
                 <tr>
                     <td class="content text-dark small">72.86 mi ( + 0.84 mi )</td>
                     <td class="content text-dark small">116.57 km ( + 1.36 km )</td>
-                    <td class="content text-dark"><a href="../interstates/auxiliary/nj-287.php">I-287</a>, Bridgewater, New Jersey 08807</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/njny-287.php">I-287</a>, Bridgewater, New Jersey 08807</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -660,7 +660,7 @@
                 <tr>
                     <td class="content text-dark small">77.49 mi ( + 0.08 mi )</td>
                     <td class="content text-dark small">125.01 km ( + 0.13 km )</td>
-                    <td class="content text-dark"><a href="../interstates/auxiliary/nj-287.php">I-287</a>, Bedminster, New Jersey 07921</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/njny-287.php">I-287</a>, Bedminster, New Jersey 07921</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

@@ -24,7 +24,7 @@
                 <tr>
                     <td class="content text-dark small">7.79 mi ( + 7.72 mi )</td>
                     <td class="content text-dark small">13.15 km ( + 12.42 km )</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/ny-278.php">I-278 - Staten Island Expy</a>, New York, New York 10314</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/njny-278.php">I-278 - Staten Island Expy</a>, New York, New York 10314</td>
                     <td class="content text-dark">Staten Island Expy, New York, New York 10314</td>
                     <td class="content text-dark">Start concurrency with I-278</td>
                 </tr>

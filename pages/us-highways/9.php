@@ -1328,14 +1328,14 @@
                 <tr>
                     <td class="content text-dark small">185.85 mi ( + 1.10 mi )</td>
                     <td class="content text-dark small">300.22 km ( + 1.76 km )</td>
-                    <td class="content text-dark"><a href="../interstates/auxiliary/ny-278.php">I-278 (NB)</a>, Linden, New Jersey 07036</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/njny-278.php">I-278 (NB)</a>, Linden, New Jersey 07036</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">185.98 mi ( + 0.13 mi )</td>
                     <td class="content text-dark small">300.45 km ( + 0.23 km )</td>
-                    <td class="content text-dark"><a href="../interstates/auxiliary/ny-278.php">I-278 (SB)</a>, Linden, New Jersey 07036</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/njny-278.php">I-278 (SB)</a>, Linden, New Jersey 07036</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1889,7 +1889,7 @@
                 <tr>
                     <td class="content text-dark small">225.24 mi ( + 1.02 mi )</td>
                     <td class="content text-dark small">362.64 km ( + 1.64 km )</td>
-                    <td class="content text-dark"><a href="../interstates/auxiliary/nj-287.php">I-287 - New York Trwy</a>, Tarrytown, New York 10591</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/njny-287.php">I-287 - New York Trwy</a>, Tarrytown, New York 10591</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

@@ -1677,7 +1677,7 @@
                 <tr>
                     <td class="content text-dark small">206.75 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">332.88 km ( + 0.22 km )</td>
-                    <td class="content text-dark"><a href="#njus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="#njnyus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1698,7 +1698,7 @@
                 <tr>
                     <td class="content text-dark small">206.97 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">333.22 km ( + 0.17 km )</td>
-                    <td class="content text-dark"><a href="#njus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="#njnyus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1738,8 +1738,15 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">207.61 mi ( + 0.16 mi )</td>
-                    <td class="content text-dark small">334.25 km ( + 0.25 km )</td>
+                    <td class="content text-dark small">207.47 mi ( + 0.02 mi )</td>
+                    <td class="content text-dark small">334.03 km ( + 0.03 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">207.61 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">334.25 km ( + 0.22 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">George Washington Brg, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
@@ -2705,6 +2712,174 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">337.93 mi ( + 1.83 mi )</td>
+                    <td class="content text-dark small">544.40 km ( + 2.94 km )</td>
+                    <td class="content text-dark"><a href="20.php">US-20</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark">Columbia Tpke, Schodack, New York 12184</td>
+                    <td class="content text-dark">Start concurrency with US-20</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">338.29 mi ( + 0.36 mi )</td>
+                    <td class="content text-dark small">544.97 km ( + 0.57 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/150.php">NY-150 - Schodack Valley Rd (WB) / E Schodack Rd (EB)</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">338.79 mi ( + 0.50 mi )</td>
+                    <td class="content text-dark small">545.77 km ( + 0.80 km )</td>
+                    <td class="content text-dark"><a href="../interstates/90.php">I-90</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">340.62 mi ( + 1.83 mi )</td>
+                    <td class="content text-dark small">548.72 km ( + 2.95 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Columbia Tpke, East Greenbush, New York 12061</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">341.10 mi ( + 0.48 mi )</td>
+                    <td class="content text-dark small">549.49 km ( + 0.77 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/re/58.php">Rensselaer CR 58 - Hays Rd</a>, East Greenbush, New York 12061</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">341.83 mi ( + 0.73 mi )</td>
+                    <td class="content text-dark small">550.56 km ( + 1.17 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/re/56.php">Rensselaer CR 56 - Elliot Rd</a>, East Greenbush, New York 12061</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">341.83 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">550.56 km ( + 0.23 km )</td>
+                    <td class="content text-dark"><a href="4.php">US-4 - Troy Rd</a>, East Greenbush, New York 12061</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">342.42 mi ( + 0.59 mi )</td>
+                    <td class="content text-dark small">551.52 km ( + 0.96 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/re/57.php">Rensselaer CR 57 - Phillips Rd</a>, East Greenbush, New York 12061</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">342.42 mi ( + 1.27 mi )</td>
+                    <td class="content text-dark small">551.52 km ( + 0.96 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/re/60.php">Rensselaer CR 60 - Hampton Ave</a>, East Greenbush, New York 12061</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">342.47 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">551.61 km ( + 0.09 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/re/59.php">Rensselaer CR 59 - Sherwood Ave</a>, East Greenbush, New York 12061</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">343.28 mi ( + 0.81 mi )</td>
+                    <td class="content text-dark small">552.91 km ( + 1.30 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Columbia St, Rensselaer, New York 12144</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">343.38 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">553.07 km ( + 0.16 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9j">NY-9J - South St</a>, Rensselaer, New York 12144</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">343.93 mi ( + 0.55 mi )</td>
+                    <td class="content text-dark small">553.96 km ( + 0.89 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Dunn Memorial Brg, Rensselaer, New York 12144</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">344.57 mi ( + 0.64 mi )</td>
+                    <td class="content text-dark small">554.99 km ( + 1.03 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Dunn Memorial Brg, Albany, New York 12208</td>
+                    <td class="content text-dark">End Rensselaer County<br>Start Albany County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">344.59 mi ( + 0.02 mi )</td>
+                    <td class="content text-dark small">555.02 km ( + 0.03 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/ny-787.php">I-787</a> (concurrent with US-9), Albany, New York 12208</td>
+                    <td class="content text-dark">US-9, Albany, New York 12208</td>
+                    <td class="content text-dark">End concurrency with US-20<br>Start concurrency with I-787</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">344.94 mi ( + 0.35 mi )</td>
+                    <td class="content text-dark small">555.58 km ( + 0.56 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/ny-787.php">I-787</a>, Albany, New York 12208</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with I-787</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">345.13 mi ( + 0.19 mi )</td>
+                    <td class="content text-dark small">555.88 km ( + 0.30 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Water St (SB) / Quay St (NB), Albany, New York 12208</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">345.22 mi ( + 0.09 mi )</td>
+                    <td class="content text-dark small">556.02 km ( + 0.14 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/ny-787.php">I-787</a>, Albany, New York 12208</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">345.60 mi ( + 0.38 mi )</td>
+                    <td class="content text-dark small">556.64 km ( + 0.62 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/ny-787.php">I-787</a>, Albany, New York 12208</td>
+                    <td class="content text-dark">Colonie St, Albany, New York 12208</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">345.63 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">556.68 km ( + 0.04 km )</td>
+                    <td class="content text-dark">US-9 - Water St, Albany, New York 12208</td>
+                    <td class="content text-dark">Water St, Albany, New York 12208</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">345.95 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">557.20 km ( + 0.52 km )</td>
+                    <td class="content text-dark">US-9 - Orange St, Albany, New York 12208</td>
+                    <td class="content text-dark">Orange St, Albany, New York 12208</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">345.95 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">557.20 km ( + 0.52 km )</td>
+                    <td class="content text-dark">US-9 - Broadway, Albany, New York 12208</td>
+                    <td class="content text-dark">Orange St, Albany, New York 12208</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">346.01 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">557.29 km ( + 0.09 km )</td>
+                    <td class="content text-dark">US-9 - Clinton Ave, Albany, New York 12208</td>
+                    <td class="content text-dark">Clinton Ave, Albany, New York 12208</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">346.01 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">557.29 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/32.php">NY-32 - N Pearl St</a>, Albany, New York 12208</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
             </section>
             </table>
             <hr>
@@ -3021,24 +3196,126 @@
             </section>
             </table>
             <hr>
-            <section id="sec-njus9w">
-            <h1 class="header" id="njus9w">United States Route 9W</h1>
+            <section id="sec-njnyus9w">
+            <h1 class="header" id="njnyus9w">United States Route 9W</h1>
             <h2 class="content text-dark">US-9 has an auxilliary local/bypass route starting in Elizabeth in Union County, passing through Newark in Essex County, and Kearny and Jersey City in Hudson County. It serves these three major cities for 10.06 mi (16.23 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
-                <tr>
-                    <td class="content text-dark small">0.00 mi</td>
-                    <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Tonnelle Ave</a> (concurrent with <a href="#us9">US-9</a> & <a href="46.php">US-46</a>), Fort Lee, New Jersey 07024</td>
-                    <td class="content text-dark">Fletcher Ave, Fort Lee, New Jersey 07024</td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">0.32 mi ( + 0.32 mi )</td>
-                    <td class="content text-dark small">0.51 km ( + 0.51 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/81.php">NJ-81 (SB)</a>, Elizabeth, New Jersey 07202</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
+                <section id="#njus9w">
+                    <tr>
+                        <td class="content text-dark small">0.00 mi</td>
+                        <td class="content text-dark small">0.00 km</td>
+                        <td class="content text-dark"><a href="1.php">US-1 - N Bergen Blvd</a> (concurrent with <a href="#us9">US-9</a> & <a href="46.php">US-46</a>), Fort Lee, New Jersey 07024</td>
+                        <td class="content text-dark">Fletcher Ave, Fort Lee, New Jersey 07024</td>
+                        <td class="content text-dark">Start of Alternate Route<br>Start US-9W in New Jersey<br>Start Bergen County</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">0.24 mi ( + 0.24 mi )</td>
+                        <td class="content text-dark small">0.38 km ( + 0.38 km )</td>
+                        <td class="content text-dark"><a href="../interstates/95.php">I-95 - New Jersey Tpke</a>, Fort Lee, New Jersey 07024</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">0.93 mi ( + 0.69 mi )</td>
+                        <td class="content text-dark small">1.50 km ( + 1.12 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/nj/67.php">NJ-67 - Lemoine Ave</a>, Fort Lee, New Jersey 07024</td>
+                        <td class="content text-dark">Lemoine Ave, Fort Lee, New Jersey 07024</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">0.93 mi ( + 0.69 mi )</td>
+                        <td class="content text-dark small">1.50 km ( + 1.12 km )</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Sylvan Ave, Englewood Cliffs, New Jersey 07632</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">2.13 mi ( + 1.20 mi )</td>
+                        <td class="content text-dark small">3.43 km ( + 1.93 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/nj/505.php">Bergen CR 505 - E Palisade Ave</a>, Englewood Cliffs, New Jersey 07632</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">3.75 mi ( + 1.62 mi )</td>
+                        <td class="content text-dark small">6.03 km ( + 2.60 km )</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Sylvan Ave, Tenafly, New Jersey 07670</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">3.89 mi ( + 0.14 mi )</td>
+                        <td class="content text-dark small">6.25 km ( + 0.22 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/nj/be/72.php">Bergen CR 72 - E Clinton Ave</a>, Tenafly, New Jersey 07670</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">5.28 mi ( + 1.39 mi )</td>
+                        <td class="content text-dark small">8.49 km ( + 2.24 km )</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Sylvan Ave, Alpine, New Jersey 07620</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">6.77 mi ( + 1.49 mi )</td>
+                        <td class="content text-dark small">10.90 km ( + 2.41 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/nj/be/74.php">Bergen CR 74 - Hillside Ave</a>, Alpine, New Jersey 07620</td>
+                        <td class="content text-dark">N US-9W, Alpine, New Jersey 07620</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">7.13 mi ( + 0.36 mi )</td>
+                        <td class="content text-dark small">11.48 km ( + 0.58 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/nj/502.php">Bergen CR 74 - Hillside Ave</a>, Alpine, New Jersey 07620</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">7.75 mi ( + 0.62 mi )</td>
+                        <td class="content text-dark small">12.48 km ( + 1.00 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy (SB)</a>, Alpine, New Jersey 07620</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">7.85 mi ( + 0.10 mi )</td>
+                        <td class="content text-dark small">12.63 km ( + 0.15 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy (NB)</a>, Alpine, New Jersey 07620</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">10.42 mi ( + 2.57 mi )</td>
+                        <td class="content text-dark small">16.76 km ( + 4.13 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy (SB)</a>, Alpine, New Jersey 07620</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">10.79 mi ( + 0.37 mi )</td>
+                        <td class="content text-dark small">17.36 km ( + 0.60 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy</a>, Alpine, New Jersey 07620</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">10.88 mi ( + 0.09 mi )</td>
+                        <td class="content text-dark small">17.51 km ( + 0.15 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy (NB)</a>, Alpine, New Jersey 07620</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                </section>
+                <section id="nyus9w">
+                    <tr>
+                        <td class="content text-dark small">11.12 mi ( + 0.24 mi )</td>
+                        <td class="content text-dark small">17.89 km ( + 0.38 km )</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">N US-9W, Orangetown, New York 10964</td>
+                        <td class="content text-dark">End US-9W in New Jersey<br>Start US-9W in New York<br>End Bergen County<br>Start Rockland County</td>
+                    </tr>
+                </section>
             </section>
                 <?php include "../../static/bottom.php"; ?>

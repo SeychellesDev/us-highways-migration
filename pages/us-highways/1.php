@@ -7400,6 +7400,286 @@
                     <td class="content text-dark">N Washington Blvd, Savage, Maryland 20763</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">1327.74 mi ( + 1.27 mi )</td>
+                    <td class="content text-dark small">2137.21 km ( + 2.04 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/32.php">MD-32 - Patuxent Fwy</a>, Jessup, Maryland 20794</td>
+                    <td class="content text-dark">Washington Blvd, Jessup, Maryland 20794</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1330.46 mi ( + 2.72 mi )</td>
+                    <td class="content text-dark small">2141.53 km ( + 4.32 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/175.php">MD-175 - Waterloo Rd</a>, Elkridge, Maryland 21075</td>
+                    <td class="content text-dark">Washington Blvd, Elkridge, Maryland 21075</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1331.89 mi ( + 1.43 mi )</td>
+                    <td class="content text-dark small">2143.84 km ( + 2.31 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/103.php">MD-103 - Dorsey Rd (SB) / Meadowridge Rd (NB)</a>, Elkridge, Maryland 21075</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1332.40 mi ( + 0.51 mi )</td>
+                    <td class="content text-dark small">2144.65 km ( + 0.81 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/100.php">MD-100</a>, Elkridge, Maryland 21075</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1335.82 mi ( + 3.42 mi )</td>
+                    <td class="content text-dark small">2150.15 km ( + 5.50 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Washington Blvd, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark">End Howard County<br>Start Baltimore County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1335.87 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">2150.22 km ( + 0.07 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/md-895.php">I-895</a>, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1336.13 mi ( + 0.26 mi )</td>
+                    <td class="content text-dark small">2150.64 km ( + 0.42 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/md-195.php">I-195</a>, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1336.73 mi ( + 0.60 mi )</td>
+                    <td class="content text-dark small">2151.60 km ( + 0.96 km )</td>
+                    <td class="content text-dark">US-1 - Southwestern Blvd, Arbutus, Maryland 21227<br><a href="#mdus1altba">US-1 Alternate - Washington Blvd</a>, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark">Southwestern Blvd, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1337.86 mi ( + 1.13 mi )</td>
+                    <td class="content text-dark small">2153.42 km ( + 1.82 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95</a>, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1338.75 mi ( + 0.89 mi )</td>
+                    <td class="content text-dark small">2154.85 km ( + 1.43 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/md-695.php">I-695 - Baltimore Bltwy</a>, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1339.56 mi ( + 0.81 mi )</td>
+                    <td class="content text-dark small">2156.15 km ( + 1.30 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Southwestern Blvd, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">End Baltimore County<br>Start City of Baltimore</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1339.88 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">2156.66 km ( + 0.51 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/372.php">MD-372 - Wilkens Ave</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">Wilkens Ave, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1340.47 mi ( + 0.59 mi )</td>
+                    <td class="content text-dark small">2157.61 km ( + 0.95 km )</td>
+                    <td class="content text-dark"><a href="#mdus1altba">US-1 Alternate - S Caton Ave</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1341.92 mi ( + 1.45 mi )</td>
+                    <td class="content text-dark small">2159.94 km ( + 2.33 km )</td>
+                    <td class="content text-dark">US-1 - S Monroe St (SB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1342.02 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">2160.11 km ( + 0.17 km )</td>
+                    <td class="content text-dark">US-1 - S Fulton St (NB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">S Monroe St (SB) / S Fulton St (NB), Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1342.20 mi ( + 0.18 mi )</td>
+                    <td class="content text-dark small">2160.40 km ( + 0.29 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/144.php">MD-144 - W Pratt St (EB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1342.27 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">2160.51 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/144.php">MD-144 - W Lombard St (WB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1342.75 mi ( + 0.48 mi )</td>
+                    <td class="content text-dark small">2161.28 km ( + 0.77 km )</td>
+                    <td class="content text-dark"><a href="40.php">US-40 - Franklin-Mulberry Expy (EB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1342.78 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">2161.33 km ( + 0.05 km )</td>
+                    <td class="content text-dark"><a href="40.php">US-40 - Franklin-Mulberry Expy (WB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1343.90 mi ( + 1.12 mi )</td>
+                    <td class="content text-dark small">2163.13 km ( + 1.80 km )</td>
+                    <td class="content text-dark"><a href="40.php/#mdus40bypba">US-40 Bypass - W North Ave</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">W North Ave, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">Start concurrency with US-40 Bypass</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1344.11 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">2163.47 km ( + 0.34 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/140.php">MD-140 - Pennsylvania Ave</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1344.33 mi ( + 0.22 mi )</td>
+                    <td class="content text-dark small">2163.83 km ( + 0.36 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/129.php">MD-129 - Druid Hill Ave (SB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1344.40 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">2163.95 km ( + 0.12 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/129.php">MD-129 - McCulloh St (NB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1345.15 mi ( + 0.75 mi )</td>
+                    <td class="content text-dark small">2165.15 km ( + 1.20 km )</td>
+                    <td class="content text-dark"><a href="../interstates/83.php">I-83 - Jones Falls Expy</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1345.42 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">2165.58 km ( + 0.43 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/139.php">MD-139 - Maryland Ave (SB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1345.49 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">2165.70 km ( + 0.12 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/139.php">MD-139 - N Charles St (NB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">E North Ave, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1345.58 mi ( + 0.09 mi )</td>
+                    <td class="content text-dark small">2165.84 km ( + 0.14 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/2.php">MD-2 - St Paul Ave (SB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1345.64 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">2165.94 km ( + 0.10 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/2.php">MD-2 - N Calvert St (NB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1345.87 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">2166.31 km ( + 0.37 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/45.php">MD-45 - Greenmount Ave</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1346.42 mi ( + 0.55 mi )</td>
+                    <td class="content text-dark small">2167.19 km ( + 0.88 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/147.php">MD-147 - Harford Rd</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1347.24 mi ( + 0.82 mi )</td>
+                    <td class="content text-dark small">2168.51 km ( + 1.32 km )</td>
+                    <td class="content text-dark">US-1 - Belair Rd (concurrent with <a href="40.php/#mdus40altba">US-40 Bypass</a>), Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">Belair Rd, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1348.07 mi ( + 0.83 mi )</td>
+                    <td class="content text-dark small">2169.85 km ( + 1.34 km )</td>
+                    <td class="content text-dark"><a href="40.php/#mdus40altba">US-40 Bypass - Erdman Ave</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with US-40 Bypass</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1348.07 mi ( + 3.32 mi )</td>
+                    <td class="content text-dark small">2175.19 km ( + 5.34 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Belair Rd, Overlea, Maryland 21236</td>
+                    <td class="content text-dark">End City of Baltimore<br>Start Baltimore County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1349.38 mi ( + 1.31 mi )</td>
+                    <td class="content text-dark small">2177.30 km ( + 2.11 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/md-695.php">I-695 - Baltimore Beltway</a>, Overlea, Maryland 21236</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1350.22 mi ( + 0.84 mi )</td>
+                    <td class="content text-dark small">2178.65 km ( + 1.35 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/43.php">MD-43 - White Marsh Blvd</a>, Overlea, Maryland 21236</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1350.46 mi ( + 0.24 mi )</td>
+                    <td class="content text-dark small">2179.04 km ( + 0.39 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Belair Rd, Perry Hall, Maryland 21236</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1354.81 mi ( + 4.35 mi )</td>
+                    <td class="content text-dark small">2186.04 km ( + 7.00 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Belair Rd, Kingsville, Maryland 21087</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1358.88 mi ( + 4.07 mi )</td>
+                    <td class="content text-dark small">2192.59 km ( + 6.55 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Belair Rd, Pleasant Hills, Maryland 21047</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1360.21 mi ( + 1.33 mi )</td>
+                    <td class="content text-dark small">2194.73 km ( + 2.14 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/152.php">MD-152 - Mountain Rd</a>, Pleasant Hills, Maryland 21047</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1360.21 mi ( + 1.32 mi )</td>
+                    <td class="content text-dark small">2194.73 km ( + 2.12 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/147.php">MD-147 - Mountain Rd</a>, Pleasant Hills, Maryland 21047</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
             </section>
             </table>
             <hr>
@@ -7411,7 +7691,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - S Ponce De Leon Blvd</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a>), St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="#flus1">US-1 - S Ponce De Leon Blvd</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a>), St Augustine, Florida 32084</td>
                     <td class="content text-dark">W King St, St Augustine, Florida 32084</td>
                     <td class="content text-dark">Start of Business Route<br>Start concurrency with FL-5</td>
                 </tr>
@@ -7467,7 +7747,7 @@
                 <tr>
                     <td class="content text-dark small">3.27 mi ( + 1.10 mi )</td>
                     <td class="content text-dark small">5.26 km ( + 1.78 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - N Ponce De Leon Blvd</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="#flus1">US-1 - N Ponce De Leon Blvd</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End concurrency with FL-5</td>
                 </tr>
@@ -7482,7 +7762,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Philips Hwy</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a>), Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="#flus1">US-1 - Philips Hwy</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a>), Jacksonville, Florida 32208</td>
                     <td class="content text-dark">Emerson St, Jacksonville, Florida 32208</td>
                     <td class="content text-dark">Start of Alternate Route<br>Start concurrency with FL-5</td>
                 </tr>
@@ -7545,7 +7825,7 @@
                 <tr>
                     <td class="content text-dark small">7.25 mi ( + 2.66 mi )</td>
                     <td class="content text-dark small">11.66 km ( + 4.28 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - N Main St</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="#flus1">US-1 - N Main St</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -7567,7 +7847,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Memorial Dr (SB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#gaus1">US-1 - Memorial Dr (SB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">Memorial Dr, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Start of Business Route<br>Start concurrency with US-23 Business & GA-4 Business</td>
                 </tr>
@@ -7595,7 +7875,7 @@
                 <tr>
                     <td class="content text-dark small">9.62 mi ( + 4.69 mi )</td>
                     <td class="content text-dark small">15.48 km ( + 7.55 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Scapa Rd (SB) / Alma Hwy (NB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#gaus1">US-1 - Scapa Rd (SB) / Alma Hwy (NB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End concurrency with US-23 Business & GA-4 Business</td>
                 </tr>
@@ -7610,7 +7890,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - S Main St (SB) / US-1 (NB)</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
+                    <td class="content text-dark"><a href="#gaus1">US-1 - S Main St (SB) / US-1 (NB)</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
                     <td class="content text-dark">S Main St, Swainsboro, Georgia 30401</td>
                     <td class="content text-dark">Start of Business Route<br>Start concurrency with GA-4 Business</td>
                 </tr>
@@ -7646,7 +7926,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Wadley, Georgia 30477</td>
+                    <td class="content text-dark"><a href="#gaus1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Wadley, Georgia 30477</td>
                     <td class="content text-dark">S Main St, Wadley, Georgia 30477</td>
                     <td class="content text-dark">Start concurrency with GA-4 Business</td>
                 </tr>
@@ -7667,7 +7947,7 @@
                 <tr>
                     <td class="content text-dark small">3.45 mi ( + 1.75 mi )</td>
                     <td class="content text-dark small">5.55 km ( + 2.81 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Wadley, Georgia 30477</td>
+                    <td class="content text-dark"><a href="#gaus1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Wadley, Georgia 30477</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End of concurrency with GA-4 Business</td>
                 </tr>
@@ -7682,7 +7962,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Louisville, Georgia 30434</td>
+                    <td class="content text-dark"><a href="#gaus1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Louisville, Georgia 30434</td>
                     <td class="content text-dark">E Broad St, Louisville, Georgia 30434</td>
                     <td class="content text-dark">Start of Business Route<br>Start concurrency with GA-4 Business</td>
                 </tr>
@@ -7710,7 +7990,7 @@
                 <tr>
                     <td class="content text-dark small">2.63 mi ( + 0.74 mi )</td>
                     <td class="content text-dark small">4.24 km ( + 1.19 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy (SB) / US-1 (NB)</a> (concurrent with <a href="../state-highways/ga/17.php">GA-17</a>, <a href="../state-highways/ga/4.php">GA-4</a> (SB/NB) & <a href="221.php">US-221</a> (NB)), Louisville, Georgia 30434</td>
+                    <td class="content text-dark"><a href="#gaus1">US-1 - Jefferson Davis Memorial Hwy (SB) / US-1 (NB)</a> (concurrent with <a href="../state-highways/ga/17.php">GA-17</a>, <a href="../state-highways/ga/4.php">GA-4</a> (SB/NB) & <a href="221.php">US-221</a> (NB)), Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End concurrency with GA-4 Business</td>
                 </tr>
@@ -7725,7 +8005,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Deans Bridge Rd</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a> & <a href="../state-highways/ga/540.php">GA-540</a>), Hephzibah, Georgia 30815</td>
+                    <td class="content text-dark"><a href="#gaus1">US-1 - Deans Bridge Rd</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a> & <a href="../state-highways/ga/540.php">GA-540</a>), Hephzibah, Georgia 30815</td>
                     <td class="content text-dark">Deans Bridge Rd, Hephzibah, Georgia 30815</td>
                     <td class="content text-dark">Start of Spur</td>
                 </tr>
@@ -7747,7 +8027,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#us1">US-1 - Jefferson Davis Hwy (NB/SB)</a> (concurrent with <a href="78.php">US-78</a>), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#scus1">US-1 - Jefferson Davis Hwy (NB/SB)</a> (concurrent with <a href="78.php">US-78</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark">Robert M Bell Pkwy, Aiken, South Carolina 29801</td>
                     <td class="content text-dark">Start of Truck Route<br>Start concurrency with SC-19 Truck & SC-118</td>
                 </tr>
@@ -7789,7 +8069,7 @@
                 <tr>
                     <td class="content text-dark small">5.63 mi ( + 0.99 mi )</td>
                     <td class="content text-dark small">9.06 km ( + 1.60 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - NE York St</a>, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="#scus1">US-1 - NE York St</a>, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Bypass Route</td>
                 </tr>
@@ -7804,7 +8084,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - W Dekalb St</a> (concurrent with <a href="601.php">US-601</a> & <a href="../state-highways/sc/34.php">SC-34</a>), Camden, South Carolina 29020</td>
+                    <td class="content text-dark"><a href="#scus1">US-1 - W Dekalb St</a> (concurrent with <a href="601.php">US-601</a> & <a href="../state-highways/sc/34.php">SC-34</a>), Camden, South Carolina 29020</td>
                     <td class="content text-dark">Chestnut Ferry Rd, Camden, South Carolina 29020</td>
                     <td class="content text-dark">Start of Truck Route<br>Start concurrency with SC-19 Bypass & SC-118</td>
                 </tr>
@@ -7867,7 +8147,7 @@
                 <tr>
                     <td class="content text-dark small">2.04 mi ( + 0.36 mi )</td>
                     <td class="content text-dark small">3.26 km ( + 0.57 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - E Dekalb St</a> (concurrent with <a href="../state-highways/sc/34.php">SC-34</a>), Camden, South Carolina 29020</td>
+                    <td class="content text-dark"><a href="#scus1">US-1 - E Dekalb St</a> (concurrent with <a href="../state-highways/sc/34.php">SC-34</a>), Camden, South Carolina 29020</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Truck Route</td>
                 </tr>
@@ -7882,7 +8162,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 (SB/NB)</a> (concurrent with <a href="52.php">US-52</a>), Cheraw, South Carolina 29520<br><a href="../secondary-roads/sc/cf/326.php">Chesterfield CR 326 - Manor Rd (WB)</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"><a href="#scus1">US-1 (SB/NB)</a> (concurrent with <a href="52.php">US-52</a>), Cheraw, South Carolina 29520<br><a href="../secondary-roads/sc/cf/326.php">Chesterfield CR 326 - Manor Rd (WB)</a>, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">Old Cash Rd, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark">Start of Truck Route<br>Start concurrency with US-52 Truck, SC-9 Truck, & Chesterfield CR 326</td>
                 </tr>
@@ -7980,7 +8260,7 @@
                 <tr>
                     <td class="content text-dark small">3.11 mi ( + 0.09 mi )</td>
                     <td class="content text-dark small">5.00 km ( + 0.14 km )</td>
-                    <td class="content text-dark"><a href="52.php/scus52trkcf">US-52 Truck - Front St (NB)</a>, Cheraw, South Carolina 29520<br><a href="#us1">US-1 - Powe St (WB/EB)</a> (concurrent with <a href="../state-highways/sc/9.php">SC-9</a>), Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"><a href="52.php/scus52trkcf">US-52 Truck - Front St (NB)</a>, Cheraw, South Carolina 29520<br><a href="#scus1">US-1 - Powe St (WB/EB)</a> (concurrent with <a href="../state-highways/sc/9.php">SC-9</a>), Cheraw, South Carolina 29520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Truck Route<br>End concurrency with US-52 Truck & SC-9 Truck</td>
                 </tr>
@@ -7995,7 +8275,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark">US-1 Business, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -8072,7 +8352,7 @@
                 <tr>
                     <td class="content text-dark small">2.87 mi ( + 0.13 mi )</td>
                     <td class="content text-dark small">4.62 km ( + 0.20 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - N Sandhills Blvd</a>, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1 - N Sandhills Blvd</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
@@ -8087,7 +8367,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1</a>, Vass, North Carolina 28394</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1</a>, Vass, North Carolina 28394</td>
                     <td class="content text-dark">US-1 Business, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -8157,7 +8437,7 @@
                 <tr>
                     <td class="content text-dark small">9.41 mi ( + 0.13 mi )</td>
                     <td class="content text-dark small">15.14 km ( + 0.21 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Hwy (SB/NB)</a>, Sanford, North Carolina 27330<br><a href="../secondary-roads/nc/le/1182.php">Lee SR 1182 - Pine Forrest Rd</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1 - Jefferson Davis Hwy (SB/NB)</a>, Sanford, North Carolina 27330<br><a href="../secondary-roads/nc/le/1182.php">Lee SR 1182 - Pine Forrest Rd</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Lee SR 1182<br>End of Business Route</td>
                 </tr>
@@ -8172,7 +8452,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Claude E. Pope Memorial Hwy</a> (concurrent with <a href="15.php">US-15</a> & <a href="501.php">US-501</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1 - Claude E. Pope Memorial Hwy</a> (concurrent with <a href="15.php">US-15</a> & <a href="501.php">US-501</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark">US-1 Business, Sanford, North Carolina 27330</td>
                     <td class="content text-dark">Start concurrency with US-15 Business & US-501 Business</td>
                 </tr>
@@ -8242,7 +8522,7 @@
                 <tr>
                     <td class="content text-dark small">5.35 mi ( + 0.42 mi )</td>
                     <td class="content text-dark small">8.64 km ( + 0.67 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Claude E. Pope Memorial Hwy</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1 - Claude E. Pope Memorial Hwy</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
@@ -8257,7 +8537,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Capital Blvd</a>, Wake Forest, North Carolina 27587</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1 - Capital Blvd</a>, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark">S Main St, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -8362,7 +8642,7 @@
                 <tr>
                     <td class="content text-dark small">8.62 mi ( + 1.55 mi )</td>
                     <td class="content text-dark small">14.48 km ( + 2.49 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1</a>, Youngsville, North Carolina 27596<br><a href="../state-highways/nc/96.php">NC-96 (WB)</a>, Youngsville, North Carolina 27596</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1</a>, Youngsville, North Carolina 27596<br><a href="../state-highways/nc/96.php">NC-96 (WB)</a>, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Alternate Route</td>
                 </tr>
@@ -8377,7 +8657,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1</a>, Franklinton, North Carolina 27596</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1</a>, Franklinton, North Carolina 27596</td>
                     <td class="content text-dark">S Main St, Franklinton, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -8398,7 +8678,7 @@
                 <tr>
                     <td class="content text-dark small">2.72 mi ( + 0.88 mi )</td>
                     <td class="content text-dark small">4.38 km ( + 1.42 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 (SB/NB)</a>, Franklinton, North Carolina 27596<br><a href="../secondary-roads/nc/fr/1204.php">Franklin SR 1204 - Mann St</a>, Franklinton, North Carolina 27596</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1 (SB/NB)</a>, Franklinton, North Carolina 27596<br><a href="../secondary-roads/nc/fr/1204.php">Franklin SR 1204 - Mann St</a>, Franklinton, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Alternate Route</td>
                 </tr>
@@ -8413,7 +8693,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1</a>, Kittrell, North Carolina 27544</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1</a>, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark">Raleigh Rd, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -8448,7 +8728,7 @@
                 <tr>
                     <td class="content text-dark small">2.87 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">4.63 km ( + 0.19 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1</a>, Kittrell, North Carolina 27544</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1</a>, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -8567,7 +8847,7 @@
                 <tr>
                     <td class="content text-dark small">8.71 mi ( + 1.20 mi )</td>
                     <td class="content text-dark small">14.01 km ( + 1.92 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 (SB)</a> (concurrent with <a href="#ncus1bypva">US-1 Bypass</a>), Henderson, North Carolina 27536<br><a href="#ncus1bypva">US-1 Bypass (NB)</a>, Henderson, North Carolina 27536<br><a href="#us1">US-1 (EB)</a> (concurrent with <a href="158.php">US-158</a>), Henderson, North Carolina 27536</td>
+                    <td class="content text-dark"><a href="#ncus1">US-1 (SB)</a> (concurrent with <a href="#ncus1bypva">US-1 Bypass</a>), Henderson, North Carolina 27536<br><a href="#ncus1bypva">US-1 Bypass (NB)</a>, Henderson, North Carolina 27536<br><a href="#ncus1">US-1 (EB)</a> (concurrent with <a href="158.php">US-158</a>), Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
@@ -8667,7 +8947,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Patriot Hwy</a>, Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark"><a href="#vaus1">US-1 - Patriot Hwy</a>, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark">Lafayette Blvd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -8730,7 +9010,7 @@
                 <tr>
                     <td class="content text-dark small">4.98 mi ( + 0.06 mi )</td>
                     <td class="content text-dark small">8.03 km ( + 0.10 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Hwy (SB)</a>, Fredericksburg, Virginia 22401<br><a href="#us1">US-1 - Jefferson Davis Hwy (NB)</a> (concurrent with <a href="17.php/#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark"><a href="#vaus1">US-1 - Jefferson Davis Hwy (SB)</a>, Fredericksburg, Virginia 22401<br><a href="#vaus1">US-1 - Jefferson Davis Hwy (NB)</a> (concurrent with <a href="17.php/#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
@@ -8745,7 +9025,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - NW 6th St (NB)</a> (concurrent with <a href="50.php">US-50</a>), Washington, District of Columbia 20505<br><a href="#us1">US-1 - NW Constitution Ave (WB)</a> (concurrent with <a href="50.php">US-50</a>), Washington, District of Columbia 20505</td>
+                    <td class="content text-dark"><a href="#dcus1">US-1 - NW 6th St (NB) / NW Constitution Ave (WB)</a> (concurrent with <a href="50.php">US-50</a>), Washington, District of Columbia 20505</td>
                     <td class="content text-dark">NW Constitution Ave, Washington, District of Columbia 20505</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -8843,9 +9123,88 @@
                 <tr>
                     <td class="content text-dark small">6.81 mi ( + 0.57 mi )</td>
                     <td class="content text-dark small">10.98 km ( + 0.92 km )</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Rhode Island Ave (SB) / Baltimore Ave (NB)</a>, Hyattsville, Maryland 20781</td>
+                    <td class="content text-dark"><a href="#mdus1">US-1 - Rhode Island Ave (SB) / Baltimore Ave (NB)</a>, Hyattsville, Maryland 20781</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Alternate Route</td>
+                </tr>
+            </section>
+            </table>
+            <hr>
+            <section id="sec-mdus1altba">
+            <h1 class="header" id="mdus1altba">United States Route 1 Alternate (Baltimore, Maryland)</h1>
+            <h2 class="content text-dark">US-1 Alternate is a alternate route in Baltimore, Maryland. It is 3.11 mi (5.00 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#mdus1">US-1 - Washington Blvd (SB) / Southwestern Blvd (NB)</a>, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark">Washington Blvd, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.65 mi ( + 1.65 mi )</td>
+                    <td class="content text-dark small">2.65 km ( + 2.65 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/md-695.php">I-695 - Baltimore Bltwy</a>, Arbutus, Maryland 21227</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.65 mi ( + 1.00 mi )</td>
+                    <td class="content text-dark small">4.27 km ( + 1.62 km )</td>
+                    <td class="content text-dark">US-1 Alternate - S Caton Ave, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">S Caton Ave, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">End Baltimore County<br>Start City of Baltimore</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.28 mi ( + 0.63 mi )</td>
+                    <td class="content text-dark small">5.28 km ( + 1.01 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95</a>, Arbutus, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.89 mi ( + 0.61 mi )</td>
+                    <td class="content text-dark small">6.26 km ( + 0.98 km )</td>
+                    <td class="content text-dark"><a href="#mdus1">US-1 - Wilkens Ave</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Alternate Route</td>
+                </tr>
+            </section>
+            </table>
+            <hr>
+            <section id="sec-mdus1altba">
+            <h1 class="header" id="mdus1altba">United States Route 1 Alternate (Baltimore, Maryland)</h1>
+            <h2 class="content text-dark">US-1 Alternate is a alternate route in Baltimore, Maryland. It is 3.11 mi (5.00 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#mdus1">US-1 - Belair Rd (SB) / Bel Air Byp (NB)</a>, Bel Air South, Maryland 21014</td>
+                    <td class="content text-dark">Belair Rd, Bel Air South, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.82 mi ( + 0.82 mi )</td>
+                    <td class="content text-dark small">1.31 km ( + 1.31 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Baltimore Pk, Bel Air South, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.74 mi ( + 0.92 mi )</td>
+                    <td class="content text-dark small">2.80 km ( + 1.49 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Baltimore Pk, Bel Air, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.97 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">3.17 km ( + 0.37 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/24.php">MD-24 - Veterans Memorial Hwy</a>, Bel Air, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
                 </tr>
             </section>
             </table>

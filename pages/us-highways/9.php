@@ -362,9 +362,9 @@
                 <tr>
                     <td class="content text-dark small">73.18 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">117.53 km ( + 0.34 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230<br><a href="#us9bp">US-9 - N Shore Rd (NB)</a>, Upper Township, New Jersey 08230</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230<br><a href="#njus9spurca">US-9 - N Shore Rd (NB)</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with Cape May CR 623<br>Route splits into <a href="#us9bp">US-9 Beesley's Point Spur</a></td>
+                    <td class="content text-dark">Start concurrency with Cape May CR 623<br>Route splits into <a href="#njus9spurca">US-9 Beesley's Point Spur</a></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">73.47 mi ( + 0.29 mi )</td>
@@ -2730,7 +2730,7 @@
                 <tr>
                     <td class="content text-dark small">4.19 mi ( + 3.47 mi )</td>
                     <td class="content text-dark small">6.74 km ( + 5.58 km )</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Lewes Georgetown Hwy</a> (concurrent with <a href="../state-highways/de/404.php">DE-404</a>), Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Lewes Georgetown Hwy</a> (concurrent with <a href="../state-highways/de/404.php">DE-404</a>), Georgetown, Delaware 19947</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Bypass Route</td>
                 </tr>
@@ -2745,14 +2745,14 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Coastal Hwy</a> (concurrent with <a href="../state-highways/de/1.html">DE-1</a>), Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Coastal Hwy</a> (concurrent with <a href="../state-highways/de/1.html">DE-1</a>), Lewes, Delaware 19958</td>
                     <td class="content text-dark">Savannah Rd, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Start of Business Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">2.64 mi ( + 2.64 mi )</td>
                     <td class="content text-dark small">4.25 km ( + 4.25 km )</td>
-                    <td class="content text-dark"><a href="#us9kh">US-9 - Kings Hwy</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Kings Hwy</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
@@ -2767,7 +2767,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Kings Hwy (SB) / Theo C Freeman Memorial Hwy (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Kings Hwy (SB) / Theo C Freeman Memorial Hwy (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Kings Hwy, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Start of Spur</td>
                 </tr>
@@ -2795,7 +2795,7 @@
                 <tr>
                     <td class="content text-dark small">1.73 mi ( + 0.32 mi )</td>
                     <td class="content text-dark small">2.78 km ( + 0.52 km )</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Theo C Freeman Memorial Hwy (SB) / Cape Henlopen Dr (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Theo C Freeman Memorial Hwy (SB) / Cape Henlopen Dr (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
@@ -2810,7 +2810,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - S Shore Rd (SB)</a>, Upper Township, New Jersey 08230<br><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230</td>
+                    <td class="content text-dark"><a href="#njus9">US-9 - S Shore Rd (SB)</a>, Upper Township, New Jersey 08230<br><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark">N Shore Rd, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark">Start of Spur</td>
                 </tr>
@@ -2839,7 +2839,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Spring St (SB) / US-1-9 (NB)</a> (concurrent with <a href="#us9">US-9</a>), Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Spring St (SB) / US-1-9 (NB)</a> (concurrent with <a href="#njus9">US-9</a>), Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">Spring St, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">Start of Local Route</td>
                 </tr>
@@ -2895,7 +2895,7 @@
                 <tr>
                     <td class="content text-dark small">5.61 mi ( + 2.15 mi )</td>
                     <td class="content text-dark small">9.06 km ( + 3.46 km )</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - US-1-9 (SB) / Pulaski Skwy (NB)  </a> (concurrent with <a href="#us9">US-9</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - US-1-9 (SB) / Pulaski Skwy (NB)  </a> (concurrent with <a href="#njus9">US-9</a>), Newark, New Jersey 07114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3007,14 +3007,14 @@
                 <tr>
                     <td class="content text-dark small">9.84 mi ( + 0.24 mi )</td>
                     <td class="content text-dark small">15.88 km ( + 0.39 km )</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Tonelle Ave</a> (concurrent with <a href="#us9">US-9</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Tonelle Ave</a> (concurrent with <a href="#njus9">US-9</a>), Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">10.06 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">16.23 km ( + 0.35 km )</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Tonelle Ave</a> (concurrent with <a href="#us9">US-9</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Tonelle Ave</a> (concurrent with <a href="#njus9">US-9</a>), Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Local Route</td>
                 </tr>
@@ -3029,7 +3029,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Tonnelle Ave</a> (concurrent with <a href="#us9">US-9</a> & <a href="46.php">US-46</a>), Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Tonnelle Ave</a> (concurrent with <a href="#njus9">US-9</a> & <a href="46.php">US-46</a>), Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark">Fletcher Ave, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                 </tr>

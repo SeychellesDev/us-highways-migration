@@ -1180,7 +1180,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us206">US-206 - Princeton Ave</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="#njus206">US-206 - Princeton Ave</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Brunswick Cir, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Start of Spur<br>Start concurrency with Mercer CR 645</td>
                 </tr>
@@ -1222,7 +1222,7 @@
                 <tr>
                     <td class="content text-dark small">0.65 mi ( + 0.29 mi )</td>
                     <td class="content text-dark small">1.05 km ( + 0.47 km )</td>
-                    <td class="content text-dark"><a href="#us206">US-206 - Princeton Ave (SB) / Lawrence Rd (NB)</a>, Lawrence Township, New Jersey 08648<br><a href="../secondary-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="#njus206">US-206 - Princeton Ave (SB) / Lawrence Rd (NB)</a>, Lawrence Township, New Jersey 08648<br><a href="../secondary-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
@@ -1235,7 +1235,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"><a href="#njus206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
                     <td class="content text-dark">Peter J. Biondi Byp, Hillsborough Township, New Jersey 08844</td>
                     <td class="content text-dark">Start of Bypass Route</td>
                 </tr>
@@ -1249,7 +1249,7 @@
                 <tr>
                     <td class="content text-dark small">2.86 mi ( + 0.64 mi )</td>
                     <td class="content text-dark small">4.59 km ( + 1.02 km )</td>
-                    <td class="content text-dark"><a href="#us206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"><a href="#njus206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Bypass Route</td>
                 </tr>

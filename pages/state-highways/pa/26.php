@@ -177,7 +177,7 @@
                 <tr>
                     <td class="content text-dark small">26.42 mi ( + 1.14 mi )</td>
                     <td class="content text-dark small">41.80 km ( + 1.84 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/30.php/#us30">US-30 - Lincoln Hwy</a>, Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark"><a href="../../us-highways/30.php">US-30 - Lincoln Hwy</a>, Everett, Pennsylvania 15537</td>
                     <td class="content text-dark">Raystown Rd, Everett, Pennsylvania 15537</td>
                     <td class="content text-dark"></td>
                 </tr>

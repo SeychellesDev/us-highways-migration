@@ -581,13 +581,6 @@
                     <td class="content text-dark">Start concurrency with I-99 & US-220</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">111.37 mi ( + 1.02 mi )</td>
-                    <td class="content text-dark small">176.01 km ( + 1.64 km )</td>
-                    <td class="content text-dark"><a href="../../interstates/99.php">I-99 (NB)</a> (concurrent with <a href="../../us-highways/220.php">US-220</a>), Bellefonte, Pennsylvania 16823<br><a href="64.php">PA-64 - E College Ave (EB)</a>, Bellefonte, Pennsylvania 16823</td>
-                    <td class="content text-dark">PA-26, Bellefonte, Pennsylvania 16823</td>
-                    <td class="content text-dark">Start concurrency with I-99 & US-220</td>
-                </tr>
-                <tr>
                     <td class="content text-dark small">114.04 mi ( + 2.67 mi )</td>
                     <td class="content text-dark small">180.31 km ( + 4.30 km )</td>
                     <td class="content text-dark"><a href="550.php">PA-550 - Zion Rd</a>, Bellefonte, Pennsylvania 16823</td>

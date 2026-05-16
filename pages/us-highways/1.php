@@ -7494,42 +7494,42 @@
                 <tr>
                     <td class="content text-dark small">1341.92 mi ( + 1.45 mi )</td>
                     <td class="content text-dark small">2159.94 km ( + 2.33 km )</td>
-                    <td class="content text-dark">US-1 - S Monroe St (SB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">US-1 (SB) - S Monroe St</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1342.02 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">2160.11 km ( + 0.17 km )</td>
-                    <td class="content text-dark">US-1 - S Fulton St (NB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">US-1 (NB) - S Fulton St</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark">S Monroe St (SB) / S Fulton St (NB), Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1342.20 mi ( + 0.18 mi )</td>
                     <td class="content text-dark small">2160.40 km ( + 0.29 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/md/144.php">MD-144 - W Pratt St (EB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="../state-highways/md/144.php">MD-144 (EB) - W Pratt St</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1342.27 mi ( + 0.07 mi )</td>
                     <td class="content text-dark small">2160.51 km ( + 0.11 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/md/144.php">MD-144 - W Lombard St (WB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="../state-highways/md/144.php">MD-144 (WB) - W Lombard St</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1342.75 mi ( + 0.48 mi )</td>
                     <td class="content text-dark small">2161.28 km ( + 0.77 km )</td>
-                    <td class="content text-dark"><a href="40.php">US-40 - Franklin-Mulberry Expy (EB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="40.php">US-40 (EB) - Franklin-Mulberry Expy</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1342.78 mi ( + 0.03 mi )</td>
                     <td class="content text-dark small">2161.33 km ( + 0.05 km )</td>
-                    <td class="content text-dark"><a href="40.php">US-40 - Franklin-Mulberry Expy (WB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="40.php">US-40 (WB) - Franklin-Mulberry Expy</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -7550,14 +7550,14 @@
                 <tr>
                     <td class="content text-dark small">1344.33 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">2163.83 km ( + 0.36 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/md/129.php">MD-129 - Druid Hill Ave (SB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="../state-highways/md/129.php">MD-129 (SB) - Druid Hill Ave</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1344.40 mi ( + 0.07 mi )</td>
                     <td class="content text-dark small">2163.95 km ( + 0.12 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/md/129.php">MD-129 - McCulloh St (NB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="../state-highways/md/129.php">MD-129 (NB) - McCulloh St</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -7571,28 +7571,28 @@
                 <tr>
                     <td class="content text-dark small">1345.42 mi ( + 0.27 mi )</td>
                     <td class="content text-dark small">2165.58 km ( + 0.43 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/md/139.php">MD-139 - Maryland Ave (SB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="../state-highways/md/139.php">MD-139 (SB) - Maryland Ave</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1345.49 mi ( + 0.07 mi )</td>
                     <td class="content text-dark small">2165.70 km ( + 0.12 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/md/139.php">MD-139 - N Charles St (NB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="../state-highways/md/139.php">MD-139 (NB) - N Charles St</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark">E North Ave, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1345.58 mi ( + 0.09 mi )</td>
                     <td class="content text-dark small">2165.84 km ( + 0.14 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/md/2.php">MD-2 - St Paul Ave (SB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="../state-highways/md/2.php">MD-2 (SB) - St Paul Ave</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1345.64 mi ( + 0.06 mi )</td>
                     <td class="content text-dark small">2165.94 km ( + 0.10 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/md/2.php">MD-2 - N Calvert St (NB)</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="../state-highways/md/2.php">MD-2 (NB) - N Calvert St</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -7676,9 +7676,93 @@
                 <tr>
                     <td class="content text-dark small">1360.21 mi ( + 1.32 mi )</td>
                     <td class="content text-dark small">2194.73 km ( + 2.12 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/md/147.php">MD-147 - Mountain Rd</a>, Pleasant Hills, Maryland 21047</td>
+                    <td class="content text-dark"><a href="../state-highways/md/147.php">MD-147 - Harford Rd</a>, Bel Air North, Maryland 21014<br><a href="#mdus1busha">US-1 Business - Belair Rd</a>, Bel Air North, Maryland 21014</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1362.14 mi ( + 1.93 mi )</td>
+                    <td class="content text-dark small">2197.83 km ( + 3.10 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/24.php">MD-24 - Veterans Memorial Hwy</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with MD-24</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1363.67 mi ( + 1.53 mi )</td>
+                    <td class="content text-dark small">2200.30 km ( + 2.47 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/924.php">MD-924 - Rock Spring Rd (SB)</a>, Bel Air North, Maryland 21014<br><a href="../state-highways/md/24.php">MD-24 - Rock Spring Rd (NB)</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with MD-24</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1364.77 mi ( + 1.10 mi )</td>
+                    <td class="content text-dark small">2202.07 km ( + 1.77 km )</td>
+                    <td class="content text-dark"><a href="#mdus1busha">US-1 Business - Conowingo Rd</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark">Hickory Byp, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1365.03 mi ( + 0.26 mi )</td>
+                    <td class="content text-dark small">2202.50 km ( + 0.43 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/23.php">MD-23 - East-West Hwy</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1365.61 mi ( + 0.58 mi )</td>
+                    <td class="content text-dark small">2203.44 km ( + 0.94 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/543.php">MD-543 - N Fountain Green Rd</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1366.12 mi ( + 0.51 mi )</td>
+                    <td class="content text-dark small">2204.25 km ( + 0.81 km )</td>
+                    <td class="content text-dark"><a href="#mdus1busha">US-1 Business - Conowingo Rd</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark">Conowingo Rd, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1369.55 mi ( + 3.43 mi )</td>
+                    <td class="content text-dark small">2209.77 km ( + 5.52 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Conowingo Rd, Street, Maryland 21154</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1371.61 mi ( + 2.06 mi )</td>
+                    <td class="content text-dark small">2213.09 km ( + 3.32 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/136.php">MD-136 - Priestford Rd (SB) / Whiteford Rd (NB)</a>, Street, Maryland 21154</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1372.30 mi ( + 0.69 mi )</td>
+                    <td class="content text-dark small">2214.20 km ( + 1.11 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Conowingo Rd, Darlington, Maryland 21034</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1375.47 mi ( + 3.17 mi )</td>
+                    <td class="content text-dark small">2219.29 km ( + 5.09 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/623.php">MD-623 - Castleton Rd</a>, Darlington, Maryland 21034</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1377.35 mi ( + 1.88 mi )</td>
+                    <td class="content text-dark small">2222.31 km ( + 3.02 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Conowingo Rd, Conowingo, Maryland 21918</td>
+                    <td class="content text-dark">End Harford County<br>Start Cecil County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1377.91 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">2223.22 km ( + 0.91 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/222.php">MD-222 - Susquehanna River Rd</a>, Conowingo, Maryland 21918</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with US-222 & MD-222</td>
                 </tr>
             </section>
             </table>
@@ -8614,7 +8698,7 @@
                 <tr>
                     <td class="content text-dark small">6.44 mi ( + 1.84 mi )</td>
                     <td class="content text-dark small">10.96 km ( + 2.97 km )</td>
-                    <td class="content text-dark">US-1 Alternate - College St (NB) (concurrent with <a href="../state-highways/nc/96.php">NC-96</a>), Youngsville, North Carolina 27596<br><a href="../secondary-roads/nc/fr/1147.php">Franklin SR 1147 - Holden Rd (WB)</a>, Youngsville, North Carolina 27596<br><a href="../state-highways/nc/96.php">NC-96 - W Main St</a>, Youngsville, North Carolina 27596</td>
+                    <td class="content text-dark">US-1 Alternate - College St (NB) (concurrent with <a href="../state-highways/nc/96.php">NC-96</a>), Youngsville, North Carolina 27596<br><a href="../secondary-roads/nc/fr/1147.php">Franklin SR 1147 - Holden Rd (WB)</a>, Youngsville, North Carolina 27596<br><a href="../state-highways/nc/96.php">NC-96 - W Main St (EB)</a>, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark">College St, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark">Start concurrency with NC-96</td>
                 </tr>
@@ -8975,14 +9059,14 @@
                 <tr>
                     <td class="content text-dark small">3.98 mi ( + 0.06 mi )</td>
                     <td class="content text-dark small">6.39 km ( + 0.09 km )</td>
-                    <td class="content text-dark"><a href="17.php/#vaus17busspfr">US-17 Business - Princess Anne St (SB)</a>, Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark"><a href="17.php/#vaus17busspfr">US-17 Business (SB) - Princess Anne St</a>, Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.04 mi ( + 0.06 mi )</td>
                     <td class="content text-dark small">6.49 km ( + 0.10 km )</td>
-                    <td class="content text-dark"><a href="17.php/#vaus17busspfr">US-17 Business - Caroline St (NB)</a>, Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark"><a href="17.php/#vaus17busspfr">US-17 Business (NB) - Caroline St</a>, Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark">Princess Anne St (SB) / Caroline St (NB), Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9173,8 +9257,8 @@
             </section>
             </table>
             <hr>
-            <section id="sec-mdus1altba">
-            <h1 class="header" id="mdus1altba">United States Route 1 Alternate (Baltimore, Maryland)</h1>
+            <section id="sec-mdus1busha">
+            <h1 class="header" id="mdus1busha">United States Route 1 Alternate (Baltimore, Maryland)</h1>
             <h2 class="content text-dark">US-1 Alternate is a alternate route in Baltimore, Maryland. It is 3.11 mi (5.00 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
@@ -9182,7 +9266,7 @@
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#mdus1">US-1 - Belair Rd (SB) / Bel Air Byp (NB)</a>, Bel Air South, Maryland 21014</td>
-                    <td class="content text-dark">Belair Rd, Bel Air South, Maryland 21014</td>
+                    <td class="content text-dark">Belair Rd, Bel Air North, Maryland 21014</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -9205,6 +9289,97 @@
                     <td class="content text-dark"><a href="../state-highways/md/24.php">MD-24 - Veterans Memorial Hwy</a>, Bel Air, Maryland 21014</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.57 mi ( + 0.60 mi )</td>
+                    <td class="content text-dark small">4.14 km ( + 0.97 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/924.php">MD-924 (EB) - S Bond St (WB) / Kenmore Ave (EB)</a>, Bel Air, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.64 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">4.26 km ( + 0.12 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/924.php">MD-924 (WB) - S Main St</a>, Bel Air, Maryland 21014<br><a href="../state-highways/md/22.php">MD-22 (WB) - Fulford Ave</a>, Bel Air, Maryland 21014</td>
+                    <td class="content text-dark">S Bond St (SB) / S Main St (NB), Bel Air, Maryland 21014</td>
+                    <td class="content text-dark">Start concurrency with MD-924</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.71 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">4.37 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/22.php">MD-22 (EB) - Churchville Rd (WB) / E Churchville Rd (EB)</a>, Bel Air, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.88 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">4.64 km ( + 0.27 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Bond St (SB) / N Main St (NB), Bel Air, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.15 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">5.08 km ( + 0.44 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Main St, Bel Air, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.21 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">5.17 km ( + 0.09 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/924.php">MD-924 - N Main St (WB)</a>, Bel Air, Maryland 21014<br>US-1 Business - E Broadway (NB), Bel Air, Maryland 21014</td>
+                    <td class="content text-dark">E Broadway, Bel Air, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.57 mi ( + 0.36 mi )</td>
+                    <td class="content text-dark small">5.74 km ( + 0.57 km )</td>
+                    <td class="content text-dark">US-1 Business - N Hickory Ave (NB), Bel Air, Maryland 21014</td>
+                    <td class="content text-dark">N Hickory Ave, Bel Air, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.95 mi ( + 0.38 mi )</td>
+                    <td class="content text-dark small">6.35 km ( + 0.61 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Conowingo Rd, Bel Air, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.01 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">6.45 km ( + 0.10 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Conowingo Rd, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">5.31 mi ( + 1.30 mi )</td>
+                    <td class="content text-dark small">8.55 km ( + 2.10 km )</td>
+                    <td class="content text-dark"><a href="#mdus1">US-1 - Bel Air Byp (SB) / Hickory Byp (NB)</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">5.58 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">8.99 km ( + 0.44 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/23.php">MD-23 - East-West Hwy</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">6.38 mi ( + 0.80 mi )</td>
+                    <td class="content text-dark small">10.28 km ( + 1.29 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/543.php">MD-543 - N Fountain Green Rd (SB) / Ady Rd (NB)</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">6.89 mi ( + 0.51 mi )</td>
+                    <td class="content text-dark small">11.11 km ( + 0.83 km )</td>
+                    <td class="content text-dark"><a href="#mdus1">US-1 - Hickory Byp (SB) / Conowingo Rd (NB)</a>, Bel Air North, Maryland 21014</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Business Route</td>
                 </tr>
             </section>
             </table>

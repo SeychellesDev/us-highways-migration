@@ -7251,7 +7251,7 @@
                     <td class="content text-dark small">2110.07 km ( + 5.48 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Rhode Island Ave, Mt Ranier, Maryland 20712</td>
-                    <td class="content text-dark">End US-1 in District of Columbia<br>Start US-1 in Maryland<br>Start Prince George's County</td>
+                    <td class="content text-dark">End US-1 in District of Columbia<br>Start US-1 in Maryland<br>End Columbia County<br>Start Prince George's County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1311.27 mi ( + 0.39 mi )</td>
@@ -7763,6 +7763,57 @@
                     <td class="content text-dark"><a href="../state-highways/md/222.php">MD-222 - Susquehanna River Rd</a>, Conowingo, Maryland 21918</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-222 & MD-222</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1378.88 mi ( + 0.97 mi )</td>
+                    <td class="content text-dark small">2224.78 km ( + 1.56 km )</td>
+                    <td class="content text-dark"><a href="222.php">US-222 - Rock Springs Rd</a>, Conowingo, Maryland 21918</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with US-222 & MD-222</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1378.88 mi ( + 1.60 mi )</td>
+                    <td class="content text-dark small">2224.78 km ( + 2.57 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Conowingo Rd, Rising Sun, Maryland 21911</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1380.04 mi ( + 1.16 mi )</td>
+                    <td class="content text-dark small">2226.64 km ( + 1.86 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Conowingo Rd, Colora, Maryland 21917</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1380.99 mi ( + 0.91 mi )</td>
+                    <td class="content text-dark small">2228.11 km ( + 1.47 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Conowingo Rd, Rising Sun, Maryland 21911</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1381.27 mi ( + 0.28 mi )</td>
+                    <td class="content text-dark small">2228.60 km ( + 0.49 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/273.php">MD-273 - Rising Sun Rd</a>, Rising Sun, Maryland 21911</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1381.96 mi ( + 0.69 mi )</td>
+                    <td class="content text-dark small">2229.71 km ( + 1.11 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/md/276.php">MD-276 - Jacob Tome Memorial Hwy</a>, Rising Sun, Maryland 21911</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+            </section>
+            <section id="paus1">
+                <tr>
+                    <td class="content text-dark small">1385.07 mi ( + 3.11 mi )</td>
+                    <td class="content text-dark small">2234.71 km ( + 5.00 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Kennett Oxford Byp, West Nottingham, Pennsylvania 19362</td>
+                    <td class="content text-dark">End US-1 in Maryland<br>Start US-1 in Pennsylvania<br>End Cecil County<br>Start Chester County</td>
                 </tr>
             </section>
             </table>

@@ -81,7 +81,7 @@
 * NJ-439 07/24/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/nj/439.php]
 * NJ-440 07/24/25 - 02/16/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/nj/440.php]
 * NY-440 07/28/25 - 09/11/25 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/ny/440.php]
-* PA-26 10/24/25 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/pa/26.php]
+* PA-26 10/24/25 - 05/24/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/pa/26.php]
 
 ### US Highways
 

@@ -5,7 +5,7 @@ Monroe 81
 Monroe 266
 US-322
 NJ-47
-cr 553
+NJ CR 553
 DE-2
 DE-4
 DE-72
@@ -13,14 +13,14 @@ DE-273
 DE-896
 I-676
 US-30
-cr 537
-cr 551
-cr 561
+NJ CR 537
+NJ CR 551
+NJ CR 561
 Camden 756
-cr 508
-cr 510
-cr 514
-cr 527
+NJ CR 508
+NJ CR 510
+NJ CR 514
+NJ CR 527
 NJ-33
 NJ-35
 NJ-36
@@ -29,8 +29,8 @@ Monmouth 18
 Monmouth 50
 Monmouth 54
 Monmouth 57
-cr 520
-cr 537
+NJ CR 520
+NJ CR 537
 I-76 (PA)
 I-78
 I-81
@@ -97,7 +97,7 @@ Schuylkill 692
 Schuylkill 988
 NJ-47
 NJ-55
-cr 553
+NJ CR 553
 Gloucester 603
 Gloucester 621
 Gloucester 663
@@ -108,15 +108,15 @@ Hudson 677
 Hudson 679
 Hudson 681
 Hudson 732
-cr 508
-cr 510
+NJ CR 508
+NJ CR 510
 I-76 (PA)
 I-676
 US-13
 PA-3
 Philadelphia 3003
 Philadelphia 3005
-cr 510
+NJ CR 510
 Essex 605
 Essex 638
 I-295 (NJ)
@@ -125,8 +125,8 @@ I-78
 I-80
 I-81
 I-84
-I-86
-i-87 (NY)
+I-86 (NY)
+I-87 (NY)
 I-89
 I-90
 I-91
@@ -235,38 +235,38 @@ Bergen 62
 Bergen 75
 Broome 53
 Centre 793
-cr 506
-cr 510
-cr 577
+NJ CR 506
+NJ CR 510
+NJ CR 577
 Essex 603
 Essex 620
 Essex 630
-cr 536
-cr 553
+NJ CR 536
+NJ CR 553
 Gloucester 603
 Gloucester 663
-cr 535
-cr 583
+NJ CR 535
+NJ CR 583
 Mercer 616
 Mercer 618
 Mercer 636
 Mercer 649
 Middlesex 617
 Middlesex 622
-cr 520
-cr 526
-cr 547
+NJ CR 520
+NJ CR 526
+NJ CR 547
 Monroe 85
 Morris 601
 Morris 617
 Morris 631
 Morris 670
-cr 527
+NJ CR 527
 Ocean 638
 Somerset 665
 Union 618
 Union 630
-cr 517
+NJ CR 517
 I-180
 I-280 (NJ)
 I-287
@@ -303,19 +303,19 @@ NJ-446
 NJ-495
 NJ-700
 PA-32
-cr 513
-cr 519
-cr 520
-cr 522
-cr 524
-cr 526
-cr 527
-cr 528
-cr 530
-cr 533
-cr 535
-cr 537
-cr 539
+NJ CR 513
+NJ CR 519
+NJ CR 520
+NJ CR 522
+NJ CR 524
+NJ CR 526
+NJ CR 527
+NJ CR 528
+NJ CR 530
+NJ CR 533
+NJ CR 535
+NJ CR 537
+NJ CR 539
 Atlantic 621
 Bergen 21
 Burlington 621
@@ -350,9 +350,9 @@ Blair 4015
 Broome 53
 CT-343
 CT-4
-cr 537
-cr 551
-cr 561
+NJ CR 537
+NJ CR 551
+NJ CR 561
 Camden 756
 Centre 793
 DE-2
@@ -362,17 +362,17 @@ DE-4
 DE-72
 DE-896
 Dauphin 3032
-cr 506
-cr 508
-cr 510
-cr 577
+NJ CR 506
+NJ CR 508
+NJ CR 510
+NJ CR 577
 Essex 603
 Essex 605
 Essex 620
 Essex 630
 Essex 638
-cr 536
-cr 553
+NJ CR 536
+NJ CR 553
 Gloucester 603
 Gloucester 621
 Gloucester 663
@@ -401,8 +401,8 @@ I-80
 I-81
 I-83
 I-84
-I-86
-i-87 (NY)
+I-86 (NY)
+I-87 (NY)
 I-89
 I-895
 I-90
@@ -419,23 +419,23 @@ MD-193
 MD-212
 MD-279
 Mercer 3012
-cr 535
-cr 583
+NJ CR 535
+NJ CR 583
 Mercer 616
 Mercer 618
 Mercer 636
 Mercer 649
-cr 514
-cr 527
+NJ CR 514
+NJ CR 527
 Middlesex 617
 Middlesex 622
 Monmouth 18
 Monmouth 50
-cr 520
-cr 526
-cr 537
+NJ CR 520
+NJ CR 526
+NJ CR 537
 Monmouth 54
-cr 547
+NJ CR 547
 Monmouth 57
 Monroe 266
 Monroe 81
@@ -494,7 +494,7 @@ NY-79
 NY-82
 NY-96B
 NY-9G
-cr 527
+NJ CR 527
 Ocean 638
 PA-118
 PA-145
@@ -572,20 +572,20 @@ Union 630
 VT-100
 VT-279
 VT-9
-cr 517
-cr 513
-cr 519
-cr 520
-cr 522
-cr 524
-cr 526
-cr 527
-cr 528
-cr 530
-cr 533
-cr 535
-cr 537
-cr 539
+NJ CR 517
+NJ CR 513
+NJ CR 519
+NJ CR 520
+NJ CR 522
+NJ CR 524
+NJ CR 526
+NJ CR 527
+NJ CR 528
+NJ CR 530
+NJ CR 533
+NJ CR 535
+NJ CR 537
+NJ CR 539
 Sussex 248
 Sussex 249
 DE-1
@@ -863,7 +863,7 @@ NJ-49
 NJ-71
 NJ-79
 NJ-77
-cr 538
+NJ CR 538
 US-222
 US-22
 I-78
@@ -880,21 +880,21 @@ NJ-37
 NJ-71
 NJ-79
 NJ-444
-cr 516
-cr 520
-cr 522
-cr 524
-cr 526
-cr 527
-cr 528
-cr 533
-cr 537
-cr 539
-cr 546
-cr 547
-cr 549
-cr 571
-cr 583
+NJ CR 516
+NJ CR 520
+NJ CR 522
+NJ CR 524
+NJ CR 526
+NJ CR 527
+NJ CR 528
+NJ CR 533
+NJ CR 537
+NJ CR 539
+NJ CR 546
+NJ CR 547
+NJ CR 549
+NJ CR 571
+NJ CR 583
 Monmouth 1
 Monmouth 3
 Monmouth 10
@@ -925,7 +925,7 @@ Mercer 653
 Middlesex 665
 NJ-55
 US-22
-cr 519
+NJ CR 519
 I-295 (NJ)
 NJ-67
 RI-12
@@ -991,7 +991,7 @@ Passaic 621
 Union 621
 Burlington 621
 NJ-21
-cr 527
+NJ CR 527
 GA-4
 GA-10
 GA-15
@@ -1499,7 +1499,7 @@ VA-67
 WI-67
 MD-529
 NV-529
-cr 529
+NJ CR 529
 OH-529
 TX-529
 WA-529
@@ -1629,7 +1629,7 @@ Dutchess 37
 NY-9G
 NY-23
 Greene 23B
-i-87 (NY)
+I-87 (NY)
 I-90
 NY-9H
 I-787 (NY)
@@ -1646,7 +1646,7 @@ US-9W
 US-44
 NY-55
 I-895 (MD)
-i-87 (NY)
+I-87 (NY)
 NY-907K
 NY-984J
 CT-15
@@ -1879,7 +1879,7 @@ US-15
 PA-581
 I-83
 I-81
-I-86
+I-86 (NY)
 NY-17
 Broome 217
 Broome 303
@@ -2054,3 +2054,600 @@ US-58
 I-787 (NY)
 NY-7
 I-87 (NY)
+MD-273
+MD-272
+I-295 (NJ)
+NJ-700
+Camden 732
+Cumberland 732
+Hudson 732
+FL-732
+MD-732
+OH-732
+TX FM 732
+FL-810
+LA-810
+MD-810
+TX FM 810
+I-890
+PA-890
+NY-890
+LA-857
+PA-857
+TX FM 857
+I-794
+FL-794
+NV-794
+TX FM 794
+WI-794
+FL-848
+LA-848
+PA-848
+TX FM 848
+US-223
+AL-223
+CA-223
+GA-223
+KS-223
+KY-223
+ME-223
+MD-223
+MN-223
+MT SR 223
+NV-223
+NM-223
+NY-223
+OR-223
+PA-223
+SC-223
+TN-223
+TX-223
+VA-223
+WA-223
+WY-223
+AZ-303
+AR-303
+GA-303
+IN-303
+KY-303
+LA-303
+MD-303
+MN-303
+NY-303
+Albany 303
+Erie 303
+Westchester 303
+OH-303
+SC-303
+TN-303
+TX-303 Spur
+TX FM 303
+UT-303
+VA-303
+WA-303
+IN-446
+KY-446
+MD-446
+NV-446
+NJ-446
+NJ-446X
+NM-446
+OH-446
+PA-446
+I-20
+US-20
+AL-20
+Lee 20
+AR-20
+CA-20
+CA CR A20
+CA CR E20
+CA CR G20
+CA CR J20
+CA CR S20
+CT-20
+DE-20
+FL-20
+GA-20
+KS-20
+KY-20
+LA-20
+MD-20
+MA-20A
+MI-20
+MN-20
+Goodhue 20
+MO-20
+NJ-20
+NM-20
+Allegany 20
+Clinton 20
+Columbia 20
+Delaware 20
+Dutchess 20
+Genesee 20
+Livingston 20
+Niagara 20
+Ontario 20
+Orange 20
+Oswego 20
+Otsego 20
+Putnam 20
+Rensselaer 20
+Rockland 20
+Suffolk 20
+Ulster 20
+Washington 20
+Yates 20
+NC-20
+ND-20
+OK-20
+SC-20
+SD-20
+TN-20
+TX-20
+TX Loop 20
+TX FM 20
+TX Park 20
+UT-20
+VA-20
+WA-20
+WV-20
+WI-20
+AL-206
+AR-206
+FL-206
+GA-206
+KS-206
+KY-206
+ME-206
+MT-206
+NV-206
+NM-206
+NY-206
+OH-206
+OR-206
+TN-206
+TX-206
+TX Spur 206
+VA-206
+WA-206
+I-65
+US-65
+AL-65
+Lee 65
+CA-65
+CO-65
+FL-65
+Franklin 65
+Gadsden 65
+Gadsden 65A
+Gadsden 65B
+Gadsden 65C
+Gadsden 65D
+Holmes 65
+GA-65
+HI-65
+IL-65
+IN-65
+KS-65
+MD-65
+MI-65
+MN-65
+Ramsey 65
+NE-65
+NE Spur 65A
+Bergen 65
+NM-65
+NY-65
+Cattaraugus 65
+Chautauqua 65
+Dutchess 65
+Erie 65
+Greene 65
+Herkimer 65
+Jefferson 65
+Livingston 65
+Oneida 65
+Orange 65
+Putnam 65
+Rensselaer 65
+Rockland 65
+Saratoga 65
+Schoharie 65
+Suffolk 65
+Sullivan 65
+Ulster 65
+NC-65
+ND-65
+OH-65
+PA-65
+SC-65
+SD-65
+TN-65
+TX-65
+TX Spur 65
+TX FM 65
+TX Park 65
+UT-65
+VT-65
+VA-65
+WV-65
+WI-65
+US-33
+AL-33
+AR-33
+AR-33C
+CA-33
+CA CR J33
+CA CR S33
+CT-33
+FL-33
+Lake 33
+GA-33
+ID-33
+IL-33
+Elkhart 33
+KS-33
+KY-33
+LA-33
+MD-33
+MA-33
+MI-33
+MN-33
+Ramsey 33
+Sherburne 33
+MS-33
+MO-33
+NE-33
+NH-33
+NJ-33
+Bergen 33
+Bergen S33
+Monmouth 33
+NY-33
+Broome 33
+Cattaraugus 33
+Chautauqua 33
+Dutchess 33
+Erie 33
+Lewis 33
+Onondaga 33
+Ontario 33
+Orange 33
+Oswego 33
+Otsego 33
+Putnam 33
+Rockland 33
+Saratoga 33
+Schenectady 33
+Schoharie 33
+Suffolk 33
+Sullivan 33
+Tioga 33
+Ulster 33
+Yates 33
+NC-33
+OK-33
+PA-33
+RI-33
+SC-33
+TN-33
+TX-33
+TX Spur 33
+TX FM 33
+TX Park 33
+VA-33
+WV-33
+WI-33
+WY-33
+LA-861
+PA-861
+TX FM 861
+FL-729
+LA-729
+PA-729
+TX FM 729
+LA-797
+MD-797
+TX FM 797
+FL-976
+LA-976
+MD-976
+TX FM 976
+LA-633
+OH-633
+PA-633
+TX FM 633
+VA SR 633
+Atlantic 633
+Burlington 633
+Camden 633
+Cape May 633
+Cumberland 633
+Essex 633
+Gloucester 633
+Hudson 633
+Hunterdon 633
+Mercer 633
+Morris 633
+Morris Alt 633
+Ocean 633
+Passaic 633
+Salem 633
+Somerset 633
+Sussex 633
+Union 633
+Warren 633
+MD-632
+PA-632
+TX FM 632
+VA SR 632
+Burlington 632
+Camden 632
+Cape May 632
+Essex 632
+Gloucester 632
+Hudson 632
+Mercer 632
+Middlesex 632A
+Middlesex 632B
+Middlesex 632C
+Middlesex 632D
+Middlesex 632E
+Morris 632
+Ocean 632
+Passaic 632
+Salem 632
+Somerset 632
+Sussex 632
+Union 632
+Warren 632
+GA-339
+LA-339
+NV-339
+NY-339
+Saratoga 339
+OH-339
+OR-339
+PA-339
+TX-339
+VA-339
+WA-339
+WY-339
+I-391
+CO-391
+FL-391
+NY-391
+SC-391
+SD-391
+TN-391
+VA-391
+WY-391
+I-91
+US-91
+AL-91
+Lee 91
+AR-91
+CA-91
+CO-91
+FL-91
+GA-91
+IL-91
+IA-91
+KY-91
+LA-91
+ME-91
+MD-91
+MI-91
+MN-91
+St. Louis 91
+MO-91
+NE-91
+NE Link 91D
+NE Spur 91A
+NE Spur 91B
+NJ-91
+Bergen 91
+NM-91
+NY-91
+Herkimer 91
+Monroe 91
+Niagara 91
+Oneida 91
+Onondaga 91
+Rensselaer 91
+Schenectady 91
+Suffolk 91
+Sullivan 91
+NC-91
+ND-91
+OH-91
+OK-91
+RI-91
+TN-91
+TX-91
+TX Spur 91
+TX FM 91
+VA-91
+WI-91
+WY-91
+I-86 (ID)
+I-86 (NY)
+AL-86
+Lee 86
+AZ-86
+AR-86
+CA-86
+CO-86
+GA-86
+IA-86
+KS-86
+KY-86
+LA-86
+ME-86
+MD-86
+MI-86
+MN-86
+MO-86
+MT-86
+NE Spur 86B
+NY-86
+Broome 86
+Cattaraugus 86
+Chautauqua 86
+Dutchess 86
+Montgomery 86
+Rockland 86
+Suffolk 86
+NC-86
+OH-86
+OK-86
+OR-86
+PA-86
+SC-86
+TN-86
+TX-86
+TX Spur 86
+TX FM 86
+UT-86
+VA-86
+WV-86
+WI-86
+FL-611
+LA-611-1
+LA-611-3
+LA-611-9
+MD-611
+OH-611
+PA-611
+VA SR 611
+Atlantic 611
+Burlington 611
+Camden 611
+Cape May 611
+Cumberland 611
+Essex 611
+Gloucester 611
+Hudson 611
+Hunterdon 611
+Mercer 611
+Middlesex 611
+Morris 611
+Ocean 611
+Passaic 611
+Salem 611
+Sussex 611
+Union 611
+Warren 611
+I-11
+US-11
+Lee 11
+AK-11
+AR-11
+CA-11
+CA CR A11
+CA CR E11
+CA CR G11
+CA CR J11
+CA CR S11
+CO-11
+CT-11
+DE-11
+FL-11
+GA-11
+HI-11
+ID-11
+IL-11
+IN-11
+KY-11
+ME-11
+MI-11
+MN-11
+Dakota 11
+Goodhue 11
+MO-11
+NE-11
+NH-11
+NH-11D
+Monmouth 11
+NM-11
+Albany 11
+Allegany 11
+Chenango 11
+Clinton 11
+Columbia 11
+Delaware 11
+Erie 11
+Essex 11
+Genesee 11
+Lewis 11
+Madison 11
+Monroe 11
+Niagara 11
+Oneida 11
+Ontario 11
+Orange 11
+Otsego 11
+Putnam 11
+Rockland 11
+Schoharie 11
+Schuyler 11
+Steuben 11
+Suffolk 11
+Sullivan 11
+Tioga 11
+Ulster 11
+Warren 11
+Wyoming 11
+NC-11
+ND-11
+OH-11
+OK-11
+OR-11
+RI-11
+SC-11
+SD-11
+TN-11
+TX-11
+TX Loop 11
+TX FM 11
+TX Park 11
+TX RE 11
+VT-11
+WA-11
+WI-11
+WY-11
+LA-803
+LA-813
+MD-813
+TX FM 813
+FL-655
+LA-655
+MD-655
+PA-655
+TX FM 655
+Atlantic 655
+Burlington 655
+Camden 655
+Cape May 655
+Cumberland 655
+Essex 655
+Gloucester 655
+Hudson 655
+Middlesex 655
+Morris 655
+Morris Alt 655
+Passaic 655
+Salem 655
+Somerset 655
+Sussex 655
+Union 655
+Warren 655
+LA-554
+NJ CR 554
+OH-554
+PA-554
+OH-735
+Cumberland 735
+Hudson 735

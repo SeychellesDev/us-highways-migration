@@ -2134,7 +2134,7 @@
                 <tr>
                     <td class="content text-dark small">259.83 mi ( + 2.49 mi )</td>
                     <td class="content text-dark small">418.29 km ( + 4.01 km )</td>
-                    <td class="content text-dark"><a href="../interstates/84.php">I-84</a>, Fishkill, New York 12524</td>
+                    <td class="content text-dark"><a href="../interstates/panyctma-84.php">I-84</a>, Fishkill, New York 12524</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2881,9 +2881,10 @@
                     <td class="content text-dark"></td>
                 </tr>
             </section>
-            </table>
-            <hr>
-            <section id="sec-deus9bypsu">
+            <section id="us9aux">
+                </table>
+                <hr>
+                <section id="sec-deus9bypsu">
             <h1 class="header" id="deus9bypsu">United States Route 9 Bypass</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -2909,10 +2910,10 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Bypass Route</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-deus9bussu">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-deus9bussu">
             <h1 class="header" id="deus9bussu">United States Route 9 Business</h1>
             <h2 class="content text-dark">US-9 starts a business route in Lewes, Delaware. It is 2.64 mi (4.25 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -2931,10 +2932,10 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-deus9spursu">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-deus9spursu">
             <h1 class="header" id="deus9spursu">United States Route 9 Kings Highway Spur</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -2974,10 +2975,10 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-njus9spurcm">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-njus9spurcm">
             <h1 class="header" id="njus9spurcm">United States Route 9 - Beesley's Point</h1>
             <h2 class="content text-dark">US-9 splits off into Beesley's Point Spur in Upper Township, New Jersey. It ends at a dead end 1.96 mi (3.12 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -3003,10 +3004,10 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-njus9localuneshu">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-njus9localuneshu">
             <h1 class="header" id="njus9localuneshu">United States Route 1-9 Local (Union-Hudson County)</h1>
             <h2 class="content text-dark">US-9 has an auxilliary local/bypass route starting in Elizabeth in Union County, passing through Newark in Essex County, and Kearny and Jersey City in Hudson County. It serves these three major cities for 10.06 mi (16.23 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -3193,10 +3194,10 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Local Route</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-njnyus9w">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-njnyus9w">
             <h1 class="header" id="njnyus9w">United States Route 9W</h1>
             <h2 class="content text-dark">US-9 has an auxilliary local/bypass route starting in Elizabeth in Union County, passing through Newark in Essex County, and Kearny and Jersey City in Hudson County. It serves these three major cities for 10.06 mi (16.23 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -3215,5 +3216,6 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                </section>
             </section>
-                <?php include "../../static/bottom.php"; ?>
+            <?php include "../../static/bottom.php"; ?>

@@ -3202,7 +3202,6 @@
             <h2 class="content text-dark">US-9 has an auxilliary local/bypass route starting in Elizabeth in Union County, passing through Newark in Essex County, and Kearny and Jersey City in Hudson County. It serves these three major cities for 10.06 mi (16.23 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
-<<<<<<< HEAD
                 <section id="#njus9w">
                     <tr>
                         <td class="content text-dark small">0.00 mi</td>
@@ -3479,22 +3478,6 @@
                         <td class="content text-dark">N Liberty St, Stony Point, New York 10980</td>
                         <td class="content text-dark"></td>
                     </tr>
-=======
-                <tr>
-                    <td class="content text-dark small">0.00 mi</td>
-                    <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Tonnelle Ave</a> (concurrent with <a href="#njus9">US-9</a> & <a href="46.php">US-46</a>), Fort Lee, New Jersey 07024</td>
-                    <td class="content text-dark">Fletcher Ave, Fort Lee, New Jersey 07024</td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">0.32 mi ( + 0.32 mi )</td>
-                    <td class="content text-dark small">0.51 km ( + 0.51 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/81.php">NJ-81 (SB)</a>, Elizabeth, New Jersey 07202</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
->>>>>>> ddfed7be770e6ca8b8444cb009a2a6aeda996c51
                 </section>
             </section>
             <?php include "../../static/bottom.php"; ?>

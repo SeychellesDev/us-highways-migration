@@ -89,7 +89,7 @@
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">
-                                    Secondary State Roads
+                                    Secondary Roads
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-dark">
                                     <li class="nav-item dropdown">
@@ -179,6 +179,9 @@
                                         </ul>
                                     </li>
                                 </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/us-highways-migration/pages/personal-list.php">Seychelles's Checklist</a>
                             </li>
                         </ul>
                         <form class="d-flex mt-3" role="search">

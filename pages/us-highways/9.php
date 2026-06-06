@@ -362,9 +362,9 @@
                 <tr>
                     <td class="content text-dark small">73.18 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">117.53 km ( + 0.34 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230<br><a href="#us9bp">US-9 - N Shore Rd (NB)</a>, Upper Township, New Jersey 08230</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230<br><a href="#njus9spurca">US-9 - N Shore Rd (NB)</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with Cape May CR 623<br>Route splits into <a href="#us9bp">US-9 Beesley's Point Spur</a></td>
+                    <td class="content text-dark">Start concurrency with Cape May CR 623<br>Route splits into <a href="#njus9spurca">US-9 Beesley's Point Spur</a></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">73.47 mi ( + 0.29 mi )</td>
@@ -2134,7 +2134,7 @@
                 <tr>
                     <td class="content text-dark small">259.83 mi ( + 2.49 mi )</td>
                     <td class="content text-dark small">418.29 km ( + 4.01 km )</td>
-                    <td class="content text-dark"><a href="../interstates/84.php">I-84</a>, Fishkill, New York 12524</td>
+                    <td class="content text-dark"><a href="../interstates/panyctma-84.php">I-84</a>, Fishkill, New York 12524</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2881,9 +2881,10 @@
                     <td class="content text-dark"></td>
                 </tr>
             </section>
-            </table>
-            <hr>
-            <section id="sec-deus9bypsu">
+            <section id="us9aux">
+                </table>
+                <hr>
+                <section id="sec-deus9bypsu">
             <h1 class="header" id="deus9bypsu">United States Route 9 Bypass</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -2905,14 +2906,14 @@
                 <tr>
                     <td class="content text-dark small">4.19 mi ( + 3.47 mi )</td>
                     <td class="content text-dark small">6.74 km ( + 5.58 km )</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Lewes Georgetown Hwy</a> (concurrent with <a href="../state-highways/de/404.php">DE-404</a>), Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Lewes Georgetown Hwy</a> (concurrent with <a href="../state-highways/de/404.php">DE-404</a>), Georgetown, Delaware 19947</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Bypass Route</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-deus9bussu">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-deus9bussu">
             <h1 class="header" id="deus9bussu">United States Route 9 Business</h1>
             <h2 class="content text-dark">US-9 starts a business route in Lewes, Delaware. It is 2.64 mi (4.25 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -2920,21 +2921,21 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Coastal Hwy</a> (concurrent with <a href="../state-highways/de/1.html">DE-1</a>), Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Coastal Hwy</a> (concurrent with <a href="../state-highways/de/1.html">DE-1</a>), Lewes, Delaware 19958</td>
                     <td class="content text-dark">Savannah Rd, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Start of Business Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">2.64 mi ( + 2.64 mi )</td>
                     <td class="content text-dark small">4.25 km ( + 4.25 km )</td>
-                    <td class="content text-dark"><a href="#us9kh">US-9 - Kings Hwy</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Kings Hwy</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-deus9spursu">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-deus9spursu">
             <h1 class="header" id="deus9spursu">United States Route 9 Kings Highway Spur</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -2942,7 +2943,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Kings Hwy (SB) / Theo C Freeman Memorial Hwy (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Kings Hwy (SB) / Theo C Freeman Memorial Hwy (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Kings Hwy, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Start of Spur</td>
                 </tr>
@@ -2970,14 +2971,14 @@
                 <tr>
                     <td class="content text-dark small">1.73 mi ( + 0.32 mi )</td>
                     <td class="content text-dark small">2.78 km ( + 0.52 km )</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Theo C Freeman Memorial Hwy (SB) / Cape Henlopen Dr (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#deus9">US-9 - Theo C Freeman Memorial Hwy (SB) / Cape Henlopen Dr (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-njus9spurcm">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-njus9spurcm">
             <h1 class="header" id="njus9spurcm">United States Route 9 - Beesley's Point</h1>
             <h2 class="content text-dark">US-9 splits off into Beesley's Point Spur in Upper Township, New Jersey. It ends at a dead end 1.96 mi (3.12 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -2985,7 +2986,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - S Shore Rd (SB)</a>, Upper Township, New Jersey 08230<br><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230</td>
+                    <td class="content text-dark"><a href="#njus9">US-9 - S Shore Rd (SB)</a>, Upper Township, New Jersey 08230<br><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark">N Shore Rd, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark">Start of Spur</td>
                 </tr>
@@ -3003,10 +3004,10 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-njus9localuneshu">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-njus9localuneshu">
             <h1 class="header" id="njus9localuneshu">United States Route 1-9 Local (Union-Hudson County)</h1>
             <h2 class="content text-dark">US-9 has an auxilliary local/bypass route starting in Elizabeth in Union County, passing through Newark in Essex County, and Kearny and Jersey City in Hudson County. It serves these three major cities for 10.06 mi (16.23 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -3014,7 +3015,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Spring St (SB) / US-1-9 (NB)</a> (concurrent with <a href="#us9">US-9</a>), Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Spring St (SB) / US-1-9 (NB)</a> (concurrent with <a href="#njus9">US-9</a>), Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">Spring St, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">Start of Local Route</td>
                 </tr>
@@ -3070,7 +3071,7 @@
                 <tr>
                     <td class="content text-dark small">5.61 mi ( + 2.15 mi )</td>
                     <td class="content text-dark small">9.06 km ( + 3.46 km )</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - US-1-9 (SB) / Pulaski Skwy (NB)  </a> (concurrent with <a href="#us9">US-9</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - US-1-9 (SB) / Pulaski Skwy (NB)  </a> (concurrent with <a href="#njus9">US-9</a>), Newark, New Jersey 07114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3182,25 +3183,26 @@
                 <tr>
                     <td class="content text-dark small">9.84 mi ( + 0.24 mi )</td>
                     <td class="content text-dark small">15.88 km ( + 0.39 km )</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Tonelle Ave</a> (concurrent with <a href="#us9">US-9</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Tonelle Ave</a> (concurrent with <a href="#njus9">US-9</a>), Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">10.06 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">16.23 km ( + 0.35 km )</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - Tonelle Ave</a> (concurrent with <a href="#us9">US-9</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Tonelle Ave</a> (concurrent with <a href="#njus9">US-9</a>), Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Local Route</td>
                 </tr>
-            </section>
-            </table>
-            <hr>
-            <section id="sec-njnyus9w">
+                </section>
+                </table>
+                <hr>
+                <section id="sec-njnyus9w">
             <h1 class="header" id="njnyus9w">United States Route 9W</h1>
             <h2 class="content text-dark">US-9 has an auxilliary local/bypass route starting in Elizabeth in Union County, passing through Newark in Essex County, and Kearny and Jersey City in Hudson County. It serves these three major cities for 10.06 mi (16.23 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
+<<<<<<< HEAD
                 <section id="#njus9w">
                     <tr>
                         <td class="content text-dark small">0.00 mi</td>
@@ -3477,6 +3479,22 @@
                         <td class="content text-dark">N Liberty St, Stony Point, New York 10980</td>
                         <td class="content text-dark"></td>
                     </tr>
+=======
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Tonnelle Ave</a> (concurrent with <a href="#njus9">US-9</a> & <a href="46.php">US-46</a>), Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark">Fletcher Ave, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.32 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">0.51 km ( + 0.51 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/81.php">NJ-81 (SB)</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+>>>>>>> ddfed7be770e6ca8b8444cb009a2a6aeda996c51
                 </section>
             </section>
-                <?php include "../../static/bottom.php"; ?>
+            <?php include "../../static/bottom.php"; ?>

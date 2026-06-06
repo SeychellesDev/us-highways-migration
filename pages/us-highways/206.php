@@ -1146,20 +1146,27 @@
                     <td class="content text-dark small">130.33 mi ( + 0.50 mi )</td>
                     <td class="content text-dark small">209.80 km ( + 0.81 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">US-206, Milford, Pennsylvania 18337</td>
+                    <td class="content text-dark">US-206, Dingman Township, Pennsylvania 18337</td>
                     <td class="content text-dark">End US-206 in New Jersey<br>Start US-206 in Pennsylvania<br>End Sussex County<br>Start Pike County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">130.79 mi ( + 0.46 mi )</td>
                     <td class="content text-dark small">210.56 km ( + 0.74 km )</td>
-                    <td class="content text-dark"><a href="209.php">US-209 - Federal Rd</a>, Milford, Pennsylvania, 18337</td>
-                    <td class="content text-dark">Federal Rd, Milford, Pennsylvania 18337</td>
+                    <td class="content text-dark"><a href="209.php">US-209 - Federal Rd</a>, Dingman Township, Pennsylvania, 18337</td>
+                    <td class="content text-dark">Federal Rd, Dingman Township, Pennsylvania 18337</td>
                     <td class="content text-dark">Start concurrency with US-209</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">131.09 mi ( + 0.30 mi )</td>
                     <td class="content text-dark small">211.05 km ( + 0.49 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/pa/pk/2013.php">Pike CR 2013 - Milford Beach Rd</a>, Milford, Pennsylvania, 18337</td>
+                    <td class="content text-dark"><a href="../secondary-roads/pa/pk/2013.php">Pike QR 2013 - Milford Beach Rd</a>, Dingman Township, Pennsylvania, 18337</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">131.09 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">211.05 km ( + 0.05 km )</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark">E Hartford Rd, Milford, Pennsylvania, 18337</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1180,7 +1187,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us206">US-206 - Princeton Ave</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="#njus206">US-206 - Princeton Ave</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Brunswick Cir, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Start of Spur<br>Start concurrency with Mercer CR 645</td>
                 </tr>
@@ -1222,7 +1229,7 @@
                 <tr>
                     <td class="content text-dark small">0.65 mi ( + 0.29 mi )</td>
                     <td class="content text-dark small">1.05 km ( + 0.47 km )</td>
-                    <td class="content text-dark"><a href="#us206">US-206 - Princeton Ave (SB) / Lawrence Rd (NB)</a>, Lawrence Township, New Jersey 08648<br><a href="../secondary-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="#njus206">US-206 - Princeton Ave (SB) / Lawrence Rd (NB)</a>, Lawrence Township, New Jersey 08648<br><a href="../secondary-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
@@ -1235,7 +1242,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"><a href="#njus206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
                     <td class="content text-dark">Peter J. Biondi Byp, Hillsborough Township, New Jersey 08844</td>
                     <td class="content text-dark">Start of Bypass Route</td>
                 </tr>
@@ -1249,7 +1256,7 @@
                 <tr>
                     <td class="content text-dark small">2.86 mi ( + 0.64 mi )</td>
                     <td class="content text-dark small">4.59 km ( + 1.02 km )</td>
-                    <td class="content text-dark"><a href="#us206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"><a href="#njus206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Bypass Route</td>
                 </tr>

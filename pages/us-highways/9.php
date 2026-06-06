@@ -3217,8 +3217,15 @@
                         <td class="content text-dark"></td>
                     </tr>
                     <tr>
-                        <td class="content text-dark small">0.93 mi ( + 0.69 mi )</td>
-                        <td class="content text-dark small">1.50 km ( + 1.12 km )</td>
+                        <td class="content text-dark small">0.42 mi ( + 0.18 mi )</td>
+                        <td class="content text-dark small">0.66 km ( + 0.28 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/nj/445.php/#njsr445sbe">NJ-445S - Fort Lee Conn</a>, Fort Lee, New Jersey 07024</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">0.93 mi ( + 0.51 mi )</td>
+                        <td class="content text-dark small">1.50 km ( + 0.84 km )</td>
                         <td class="content text-dark"><a href="../state-highways/nj/67.php">NJ-67 - Lemoine Ave</a>, Fort Lee, New Jersey 07024</td>
                         <td class="content text-dark">Lemoine Ave, Fort Lee, New Jersey 07024</td>
                         <td class="content text-dark"></td>
@@ -3313,8 +3320,162 @@
                         <td class="content text-dark small">11.12 mi ( + 0.24 mi )</td>
                         <td class="content text-dark small">17.89 km ( + 0.38 km )</td>
                         <td class="content text-dark"></td>
-                        <td class="content text-dark">N US-9W, Orangetown, New York 10964</td>
+                        <td class="content text-dark">Hillside Ave, Orangetown, New York 10964</td>
                         <td class="content text-dark">End US-9W in New Jersey<br>Start US-9W in New York<br>End Bergen County<br>Start Rockland County</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">12.07 mi ( + 0.95 mi )</td>
+                        <td class="content text-dark small">19.42 km ( + 1.53 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/ny/rl/4.php">Rockland CR 4 - Closter Rd</a>, Orangetown, New York 10964</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">14.27 mi ( + 2.20 mi )</td>
+                        <td class="content text-dark small">22.96 km ( + 3.54 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/ny/rl/5.php">Rockland CR 5 - S Tweed Blvd</a>, Orangetown, New York 10964</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">16.55 mi ( + 2.28 mi )</td>
+                        <td class="content text-dark small">26.63 km ( + 3.67 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/ny/rl/28.php">Rockland CR 28 - Old Mountain Rd</a>, Orangetown, New York 10964</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">17.07 mi ( + 0.52 mi )</td>
+                        <td class="content text-dark small">27.47 km ( + 0.84 km )</td>
+                        <td class="content text-dark"><a href="../interstates/ny-87.php">I-87 - New York Trwy</a> (concurrent with <a href="../interstates/auxiliary/njny-287.php">I-287</a>), Orangetown, New York 10964</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">17.33 mi ( + 0.26 mi )</td>
+                        <td class="content text-dark small">27.89 km ( + 0.42 km )</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">S Franklin St Ext, Orangetown, New York 10964</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">17.43 mi ( + 0.10 mi )</td>
+                        <td class="content text-dark small">28.05 km ( + 0.16 km )</td>
+                        <td class="content text-dark"><a href="../interstates/ny-87.php">I-87 - New York Trwy</a> (concurrent with <a href="../interstates/auxiliary/njny-287.php">I-287</a>), Orangetown, New York 10964</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">17.46 mi ( + 0.03 mi )</td>
+                        <td class="content text-dark small">28.09 km ( + 0.04 km )</td>
+                        <td class="content text-dark">US-9W - Hillside Ave, Orangetown, New York 10964</td>
+                        <td class="content text-dark">Hillside Ave, Orangetown, New York 10964</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">18.07 mi ( + 0.61 mi )</td>
+                        <td class="content text-dark small">29.07 km ( + 0.98 km )</td>
+                        <td class="content text-dark"><a href="../interstates/ny-87.php">I-87 - New York Trwy</a> (concurrent with <a href="../interstates/auxiliary/njny-287.php">I-287</a>), Orangetown, New York 10964</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">18.16 mi ( + 0.09 mi )</td>
+                        <td class="content text-dark small">29.22 km ( + 0.15 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/ny/59.php">NY-59 - Main St</a>, Orangetown, New York 10964</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">18.72 mi ( + 0.56 mi )</td>
+                        <td class="content text-dark small">29.13 km ( + 0.91 km )</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">N US-9W, Clarkstown, New York 10956</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">22.17 mi ( + 3.45 mi )</td>
+                        <td class="content text-dark small">34.69 km ( + 5.56 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/ny/rl/80.php">Rockland CR 80 - Lake Rd</a>, Clarkstown, New York 10956</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">23.87 mi ( + 1.70 mi )</td>
+                        <td class="content text-dark small">37.43 km ( + 2.74 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/ny/303.php">NY-303 - Country Ridge Rd</a>, Clarkstown, New York 10956</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">24.46 mi ( + 0.59 mi )</td>
+                        <td class="content text-dark small">38.38 km ( + 0.95 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/ny/304.php">NY-304</a>, Clarkstown, New York 10956</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">24.62 mi ( + 0.16 mi )</td>
+                        <td class="content text-dark small">38.63 km ( + 0.25 km )</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Conger Ave, Haverstraw, New York 10927</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">25.42 mi ( + 0.80 mi )</td>
+                        <td class="content text-dark small">39.92 km ( + 1.29 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/ny/rl/90.php">Rockland CR 90 - Short Clove Rd</a>, Haverstraw, New York 10927</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">27.30 mi ( + 1.88 mi )</td>
+                        <td class="content text-dark small">42.94 km ( + 3.02 km )</td>
+                        <td class="content text-dark"><a href="202.php">US-202 - Gurnee Ave</a>, Haverstraw, New York 10927</td>
+                        <td class="content text-dark">N US-9W, Haverstraw 10927</td>
+                        <td class="content text-dark">Start concurrency with US-202</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">28.07 mi ( + 0.77 mi )</td>
+                        <td class="content text-dark small">44.18 km ( + 1.24 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/ny/rl/94.php">Rockland CR 94 - W Railroad Ave (WB) / E Railroad Ave (EB)</a>, Haverstraw, New York 10927</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">28.37 mi ( + 0.30 mi )</td>
+                        <td class="content text-dark small">44.66 km ( + 0.48 km )</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">S Liberty St, Stony Point, New York 10980</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">28.66 mi ( + 0.29 mi )</td>
+                        <td class="content text-dark small">45.13 km ( + 0.47 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/ny/rl/98.php">Rockland CR 98 - Filors Ln</a>, Stony Point, New York 10980</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">28.97 mi ( + 0.31 mi )</td>
+                        <td class="content text-dark small">45.63 km ( + 0.50 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/ny/rl/100.php">Rockland CR 100 - Washburns Ln</a>, Stony Point, New York 10980</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">29.29 mi ( + 0.32 mi )</td>
+                        <td class="content text-dark small">46.15 km ( + 0.52 km )</td>
+                        <td class="content text-dark"><a href="../state-highways/ny/210.php">NY-210 - Central Dr</a> (concurrent with <a href="../secondary-roads/ny/rl/102.php">Rockland CR 102</a>), Stony Point, New York 10980</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">29.51 mi ( + 0.22 mi )</td>
+                        <td class="content text-dark small">46.50 km ( + 0.35 km )</td>
+                        <td class="content text-dark"><a href="../secondary-roads/ny/rl/108.php">Rockland CR 108 - W Main St (WB) / E Main St (EB)</a>, Stony Point, New York 10980</td>
+                        <td class="content text-dark">N Liberty St, Stony Point, New York 10980</td>
+                        <td class="content text-dark"></td>
                     </tr>
                 </section>
             </section>

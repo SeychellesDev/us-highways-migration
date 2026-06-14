@@ -1,5 +1,5 @@
-*{
-    overflow-x: clip;
+html, body {
+    overflow-x: hidden;
 }
 
 body::-webkit-scrollbar{
@@ -11,8 +11,8 @@ body::selection{
     color:white;
 }
 
-:not(.footer){
-    max-width: 1920px;
+body {
+    background-color: #eaeff7;
 }
 
 .branded-img {
@@ -52,7 +52,7 @@ h2, h3, td {
     font-family: "RoadGeek 2014 D";
 }
 
-h4, td.small {
+h4, table td.small {
     font-family: "RoadGeek 2014 C";
 }
 
@@ -74,10 +74,9 @@ nav {
 
 #list-redirects {
     margin-top: 150px;
-}
-
-a {
-    color: inherit;
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 i {
@@ -85,20 +84,26 @@ i {
     font-size: x-large;
 }
 
-table{
+table {
     max-width: 1840px !important;
     width: 100%;
     margin-bottom: 130px;
+    border-collapse: collapse;
+    background-color: #ffffff;
 }
 
-td, th{
+table td, table th{
     border: 3px solid black;
     font-size: 150%;
     padding-left: 10px;
 }
 
-th{
+table th{
+    position: sticky!important;
+    top: 126px;
+    z-index: 5;
     background-color: #a8a8a8;
+    text-transform: uppercase;
 }
 
 .footer{
@@ -108,8 +113,58 @@ th{
     width:2000px; 
     background-image: linear-gradient(to bottom, #00000000 0%, #000000 90%);
     height: 100px;
+    z-index: 10;
 }
 
 .small {
     font-weight: bold;
+    text-align: center;
+}
+
+.table-container {
+    display: block;
+    width: 100%;
+    overflow: visible !important;
+}
+
+
+table td, table th {
+    padding: 12px 16px;
+    vertical-align: middle;
+}
+
+table tr:nth-child(odd) {
+    background-color: #cfd7df;
+}
+
+table td.small {
+    color: #64748b;
+    font-size: 1rem;
+}
+
+table td a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+table td a:hover {
+    text-decoration: underline;
+}
+
+.incr {
+    color: #A6192E;
+    font-size: 1rem;
+}
+
+.length{
+    width: 130px;
+}
+
+.notes{
+    width: 300px;
+}
+
+.intersection{
+    width: 415.667px;
 }

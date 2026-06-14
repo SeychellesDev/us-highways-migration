@@ -1,8 +1,11 @@
-<table>
-                <tr>
-                    <th>Length (mi)</th>
-                    <th>Length (km)</th>
-                    <th>Intersection</th>
-                    <th>Route Name</th>
-                    <th>Notes</th>
-                </tr>
+            <div class="table-container">
+                <table>
+                    <thead>
+                    <tr>
+                        <th class="table-head length">Length (mi)</th>
+                        <th class="table-head length">Length (km)</th>
+                        <th class="table-head intersection">Intersection</th>
+                        <th class="table-head">Route Name</th>
+                        <th class="table-head notes">Notes</th>
+                    </tr>
+                    </thead>

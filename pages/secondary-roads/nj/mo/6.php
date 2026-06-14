@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 6</h6>
             <h1 class="header" id="njcr6mo">Monmouth County Route 6</h1>
-            <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) is a county road that connects NJ-35 to Monmouth CR 39. It is 2.37 mi (3.80 km) long.</h2>
+            <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) is a county road that connects NJ-35 to Monmouth CR 39. It is 2.37 mi, or 3.80 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../../static/table.php"; ?>
@@ -14,51 +14,51 @@
                     <td class="content text-dark">Start of Route</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.53 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">0.85 km ( + 0.85 km )</td>
+                    <td class="content text-dark small">0.53 mi<br><h4 class="small incr">+ 0.53 mi</h4></td>
+                    <td class="content text-dark small">0.85 km<br><h4 class="small incr">+ 0.85 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W Front St, Keyport, New Jersey 07730</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.19 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">1.91 km ( + 1.06 km )</td>
+                    <td class="content text-dark small">1.19 mi<br><h4 class="small incr">+ 0.66 mi</h4></td>
+                    <td class="content text-dark small">1.91 km<br><h4 class="small incr">+ 1.06 km</h4></td>
                     <td class="content text-dark"><a href="4.php">Monmouth CR 4 - Broad St</a>, Keyport, New Jersey 07730</td>
                     <td class="content text-dark">Broad St, Keyport, New Jersey 07730</td>
                     <td class="content text-dark">Start concurrency with Monmouth CR 4</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.26 mi ( + 0.07 mi )</td>
-                    <td class="content text-dark small">2.02 km ( + 0.11 km )</td>
+                    <td class="content text-dark small">1.26 mi<br><h4 class="small incr">+ 0.07 mi</h4></td>
+                    <td class="content text-dark small">2.02 km<br><h4 class="small incr">+ 0.11 km</h4></td>
                     <td class="content text-dark">Monmouth CR 6 - First St, Keyport, New Jersey 07730</td>
                     <td class="content text-dark">First St, Keyport, New Jersey 07730</td>
                     <td class="content text-dark">End concurrency with Monmouth CR 4</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.92 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">3.08 km ( + 1.06 km )</td>
+                    <td class="content text-dark small">1.92 mi<br><h4 class="small incr">+ 0.66 mi</h4></td>
+                    <td class="content text-dark small">3.08 km<br><h4 class="small incr">+ 1.06 km</h4></td>
                     <td class="content text-dark"><a href="#njcr6smo">Monmouth CR 6S - Stone Rd</a>, Keyport, New Jersey 07730</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">2.03 mi ( + 0.11 mi )</td>
-                    <td class="content text-dark small">3.26 km ( + 0.18 km )</td>
+                    <td class="content text-dark small">2.03 mi<br><h4 class="small incr">+ 0.11 mi</h4></td>
+                    <td class="content text-dark small">3.26 km<br><h4 class="small incr">+ 0.18 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Broadway, Union Beach, New Jersey 07735</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">2.37 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">3.80 km ( + 0.54 km )</td>
+                    <td class="content text-dark small">2.37 mi<br><h4 class="small incr">+ 0.34 mi</h4></td>
+                    <td class="content text-dark small">3.80 km<br><h4 class="small incr">+ 0.54 km</h4></td>
                     <td class="content text-dark"><a href="39.php">Monmouth CR 39 - Florence Ave</a>, Union Beach, New Jersey 07735</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>
-            </table>
+            <?php include "../../../../static/endtable.php"; ?>
             <hr>
             <h1 class="header" id="njcr6smo">Monmouth County Route 6 South</h1>
-            <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) splits into two roads near the Keyport-Union Beach border. It is 2.86 mi (4.60 km) long and connects Monmouth CR 6 to NJ-36.</h2>
+            <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) splits into two roads near the Keyport-Union Beach border. It is 2.86 mi, or 4.60 km, long and connects Monmouth CR 6 to NJ-36.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../../static/table.php"; ?>
@@ -70,30 +70,30 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">2.01 mi ( + 0.09 mi )</td>
-                    <td class="content text-dark small">3.23 km ( + 0.15 km )</td>
+                    <td class="content text-dark small">2.01 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
+                    <td class="content text-dark small">3.23 km<br><h4 class="small incr">+ 0.15 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Stone Rd, Union Beach, New Jersey 07735</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">2.22 mi ( + 0.21 mi )</td>
-                    <td class="content text-dark small">3.57 km ( + 0.34 km )</td>
+                    <td class="content text-dark small">2.22 mi<br><h4 class="small incr">+ 0.21 mi</h4></td>
+                    <td class="content text-dark small">3.57 km<br><h4 class="small incr">+ 0.34 km</h4></td>
                     <td class="content text-dark"><a href="39.php">Monmouth CR 39 - Florence Ave</a>, Union Beach, New Jersey 07735</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">2.86 mi ( + 0.64 mi )</td>
-                    <td class="content text-dark small">4.60 km ( + 1.03 km )</td>
+                    <td class="content text-dark small">2.86 mi<br><h4 class="small incr">+ 0.64 mi</h4></td>
+                    <td class="content text-dark small">4.60 km<br><h4 class="small incr">+ 1.03 km</h4></td>
                     <td class="content text-dark"><a href="../../../state-highways/nj/36.php">NJ-36</a>, Union Beach, New Jersey 07735</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>
-            </table>
+            <?php include "../../../../static/endtable.php"; ?>
             <hr>
             <h1 class="header" id="njcr6amo">Monmouth County Route 6A</h1>
-            <h2 class="content text-dark">New Jersey Monmouth County Route 6A (Monmouth CR 6A) is an auxiliary route that connects Middlesex CR 689 to NJ-35. It is 1.38 mi (2.21 km) long.</h2>
+            <h2 class="content text-dark">New Jersey Monmouth County Route 6A (Monmouth CR 6A) is an auxiliary route that connects Middlesex CR 689 to NJ-35. It is 1.38 mi, or 2.21 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
 
             <?php include "../../../../static/table.php"; ?>
@@ -105,15 +105,15 @@
                     <td class="content text-dark">Start of Route</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.16 mi ( + 0.16 mi )</td>
-                    <td class="content text-dark small">0.26 km ( + 0.26 km )</td>
+                    <td class="content text-dark small">0.16 mi<br><h4 class="small incr">+ 0.16 mi</h4></td>
+                    <td class="content text-dark small">0.26 km<br><h4 class="small incr">+ 0.26 km</h4></td>
                     <td class="content text-dark"><a href="../../../state-highways/nj/444.php">NJ-444 - Garden State Pkwy</a>, Aberdeen Township, New Jersey 07735</td>
                     <td class="content text-dark">W Cliffwood Ave, Aberdeen Township, New Jersey 07735</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.38 mi ( + 1.22 mi )</td>
-                    <td class="content text-dark small">2.21 km ( + 1.95 km )</td>
+                    <td class="content text-dark small">1.38 mi<br><h4 class="small incr">+ 1.22 mi</h4></td>
+                    <td class="content text-dark small">2.21 km<br><h4 class="small incr">+ 1.95 km</h4></td>
                     <td class="content text-dark"><a href="../../../state-highways/nj/35.php">NJ-35</a>, Aberdeen Township, New Jersey 07735</td>
                     <td class="content text-dark">Cliffwood Ave, Aberdeen Township, New Jersey 07735</td>
                     <td class="content text-dark">End of Route</td>

@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 23</h6>
             <h1 class="header">Monmouth County Route 23</h1>
-            <h2 class="content text-dark">New Jersey Monmouth County Route 23 (Monmouth CR 23) is a county road that bridges the gap between Monmouth and Ocean county, specifically Freehold Township and Jackson Township. It is 4.07 mi (6.53 km) long in Monmouth County before turning into Ocean County Route 638 in Ocean County.</h2>
+            <h2 class="content text-dark">New Jersey Monmouth County Route 23 (Monmouth CR 23) is a county road that bridges the gap between Monmouth and Ocean county, specifically Freehold Township and Jackson Township. It is 4.07 mi, or 6.53 km, long in Monmouth County before turning into Ocean County Route 638 in Ocean County.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../../static/table.php"; ?>
@@ -14,22 +14,22 @@
                     <td class="content text-dark">Start of Route</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.41 mi ( + 1.41 mi )</td>
-                    <td class="content text-dark small">2.26 km ( + 2.26 km )</td>
+                    <td class="content text-dark small">1.41 mi<br><h4 class="small incr">+ 1.41 mi</h4></td>
+                    <td class="content text-dark small">2.26 km<br><h4 class="small incr">+ 2.26 km</h4></td>
                     <td class="content text-dark"><a href="53.php">Monmouth CR 53 - Georgia Rd</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">3.94 mi ( + 2.53 mi )</td>
-                    <td class="content text-dark small">6.32 km ( + 4.06 km )</td>
+                    <td class="content text-dark small">3.94 mi<br><h4 class="small incr">+ 2.53 mi</h4></td>
+                    <td class="content text-dark small">6.32 km<br><h4 class="small incr">+ 4.06 km</h4></td>
                     <td class="content text-dark"><a href="../524.php">Monmouth CR 524 - Elton Adelphia Rd</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">4.07 mi ( + 0.13 mi )</td>
-                    <td class="content text-dark small">6.53 km ( + 0.21 km )</td>
+                    <td class="content text-dark small">4.07 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">6.53 km<br><h4 class="small incr">+ 0.21 km</h4></td>
                     <td class="content text-dark"><a href="../../../us-highways/9.php">US-9</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>

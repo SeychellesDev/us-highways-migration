@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 4</h6>
             <h1 class="header">Monmouth County Route 24</h1>
-            <h2 class="content text-dark">New Jersey Monmouth County Route 24 (Monmouth CR 24) is a county road that connects US-9 to CR 537. It is 0.70 mi (1.13 km) long.</h2>
+            <h2 class="content text-dark">New Jersey Monmouth County Route 24 (Monmouth CR 24) is a county road that connects US-9 to CR 537. It is 0.70 mi, or 1.13 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../../static/table.php"; ?>
@@ -14,15 +14,15 @@
                     <td class="content text-dark">Start of Route</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.14 mi ( + 0.14 mi)</td>
-                    <td class="content text-dark small">0.23 km ( + 0.23 km)</td>
+                    <td class="content text-dark small">0.14 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
+                    <td class="content text-dark small">0.23 km<br><h4 class="small incr">+ 0.23 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Manalapan Ave, Freehold, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.70 mi ( + 0.56 mi)</td>
-                    <td class="content text-dark small">1.13 km ( + 0.90 km)</td>
+                    <td class="content text-dark small">0.70 mi<br><h4 class="small incr">+ 0.56 mi</h4></td>
+                    <td class="content text-dark small">1.13 km<br><h4 class="small incr">+ 0.90 km</h4></td>
                     <td class="content text-dark"><a href="../537.php">Monmouth CR 537 - W Main St</a>, Freehold, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>

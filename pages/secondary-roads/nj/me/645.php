@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Mercer County, New Jersey</a> > Mercer CR 645</h6>
             <h1 class="header">Mercer County Route 645</h1>
-            <h2 class="content text-dark">New Jersey Mercer County Route 645 (Mercer CR 645) is a very short county road In Lawrence Township, Mercer County, New Jersey that brings US-206 to the Brunswick Circle. It is 0.60 mi (0.97 km) long.</h2>
+            <h2 class="content text-dark">New Jersey Mercer County Route 645 (Mercer CR 645) is a very short county road In Lawrence Township, Mercer County, New Jersey that brings US-206 to the Brunswick Circle. It is 0.60 mi, or 0.97 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../../static/table.php"; ?>
@@ -14,8 +14,8 @@
                     <td class="content text-dark">Start of Route<br>Start concurrency with US-206</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.23 mi ( + 0.23 mi )</td>
-                    <td class="content text-dark small">0.37 km ( + 0.37 km )</td>
+                    <td class="content text-dark small">0.23 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
+                    <td class="content text-dark small">0.37 km<br><h4 class="small incr">+ 0.37 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route<br>End concurrency with US-206</td>

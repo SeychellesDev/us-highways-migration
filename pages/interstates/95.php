@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">Interstates</a> > <a href="list.php">Auxiliary Routes</a> > I-195 (NJ)</h6>
             <h1 class="header">Interstate 95</h1>
-            <h2 class="content text-dark">Interstate 95 (I-95) is a major north-south route spanning the east coast of the United States. It is xxxx.xx mi (xxxx.xx km) long.</h2>
+            <h2 class="content text-dark">Interstate 95 (I-95) is a major north-south route spanning the east coast of the United States. It is xxxx.xx mi, or xxxx.xx km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../../static/table.php"; ?>
                 <tr>

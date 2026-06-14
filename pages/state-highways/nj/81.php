@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../index-redirect.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 29</h6>
             <h1 class="header">New Jersey Route 81</h1>
-            <h2 class="content text-dark">New Jersey Route 81 (NJ-81) is a short state highway in north New Jersey that connects I-95 and US-9. It is 1.12 mi (1.80 km) long.</h2>
+            <h2 class="content text-dark">New Jersey Route 81 (NJ-81) is a short state highway in north New Jersey that connects I-95 and US-9. It is 1.12 mi, or 1.80 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../static/table.php"; ?>
@@ -14,8 +14,8 @@
                     <td class="content text-dark">Start of Route</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.12 mi ( + 1.12 mi )</td>
-                    <td class="content text-dark small">1.80 km ( + 1.80 km )</td>
+                    <td class="content text-dark small">1.12 mi<br><h4 class="small incr">+ 1.12 mi</h4></td>
+                    <td class="content text-dark small">1.80 km<br><h4 class="small incr">+ 1.80 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>

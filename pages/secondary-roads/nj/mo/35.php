@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 35</h6>
             <h1 class="header">Monmouth County Route 35</h1>
-            <h2 class="content text-dark">New Jersey Monmouth County Route 35 (Monmouth CR 35) is a county road that connects Monmouth CR 524 and NJ-33. It is 1.79 mi (2.89 km) long.</h2>
+            <h2 class="content text-dark">New Jersey Monmouth County Route 35 (Monmouth CR 35) is a county road that connects Monmouth CR 524 and NJ-33. It is 1.79 mi, or 2.89 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../../static/table.php"; ?>
@@ -14,15 +14,15 @@
                 <td class="content text-dark">Start of Route</td>
             </tr>
             <tr>
-                <td class="content text-dark small">0.37 mi ( + 0.37 mi )</td>
-                <td class="content text-dark small">0.60 km ( + 0.60 km )</td>
+                <td class="content text-dark small">0.37 mi<br><h4 class="small incr">+ 0.37 mi</h4></td>
+                <td class="content text-dark small">0.60 km<br><h4 class="small incr">+ 0.60 km</h4></td>
                 <td class="content text-dark"></td>
                 <td class="content text-dark">Colts Neck Rd, Howell Township, New Jersey 07731</td>
                 <td class="content text-dark"></td>
             </tr>
             <tr>
-                <td class="content text-dark small">1.79 mi ( + 1.42 mi )</td>
-                <td class="content text-dark small">2.89 km ( + 2.29 km )</td>
+                <td class="content text-dark small">1.79 mi<br><h4 class="small incr">+ 1.42 mi</h4></td>
+                <td class="content text-dark small">2.89 km<br><h4 class="small incr">+ 2.29 km</h4></td>
                 <td class="content text-dark"><a href="../../state-highways/nj/33.php">NJ-33</a>, Howell Township, New Jersey 07731</td>
                 <td class="content text-dark">Colts Neck Rd, Howell Township, New Jersey 07731</td>
                 <td class="content text-dark">End of Route</td>

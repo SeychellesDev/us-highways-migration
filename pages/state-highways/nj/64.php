@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../index-redirect.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 64</h6>
             <h1 class="header">New Jersey Route 64</h1>
-            <h2 class="content text-dark">New Jersey Route 64 (NJ-64) is a very short state highway in west New Jersey that exists to consolidate the roads Mercer CR 571 and Mercer CR 526. It is 0.41 mi (0.65 km) long.</h2>
+            <h2 class="content text-dark">New Jersey Route 64 (NJ-64) is a very short state highway in west New Jersey that exists to consolidate the roads Mercer CR 571 and Mercer CR 526. It is 0.41 mi, or 0.65 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../static/table.php"; ?>
@@ -14,15 +14,15 @@
                     <td class="content text-dark">Start of Route<br>Start concurrency with Mercer CR 526 & Mercer CR 571</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.33 mi ( + 0.33 mi )</td>
-                    <td class="content text-dark small">0.53 km ( + 0.53 km )</td>
+                    <td class="content text-dark small">0.33 mi<br><h4 class="small incr">+ 0.33 mi</h4></td>
+                    <td class="content text-dark small">0.53 km<br><h4 class="small incr">+ 0.53 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Washington Rd, West Windsor Township, New Jersey 08550</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.41 mi ( + 0.08 mi )</td>
-                    <td class="content text-dark small">0.65 km ( + 0.12 km )</td>
+                    <td class="content text-dark small">0.41 mi<br><h4 class="small incr">+ 0.08 mi</h4></td>
+                    <td class="content text-dark small">0.65 km<br><h4 class="small incr">+ 0.12 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>

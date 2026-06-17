@@ -9941,6 +9941,272 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">1560.07 mi<br><h4 class="small incr">+ 0.86 mi</h4></td>
+                    <td class="content text-dark small">2510.35 km<br><h4 class="small incr">+ 1.39 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W Main St, Stamford, Connecticut 06901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1561.09 mi<br><h4 class="small incr">+ 1.02 mi</h4></td>
+                    <td class="content text-dark small">2511.99 km<br><h4 class="small incr">+ 1.64 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Tresser Blvd, Stamford, Connecticut 06901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1561.32 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
+                    <td class="content text-dark small">2512.37 km<br><h4 class="small incr">+ 0.38 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/ssr/493.php">Fairfield SSR 493 - Washington Blvd</a>, Stamford, Connecticut 06901<br><a href="../state-highways/ct/137.php">CT-137 - Washington Blvd</a>, Stamford, Connecticut 06901</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1561.88 mi<br><h4 class="small incr">+ 0.56 mi</h4></td>
+                    <td class="content text-dark small">2513.28 km<br><h4 class="small incr">+ 0.91 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E Main St, Stamford, Connecticut 06901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1562.98 mi<br><h4 class="small incr">+ 1.10 mi</h4></td>
+                    <td class="content text-dark small">2515.04 km<br><h4 class="small incr">+ 1.76 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/106.php">CT-106 - Courtland Ave</a>, Stamford, Connecticut 06901</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1563.05 mi<br><h4 class="small incr">+ 0.07 mi</h4></td>
+                    <td class="content text-dark small">2515.15 km<br><h4 class="small incr">+ 0.11 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Stamford, Connecticut 06901</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1563.36 mi<br><h4 class="small incr">+ 0.31 mi</h4></td>
+                    <td class="content text-dark small">2515.65 km<br><h4 class="small incr">+ 0.50 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Post Rd, Darien, Connecticut 06820</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1565.53 mi<br><h4 class="small incr">+ 2.17 mi</h4></td>
+                    <td class="content text-dark small">2519.14 km<br><h4 class="small incr">+ 3.49 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Darien, Connecticut 06820</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1565.93 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
+                    <td class="content text-dark small">2519.78 km<br><h4 class="small incr">+ 0.64 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/136.php">CT-136 - Tokeneke Rd</a>, Darien, Connecticut 06820</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1566.04 mi<br><h4 class="small incr">+ 0.11 mi</h4></td>
+                    <td class="content text-dark small">2519.96 km<br><h4 class="small incr">+ 0.18 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/124.php">CT-124 - Mansfield Ave</a>, Darien, Connecticut 06820</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1566.89 mi<br><h4 class="small incr">+ 0.85 mi</h4></td>
+                    <td class="content text-dark small">2521.33 km<br><h4 class="small incr">+ 1.37 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke (SB)</a>, Darien, Connecticut 06820</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1567.30 mi<br><h4 class="small incr">+ 0.41 mi</h4></td>
+                    <td class="content text-dark small">2521.98 km<br><h4 class="small incr">+ 0.65 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Connecticut Ave, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1568.63 mi<br><h4 class="small incr">+ 1.33 mi</h4></td>
+                    <td class="content text-dark small">2524.13 km<br><h4 class="small incr">+ 2.15 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke (SB)</a>, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1569.49 mi<br><h4 class="small incr">+ 0.86 mi</h4></td>
+                    <td class="content text-dark small">2525.52 km<br><h4 class="small incr">+ 1.39 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Van Buren Ave, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1569.96 mi<br><h4 class="small incr">+ 0.47 mi</h4></td>
+                    <td class="content text-dark small">2526.28 km<br><h4 class="small incr">+ 0.76 km</h4></td>
+                    <td class="content text-dark"><a href="7.php">US-7 (SB)</a>, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1570.06 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                    <td class="content text-dark small">2526.45 km<br><h4 class="small incr">+ 0.17 km</h4></td>
+                    <td class="content text-dark">US-1 - Belden Ave, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark">Belden Ave, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1570.12 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
+                    <td class="content text-dark small">2526.55 km<br><h4 class="small incr">+ 0.10 km</h4></td>
+                    <td class="content text-dark"><a href="7.php">US-7</a>, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1570.22 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                    <td class="content text-dark small">2526.71 km<br><h4 class="small incr">+ 0.16 km</h4></td>
+                    <td class="content text-dark">US-1 - Cross St, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark">Cross St, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1570.54 mi<br><h4 class="small incr">+ 0.32 mi</h4></td>
+                    <td class="content text-dark small">2527.22 km<br><h4 class="small incr">+ 0.51 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/123.php">CT-123 - Main St</a>, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark">North Ave, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1570.91 mi<br><h4 class="small incr">+ 0.37 mi</h4></td>
+                    <td class="content text-dark small">2527.82 km<br><h4 class="small incr">+ 0.60 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/53.php">CT-53 - East Ave</a>, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark">Westport Ave, Norwalk, Connecticut 06850</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1572.36 mi<br><h4 class="small incr">+ 1.45 mi</h4></td>
+                    <td class="content text-dark small">2530.15 km<br><h4 class="small incr">+ 2.33 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Post Rd, Westport, Connecticut 06880</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1573.59 mi<br><h4 class="small incr">+ 1.23 mi</h4></td>
+                    <td class="content text-dark small">2532.13 km<br><h4 class="small incr">+ 1.98 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/33.php">CT-33 - Riverside Ave (SB) / Wilton Rd (NB)</a>, Westport, Connecticut 06880</td>
+                    <td class="content text-dark">E State St, Westport, Connecticut 06880</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1574.20 mi<br><h4 class="small incr">+ 0.61 mi</h4></td>
+                    <td class="content text-dark small">2533.11 km<br><h4 class="small incr">+ 0.98 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/136.php">CT-136 - S Compo Rd (SB) / N Compo Rd (NB)</a>, Westport, Connecticut 06880</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1575.15 mi<br><h4 class="small incr">+ 0.95 mi</h4></td>
+                    <td class="content text-dark small">2534.64 km<br><h4 class="small incr">+ 1.53 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/ssr/476.php">Fairfield SSR 476 - Sherwood Island Conn</a>, Westport, Connecticut 06880</td>
+                    <td class="content text-dark">E Post Rd, Westport, Connecticut 06880</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1577.14 mi<br><h4 class="small incr">+ 1.99 mi</h4></td>
+                    <td class="content text-dark small">2537.84 km<br><h4 class="small incr">+ 3.20 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Post Rd, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1577.68 mi<br><h4 class="small incr">+ 0.54 mi</h4></td>
+                    <td class="content text-dark small">2538.70 km<br><h4 class="small incr">+ 0.86 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1579.87 mi<br><h4 class="small incr">+ 2.19 mi</h4></td>
+                    <td class="content text-dark small">2542.23 km<br><h4 class="small incr">+ 3.53 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/135.php">CT-135 - N Benson Rd</a>, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1580.17 mi<br><h4 class="small incr">+ 0.30 mi</h4></td>
+                    <td class="content text-dark small">2542.71 km<br><h4 class="small incr">+ 0.48 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/130.php">CT-130 - Post Rd</a>, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark">Kings Hwy Cut, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1580.75 mi<br><h4 class="small incr">+ 0.58 mi</h4></td>
+                    <td class="content text-dark small">2543.64 km<br><h4 class="small incr">+ 0.93 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke (NB)</a>, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1581.57 mi<br><h4 class="small incr">+ 0.82 mi</h4></td>
+                    <td class="content text-dark small">2544.96 km<br><h4 class="small incr">+ 1.32 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1581.62 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
+                    <td class="content text-dark small">2545.05 km<br><h4 class="small incr">+ 0.09 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/732.php">CT SR 732 - Black Rock Tpke</a>, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark">E Kings Hwy, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1582.54 mi<br><h4 class="small incr">+ 0.92 mi</h4></td>
+                    <td class="content text-dark small">2546.53 km<br><h4 class="small incr">+ 1.48 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/58.php">CT-58 - Tunxis Hill Cut</a>, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark">E Kings Hwy, Fairfield, Connecticut 06824</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1582.56 mi<br><h4 class="small incr">+ 0.02 mi</h4></td>
+                    <td class="content text-dark small">2546.57 km<br><h4 class="small incr">+ 0.04 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">North Ave, Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1583.04 mi<br><h4 class="small incr">+ 0.48 mi</h4></td>
+                    <td class="content text-dark small">2547.35 km<br><h4 class="small incr">+ 0.78 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/59.php">CT-59 - Brooklawn Ave</a>, Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1584.52 mi<br><h4 class="small incr">+ 1.48 mi</h4></td>
+                    <td class="content text-dark small">2549.72 km<br><h4 class="small incr">+ 2.37 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/8.php">CT-8</a> (concurrent with <a href="../state-highways/ct/25.php">CT-25</a>), Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1585.25 mi<br><h4 class="small incr">+ 0.73 mi</h4></td>
+                    <td class="content text-dark small">2550.89 km<br><h4 class="small incr">+ 1.17 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/722.php">Fairfield SR 722 - Chopsey Hill Rd</a>, Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark">Boston Ave, Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1585.80 mi<br><h4 class="small incr">+ 0.55 mi</h4></td>
+                    <td class="content text-dark small">2551.78 km<br><h4 class="small incr">+ 0.89 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/127.php">CT-127 - E Main St</a>, Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark">Boston Ave, Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1587.29 mi<br><h4 class="small incr">+ 1.49 mi</h4></td>
+                    <td class="content text-dark small">2554.18 km<br><h4 class="small incr">+ 2.40 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/127.php">CT-127 - E Main St</a>, Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark">Boston Ave, Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark"></td>
+                </tr>
             </tbody>
             <section id="us1aux">
                 <section id="flus1aux">

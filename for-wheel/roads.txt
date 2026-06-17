@@ -1,8 +1,8 @@
 NJ-31
-Mercer 636
+NJ Mercer 636
 NY-252
-Monroe 81
-Monroe 266
+NY Monroe 81
+NY Monroe 266
 US-322
 NJ-47
 NJ CR 553
@@ -16,7 +16,7 @@ US-30
 NJ CR 537
 NJ CR 551
 NJ CR 561
-Camden 756
+NJ Camden 756
 NJ CR 508
 NJ CR 510
 NJ CR 514
@@ -25,10 +25,10 @@ NJ-33
 NJ-35
 NJ-36
 NJ-79
-Monmouth 18
-Monmouth 50
-Monmouth 54
-Monmouth 57
+NJ Monmouth 18
+NJ Monmouth 50
+NJ Monmouth 54
+NJ Monmouth 57
 NJ CR 520
 NJ CR 537
 I-76 (PA)
@@ -81,44 +81,44 @@ PA-760
 PA-780
 PA-997
 PA-2014
-Blair 4015
-Dauphin 3032
-Lehigh 2044
-Luzerne 18
-Luzerne 38
-Luzerne 1049
-Luzerne 3034
-Mercer 3012
-Montgomery 2017
-Schuylkill 682
-Schuylkill 690
-Schuylkill 691
-Schuylkill 692
-Schuylkill 988
+PA Blair 4015
+PA Dauphin 3032
+PA Lehigh 2044
+PA Luzerne 18
+PA Luzerne 38
+PA Luzerne 1049
+PA Luzerne 3034
+PA Mercer 3012
+PA Montgomery 2017
+PA Schuylkill 682
+PA Schuylkill 690
+PA Schuylkill 691
+PA Schuylkill 692
+PA Schuylkill 988
 NJ-47
 NJ-55
 NJ CR 553
-Gloucester 603
-Gloucester 621
-Gloucester 663
-Gloucester 676
-Hudson 670
-Hudson 673
-Hudson 677
-Hudson 679
-Hudson 681
-Hudson 732
+NJ Gloucester 603
+NJ Gloucester 621
+NJ Gloucester 663
+NJ Gloucester 676
+NJ Hudson 670
+NJ Hudson 673
+NJ Hudson 677
+NJ Hudson 679
+NJ Hudson 681
+NJ Hudson 732
 NJ CR 508
 NJ CR 510
 I-76 (PA)
 I-676
 US-13
 PA-3
-Philadelphia 3003
-Philadelphia 3005
+PA Philadelphia 3003
+PA Philadelphia 3005
 NJ CR 510
-Essex 605
-Essex 638
+NJ Essex 605
+NJ Essex 638
 I-295 (NJ)
 I-76 (PA)
 I-78
@@ -231,41 +231,41 @@ PA-970
 VT-9
 VT-100
 VT-279
-Bergen 62
-Bergen 75
-Broome 53
-Centre 793
+NJ Bergen 62
+NJ Bergen 75
+NY Broome 53
+PA Centre 793
 NJ CR 506
 NJ CR 510
 NJ CR 577
-Essex 603
-Essex 620
-Essex 630
+NJ Essex 603
+NJ Essex 620
+NJ Essex 630
 NJ CR 536
 NJ CR 553
-Gloucester 603
-Gloucester 663
+NJ Gloucester 603
+NJ Gloucester 663
 NJ CR 535
 NJ CR 583
-Mercer 616
-Mercer 618
-Mercer 636
-Mercer 649
-Middlesex 617
-Middlesex 622
+NJ Mercer 616
+NJ Mercer 618
+NJ Mercer 636
+NJ Mercer 649
+NJ Middlesex 617
+NJ Middlesex 622
 NJ CR 520
 NJ CR 526
 NJ CR 547
-Monroe 85
-Morris 601
-Morris 617
-Morris 631
-Morris 670
+NJ Monroe 85
+NJ Morris 601
+NJ Morris 617
+NJ Morris 631
+NJ Morris 670
 NJ CR 527
-Ocean 638
-Somerset 665
-Union 618
-Union 630
+NJ Ocean 638
+NJ Somerset 665
+NJ Union 618
+NJ Union 630
 NJ CR 517
 I-180
 I-280 (NJ)
@@ -316,73 +316,73 @@ NJ CR 533
 NJ CR 535
 NJ CR 537
 NJ CR 539
-Atlantic 621
-Bergen 21
-Burlington 621
-Camden 621
-Cape May 621
-Cumberland 621
-Gloucester 603
-Gloucester 621
-Gloucester 663
-Hunterdon 619
-Hunterdon 621
-Hunterdon 627
-Hudson 621
-Mercer 621
-Middlesex 621
-Monmouth 1
-Monmouth 3
-Monmouth 21
-Monmouth 30
-Monmouth 40a
-Morris 621
-Ocean 621
-Passaic 621
-Salem 621
-Somerset 621
-Sussex 621
-Union 621
-Warren 621
-Bergen 62
-Bergen 75
-Blair 4015
-Broome 53
+NJ Atlantic 621
+NJ Bergen 21
+NJ Burlington 621
+NJ Camden 621
+NJ Cape May 621
+NJ Cumberland 621
+NJ Gloucester 603
+NJ Gloucester 621
+NJ Gloucester 663
+NJ Hunterdon 619
+NJ Hunterdon 621
+NJ Hunterdon 627
+NJ Hudson 621
+NJ Mercer 621
+NJ Middlesex 621
+NJ Monmouth 1
+NJ Monmouth 3
+NJ Monmouth 21
+NJ Monmouth 30
+NJ Monmouth 40a
+NJ Morris 621
+NJ Ocean 621
+NJ Passaic 621
+NJ Salem 621
+NJ Somerset 621
+NJ Sussex 621
+NJ Union 621
+NJ Warren 621
+NJ Bergen 62
+NJ Bergen 75
+PA Blair 4015
+NY Broome 53
 CT-343
 CT-4
 NJ CR 537
 NJ CR 551
 NJ CR 561
-Camden 756
-Centre 793
+NJ Camden 756
+PA Centre 793
 DE-2
 DE-273
 DE-279
 DE-4
 DE-72
 DE-896
-Dauphin 3032
+NJ Dauphin 3032
 NJ CR 506
 NJ CR 508
 NJ CR 510
 NJ CR 577
-Essex 603
-Essex 605
-Essex 620
-Essex 630
-Essex 638
+NJ Essex 603
+NJ Essex 605
+NJ Essex 620
+NJ Essex 630
+NJ Essex 638
 NJ CR 536
 NJ CR 553
-Gloucester 603
-Gloucester 621
-Gloucester 663
-Gloucester 676
-Hudson 670
-Hudson 673
-Hudson 677
-Hudson 679
-Hudson 681
-Hudson 732
+NJ Gloucester 603
+NJ Gloucester 621
+NJ Gloucester 663
+NJ Gloucester 676
+NJ Hudson 670
+NJ Hudson 673
+NJ Hudson 677
+NJ Hudson 679
+NJ Hudson 681
+NJ Hudson 732
 I-180
 I-195 (MA)
 I-287
@@ -409,42 +409,42 @@ I-90
 I-91
 I-93
 I-99
-Lehigh 2044
-Luzerne 1049
-Luzerne 18
-Luzerne 3034
-Luzerne 38
+PA Lehigh 2044
+PA Luzerne 1049
+PA Luzerne 18
+PA Luzerne 3034
+PA Luzerne 38
 MA-12
 MD-193
 MD-212
 MD-279
-Mercer 3012
+NJ Mercer 3012
 NJ CR 535
 NJ CR 583
-Mercer 616
-Mercer 618
-Mercer 636
-Mercer 649
+NJ Mercer 616
+NJ Mercer 618
+NJ Mercer 636
+NJ Mercer 649
 NJ CR 514
 NJ CR 527
-Middlesex 617
-Middlesex 622
-Monmouth 18
-Monmouth 50
+NJ Middlesex 617
+NJ Middlesex 622
+NJ Monmouth 18
+NJ Monmouth 50
 NJ CR 520
 NJ CR 526
 NJ CR 537
-Monmouth 54
+NJ Monmouth 54
 NJ CR 547
-Monmouth 57
-Monroe 266
-Monroe 81
-Monroe 85
-Montgomery 2017
-Morris 601
-Morris 617
-Morris 631
-Morris 670
+NJ Monmouth 57
+NY Monroe 266
+NY Monroe 81
+NY Monroe 85
+PA Montgomery 2017
+NJ Morris 601
+NJ Morris 617
+NJ Morris 631
+NJ Morris 670
 NH-10
 NH-101
 NH-12
@@ -495,7 +495,7 @@ NY-82
 NY-96B
 NY-9G
 NJ CR 527
-Ocean 638
+NJ Ocean 638
 PA-118
 PA-145
 PA-148
@@ -538,14 +538,14 @@ PA-901
 PA-93
 PA-970
 PA-997
-Philadelphia 3003
-Philadelphia 3005
-Schuylkill 682
-Schuylkill 690
-Schuylkill 691
-Schuylkill 692
-Schuylkill 988
-Somerset 665
+PA Philadelphia 3003
+PA Philadelphia 3005
+PA Schuylkill 682
+PA Schuylkill 690
+PA Schuylkill 691
+PA Schuylkill 692
+PA Schuylkill 988
+NJ Somerset 665
 US-11
 US-119
 US-13
@@ -567,8 +567,8 @@ US-5
 US-6
 US-62
 US-7
-Union 618
-Union 630
+NJ Union 618
+NJ Union 630
 VT-100
 VT-279
 VT-9
@@ -586,8 +586,8 @@ NJ CR 533
 NJ CR 535
 NJ CR 537
 NJ CR 539
-Sussex 248
-Sussex 249
+DE Sussex 248
+DE Sussex 249
 DE-1
 DE-20
 DE-273
@@ -598,12 +598,12 @@ DE-404
 DE-5
 DE-72
 DE-896
-Miami-dade 992
-Monroe 905
-Monroe 939
-Monroe 940
-Monroe 941
-Monroe srd
+FL Miami-dade 992
+FL Monroe 905
+FL Monroe 939
+FL Monroe 940
+FL Monroe 941
+FL Monroe srd
 FL-5
 FL-821
 FL-9336
@@ -621,188 +621,188 @@ I-676
 I-76 (PA)
 I-78
 I-80
-Atlantic 601
-Atlantic 602
-Atlantic 603
-Atlantic 604
-Atlantic 605
-Atlantic 606
-Atlantic 608
-Atlantic 610
-Atlantic 615
-Atlantic 618
-Atlantic 630
-Atlantic 634
-Atlantic 644
-Atlantic 646
-Atlantic 657
-Atlantic 662
-Atlantic 663
-Atlantic 687
-Atlantic 621
-Bergen 21
-Burlington 616
-Burlington 622
-Burlington 642
-Burlington 648
-Burlington 660
-Burlington 662
-Burlington 667
-Burlington 670
-Burlington 678
-Burlington 679
-Burlington 681
-Burlington 690
-Burlington 621
-Camden 621
-Cape May 601
-Cape May 602
-Cape May 603
-Cape May 609
-Cape May 612
-Cape May 613
-Cape May 615
-Cape May 623
-Cape May 625
-Cape May 628
-Cape May 631
-Cape May 634
-Cape May 637
-Cape May 644
-Cape May 646
-Cape May 647
-Cape May 652
-Cape May 657
-Cape May 658
-Cape May 662
-Cape May 667
-Cape May 621
-Cumberland 621
-Essex 618
-Essex 636
-Essex 642
-Essex 655
-Gloucester 603
-Gloucester 621
-Gloucester 663
-Hudson 612
-Hudson 700
-Hudson 701
-Hudson 702
-Hudson 735
-Hudson 621
-Hunterdon 651
-Hunterdon 619
-Hunterdon 621
-Hunterdon 627
-Mercer 604
-Mercer 613
-Mercer 622
-Mercer 626
-Mercer 630
-Mercer 637
-Mercer 643
-Mercer 645
-Mercer 648
-Mercer 650
-Mercer 653
-Mercer 621
-Middlesex 606
-Middlesex 609
-Middlesex 611
-Middlesex 613
-Middlesex 616
-Middlesex 622
-Middlesex 653
-Middlesex 655
-Middlesex 656
-Middlesex 700
-Middlesex 701
-Middlesex 621
-Monmouth 10
-Monmouth 11
-Monmouth 12
-Monmouth 13
-Monmouth 15
-Monmouth 16
-Monmouth 17
-Monmouth 18
-Monmouth 20
-Monmouth 25
-Monmouth 27
-Monmouth 28
-Monmouth 29
-Monmouth 32
-Monmouth 33
-Monmouth 34
-Monmouth 36
-Monmouth 45
-Monmouth 47
-Monmouth 48
-Monmouth 49
-Monmouth 5
-Monmouth 50
-Monmouth 51
-Monmouth 52
-Monmouth 54
-Monmouth 56
-Monmouth 57
-Monmouth 7
-Monmouth 8
-Monmouth 1
-Monmouth 3 
-Monmouth 21
-Monmouth 30
-Monmouth 40a
-Morris 612
-Morris 613
-Morris 625
-Morris 621
-Ocean 50
-Ocean 603
-Ocean 623
-Ocean 638
-Ocean 641
-Ocean 621
-Passaic 621
-Salem 621
-Somerset 601
-Somerset 604
-Somerset 608
-Somerset 609
-Somerset 620
-Somerset 626
-Somerset 630
-Somerset 639
-Somerset 652
-Somerset 661
-Somerset 621
-Sussex 603
-Sussex 604
-Sussex 607
-Sussex 611
-Sussex 618
-Sussex 626
-Sussex 630
-Sussex 633
-Sussex 636
-Sussex 645
-Sussex 650
-Sussex 652
-Sussex 653
-Sussex 654
-Sussex 656
-Sussex 669
-Sussex 675
-Sussex 621
-Union 610
-Union 612
-Union 618
-Union 623
-Union 638
-Union 621
-Warren 627
-Warren 678
+NJ Atlantic 601
+NJ Atlantic 602
+NJ Atlantic 603
+NJ Atlantic 604
+NJ Atlantic 605
+NJ Atlantic 606
+NJ Atlantic 608
+NJ Atlantic 610
+NJ Atlantic 615
+NJ Atlantic 618
+NJ Atlantic 630
+NJ Atlantic 634
+NJ Atlantic 644
+NJ Atlantic 646
+NJ Atlantic 657
+NJ Atlantic 662
+NJ Atlantic 663
+NJ Atlantic 687
+NJ Atlantic 621
+NJ Bergen 21
+NJ Burlington 616
+NJ Burlington 622
+NJ Burlington 642
+NJ Burlington 648
+NJ Burlington 660
+NJ Burlington 662
+NJ Burlington 667
+NJ Burlington 670
+NJ Burlington 678
+NJ Burlington 679
+NJ Burlington 681
+NJ Burlington 690
+NJ Burlington 621
+NJ Camden 621
+NJ Cape May 601
+NJ Cape May 602
+NJ Cape May 603
+NJ Cape May 609
+NJ Cape May 612
+NJ Cape May 613
+NJ Cape May 615
+NJ Cape May 623
+NJ Cape May 625
+NJ Cape May 628
+NJ Cape May 631
+NJ Cape May 634
+NJ Cape May 637
+NJ Cape May 644
+NJ Cape May 646
+NJ Cape May 647
+NJ Cape May 652
+NJ Cape May 657
+NJ Cape May 658
+NJ Cape May 662
+NJ Cape May 667
+NJ Cape May 621
+NJ Cumberland 621
+NJ Essex 618
+NJ Essex 636
+NJ Essex 642
+NJ Essex 655
+NJ Gloucester 603
+NJ Gloucester 621
+NJ Gloucester 663
+NJ Hudson 612
+NJ Hudson 700
+NJ Hudson 701
+NJ Hudson 702
+NJ Hudson 735
+NJ Hudson 621
+NJ Hunterdon 651
+NJ Hunterdon 619
+NJ Hunterdon 621
+NJ Hunterdon 627
+NJ Mercer 604
+NJ Mercer 613
+NJ Mercer 622
+NJ Mercer 626
+NJ Mercer 630
+NJ Mercer 637
+NJ Mercer 643
+NJ Mercer 645
+NJ Mercer 648
+NJ Mercer 650
+NJ Mercer 653
+NJ Mercer 621
+NJ Middlesex 606
+NJ Middlesex 609
+NJ Middlesex 611
+NJ Middlesex 613
+NJ Middlesex 616
+NJ Middlesex 622
+NJ Middlesex 653
+NJ Middlesex 655
+NJ Middlesex 656
+NJ Middlesex 700
+NJ Middlesex 701
+NJ Middlesex 621
+NJ Monmouth 10
+NJ Monmouth 11
+NJ Monmouth 12
+NJ Monmouth 13
+NJ Monmouth 15
+NJ Monmouth 16
+NJ Monmouth 17
+NJ Monmouth 18
+NJ Monmouth 20
+NJ Monmouth 25
+NJ Monmouth 27
+NJ Monmouth 28
+NJ Monmouth 29
+NJ Monmouth 32
+NJ Monmouth 33
+NJ Monmouth 34
+NJ Monmouth 36
+NJ Monmouth 45
+NJ Monmouth 47
+NJ Monmouth 48
+NJ Monmouth 49
+NJ Monmouth 5
+NJ Monmouth 50
+NJ Monmouth 51
+NJ Monmouth 52
+NJ Monmouth 54
+NJ Monmouth 56
+NJ Monmouth 57
+NJ Monmouth 7
+NJ Monmouth 8
+NJ Monmouth 1
+NJ Monmouth 3 
+NJ Monmouth 21
+NJ Monmouth 30
+NJ Monmouth 40a
+NJ Morris 612
+NJ Morris 613
+NJ Morris 625
+NJ Morris 621
+NJ Ocean 50
+NJ Ocean 603
+NJ Ocean 623
+NJ Ocean 638
+NJ Ocean 641
+NJ Ocean 621
+NJ Passaic 621
+NJ Salem 621
+NJ Somerset 601
+NJ Somerset 604
+NJ Somerset 608
+NJ Somerset 609
+NJ Somerset 620
+NJ Somerset 626
+NJ Somerset 630
+NJ Somerset 639
+NJ Somerset 652
+NJ Somerset 661
+NJ Somerset 621
+NJ Sussex 603
+NJ Sussex 604
+NJ Sussex 607
+NJ Sussex 611
+NJ Sussex 618
+NJ Sussex 626
+NJ Sussex 630
+NJ Sussex 633
+NJ Sussex 636
+NJ Sussex 645
+NJ Sussex 650
+NJ Sussex 652
+NJ Sussex 653
+NJ Sussex 654
+NJ Sussex 656
+NJ Sussex 669
+NJ Sussex 675
+NJ Sussex 621
+NJ Union 610
+NJ Union 612
+NJ Union 618
+NJ Union 623
+NJ Union 638
+NJ Union 621
+NJ Warren 627
+NJ Warren 678
 NJ-12
 NJ-122
 NJ-15
@@ -825,21 +825,21 @@ NJ-70
 NJ-700
 NJ-71
 NJ-94
-Livingston 26
-Monroe 63
-Monroe 65
-Monroe 67
-Monroe 75
-Monroe 77
-Monroe 79
-Monroe 81
-Monroe 82
-Monroe 83
-Monroe 86
+NY Livingston 26
+NY Monroe 63
+NY Monroe 65
+NY Monroe 67
+NY Monroe 75
+NY Monroe 77
+NY Monroe 79
+NY Monroe 81
+NY Monroe 82
+NY Monroe 83
+NY Monroe 86
 NY-251
 NY-252
 NY-253
-Pike 2013
+PA Pike 2013
 PA-32
 US-10
 US-113
@@ -895,34 +895,34 @@ NJ CR 547
 NJ CR 549
 NJ CR 571
 NJ CR 583
-Monmouth 1
-Monmouth 3
-Monmouth 10
-Monmouth 12
-Monmouth 13
-Monmouth 14
-Monmouth 16
-Monmouth 17
-Monmouth 30
-Monmouth 40A
-Monmouth 50
-Monmouth 51
-Monmouth 52
-Monmouth 54
-Mercer 608
-Middlesex 609
-Middlesex 613
-Middlesex 614
-Middlesex 617
-Middlesex 625
-Mercer 634
-Mercer 636
-Ocean 638
-Ocean 639
-Ocean 640
-Mercer 643
-Mercer 653
-Middlesex 665
+NJ Monmouth 1
+NJ Monmouth 3
+NJ Monmouth 10
+NJ Monmouth 12
+NJ Monmouth 13
+NJ Monmouth 14
+NJ Monmouth 16
+NJ Monmouth 17
+NJ Monmouth 30
+NJ Monmouth 40A
+NJ Monmouth 50
+NJ Monmouth 51
+NJ Monmouth 52
+NJ Monmouth 54
+NJ Mercer 608
+NJ Middlesex 609
+NJ Middlesex 613
+NJ Middlesex 614
+NJ Middlesex 617
+NJ Middlesex 625
+NJ Mercer 634
+NJ Mercer 636
+NJ Ocean 638
+NJ Ocean 639
+NJ Ocean 640
+NJ Mercer 643
+NJ Mercer 653
+NJ Middlesex 665
 NJ-55
 US-22
 NJ CR 519
@@ -965,7 +965,7 @@ A-2
 A-3
 A-4
 NJ-31
-Warren 632
+NJ Warren 632
 I-405
 I-90
 I-29
@@ -974,7 +974,7 @@ I-72
 IL-96
 IL-106
 IL-100
-Middlesex 615
+NJ Middlesex 615
 I-80
 I-76 (PA)
 US-22
@@ -985,11 +985,11 @@ PA-611
 MD-2
 I-78
 US-130
-Ocean 621
-Sussex 621
-Passaic 621
-Union 621
-Burlington 621
+NJ Ocean 621
+NJ Sussex 621
+NJ Passaic 621
+NJ Union 621
+NJ Burlington 621
 NJ-21
 NJ CR 527
 GA-4
@@ -1028,104 +1028,104 @@ GA-404
 GA-415
 GA-520
 GA-540
-Emanuel 204
-Jefferson 29
-Jefferson 32
-Jefferson 38
-Jefferson 40
-Jefferson 43
-Jefferson 116
-Jefferson 126
-Jefferson 127
-Jefferson 129
-Jefferson 134
-Jefferson 142
-Jefferson 248
-Jefferson 274
-Jefferson 329
-Richmond 85
-Toombs 334
-Ware 42
-Ware 94
-Broward 5a
-Brevard 5a
-Brevard 405
-Brevard 406
-Brevard 511
-Brevard 514
-Brevard 516
-Brevard 5054
-Duval 21d
-Duval 115a
-Duval 116
-Duval 117
-Flagler 13
-Flagler 200
-Flagler 202
-Flagler 203
-Flagler 304
-Flagler 325
-Flagler 1421
-Flagler 1422
-Flagler 1424
-Flagler 2002
-Indian River 5a
-Indian River 505
-Indian River 508
-Indian River 510
-Indian River 512
-Indian River 603
-Indian River 605
-Indian River 612
-Indian River 630
-Indian River 632
-Martin a1a
-Martin 714
-Miami-Dade 854
-Miami-Dade 959
-Miami-Dade 992
-Monroe SRD
-Monroe 905
-Monroe 939
-Monroe 940
-Monroe 941
-Nassau 15a
-Nassau 108
-Nassau 115
-Nassau 121
-Palm Beach 706
-Palm Beach 792
-Palm Beach 794
-Palm Beach 806a
-Palm Beach 808
-St. Johns 5a
-St. Johns 16a
-St. Johns 204
-St. Johns 210
-St. Johns 214
-St. Johns 312
-St. Lucie 68
-St. Lucie 605
-St. Lucie 611
-St. Lucie 614
-St. Lucie 615
-Volusia 3
-Volusia 421
-Volusia 430
-Volusia 2813
-Volusia 2820
-Volusia 4019
-Volusia 4040
-Volusia 4050
-Volusia 4068
-Volusia 4072
-Volusia 4079
-Volusia 4093
-Volusia 4135
-Volusia 4136
-Volusia 4147
-Volusia 4164
-Volusia a1a
+GA Emanuel 204
+GA Jefferson 29
+GA Jefferson 32
+GA Jefferson 38
+GA Jefferson 40
+GA Jefferson 43
+GA Jefferson 116
+GA Jefferson 126
+GA Jefferson 127
+GA Jefferson 129
+GA Jefferson 134
+GA Jefferson 142
+GA Jefferson 248
+GA Jefferson 274
+GA Jefferson 329
+GA Richmond 85
+GA Toombs 334
+GA Ware 42
+GA Ware 94
+FL Broward 5a
+FL Brevard 5a
+FL Brevard 405
+FL Brevard 406
+FL Brevard 511
+FL Brevard 514
+FL Brevard 516
+FL Brevard 5054
+FL Duval 21d
+FL Duval 115a
+FL Duval 116
+FL Duval 117
+FL Flagler 13
+FL Flagler 200
+FL Flagler 202
+FL Flagler 203
+FL Flagler 304
+FL Flagler 325
+FL Flagler 1421
+FL Flagler 1422
+FL Flagler 1424
+FL Flagler 2002
+FL Indian River 5a
+FL Indian River 505
+FL Indian River 508
+FL Indian River 510
+FL Indian River 512
+FL Indian River 603
+FL Indian River 605
+FL Indian River 612
+FL Indian River 630
+FL Indian River 632
+FL Martin a1a
+FL Martin 714
+FL Miami-Dade 854
+FL Miami-Dade 959
+FL Miami-Dade 992
+FL Monroe SRD
+FL Monroe 905
+FL Monroe 939
+FL Monroe 940
+FL Monroe 941
+FL Nassau 15a
+FL Nassau 108
+FL Nassau 115
+FL Nassau 121
+FL Palm Beach 706
+FL Palm Beach 792
+FL Palm Beach 794
+FL Palm Beach 806a
+FL Palm Beach 808
+FL St. Johns 5a
+FL St. Johns 16a
+FL St. Johns 204
+FL St. Johns 210
+FL St. Johns 214
+FL St. Johns 312
+FL St. Lucie 68
+FL St. Lucie 605
+FL St. Lucie 611
+FL St. Lucie 614
+FL St. Lucie 615
+FL Volusia 3
+FL Volusia 421
+FL Volusia 430
+FL Volusia 2813
+FL Volusia 2820
+FL Volusia 4019
+FL Volusia 4040
+FL Volusia 4050
+FL Volusia 4068
+FL Volusia 4072
+FL Volusia 4079
+FL Volusia 4093
+FL Volusia 4135
+FL Volusia 4136
+FL Volusia 4147
+FL Volusia 4164
+FL Volusia a1a
 DE-1
 DE-2
 DE-4
@@ -1348,60 +1348,60 @@ US-322
 US-341
 US-422
 US-730
-Aiken 25
-Aiken 26
-Aiken 29
-Aiken 67
-Aiken 70
-Aiken 80
-Aiken 81
-Aiken 105
-Aiken 151
-Aiken 154
-Aiken 155
-Aiken 207
-Aiken 209
-Aiken 283
-Aiken 438
-Aiken 439
-Aiken 513
-Aiken 521
-Aiken 524
-Aiken 529
-Aiken 530
-Aiken 533
-Aiken 540
-Aiken 548
-Aiken 549
-Aiken 555
-Aiken 556
-Aiken 563
-Aiken 566
-Aiken 589
-Aiken 706
-Aiken 1223
-Aiken 1305
-Aiken 1469
-Aiken 1693
-Aiken 1725
-Aiken 1902
-Aiken 1904
-Aiken 2190
-Aiken 2313
+SC Aiken 25
+SC Aiken 26
+SC Aiken 29
+SC Aiken 67
+SC Aiken 70
+SC Aiken 80
+SC Aiken 81
+SC Aiken 105
+SC Aiken 151
+SC Aiken 154
+SC Aiken 155
+SC Aiken 207
+SC Aiken 209
+SC Aiken 283
+SC Aiken 438
+SC Aiken 439
+SC Aiken 513
+SC Aiken 521
+SC Aiken 524
+SC Aiken 529
+SC Aiken 530
+SC Aiken 533
+SC Aiken 540
+SC Aiken 548
+SC Aiken 549
+SC Aiken 555
+SC Aiken 556
+SC Aiken 563
+SC Aiken 566
+SC Aiken 589
+SC Aiken 706
+SC Aiken 1223
+SC Aiken 1305
+SC Aiken 1469
+SC Aiken 1693
+SC Aiken 1725
+SC Aiken 1902
+SC Aiken 1904
+SC Aiken 2190
+SC Aiken 2313
 US-20
 NY-93
 NY-92
 NY-13
-Madison 28
-Madison 65
-Madison 17
+NY Madison 28
+NY Madison 65
+NY Madison 17
 PA-16
 US-11
 I-81
 PA-34
 PA-74
 PA-641
-Cumberland 2002
+PA Cumberland 2002
 I-76 (PA)
 PA-465
 MD-60
@@ -1507,28 +1507,28 @@ CT-637
 KY-637
 LA-637
 MD-637
-Atlantic 637
-Burlington 637
-Camden 637
-Cape May 637
-Cumberland 637
-Essex 637
-Gloucester 637
-Hudson 637
-Mercer 637
-Morris 637
-Ocean 637
-Passaic 637
-Salem 637
-Somerset 637
-Sussex 637
-Union 637
-Warren 637
+NJ Atlantic 637
+NJ Burlington 637
+NJ Camden 637
+NJ Cape May 637
+NJ Cumberland 637
+NJ Essex 637
+NJ Gloucester 637
+NJ Hudson 637
+NJ Mercer 637
+NJ Morris 637
+NJ Ocean 637
+NJ Passaic 637
+NJ Salem 637
+NJ Somerset 637
+NJ Sussex 637
+NJ Union 637
+NJ Warren 637
 OH-637
 TX-637
 VA-637
 OH-621
-VA-621
+VA SR 621
 AL-216
 CA-216
 CT-216
@@ -1591,20 +1591,20 @@ MA-111
 MN-111
 MO-111
 NH-111
-Bergen 111
-Ocean 111
+NJ Bergen 111
+NJ Ocean 111
 NM-111
 NY-111
-Albany 111
-Cortland 111
-Dutchess 111
-Erie 111
-Fulton 111
-Jefferson 111
-Niagara 111
-Steuben 111
-Suffolk 111
-Sullivan 111
+NY Albany 111
+NY Cortland 111
+NY Dutchess 111
+NY Erie 111
+NY Fulton 111
+NY Jefferson 111
+NY Niagara 111
+NY Steuben 111
+NY Suffolk 111
+NY Sullivan 111
 NC-111
 OH-111
 TN-111
@@ -1625,10 +1625,10 @@ US-360
 US-15
 VA-288
 VA-76
-Dutchess 37
+NY Dutchess 37
 NY-9G
 NY-23
-Greene 23B
+NY Greene 23B
 I-87 (NY)
 I-90
 NY-9H
@@ -1680,145 +1680,145 @@ SC-341
 SC-391
 SC-392
 SC-421
-Chesterfield 20
-Chesterfield 29
-Chesterfield 31
-Chesterfield 36
-Chesterfield 46
-Chesterfield 63
-Chesterfield 69
-Chesterfield 81
-Chesterfield 86
-Chesterfield 143
-Chesterfield 188
-Chesterfield 204
-Chesterfield 229
-Chesterfield 247
-Chesterfield 296
-Chesterfield 326
-Chesterfield 380
-Chesterfield 388
-Chesterfield 406
-Chesterfield 426
-Chesterfield 491
-Chesterfield 534
-Chesterfield 538
-Chesterfield 581
-Chesterfield 606
-Chesterfield 607
-Chesterfield 1088
-Kershaw 15
-Kershaw 21
-Kershaw 26
-Kershaw 36
-Kershaw 38
-Kershaw 42
-Kershaw 45
-Kershaw 48
-Kershaw 51
-Kershaw 52
-Kershaw 59
-Kershaw 81
-Kershaw 82
-Kershaw 89
-Kershaw 96
-Kershaw 100
-Kershaw 111
-Kershaw 113
-Kershaw 130
-Kershaw 131
-Kershaw 132
-Kershaw 133
-Kershaw 139
-Kershaw 145
-Kershaw 169
-Kershaw 185
-Kershaw 213
-Kershaw 304
-Kershaw 306
-Kershaw 313
-Kershaw 318
-Kershaw 338
-Kershaw 348
-Kershaw 350
-Kershaw 353
-Kershaw 356
-Kershaw 357
-Kershaw 368
-Kershaw 406
-Kershaw 407
-Kershaw 440
-Kershaw 512
-Kershaw 530
-Kershaw 535
-Kershaw 547
-Kershaw 549
-Kershaw 551
-Kershaw 552
-Kershaw 564
-Kershaw 571
-Kershaw 592
-Kershaw 600
-Kershaw 700
-Kershaw 711
-Kershaw 731
-Kershaw 746
-Kershaw 756
-Kershaw 808
-Kershaw 820
-Kershaw 835
-Kershaw 894
-Kershaw 910
-Kershaw 916
-Kershaw 989
-Lexington 24
-Lexington 30
-Lexington 31
-Lexington 34
-Lexington 47
-Lexington 54
-Lexington 70
-Lexington 71
-Lexington 77
-Lexington 86
-Lexington 91
-Lexington 113
-Lexington 115
-Lexington 124
-Lexington 158
-Lexington 167
-Lexington 169
-Lexington 172
-Lexington 204
-Lexington 274
-Lexington 277
-Lexington 278
-Lexington 301
-Lexington 357
-Lexington 386
-Lexington 879
-Lexington 880
-Lexington 897
-Lexington 921
-Lexington 955
-Lexington 1063
-Lexington 1065
-Lexington 1082
-Lexington 1265
-Lexington 1537
-Lexington 1612
-Marlboro 36
-Marlboro 97
-Marlboro 113
-Marlboro 133
-Marlboro 262
-Marlboro 266
-Marlboro 267
-Marlboro 312
-Richland 52
-Richland 53
-Richland 955
-Richland 1274
+SC Chesterfield 20
+SC Chesterfield 29
+SC Chesterfield 31
+SC Chesterfield 36
+SC Chesterfield 46
+SC Chesterfield 63
+SC Chesterfield 69
+SC Chesterfield 81
+SC Chesterfield 86
+SC Chesterfield 143
+SC Chesterfield 188
+SC Chesterfield 204
+SC Chesterfield 229
+SC Chesterfield 247
+SC Chesterfield 296
+SC Chesterfield 326
+SC Chesterfield 380
+SC Chesterfield 388
+SC Chesterfield 406
+SC Chesterfield 426
+SC Chesterfield 491
+SC Chesterfield 534
+SC Chesterfield 538
+SC Chesterfield 581
+SC Chesterfield 606
+SC Chesterfield 607
+SC Chesterfield 1088
+SC Kershaw 15
+SC Kershaw 21
+SC Kershaw 26
+SC Kershaw 36
+SC Kershaw 38
+SC Kershaw 42
+SC Kershaw 45
+SC Kershaw 48
+SC Kershaw 51
+SC Kershaw 52
+SC Kershaw 59
+SC Kershaw 81
+SC Kershaw 82
+SC Kershaw 89
+SC Kershaw 96
+SC Kershaw 100
+SC Kershaw 111
+SC Kershaw 113
+SC Kershaw 130
+SC Kershaw 131
+SC Kershaw 132
+SC Kershaw 133
+SC Kershaw 139
+SC Kershaw 145
+SC Kershaw 169
+SC Kershaw 185
+SC Kershaw 213
+SC Kershaw 304
+SC Kershaw 306
+SC Kershaw 313
+SC Kershaw 318
+SC Kershaw 338
+SC Kershaw 348
+SC Kershaw 350
+SC Kershaw 353
+SC Kershaw 356
+SC Kershaw 357
+SC Kershaw 368
+SC Kershaw 406
+SC Kershaw 407
+SC Kershaw 440
+SC Kershaw 512
+SC Kershaw 530
+SC Kershaw 535
+SC Kershaw 547
+SC Kershaw 549
+SC Kershaw 551
+SC Kershaw 552
+SC Kershaw 564
+SC Kershaw 571
+SC Kershaw 592
+SC Kershaw 600
+SC Kershaw 700
+SC Kershaw 711
+SC Kershaw 731
+SC Kershaw 746
+SC Kershaw 756
+SC Kershaw 808
+SC Kershaw 820
+SC Kershaw 835
+SC Kershaw 894
+SC Kershaw 910
+SC Kershaw 916
+SC Kershaw 989
+SC Lexington 24
+SC Lexington 30
+SC Lexington 31
+SC Lexington 34
+SC Lexington 47
+SC Lexington 54
+SC Lexington 70
+SC Lexington 71
+SC Lexington 77
+SC Lexington 86
+SC Lexington 91
+SC Lexington 113
+SC Lexington 115
+SC Lexington 124
+SC Lexington 158
+SC Lexington 167
+SC Lexington 169
+SC Lexington 172
+SC Lexington 204
+SC Lexington 274
+SC Lexington 277
+SC Lexington 278
+SC Lexington 301
+SC Lexington 357
+SC Lexington 386
+SC Lexington 879
+SC Lexington 880
+SC Lexington 897
+SC Lexington 921
+SC Lexington 955
+SC Lexington 1063
+SC Lexington 1065
+SC Lexington 1082
+SC Lexington 1265
+SC Lexington 1537
+SC Lexington 1612
+SC Marlboro 36
+SC Marlboro 97
+SC Marlboro 113
+SC Marlboro 133
+SC Marlboro 262
+SC Marlboro 266
+SC Marlboro 267
+SC Marlboro 312
+SC Richland 52
+SC Richland 53
+SC Richland 955
+SC Richland 1274
 US-287
 I-35
 I-820 (TX)
@@ -1881,8 +1881,8 @@ I-83
 I-81
 I-86 (NY)
 NY-17
-Broome 217
-Broome 303
+NY Broome 217
+NY Broome 303
 NY-7
 I-88
 US-20
@@ -1933,112 +1933,112 @@ NC-177
 NC-211
 NC-540
 NC-690
-Chatham 1011
-Chatham 1012
-Franklin 1127
-Franklin 1133
-Franklin 1135
-Franklin 1138
-Franklin 1147
-Franklin 1148
-Franklin 1204
-Franklin 1206
-Franklin 1207
-Franklin 1263
-Lee 1009
-Lee 1182
-Lee 1237
-Lee 1300
-Lee 1303
-Lee 1415
-Lee 1423
-Lee 1466
-Lee 1560
-Moore 1001
-Moore 1007
-Moore 1102
-Moore 1112
-Moore 1156
-Moore 1205
-Moore 1803
-Moore 1821
-Moore 1825
-Moore 1848
-Moore 1853
-Moore 1864
-Moore 1870
-Moore 2000
-Moore 2005
-Moore 2026
-Moore 2032
-Moore 2053
-Moore 2055
-Moore 2080
-Moore 2088
-Moore 2099
-Moore 2118
-Moore 2124
-Moore 2160
-Moore 2164
-Richmond 1001
-Richmond 1004
-Richmond 1100
-Richmond 1103
-Richmond 1104
-Richmond 1106
-Richmond 1108
-Richmond 1423
-Richmond 1424
-Richmond 1426
-Richmond 1442
-Richmond 1475
-Richmond 1479
-Richmond 1484
-Richmond 1503
-Richmond 1504
-Richmond 1528
-Richmond 1600
-Richmond 1643
-Richmond 1646
-Richmond 1696
-Richmond 1903
-Richmond 1966
-Richmond 1974
-Vance 1001
-Vance 1107
-Vance 1113
-Vance 1115
-Vance 1138
-Vance 1148
-Vance 1173
-Vance 1178
-Vance 1210
-Vance 1211
-Vance 1219
-Vance 1266
-Vance 1312
-Vance 1369
-Vance 1376
-Vance 1501
-Vance 1507
-Vance 1518
-Vance 1548
-Vance 1552
-Vance 1595
-Warren 1213
-Warren 1233
-Warren 1305
-Wake 1127
-Wake 1909
-Wake 1929
-Wake 1931
-Wake 1932
-Wake 2006
-Wake 2044
-Wake 2045
-Wake 2049
-Wake 2089
-Wake 2182
+NC Chatham 1011
+NC Chatham 1012
+NC Franklin 1127
+NC Franklin 1133
+NC Franklin 1135
+NC Franklin 1138
+NC Franklin 1147
+NC Franklin 1148
+NC Franklin 1204
+NC Franklin 1206
+NC Franklin 1207
+NC Franklin 1263
+NC Lee 1009
+NC Lee 1182
+NC Lee 1237
+NC Lee 1300
+NC Lee 1303
+NC Lee 1415
+NC Lee 1423
+NC Lee 1466
+NC Lee 1560
+NC Moore 1001
+NC Moore 1007
+NC Moore 1102
+NC Moore 1112
+NC Moore 1156
+NC Moore 1205
+NC Moore 1803
+NC Moore 1821
+NC Moore 1825
+NC Moore 1848
+NC Moore 1853
+NC Moore 1864
+NC Moore 1870
+NC Moore 2000
+NC Moore 2005
+NC Moore 2026
+NC Moore 2032
+NC Moore 2053
+NC Moore 2055
+NC Moore 2080
+NC Moore 2088
+NC Moore 2099
+NC Moore 2118
+NC Moore 2124
+NC Moore 2160
+NC Moore 2164
+NC Richmond 1001
+NC Richmond 1004
+NC Richmond 1100
+NC Richmond 1103
+NC Richmond 1104
+NC Richmond 1106
+NC Richmond 1108
+NC Richmond 1423
+NC Richmond 1424
+NC Richmond 1426
+NC Richmond 1442
+NC Richmond 1475
+NC Richmond 1479
+NC Richmond 1484
+NC Richmond 1503
+NC Richmond 1504
+NC Richmond 1528
+NC Richmond 1600
+NC Richmond 1643
+NC Richmond 1646
+NC Richmond 1696
+NC Richmond 1903
+NC Richmond 1966
+NC Richmond 1974
+NC Vance 1001
+NC Vance 1107
+NC Vance 1113
+NC Vance 1115
+NC Vance 1138
+NC Vance 1148
+NC Vance 1173
+NC Vance 1178
+NC Vance 1210
+NC Vance 1211
+NC Vance 1219
+NC Vance 1266
+NC Vance 1312
+NC Vance 1369
+NC Vance 1376
+NC Vance 1501
+NC Vance 1507
+NC Vance 1518
+NC Vance 1548
+NC Vance 1552
+NC Vance 1595
+NC Warren 1213
+NC Warren 1233
+NC Warren 1305
+NC Wake 1127
+NC Wake 1909
+NC Wake 1929
+NC Wake 1931
+NC Wake 1932
+NC Wake 2006
+NC Wake 2044
+NC Wake 2045
+NC Wake 2049
+NC Wake 2089
+NC Wake 2182
 VA-46
 US-460
 VA-153
@@ -2058,9 +2058,9 @@ MD-273
 MD-272
 I-295 (NJ)
 NJ-700
-Camden 732
-Cumberland 732
-Hudson 732
+NJ Camden 732
+NJ Cumberland 732
+NJ Hudson 732
 FL-732
 MD-732
 OH-732
@@ -2114,9 +2114,9 @@ LA-303
 MD-303
 MN-303
 NY-303
-Albany 303
-Erie 303
-Westchester 303
+NY Albany 303
+NY Erie 303
+NY Westchester 303
 OH-303
 SC-303
 TN-303
@@ -2156,29 +2156,29 @@ MD-20
 MA-20A
 MI-20
 MN-20
-Goodhue 20
+MN Goodhue 20
 MO-20
 NJ-20
 NM-20
-Allegany 20
-Clinton 20
-Columbia 20
-Delaware 20
-Dutchess 20
-Genesee 20
-Livingston 20
-Niagara 20
-Ontario 20
-Orange 20
-Oswego 20
-Otsego 20
-Putnam 20
-Rensselaer 20
-Rockland 20
-Suffolk 20
-Ulster 20
-Washington 20
-Yates 20
+NY Allegany 20
+NY Clinton 20
+NY Columbia 20
+NY Delaware 20
+NY Dutchess 20
+NY Genesee 20
+NY Livingston 20
+NY Niagara 20
+NY Ontario 20
+NY Orange 20
+NY Oswego 20
+NY Otsego 20
+NY Putnam 20
+NY Rensselaer 20
+NY Rockland 20
+NY Suffolk 20
+NY Ulster 20
+NY Washington 20
+NY Yates 20
 NC-20
 ND-20
 OK-20
@@ -2215,17 +2215,17 @@ WA-206
 I-65
 US-65
 AL-65
-Lee 65
+AL Lee 65
 CA-65
 CO-65
 FL-65
-Franklin 65
-Gadsden 65
-Gadsden 65A
-Gadsden 65B
-Gadsden 65C
-Gadsden 65D
-Holmes 65
+FL Franklin 65
+FL Gadsden 65
+FL Gadsden 65A
+FL Gadsden 65B
+FL Gadsden 65C
+FL Gadsden 65D
+FL Holmes 65
 GA-65
 HI-65
 IL-65
@@ -2234,30 +2234,30 @@ KS-65
 MD-65
 MI-65
 MN-65
-Ramsey 65
+MN Ramsey 65
 NE-65
 NE Spur 65A
-Bergen 65
+NJ Bergen 65
 NM-65
 NY-65
-Cattaraugus 65
-Chautauqua 65
-Dutchess 65
-Erie 65
-Greene 65
-Herkimer 65
-Jefferson 65
-Livingston 65
-Oneida 65
-Orange 65
-Putnam 65
-Rensselaer 65
-Rockland 65
-Saratoga 65
-Schoharie 65
-Suffolk 65
-Sullivan 65
-Ulster 65
+NY Cattaraugus 65
+NY Chautauqua 65
+NY Dutchess 65
+NY Erie 65
+NY Greene 65
+NY Herkimer 65
+NY Jefferson 65
+NY Livingston 65
+NY Oneida 65
+NY Orange 65
+NY Putnam 65
+NY Rensselaer 65
+NY Rockland 65
+NY Saratoga 65
+NY Schoharie 65
+NY Suffolk 65
+NY Sullivan 65
+NY Ulster 65
 NC-65
 ND-65
 OH-65
@@ -2283,11 +2283,11 @@ CA CR J33
 CA CR S33
 CT-33
 FL-33
-Lake 33
+FL Lake 33
 GA-33
 ID-33
 IL-33
-Elkhart 33
+IN Elkhart 33
 KS-33
 KY-33
 LA-33
@@ -2295,38 +2295,38 @@ MD-33
 MA-33
 MI-33
 MN-33
-Ramsey 33
-Sherburne 33
+MN Ramsey 33
+MN Sherburne 33
 MS-33
 MO-33
 NE-33
 NH-33
 NJ-33
-Bergen 33
-Bergen S33
-Monmouth 33
+NY Bergen 33
+NY Bergen S33
+NY Monmouth 33
 NY-33
-Broome 33
-Cattaraugus 33
-Chautauqua 33
-Dutchess 33
-Erie 33
-Lewis 33
-Onondaga 33
-Ontario 33
-Orange 33
-Oswego 33
-Otsego 33
-Putnam 33
-Rockland 33
-Saratoga 33
-Schenectady 33
-Schoharie 33
-Suffolk 33
-Sullivan 33
-Tioga 33
-Ulster 33
-Yates 33
+NY Broome 33
+NY Cattaraugus 33
+NY Chautauqua 33
+NY Dutchess 33
+NY Erie 33
+NY Lewis 33
+NY Onondaga 33
+NY Ontario 33
+NY Orange 33
+NY Oswego 33
+NY Otsego 33
+NY Putnam 33
+NY Rockland 33
+NY Saratoga 33
+NY Schenectady 33
+NY Schoharie 33
+NY Suffolk 33
+NY Sullivan 33
+NY Tioga 33
+NY Ulster 33
+NY Yates 33
 NC-33
 OK-33
 PA-33
@@ -2360,54 +2360,54 @@ OH-633
 PA-633
 TX FM 633
 VA SR 633
-Atlantic 633
-Burlington 633
-Camden 633
-Cape May 633
-Cumberland 633
-Essex 633
-Gloucester 633
-Hudson 633
-Hunterdon 633
-Mercer 633
-Morris 633
-Morris Alt 633
-Ocean 633
-Passaic 633
-Salem 633
-Somerset 633
-Sussex 633
-Union 633
-Warren 633
+NJ Atlantic 633
+NJ Burlington 633
+NJ Camden 633
+NJ Cape May 633
+NJ Cumberland 633
+NJ Essex 633
+NJ Gloucester 633
+NJ Hudson 633
+NJ Hunterdon 633
+NJ Mercer 633
+NJ Morris 633
+NJ Morris Alt 633
+NJ Ocean 633
+NJ Passaic 633
+NJ Salem 633
+NJ Somerset 633
+NJ Sussex 633
+NJ Union 633
+NJ Warren 633
 MD-632
 PA-632
 TX FM 632
 VA SR 632
-Burlington 632
-Camden 632
-Cape May 632
-Essex 632
-Gloucester 632
-Hudson 632
-Mercer 632
-Middlesex 632A
-Middlesex 632B
-Middlesex 632C
-Middlesex 632D
-Middlesex 632E
-Morris 632
-Ocean 632
-Passaic 632
-Salem 632
-Somerset 632
-Sussex 632
-Union 632
-Warren 632
+NJ Burlington 632
+NJ Camden 632
+NJ Cape May 632
+NJ Essex 632
+NJ Gloucester 632
+NJ Hudson 632
+NJ Mercer 632
+NJ Middlesex 632A
+NJ Middlesex 632B
+NJ Middlesex 632C
+NJ Middlesex 632D
+NJ Middlesex 632E
+NJ Morris 632
+NJ Ocean 632
+NJ Passaic 632
+NJ Salem 632
+NJ Somerset 632
+NJ Sussex 632
+NJ Union 632
+NJ Warren 632
 GA-339
 LA-339
 NV-339
 NY-339
-Saratoga 339
+NY Saratoga 339
 OH-339
 OR-339
 PA-339
@@ -2427,7 +2427,7 @@ WY-391
 I-91
 US-91
 AL-91
-Lee 91
+AL Lee 91
 AR-91
 CA-91
 CO-91
@@ -2441,25 +2441,25 @@ ME-91
 MD-91
 MI-91
 MN-91
-St. Louis 91
+MN St. Louis 91
 MO-91
 NE-91
 NE Link 91D
 NE Spur 91A
 NE Spur 91B
 NJ-91
-Bergen 91
+NJ Bergen 91
 NM-91
 NY-91
-Herkimer 91
-Monroe 91
-Niagara 91
-Oneida 91
-Onondaga 91
-Rensselaer 91
-Schenectady 91
-Suffolk 91
-Sullivan 91
+NY Herkimer 91
+NY Monroe 91
+NY Niagara 91
+NY Oneida 91
+NY Onondaga 91
+NY Rensselaer 91
+NY Schenectady 91
+NY Suffolk 91
+NY Sullivan 91
 NC-91
 ND-91
 OH-91
@@ -2475,7 +2475,7 @@ WY-91
 I-86 (ID)
 I-86 (NY)
 AL-86
-Lee 86
+AL Lee 86
 AZ-86
 AR-86
 CA-86
@@ -2493,13 +2493,13 @@ MO-86
 MT-86
 NE Spur 86B
 NY-86
-Broome 86
-Cattaraugus 86
-Chautauqua 86
-Dutchess 86
-Montgomery 86
-Rockland 86
-Suffolk 86
+NY Broome 86
+NY Cattaraugus 86
+NY Chautauqua 86
+NY Dutchess 86
+NY Montgomery 86
+NY Rockland 86
+NY Suffolk 86
 NC-86
 OH-86
 OK-86
@@ -2522,24 +2522,24 @@ MD-611
 OH-611
 PA-611
 VA SR 611
-Atlantic 611
-Burlington 611
-Camden 611
-Cape May 611
-Cumberland 611
-Essex 611
-Gloucester 611
-Hudson 611
-Hunterdon 611
-Mercer 611
-Middlesex 611
-Morris 611
-Ocean 611
-Passaic 611
-Salem 611
-Sussex 611
-Union 611
-Warren 611
+NJ Atlantic 611
+NJ Burlington 611
+NJ Camden 611
+NJ Cape May 611
+NJ Cumberland 611
+NJ Essex 611
+NJ Gloucester 611
+NJ Hudson 611
+NJ Hunterdon 611
+NJ Mercer 611
+NJ Middlesex 611
+NJ Morris 611
+NJ Ocean 611
+NJ Passaic 611
+NJ Salem 611
+NJ Sussex 611
+NJ Union 611
+NJ Warren 611
 I-11
 US-11
 Lee 11
@@ -2564,42 +2564,42 @@ KY-11
 ME-11
 MI-11
 MN-11
-Dakota 11
-Goodhue 11
+MN Dakota 11
+MN Goodhue 11
 MO-11
 NE-11
 NH-11
 NH-11D
-Monmouth 11
+NJ Monmouth 11
 NM-11
-Albany 11
-Allegany 11
-Chenango 11
-Clinton 11
-Columbia 11
-Delaware 11
-Erie 11
-Essex 11
-Genesee 11
-Lewis 11
-Madison 11
-Monroe 11
-Niagara 11
-Oneida 11
-Ontario 11
-Orange 11
-Otsego 11
-Putnam 11
-Rockland 11
-Schoharie 11
-Schuyler 11
-Steuben 11
-Suffolk 11
-Sullivan 11
-Tioga 11
-Ulster 11
-Warren 11
-Wyoming 11
+NY Albany 11
+NY Allegany 11
+NY Chenango 11
+NY Clinton 11
+NY Columbia 11
+NY Delaware 11
+NY Erie 11
+NY Essex 11
+NY Genesee 11
+NY Lewis 11
+NY Madison 11
+NY Monroe 11
+NY Niagara 11
+NY Oneida 11
+NY Ontario 11
+NY Orange 11
+NY Otsego 11
+NY Putnam 11
+NY Rockland 11
+NY Schoharie 11
+NY Schuyler 11
+NY Steuben 11
+NY Suffolk 11
+NY Sullivan 11
+NY Tioga 11
+NY Ulster 11
+NY Warren 11
+NY Wyoming 11
 NC-11
 ND-11
 OH-11
@@ -2627,30 +2627,30 @@ LA-655
 MD-655
 PA-655
 TX FM 655
-Atlantic 655
-Burlington 655
-Camden 655
-Cape May 655
-Cumberland 655
-Essex 655
-Gloucester 655
-Hudson 655
-Middlesex 655
-Morris 655
-Morris Alt 655
-Passaic 655
-Salem 655
-Somerset 655
-Sussex 655
-Union 655
-Warren 655
+NJ Atlantic 655
+NJ Burlington 655
+NJ Camden 655
+NJ Cape May 655
+NJ Cumberland 655
+NJ Essex 655
+NJ Gloucester 655
+NJ Hudson 655
+NJ Middlesex 655
+NJ Morris 655
+NJ Morris Alt 655
+NJ Passaic 655
+NJ Salem 655
+NJ Somerset 655
+NJ Sussex 655
+NJ Union 655
+NJ Warren 655
 LA-554
 NJ CR 554
 OH-554
 PA-554
 OH-735
-Cumberland 735
-Hudson 735
+NJ Cumberland 735
+NJ Hudson 735
 US-422
 OH-14
 I-77
@@ -2711,80 +2711,80 @@ PA-796
 PA-841
 PA-896
 PA-915
-Bucks 2020
-Bucks 2022
-Bucks 2025
-Bucks 2027
-Bucks 2029
-Bucks 2033
-Bucks 2037
-Bucks 2044
-Bucks 2047
-Bucks 2049
-Bucks 2050
-Bucks 2058
-Bucks 2069
-Bucks 2071
-Chester 3001
-Chester 3016
-Chester 3026
-Chester 3035
-Chester 3044
-Chester 3085
-Chester 3089
-Chester 3192
-Chester 3195
-Chester 3196
-Chester 3198
-Chester 3199
-Delaware 1003
-Delaware 1005
-Delaware 1008
-Delaware 2003
-Delaware 2005
-Delaware 2007
-Delaware 2009
-Delaware 2016
-Delaware 2026
-Delaware 3007
-Delaware 3027
-Delaware 3029
-Delaware 3036
-Delaware 3101
-Delaware 4005
-Delaware 4009
-Delaware 4015
-Delaware 4019
-Delaware 4020
-Delaware 4022
-Montgomery 3043
-Montgomery 3044
-Montgomery 3045
-Montgomery 3061
-Philadelphia 1001
-Philadelphia 1002
-Philadelphia 1003
-Philadelphia 1005
-Philadelphia 1008
-Philadelphia 1009
-Philadelphia 1011
-Philadelphia 1014
-Philadelphia 1016
-Philadelphia 1018
-Philadelphia 2009
-Philadelphia 3005
-Philadelphia 3007
-Philadelphia 3009
-Philadelphia 3012
-Philadelphia 3015
-Philadelphia 3017
-Philadelphia 3018
-Philadelphia 4001
-Philadelphia 4003
-Philadelphia 4005
-Philadelphia 4006
-Philadelphia 4007
-Philadelphia 4009
+PA Bucks 2020
+PA Bucks 2022
+PA Bucks 2025
+PA Bucks 2027
+PA Bucks 2029
+PA Bucks 2033
+PA Bucks 2037
+PA Bucks 2044
+PA Bucks 2047
+PA Bucks 2049
+PA Bucks 2050
+PA Bucks 2058
+PA Bucks 2069
+PA Bucks 2071
+PA Chester 3001
+PA Chester 3016
+PA Chester 3026
+PA Chester 3035
+PA Chester 3044
+PA Chester 3085
+PA Chester 3089
+PA Chester 3192
+PA Chester 3195
+PA Chester 3196
+PA Chester 3198
+PA Chester 3199
+PA Delaware 1003
+PA Delaware 1005
+PA Delaware 1008
+PA Delaware 2003
+PA Delaware 2005
+PA Delaware 2007
+PA Delaware 2009
+PA Delaware 2016
+PA Delaware 2026
+PA Delaware 3007
+PA Delaware 3027
+PA Delaware 3029
+PA Delaware 3036
+PA Delaware 3101
+PA Delaware 4005
+PA Delaware 4009
+PA Delaware 4015
+PA Delaware 4019
+PA Delaware 4020
+PA Delaware 4022
+PA Montgomery 3043
+PA Montgomery 3044
+PA Montgomery 3045
+PA Montgomery 3061
+PA Philadelphia 1001
+PA Philadelphia 1002
+PA Philadelphia 1003
+PA Philadelphia 1005
+PA Philadelphia 1008
+PA Philadelphia 1009
+PA Philadelphia 1011
+PA Philadelphia 1014
+PA Philadelphia 1016
+PA Philadelphia 1018
+PA Philadelphia 2009
+PA Philadelphia 3005
+PA Philadelphia 3007
+PA Philadelphia 3009
+PA Philadelphia 3012
+PA Philadelphia 3015
+PA Philadelphia 3017
+PA Philadelphia 3018
+PA Philadelphia 4001
+PA Philadelphia 4003
+PA Philadelphia 4005
+PA Philadelphia 4006
+PA Philadelphia 4007
+PA Philadelphia 4009
 NJ-35
 NJ-35
 NJ-35
@@ -2805,18 +2805,297 @@ NY-912
 NY-981
 NY-982
 NY-983
-Westchester 7
-Westchester 15
-Westchester 38
-Westchester 43
-Westchester 65
-Westchester 70
-Westchester 73
-Westchester 75i
-Westchester 81
-Westchester 92
-Westchester 112
-Westchester 134
-Westchester 151
-Westchester 152
-Westchester 155
+NY Westchester 7
+NY Westchester 15
+NY Westchester 38
+NY Westchester 43
+NY Westchester 65
+NY Westchester 70
+NY Westchester 73
+NY Westchester 75i
+NY Westchester 81
+NY Westchester 92
+NY Westchester 112
+NY Westchester 134
+NY Westchester 151
+NY Westchester 152
+NY Westchester 155
+AL-32
+AR-32
+CA-32
+CA CR J32
+CA CR S32
+CT-32
+FL-32
+FL Levy 32
+GA-32
+HI-32
+ID-32
+IL-32
+IN-32
+IA-32
+KS-32
+KY-32
+ME-32
+MD-32
+MD-32AA
+MD-32AH
+MD-32B
+MA-32
+MN-32
+MN Anoka 32
+MN Dakota 32
+MN Hennepin 32
+MN Ramsey 32
+MN St. Louis 32
+MS-32
+MO-32
+NE-32
+NH-32
+NJ-32
+NJ Bergen 32
+NJ Bergen S32
+NJ Monmouth 32
+NJ Ocean 32
+NM-32
+NY-32
+NC-32
+ND-32
+OH-32
+OK-32
+PA-32
+SD-32
+TN-32
+TX RM 32
+TX Park 32
+UT-32
+VA-32
+WV-32
+WI-32
+WY-32
+I-17
+US-17
+AL-17
+AL Lee 17
+AR-17
+CA-17
+CA CR A17
+CA CR E17
+CA CR G17
+CA CR J17
+CA CR S17
+CO-17
+CT-17
+DE-17
+FL-17
+FL Polk 17
+GA-17
+IL-17
+IN-17
+IN Elkhart 17
+IA-17
+KS-17
+KY-17
+LA-17
+ME-17
+MD-17
+MI-17
+MN Anoka 17
+MN Chisago 17
+MN Hennepin 17
+MN Scott 17
+MS-17
+MO-17
+MT-17
+NE-17
+NJ-17
+NJ Monmouth 17
+NY-17
+NY-17K
+NY-17M
+NY Allegany 17
+NY Cattaraugus 17
+NY Clinton 17
+NY Columbia 17
+NY Delaware 17
+NY Dutchess 17
+NY Essex 17
+NY Franklin 17
+NY Genessee 17
+NY Niagara 17
+NY Oneida 17
+NY Ontario 17
+NY Orange 17
+NY Oswego 17
+NY Otsego 17
+NY Putnam 17
+NY Rockland 17
+NY Schoharie 17
+NY Schuyler 17
+NY St. Lawrence 17
+NY Steuben 17
+NY Suffolk 17
+NY Tioga 17
+NY Warren 17
+NY Washington 17
+NY Yates 17
+ND-17
+OH-17
+OK-17
+PA-17
+SD-17
+TN-17
+TX-17
+TX Spur 17
+TX FM 17
+TX Park 17
+UT-17
+VT-17
+WA-17
+WV-17
+WI-17
+I-172
+AL-172
+CA-172
+CO-172
+CT-172
+GA-172
+IL-172
+KY-172
+LA-172
+ME-172
+MD-172
+MN-172
+MS-172
+MO-172
+NV-172
+NJ-172
+NM-172
+NY-172
+NC-172
+OH-172
+SC-172
+TN-172
+TX-172
+TX Loop 172
+TX Spur 172
+UT-172
+VA-172
+WA-172
+WI-172
+WY-172
+AR-336
+FL Levy 336
+FL Marion 336
+IL-336
+LA-336
+LA-336-1
+LA-336-2
+MD-336
+MN-336
+NY-336
+NY Erie 336
+SC-336
+TN-336
+TX-336
+TX Loop 336
+VA-336
+WY-336
+AR-326
+FL-326
+FL Levy 326
+FL Marion 326
+GA-326
+KY-326
+LA-326
+MD-326
+MT-326
+NY-326
+OH-326
+PA-326
+TN-326
+TX-326
+TX Spur 326
+TX FM 326
+VA-326
+US-431
+FL-431
+FL Seminole 431
+FL Seminole 431B
+NV-431
+NY-431
+TN-431
+TX FM 431
+WA-431
+WY-431
+AR-239
+AR-239 Spur
+AL-239
+CA-239
+CO-239
+KS-239
+KY-239
+MD-239
+MI-239
+OH-239
+PA-239
+SD-239
+TN-239
+TX-239
+TX Loop 239
+TX Spur 239
+VA-239
+WY-239
+AL-247
+AR-247
+CA-247
+FL-247
+GA-247
+KS-247
+KY-247
+MD-247
+MN-247
+MT SR 247
+NM-247
+NY-247
+OH-247
+PA-247
+SC-247
+SD-247
+TN-247
+TX Spur 247
+TX FM 247
+VA-247
+I-471
+AL Chilton 471
+AL Dallas 471
+AL Jackson 471
+AL Lee 471
+AL Randolph 471
+AR-471
+FL-471
+KY-471
+LA-471
+MD-471
+NC-471
+PA-471
+SD-471
+TX Loop 471
+TX Spur 471
+TX FM 471
+US-420
+FL Orange 420
+LA-420
+NM-420
+NY-420
+OH-420
+PA-420
+SC-420
+TN-420
+TX FM 420
+VA-420
+KY-420
+FL-727
+MD-727
+TX FM 727
+OH-621

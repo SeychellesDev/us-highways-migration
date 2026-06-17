@@ -8,7 +8,7 @@ $fileDir = '';
 $incm = 0.0;
 $inck = 0.0;
 
-echo($argv[1] . ' ' .  $argv[2] . ' ' . $argv[3] . ' ' . $argv[4] . ' ' . $argv[5] ."\n");
+echo($argv[1] . '.php ' .  $argv[2] . 'mi ' . $argv[3] . 'km ln' . $argv[4] . ' to ln' . $argv[5] ."\n");
 
 if($argc == 6) {
     $fileDir = $argv[1];
@@ -24,14 +24,14 @@ if($argc == 6) {
         $middle = implode("\n", array_slice($lines, $start, $end - $start));
         $after = implode("\n", array_slice($lines, $end));
         $count = 0;
-        $pattern = '/<td class="content text-dark small">([\d.]+) mi \( \+ ([\d.-]+) mi \)<\/td>\s*<td class="content text-dark small">([\d.]+) km \( \+ ([\d.-]+) km \)<\/td>/i';
+        $pattern = '/<td\s+class="content\s+text-dark\s+small">\s*([\d.]+)\s*mi\s*<br><h4\s+class="small\s+incr">\s*\+\s*([\d.-]+)\s*mi\s*<\/h4>\s*<\/td>\s*<td\s+class="content\s+text-dark\s+small">\s*([\d.]+)\s*km\s*<br><h4\s+class="small\s+incr">\s*\+\s*([\d.-]+)\s*km\s*<\/h4>\s*<\/td>/i';
         $middle = preg_replace_callback($pattern, function ($matches) use ($incm, $inck) {
             $miles = floatval($matches[1]);
             $milesChange = floatval($matches[2]);
             $km = floatval($matches[3]);
             $kmChange = floatval($matches[4]);
-            return "<td class=\"content text-dark small\">" . number_format($miles + $incm, 2, '.', '') . " mi ( + " . number_format($milesChange, 2, '.', '') . " mi )</td>\n" .
-                    "                    <td class=\"content text-dark small\">" . number_format($km + $inck, 2, '.', '') . " km ( + " . number_format($kmChange, 2, '.', '') . " km )</td>";
+            return "<td class=\"content text-dark small\">" . number_format($miles + $incm, 2, '.', '') . " mi<br><h4 class=\"small incr\">+ " . number_format($milesChange, 2, '.', '') . " mi</h4></td>\n" .
+                    "                    <td class=\"content text-dark small\">" . number_format($km + $inck, 2, '.', '') . " km<br><h4 class=\"small incr\">+ " . number_format($kmChange, 2, '.', '') . " km</h4></td>";
         }, $middle, -1, $count);
         $content = rtrim($before, "\n") . "\n" . $middle . "\n" . $after;
         file_put_contents($path, $content);

@@ -15,6 +15,7 @@
 - Wikipedia List of Kentucky Supplemental/Secondary Routes (#3500-6999) [https://en.wikipedia.org/wiki/List_of_Kentucky_supplemental_roads_and_rural_secondary_highways_(3500%E2%80%936999)]
 - Wikipedia List of Reference Routes in New York [https://en.wikipedia.org/wiki/List_of_reference_routes_in_New_York]
 - Wikipedia List of Special Service Roads in Connecticut [https://en.wikipedia.org/wiki/List_of_special_service_roads_in_Connecticut]
+- Wikipedia List of State Roads in Connecticut [https://en.wikipedia.org/wiki/List_of_state_roads_in_Connecticut]
 - Wikipedia List of United States Numbered Highways [https://en.wikipedia.org/wiki/List_of_United_States_Numbered_Highways]
 - Wikipedia List of US-1 Special Routes [https://en.wikipedia.org/wiki/Special_routes_of_U.S._Route_1]
 - Wikipedia List of State Routes by State [https://en.wikipedia.org/wiki/Category:State_highways_in_the_United_States]

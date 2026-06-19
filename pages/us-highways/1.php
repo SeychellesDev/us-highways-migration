@@ -10203,8 +10203,540 @@
                 <tr>
                     <td class="content text-dark small">1587.29 mi<br><h4 class="small incr">+ 1.49 mi</h4></td>
                     <td class="content text-dark small">2554.18 km<br><h4 class="small incr">+ 2.40 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ct/127.php">CT-127 - E Main St</a>, Bridgeport, Connecticut 06606</td>
-                    <td class="content text-dark">Boston Ave, Bridgeport, Connecticut 06606</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Ave, Stratford, Connecticut 06614</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1587.63 mi<br><h4 class="small incr">+ 0.34 mi</h4></td>
+                    <td class="content text-dark small">2554.72 km<br><h4 class="small incr">+ 0.54 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Barnum Ave, Stratford, Connecticut 06614</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1588.40 mi<br><h4 class="small incr">+ 0.77 mi</h4></td>
+                    <td class="content text-dark small">2555.96 km<br><h4 class="small incr">+ 1.24 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/108.php">CT-108 - Nichols Ave</a>, Stratford, Connecticut 06614</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1588.56 mi<br><h4 class="small incr">+ 0.16 mi</h4></td>
+                    <td class="content text-dark small">2556.22 km<br><h4 class="small incr">+ 0.26 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/113.php">CT-113 - Main St</a>, Stratford, Connecticut 06614</td>
+                    <td class="content text-dark">Barnum Avenue Cut, Stratford, Connecticut 06614</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1589.22 mi<br><h4 class="small incr">+ 0.66 mi</h4></td>
+                    <td class="content text-dark small">2557.28 km<br><h4 class="small incr">+ 1.06 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/130.php">CT-130 - Barnum Avenue Cut (SB)</a>, Stratford, Connecticut 06614</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1589.26 mi<br><h4 class="small incr">+ 0.04 mi</h4></td>
+                    <td class="content text-dark small">2557.35 km<br><h4 class="small incr">+ 0.07 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Stratford, Connecticut 06614</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1589.30 mi<br><h4 class="small incr">+ 0.04 mi</h4></td>
+                    <td class="content text-dark small">2557.42 km<br><h4 class="small incr">+ 0.07 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/130.php">CT-130 - Ferry Blvd (NB)</a>, Stratford, Connecticut 06614</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1589.46 mi<br><h4 class="small incr">+ 0.16 mi</h4></td>
+                    <td class="content text-dark small">2557.69 km<br><h4 class="small incr">+ 0.27 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/110.php">CT-110 - E Main St</a>, Stratford, Connecticut 06614</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1589.69 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
+                    <td class="content text-dark small">2558.07 km<br><h4 class="small incr">+ 0.38 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Bridgeport Ave, Milford, Connecticut 06461</td>
+                    <td class="content text-dark">End Fairfield County<br>Start New Haven County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1590.66 mi<br><h4 class="small incr">+ 0.97 mi</h4></td>
+                    <td class="content text-dark small">2559.64 km<br><h4 class="small incr">+ 1.57 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Milford, Connecticut 06461</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1591.66 mi<br><h4 class="small incr">+ 1.00 mi</h4></td>
+                    <td class="content text-dark small">2561.25 km<br><h4 class="small incr">+ 1.61 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/162.php">CT-162 - Bridgeport Ave</a>, Milford, Connecticut 06461</td>
+                    <td class="content text-dark">Boston Post Rd, Milford, Connecticut 06461</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1593.18 mi<br><h4 class="small incr">+ 1.52 mi</h4></td>
+                    <td class="content text-dark small">2563.69 km<br><h4 class="small incr">+ 2.44 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/796.php">New Haven SR 796 - Milford Pkwy</a>, Milford, Connecticut 06461</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1593.54 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
+                    <td class="content text-dark small">2564.28 km<br><h4 class="small incr">+ 0.59 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/121.php">CT-121 - North St</a>, Milford, Connecticut 06461</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1594.35 mi<br><h4 class="small incr">+ 0.81 mi</h4></td>
+                    <td class="content text-dark small">2565.59 km<br><h4 class="small incr">+ 1.31 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Milford, Connecticut 06461</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1595.91 mi<br><h4 class="small incr">+ 1.56 mi</h4></td>
+                    <td class="content text-dark small">2568.11 km<br><h4 class="small incr">+ 2.52 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Port Rd, Orange, Connecticut 06477</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1596.58 mi<br><h4 class="small incr">+ 0.67 mi</h4></td>
+                    <td class="content text-dark small">2569.19 km<br><h4 class="small incr">+ 1.08 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/152.php">CT-152 - Orange Center Rd</a>, Orange, Connecticut 06477</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1597.53 mi<br><h4 class="small incr">+ 0.95 mi</h4></td>
+                    <td class="content text-dark small">2570.72 km<br><h4 class="small incr">+ 1.53 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/114.php">CT-114 - Racebrook Rd</a>, Orange, Connecticut 06477</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1598.29 mi<br><h4 class="small incr">+ 0.76 mi</h4></td>
+                    <td class="content text-dark small">2571.94 km<br><h4 class="small incr">+ 1.22 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/162.php">CT-162 - Bull Hill Ln</a>, Orange, Connecticut 06477</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1598.80 mi<br><h4 class="small incr">+ 0.51 mi</h4></td>
+                    <td class="content text-dark small">2572.77 km<br><h4 class="small incr">+ 0.83 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Post Rd, West Haven, Connecticut 06516</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1600.39 mi<br><h4 class="small incr">+ 1.59 mi</h4></td>
+                    <td class="content text-dark small">2575.34 km<br><h4 class="small incr">+ 2.57 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/122.php">CT-122 - Forest Rd</a>, West Haven, Connecticut 06516</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1600.83 mi<br><h4 class="small incr">+ 0.46 mi</h4></td>
+                    <td class="content text-dark small">2576.07 km<br><h4 class="small incr">+ 0.73 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Post Rd, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1600.95 mi<br><h4 class="small incr">+ 0.12 mi</h4></td>
+                    <td class="content text-dark small">2576.26 km<br><h4 class="small incr">+ 0.19 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/10.php">CT-10 - Ella T Grasso Blvd</a>, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark">Columbus Ave, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1601.98 mi<br><h4 class="small incr">+ 1.03 mi</h4></td>
+                    <td class="content text-dark small">2577.92 km<br><h4 class="small incr">+ 1.66 km</h4></td>
+                    <td class="content text-dark">US-1 - S Church St, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark">S Church St, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1602.16 mi<br><h4 class="small incr">+ 0.18 mi</h4></td>
+                    <td class="content text-dark small">2578.20 km<br><h4 class="small incr">+ 0.28 km</h4></td>
+                    <td class="content text-dark">US-1 - Union Ave, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark">Union Ave, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1602.56 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
+                    <td class="content text-dark small">2578.84 km<br><h4 class="small incr">+ 0.64 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/34.php">CT-34 (WB) - Oak Street Conn</a>, New Haven, Connecticut 06519<br><a href="../secondary-roads/ct/sr/724.php">New Haven SR 724 - Oak Street Conn</a>, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1602.59 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
+                    <td class="content text-dark small">2578.88 km<br><h4 class="small incr">+ 0.04 km</h4></td>
+                    <td class="content text-dark">US-1 - Water St, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark">Water St, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1603.11 mi<br><h4 class="small incr">+ 0.52 mi</h4></td>
+                    <td class="content text-dark small">2579.71 km<br><h4 class="small incr">+ 0.83 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 (SB/EB) - Connecticut Tpke</a>, New Haven, Connecticut 06519<br><a href="../interstates/91.php">I-91 (NB)</a>, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1603.55 mi<br><h4 class="small incr">+ 0.44 mi</h4></td>
+                    <td class="content text-dark small">2580.43 km<br><h4 class="small incr">+ 0.72 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Forbes Ave, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1603.87 mi<br><h4 class="small incr">+ 0.32 mi</h4></td>
+                    <td class="content text-dark small">2580.95 km<br><h4 class="small incr">+ 0.52 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1604.56 mi<br><h4 class="small incr">+ 0.69 mi</h4></td>
+                    <td class="content text-dark small">2582.06 km<br><h4 class="small incr">+ 1.11 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/337.php">CT-337 - Townsend Ave</a>, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1604.69 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">2582.27 km<br><h4 class="small incr">+ 0.21 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, New Haven, Connecticut 06519</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1604.90 mi<br><h4 class="small incr">+ 0.21 mi</h4></td>
+                    <td class="content text-dark small">2582.61 km<br><h4 class="small incr">+ 0.34 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Frontage Rd, East Haven, Connecticut 06512</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1605.81 mi<br><h4 class="small incr">+ 0.91 mi</h4></td>
+                    <td class="content text-dark small">2584.07 km<br><h4 class="small incr">+ 1.46 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/100.php">CT-100 - N High St</a>, East Haven, Connecticut 06512</td>
+                    <td class="content text-dark">Saltonstall Pkwy, East Haven, Connecticut 06512</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1606.10 mi<br><h4 class="small incr">+ 0.29 mi</h4></td>
+                    <td class="content text-dark small">2584.53 km<br><h4 class="small incr">+ 0.46 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/142.php">CT-142 - Hemingway Ave</a>, East Haven, Connecticut 06512</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1606.38 mi<br><h4 class="small incr">+ 0.28 mi</h4></td>
+                    <td class="content text-dark small">2584.98 km<br><h4 class="small incr">+ 0.45 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/100.php">CT-100 - Main St</a>, East Haven, Connecticut 06512</td>
+                    <td class="content text-dark">W Main St, East Haven, Connecticut 06512</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1606.46 mi<br><h4 class="small incr">+ 0.08 mi</h4></td>
+                    <td class="content text-dark small">2585.11 km<br><h4 class="small incr">+ 0.13 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W Main St, Branford, Connecticut 06405</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1608.15 mi<br><h4 class="small incr">+ 1.69 mi</h4></td>
+                    <td class="content text-dark small">2587.82 km<br><h4 class="small incr">+ 2.71 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/142.php">CT-142 - Short Beach Rd</a>, Branford, Connecticut 06405</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1608.25 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                    <td class="content text-dark small">2587.99 km<br><h4 class="small incr">+ 0.17 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Branford, Connecticut 06405</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1608.37 mi<br><h4 class="small incr">+ 0.12 mi</h4></td>
+                    <td class="content text-dark small">2588.18 km<br><h4 class="small incr">+ 0.19 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/146.php">CT-146 - W Main St</a>, Branford, Connecticut 06405</td>
+                    <td class="content text-dark">N Main St, Branford, Connecticut 06405</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1610.16 mi<br><h4 class="small incr">+ 1.79 mi</h4></td>
+                    <td class="content text-dark small">2591.06 km<br><h4 class="small incr">+ 2.88 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E Main St, Branford, Connecticut 06405</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1611.12 mi<br><h4 class="small incr">+ 0.96 mi</h4></td>
+                    <td class="content text-dark small">2592.60 km<br><h4 class="small incr">+ 1.54 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Branford, Connecticut 06405</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1611.38 mi<br><h4 class="small incr">+ 0.26 mi</h4></td>
+                    <td class="content text-dark small">2593.01 km<br><h4 class="small incr">+ 0.41 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/139.php">CT-139 - N Branford Rd</a>, Branford, Connecticut 06405</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1613.47 mi<br><h4 class="small incr">+ 2.09 mi</h4></td>
+                    <td class="content text-dark small">2596.37 km<br><h4 class="small incr">+ 3.36 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Post Rd, Guilford, Connecticut 06437</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1613.54 mi<br><h4 class="small incr">+ 0.07 mi</h4></td>
+                    <td class="content text-dark small">2596.48 km<br><h4 class="small incr">+ 0.11 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/22.php">CT-22 - Notch Hill Rd</a>, Guilford, Connecticut 06437</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1616.08 mi<br><h4 class="small incr">+ 2.54 mi</h4></td>
+                    <td class="content text-dark small">2600.57 km<br><h4 class="small incr">+ 4.09 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Guilford, Connecticut 06437</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1617.37 mi<br><h4 class="small incr">+ 1.29 mi</h4></td>
+                    <td class="content text-dark small">2602.64 km<br><h4 class="small incr">+ 2.07 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/77.php">CT-77 - Church St</a>, Guilford, Connecticut 06437</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1618.41 mi<br><h4 class="small incr">+ 1.04 mi</h4></td>
+                    <td class="content text-dark small">2604.32 km<br><h4 class="small incr">+ 1.68 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/718.php">New Haven SR 718 - Goose Ln</a>, Guilford, Connecticut 06437</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1618.65 mi<br><h4 class="small incr">+ 0.24 mi</h4></td>
+                    <td class="content text-dark small">2604.70 km<br><h4 class="small incr">+ 0.38 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/146.php">CT-146 - Boston St</a>, Guilford, Connecticut 06437</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1619.32 mi<br><h4 class="small incr">+ 0.67 mi</h4></td>
+                    <td class="content text-dark small">2605.77 km<br><h4 class="small incr">+ 1.07 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Post Rd, Madison, Connecticut 06443</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1622.14 mi<br><h4 class="small incr">+ 2.82 mi</h4></td>
+                    <td class="content text-dark small">2610.31 km<br><h4 class="small incr">+ 4.54 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/79.php">CT-79 - Durham Rd</a>, Madison, Connecticut 06443</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1624.17 mi<br><h4 class="small incr">+ 2.03 mi</h4></td>
+                    <td class="content text-dark small">2613.57 km<br><h4 class="small incr">+ 3.26 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/ssr/450.php">New Haven SSR 450 - Hammonasset Conn</a>, Madison, Connecticut 06443</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1624.97 mi<br><h4 class="small incr">+ 0.80 mi</h4></td>
+                    <td class="content text-dark small">2614.85 km<br><h4 class="small incr">+ 1.28 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W Main St, Clinton, Connecticut 06413</td>
+                    <td class="content text-dark">End New Haven County<br>Start Middlesex County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1625.96 mi<br><h4 class="small incr">+ 0.99 mi</h4></td>
+                    <td class="content text-dark small">2616.45 km<br><h4 class="small incr">+ 1.60 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/81.php">CT-81 - Hull St</a>, Clinton, Connecticut 06413</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1626.12 mi<br><h4 class="small incr">+ 0.16 mi</h4></td>
+                    <td class="content text-dark small">2616.71 km<br><h4 class="small incr">+ 0.26 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E Main St, Clinton, Connecticut 06413</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1626.81 mi<br><h4 class="small incr">+ 0.69 mi</h4></td>
+                    <td class="content text-dark small">2617.82 km<br><h4 class="small incr">+ 1.11 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/145.php">CT-145 - Old Post Rd</a>, Clinton, Connecticut 06413</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1628.24 mi<br><h4 class="small incr">+ 1.43 mi</h4></td>
+                    <td class="content text-dark small">2620.12 km<br><h4 class="small incr">+ 2.30 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Post Rd, Westbrook, Connecticut 06498</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1628.42 mi<br><h4 class="small incr">+ 0.18 mi</h4></td>
+                    <td class="content text-dark small">2620.42 km<br><h4 class="small incr">+ 0.30 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/625.php">Middlesex SR 625 - N Grove Beach Rd</a></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1630.53 mi<br><h4 class="small incr">+ 2.11 mi</h4></td>
+                    <td class="content text-dark small">2623.81 km<br><h4 class="small incr">+ 3.39 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/153.php">CT-153 - Westbrook Pl</a>, Westbrook, Connecticut 06498</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1632.14 mi<br><h4 class="small incr">+ 1.61 mi</h4></td>
+                    <td class="content text-dark small">2626.40 km<br><h4 class="small incr">+ 2.59 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Post Rd, Old Saybrook, Connecticut 06475</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1632.47 mi<br><h4 class="small incr">+ 0.33 mi</h4></td>
+                    <td class="content text-dark small">2626.93 km<br><h4 class="small incr">+ 0.53 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/166.php">CT-166 - Spencer Plains Rd</a>, Old Saybrook, Connecticut 06475</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1633.80 mi<br><h4 class="small incr">+ 1.33 mi</h4></td>
+                    <td class="content text-dark small">2629.07 km<br><h4 class="small incr">+ 2.14 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/154.php">CT-154 - Old Boston Post Rd</a>, Old Saybrook, Connecticut 06475</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1634.79 mi<br><h4 class="small incr">+ 0.99 mi</h4></td>
+                    <td class="content text-dark small">2630.67 km<br><h4 class="small incr">+ 1.60 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/154.php">CT-154 - Main St</a>, Old Saybrook, Connecticut 06475</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with CT-154</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1635.22 mi<br><h4 class="small incr">+ 0.43 mi</h4></td>
+                    <td class="content text-dark small">2631.36 km<br><h4 class="small incr">+ 0.69 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/154.php">CT-154 (NB) - Middlesex Tpke</a>, Old Saybrook, Connecticut 06475<br>US-1 - Boston Post Rd, Old Saybrook, Connecticut 06475</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with CT-154</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1635.88 mi<br><h4 class="small incr">+ 0.66 mi</h4></td>
+                    <td class="content text-dark small">2632.42 km<br><h4 class="small incr">+ 1.06 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/628.php">Middlesex SR 628 - Springbrook Rd</a>, Old Saybrook, Connecticut 06475</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1635.88 mi<br><h4 class="small incr">+ 0.25 mi</h4></td>
+                    <td class="content text-dark small">2632.42 km<br><h4 class="small incr">+ 0.40 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Old Saybrook, Connecticut 06475</td>
+                    <td class="content text-dark">Connecticut Tpke, Old Saybrook, Connecticut 06475</td>
+                    <td class="content text-dark">Start concurrency with I-95</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1636.28 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
+                    <td class="content text-dark small">2633.07 km<br><h4 class="small incr">+ 0.65 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/9.php">CT-9 - Chester Bowles Hwy</a>, Old Saybrook, Connecticut 06475</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1636.93 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
+                    <td class="content text-dark small">2634.11 km<br><h4 class="small incr">+ 1.04 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Connecticut Tpke, Old Lyme, Connecticut 06371</td>
+                    <td class="content text-dark">End Middlesex County<br>Start New London County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1637.38 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
+                    <td class="content text-dark small">2634.84 km<br><h4 class="small incr">+ 0.73 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/156.php">CT-156 (SB) - Shore Rd</a>, Old Lyme, Connecticut 06371<br>US-1 (NB) - Neck Rd (concurrent with <a href="../state-highways/ct/156.php">CT-156</a>), Old Lyme, Connecticut 06371</td>
+                    <td class="content text-dark">Neck Rd, Old Lyme, Connecticut 06371</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1637.44 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
+                    <td class="content text-dark small">2634.94 km<br><h4 class="small incr">+ 0.10 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, Old Lyme, Connecticut 06371</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1637.56 mi<br><h4 class="small incr">+ 0.12 mi</h4></td>
+                    <td class="content text-dark small">2635.14 km<br><h4 class="small incr">+ 0.20 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/156.php">CT-156 (NB) - Neck Rd</a>, Old Lyme, Connecticut 06371<br>US-1 (EB) - Halls Rd, Old Lyme, Connecticut 06371</td>
+                    <td class="content text-dark">Halls Rd, Old Lyme, Connecticut 06371</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1638.26 mi<br><h4 class="small incr">+ 0.70 mi</h4></td>
+                    <td class="content text-dark small">2636.26 km<br><h4 class="small incr">+ 1.12 km</h4></td>
+                    <td class="content text-dark">US-1 - Lyme St, Old Lyme, Connecticut 06371</td>
+                    <td class="content text-dark">Lyme St, Old Lyme, Connecticut 06371</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1638.64 mi<br><h4 class="small incr">+ 0.38 mi</h4></td>
+                    <td class="content text-dark small">2636.87 km<br><h4 class="small incr">+ 0.61 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Post Rd, Old Lyme, Connecticut 06371</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1642.68 mi<br><h4 class="small incr">+ 4.04 mi</h4></td>
+                    <td class="content text-dark small">2643.37 km<br><h4 class="small incr">+ 6.50 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Post Rd, East Lyme, Connecticut 06333</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1643.56 mi<br><h4 class="small incr">+ 0.88 mi</h4></td>
+                    <td class="content text-dark small">2644.79 km<br><h4 class="small incr">+ 1.42 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/ssr/432.php">New London SSR 432 - Stone Ranch Rd</a>, East Lyme, Connecticut 06333</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1646.50 mi<br><h4 class="small incr">+ 2.94 mi</h4></td>
+                    <td class="content text-dark small">2649.52 km<br><h4 class="small incr">+ 4.73 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/161.php">CT-161 - Flanders Rd</a>, East Lyme, Connecticut 06333</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1647.03 mi<br><h4 class="small incr">+ 0.53 mi</h4></td>
+                    <td class="content text-dark small">2650.38 km<br><h4 class="small incr">+ 0.86 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Connecticut Tpke</a>, East Lyme, Connecticut 06333</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1647.52 mi<br><h4 class="small incr">+ 0.49 mi</h4></td>
+                    <td class="content text-dark small">2651.17 km<br><h4 class="small incr">+ 0.79 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Boston Post Rd, Waterford, Connecticut 06385</td>
                     <td class="content text-dark"></td>
                 </tr>
             </tbody>

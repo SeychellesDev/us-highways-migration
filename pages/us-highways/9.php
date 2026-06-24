@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="13.php">US-13 - Sussex Hwy (NB) / S Dual Hwy (SB)</a>, Laurel, Delaware 19956</td>
+                    <td class="content text-dark"><a href="13.php">US-13 - S Dual Hwy (SB) / Sussex Hwy (NB)</a>, Laurel, Delaware 19956</td>
                     <td class="content text-dark">County Seat Hwy, Laurel, Delaware 19956</td>
                     <td class="content text-dark">Start of Route<br>Start US-9 in Delaware<br>Start Sussex County</td>
                 </tr>

@@ -7084,7 +7084,7 @@
                 <tr>
                     <td class="content text-dark small">1290.50 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
                     <td class="content text-dark small">2077.28 km<br><h4 class="small incr">+ 0.59 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/va/235.php">VA-235 - Jeff Todd Way (NB) / Mt Vernon Memorial Hwy (SB)</a>, Woodlawn, Virginia 22309</td>
+                    <td class="content text-dark"><a href="../state-highways/va/235.php">VA-235 - Mt Vernon Memorial Hwy (SB) / Jeff Todd Way (NB)</a>, Woodlawn, Virginia 22309</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -10739,6 +10739,267 @@
                     <td class="content text-dark">Boston Post Rd, Waterford, Connecticut 06385</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">1651.39 mi<br><h4 class="small incr">+ 3.87 mi</h4></td>
+                    <td class="content text-dark small">2657.40 km<br><h4 class="small incr">+ 6.23 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/156.php">CT-156 - Rope Ferry Rd</a>, Waterford, Connecticut 06385</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1652.22 mi<br><h4 class="small incr">+ 0.83 mi</h4></td>
+                    <td class="content text-dark small">2658.75 km<br><h4 class="small incr">+ 1.35 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/643.php">New London SR 643 - Lee Ave</a>, New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1652.25 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
+                    <td class="content text-dark small">2658.79 km<br><h4 class="small incr">+ 0.04 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Bank St, New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1652.62 mi<br><h4 class="small incr">+ 0.37 mi</h4></td>
+                    <td class="content text-dark small">2659.38 km<br><h4 class="small incr">+ 0.59 km</h4></td>
+                    <td class="content text-dark">US-1 - Colman St (SB) (concurrent with <a href="../secondary-roads/ct/sr/639.php">New London SR 639</a>), New London, Connecticut 06320</td>
+                    <td class="content text-dark">Colman St (SB) / Bank St (NB), New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1652.74 mi<br><h4 class="small incr">+ 0.12 mi</h4></td>
+                    <td class="content text-dark small">2659.57 km<br><h4 class="small incr">+ 0.19 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/213.php">CT-213 - Ocean Ave</a>, New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1652.78 mi<br><h4 class="small incr">+ 0.04 mi</h4></td>
+                    <td class="content text-dark small">2659.64 km<br><h4 class="small incr">+ 0.07 km</h4></td>
+                    <td class="content text-dark">US-1 (NB) - Jefferson Ave, New London, Connecticut 06320<br><a href="../secondary-roads/ct/sr/641.php">New London SR 641 - Bank St</a>, New London, Connecticut 06320</td>
+                    <td class="content text-dark">Colman St (SB) / Jefferson Ave (NB), New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1653.60 mi<br><h4 class="small incr">+ 0.82 mi</h4></td>
+                    <td class="content text-dark small">2660.96 km<br><h4 class="small incr">+ 1.32 km</h4></td>
+                    <td class="content text-dark">US-1 - Colman St, New London, Connecticut 06320</td>
+                    <td class="content text-dark">Colman St, New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1654.04 mi<br><h4 class="small incr">+ 0.44 mi</h4></td>
+                    <td class="content text-dark small">2661.67 km<br><h4 class="small incr">+ 0.71 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/85.php">CT-85 - Broad St</a>, New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1654.43 mi<br><h4 class="small incr">+ 0.39 mi</h4></td>
+                    <td class="content text-dark small">2662.29 km<br><h4 class="small incr">+ 0.62 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/624.php">New London SR 624 - S Frontage Rd</a>, New London, Connecticut 06320</td>
+                    <td class="content text-dark">N Frontage Rd (SB) / S Frontage Rd (NB), New London, Connecticut 06320</td>
+                    <td class="content text-dark">Start concurrency with New London SR 624</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1654.58 mi<br><h4 class="small incr">+ 0.15 mi</h4></td>
+                    <td class="content text-dark small">2662.53 km<br><h4 class="small incr">+ 0.24 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, New London, Connecticut 06320</td>
+                    <td class="content text-dark">End concurrency with New London SR 624</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1654.94 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
+                    <td class="content text-dark small">2663.11 km<br><h4 class="small incr">+ 0.58 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/32.php">CT-32 (SB)</a>, New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1654.98 mi<br><h4 class="small incr">+ 0.04 mi</h4></td>
+                    <td class="content text-dark small">2663.17 km<br><h4 class="small incr">+ 0.06 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/32.php">CT-32 (NB)</a>, New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1655.11 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">2663.38 km<br><h4 class="small incr">+ 0.21 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 (SB/NB) - Jewish War Veterans Memorial Hwy</a>, New London, Connecticut 06320<br><a href="../secondary-roads/ct/sr/635.php">New London SR 635 (SB/NB) - Williams St</a>, New London, Connecticut 06320</td>
+                    <td class="content text-dark">Jewish War Veterans Memorial Hwy, New London, Connecticut 06320</td>
+                    <td class="content text-dark">Start concurrency with I-95</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1655.43 mi<br><h4 class="small incr">+ 0.32 mi</h4></td>
+                    <td class="content text-dark small">2663.90 km<br><h4 class="small incr">+ 0.52 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/ssr/437.php">New London SSR - Crystal Ave</a>, New London, Connecticut 06320</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1655.88 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
+                    <td class="content text-dark small">2664.63 km<br><h4 class="small incr">+ 0.73 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Jewish War Veterans Memorial Hwy, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1657.00 mi<br><h4 class="small incr">+ 1.12 mi</h4></td>
+                    <td class="content text-dark small">2666.43 km<br><h4 class="small incr">+ 1.80 km</h4></td>
+                    <td class="content text-dark">US-1 (SB) - Long Hill Rd, Groton, Connecticut 06340<br><a href="../state-highways/ct/12.php">CT-12</a>, Groton, Connecticut 06340</td>
+                    <td class="content text-dark">Long Hill Rd, Groton, Connecticut 06340</td>
+                    <td class="content text-dark">End concurrency with I-95</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1657.28 mi<br><h4 class="small incr">+ 0.28 mi</h4></td>
+                    <td class="content text-dark small">2666.89 km<br><h4 class="small incr">+ 0.46 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/349.php">CT-349 - Clarence B Sharp Hwy</a>, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1658.38 mi<br><h4 class="small incr">+ 1.10 mi</h4></td>
+                    <td class="content text-dark small">2668.66 km<br><h4 class="small incr">+ 1.77 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Poquonnock Rd, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1659.05 mi<br><h4 class="small incr">+ 0.67 mi</h4></td>
+                    <td class="content text-dark small">2669.73 km<br><h4 class="small incr">+ 1.07 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/649.php">New London SR 649 - South Rd</a>, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1659.14 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
+                    <td class="content text-dark small">2669.88 km<br><h4 class="small incr">+ 0.15 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Fort Hill Rd, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1659.61 mi<br><h4 class="small incr">+ 0.47 mi</h4></td>
+                    <td class="content text-dark small">2670.63 km<br><h4 class="small incr">+ 0.75 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/117.php">CT-117 - Newtown Rd</a>, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1660.52 mi<br><h4 class="small incr">+ 0.91 mi</h4></td>
+                    <td class="content text-dark small">2672.10 km<br><h4 class="small incr">+ 1.47 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/215.php">CT-215 - Groton Long Point Rd</a>, Groton, Connecticut 06340</td>
+                    <td class="content text-dark">New London Rd, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1662.66 mi<br><h4 class="small incr">+ 2.14 mi</h4></td>
+                    <td class="content text-dark small">2675.55 km<br><h4 class="small incr">+ 3.45 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ct/sr/614.php">New London SR 614 - Allyn St</a>, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1662.79 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">2675.76 km<br><h4 class="small incr">+ 0.21 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W Main St, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1663.02 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
+                    <td class="content text-dark small">2676.13 km<br><h4 class="small incr">+ 0.37 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/215.php">CT-215 - Water St</a>, Groton, Connecticut 06340</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1663.15 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">2676.35 km<br><h4 class="small incr">+ 0.22 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E Main St, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1663.44 mi<br><h4 class="small incr">+ 0.29 mi</h4></td>
+                    <td class="content text-dark small">2676.81 km<br><h4 class="small incr">+ 0.46 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broadway Ave, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1663.54 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                    <td class="content text-dark small">2676.97 km<br><h4 class="small incr">+ 0.16 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Roosevelt Ave, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1663.70 mi<br><h4 class="small incr">+ 0.16 mi</h4></td>
+                    <td class="content text-dark small">2677.23 km<br><h4 class="small incr">+ 0.26 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/27.php">CT-27 - Denison Ave</a>, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark">Williams Ave, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1664.04 mi<br><h4 class="small incr">+ 0.34 mi</h4></td>
+                    <td class="content text-dark small">2677.77 km<br><h4 class="small incr">+ 0.54 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Stonington-Westerly Rd, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1664.43 mi<br><h4 class="small incr">+ 0.39 mi</h4></td>
+                    <td class="content text-dark small">2678.39 km<br><h4 class="small incr">+ 0.62 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Stonington Rd, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1666.50 mi<br><h4 class="small incr">+ 2.07 mi</h4></td>
+                    <td class="content text-dark small">2681.73 km<br><h4 class="small incr">+ 3.34 km</h4></td>
+                    <td class="content text-dark"><a href="#ctus1altnl">US-1 Alternate - N Water St</a>, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1667.65 mi<br><h4 class="small incr">+ 1.15 mi</h4></td>
+                    <td class="content text-dark small">2683.58 km<br><h4 class="small incr">+ 1.85 km</h4></td>
+                    <td class="content text-dark"><a href="#ctus1altnl">US-1 Alternate - Elm St</a>, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1668.69 mi<br><h4 class="small incr">+ 1.04 mi</h4></td>
+                    <td class="content text-dark small">2685.26 km<br><h4 class="small incr">+ 1.68 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Broad St, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1670.80 mi<br><h4 class="small incr">+ 2.11 mi</h4></td>
+                    <td class="content text-dark small">2688.65 km<br><h4 class="small incr">+ 3.39 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/234.php">CT-234 - Pequot Trl</a>, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark">W Broad St, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1671.26 mi<br><h4 class="small incr">+ 0.46 mi</h4></td>
+                    <td class="content text-dark small">2689.39 km<br><h4 class="small incr">+ 0.74 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ct/2.php">CT-2 - Liberty St</a>, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+            </tbody>
+            <tbody id="rius1">
+                <tr>
+                    <td class="content text-dark small">1671.39 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">2689.59 km<br><h4 class="small incr">+ 0.20 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broad St, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark">End US-1 in Connecticut<br>Start US-1 in Rhode Island<br>End New London County<br>Start Washington County</td>
+                </tr>
             </tbody>
             <section id="us1aux">
                 <section id="flus1aux">
@@ -11378,28 +11639,28 @@
                     <td class="content text-dark small">0.78 mi<br><h4 class="small incr">+ 0.30 mi</h4></td>
                     <td class="content text-dark small">1.26 km<br><h4 class="small incr">+ 0.48 km</h4></td>
                     <td class="content text-dark">US-1 Business - SW Broad St (SB) / E Illinois Ave (NB) (concurrent with <a href="../secondary-roads/nc/mo/2160">Moore SR 2160</a>), Southern Pines, North Carolina 28387</td>
-                    <td class="content text-dark">E Illinois Ave (NB) / SW Broad St (SB), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">SW Broad St (SB) / E Illinois Ave (NB), Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.81 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
                     <td class="content text-dark small">1.30 km<br><h4 class="small incr">+ 0.04 km</h4></td>
                     <td class="content text-dark">US-1 Business (NB) - SE Broad St (concurrent with <a href="../secondary-roads/nc/mo/2160">Moore SR 2160</a>), Southern Pines, North Carolina 28387</td>
-                    <td class="content text-dark">SE Broad St (NB) / SW Broad St (SB), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">SW Broad St (SB) / SE Broad St (NB), Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.17 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
                     <td class="content text-dark small">1.89 km<br><h4 class="small incr">+ 0.59 km</h4></td>
                     <td class="content text-dark"><a href="../secondary-roads/nc/mo/1848.php">Moore SR 1848 - E Pennsylvania Ave</a>, Southern Pines, North Carolina 28387</td>
-                    <td class="content text-dark">NE Broad St (NB) / NW Broad St (SB), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">NW Broad St (SB) / NE Broad St (NB), Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.44 mi<br><h4 class="small incr">+ 0.27 mi</h4></td>
                     <td class="content text-dark small">2.33 km<br><h4 class="small incr">+ 0.44 km</h4></td>
                     <td class="content text-dark">US-1 Business (NB) - E Vermont Ave (concurrent with <a href="../secondary-roads/nc/mo/2160">Moore SR 2160</a>), Southern Pines, North Carolina 28387</td>
-                    <td class="content text-dark">E Vermont Ave (NB) / NW Broad St (SB), Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">NW Broad St (SB) / E Vermont Ave (NB), Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -12923,7 +13184,56 @@
                 </tbody>
                 </section>
                 </section>
+                <section id="ctus1aux">
                 <?php include "../../static/endtable.php"; ?>
+                <hr>
+                <section id="sec-ctus1altnl">
+                <h1 class="header" id="ctus1altnl">United States Route 1 Alternate (Stonington, Connecticut)</h1>
+                <h2 class="content text-dark">US-1 Alternate is a truck route in Stonington, Connecticut. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <?php include "../../static/table.php"; ?>
+                <tbody id="tb-ctus1altnl">
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#ctus1">US-1 - Stonington Rd</a>, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark">N Water St, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark">Start of Alternate Route</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.66 mi ( + 0.66 mi )</td>
+                    <td class="content text-dark small">1.06 km ( + 1.06 km )</td>
+                    <td class="content text-dark">US-1 Alternate - Trumbull Ave, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark">Trumbull Ave, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.85 mi ( + 0.19 mi )</td>
+                    <td class="content text-dark small">1.36 km ( + 0.30 km )</td>
+                    <td class="content text-dark">US-1 Alternate - Alpha Ave, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark">Alpha Ave, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.23 mi ( + 0.38 mi )</td>
+                    <td class="content text-dark small">1.97 km ( + 0.61 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Elm St, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.94 mi ( + 0.71 mi )</td>
+                    <td class="content text-dark small">3.12 km ( + 1.15 km )</td>
+                    <td class="content text-dark"><a href="#ctus1">US-1 - Stonington Rd</a>, Stonington, Connecticut 06355</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Alternate Route</td>
+                </tr>
+                </tbody>
+                </section>
+                </section>
+                <section id="rius1aux">
+                <?php include "../../static/endtable.php"; ?>
+                </section>
                 <hr>
             </section>
         <?php include "../../static/bottom.php"; ?>

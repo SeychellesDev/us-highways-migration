@@ -30,7 +30,7 @@
                 <tr>
                     <td class="content text-dark small">3.24 mi<br><h4 class="small incr">+ 1.08 mi</h4></td>
                     <td class="content text-dark small">5.21 km<br><h4 class="small incr">+ 1.74 km</h4></td>
-                    <td class="content text-dark"><a href="../../secondary-roads/nj/549.php">Ocean CR 549 - Lanes Mill Rd (NB) / Chambers Bridge Rd (SB)</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/549.php">Ocean CR 549 - Chambers Bridge Rd (SB) / Lanes Mill Rd (NB)</a>, Lakewood, New Jersey 08701</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

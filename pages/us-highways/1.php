@@ -5519,21 +5519,21 @@
                     <td class="content text-dark small">1673.66 km<br><h4 class="small incr">+ 5.19 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/nc/54.php">NC-54 - Hillsborough St</a>, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 3A/3B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1043.11 mi<br><h4 class="small incr">+ 3.31 mi</h4></td>
                     <td class="content text-dark small">1678.98 km<br><h4 class="small incr">+ 5.32 km</h4></td>
-                    <td class="content text-dark"><a href="70.php">US-70 - Glenwood Ave</a>(concurrent with <a href="../state-highways/nc/50.php">NC-50</a>), Raleigh, North Carolina 27608</td>
+                    <td class="content text-dark"><a href="70.php">US-70 - Glenwood Ave</a> (concurrent with <a href="../state-highways/nc/50.php">NC-50</a>), Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 7/7A</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1047.31 mi<br><h4 class="small incr">+ 4.20 mi</h4></td>
                     <td class="content text-dark small">1685.74 km<br><h4 class="small incr">+ 6.76 km</h4></td>
                     <td class="content text-dark"><a href="../interstates/auxiliary/nc-440.php">I-440 - Raleigh Bltln (SB)</a><a href="401.php">US-401 - Capital Blvd (WB/EB)</a>, Raleigh, North Carolina 27608</td>
                     <td class="content text-dark">Capital Blvd, Raleigh, North Carolina 27608</td>
-                    <td class="content text-dark">End concurrency with I-440<br>Start concurrency with US-401</td>
+                    <td class="content text-dark">Exit 11/11A<br>End concurrency with I-440<br>Start concurrency with US-401</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1049.51 mi<br><h4 class="small incr">+ 2.20 mi</h4></td>
@@ -8387,7 +8387,7 @@
                     <td class="content text-dark small">2309.98 km<br><h4 class="small incr">+ 0.38 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">City Ave, Lower Merion Township, Pennsylvania 19096 (SB)<br>City Ave, Philadelphia, Pennsylvania 19120 (NB)</td>
-                    <td class="content text-dark">Start Montgomery County<br>Start route split between Philadelphia and Montgomery Counties</td>
+                    <td class="content text-dark">Start Montgomery County<br>Start route split between Philadelphia & Montgomery Counties</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1435.99 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
@@ -8443,7 +8443,7 @@
                     <td class="content text-dark small">2316.66 km<br><h4 class="small incr">+ 1.04 km</h4></td>
                     <td class="content text-dark"><a href="../secondary-roads/pa/ph/4006.php">Philadelphia QR 4006 (NB) - City Ave</a>, Philadelphia, Pennsylvania 19120<br><a href="../interstates/ohpanj-76.php">I-76 - Schuylkill Expy (WB/EB)</a>, Philadelphia, Pennsylvania 19120</td>
                     <td class="content text-dark">US-1, Philadelphia, Pennsylvania 19120</td>
-                    <td class="content text-dark">End Montgomery County<br>End route split between Philadelphia and Philadelphia Counties</td>
+                    <td class="content text-dark">End Montgomery County<br>End route split between Philadelphia & Philadelphia Counties</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1440.76 mi<br><h4 class="small incr">+ 1.07 mi</h4></td>
@@ -9627,7 +9627,7 @@
                     <td class="content text-dark small">2465.41 km<br><h4 class="small incr">+ 0.23 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/nj/67.php">NJ-67 - Lemoine Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 73</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1532.37 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
@@ -9692,14 +9692,14 @@
                     <td class="content text-dark small">2468.94 km<br><h4 class="small incr">+ 0.14 km</h4></td>
                     <td class="content text-dark"><a href="../interstates/ny-87.php">I-87 - Major Deegan Expy</a>, Bronx, New York 10463</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 1C/1D</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1535.59 mi<br><h4 class="small incr">+ 1.27 mi</h4></td>
                     <td class="content text-dark small">2470.98 km<br><h4 class="small incr">+ 2.04 km</h4></td>
                     <td class="content text-dark">US-1 (NB) - Webster Ave, Bronx, New York 10463<br><a href="../interstates/95.php">I-95 (WB/EB) - Cross Bronx Expy</a>, Bronx, New York 10463</td>
                     <td class="content text-dark">Webster Ave, Bronx, New York 10463</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 2B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1536.92 mi<br><h4 class="small incr">+ 1.33 mi</h4></td>
@@ -10660,7 +10660,7 @@
                     <td class="content text-dark small">2633.07 km<br><h4 class="small incr">+ 0.65 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/ct/9.php">CT-9 - Chester Bowles Hwy</a>, Old Saybrook, Connecticut 06475</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 69</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1636.93 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
@@ -10674,7 +10674,7 @@
                     <td class="content text-dark small">2634.84 km<br><h4 class="small incr">+ 0.73 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/ct/156.php">CT-156 (SB) - Shore Rd</a>, Old Lyme, Connecticut 06371<br>US-1 (NB) - Neck Rd (concurrent with <a href="../state-highways/ct/156.php">CT-156</a>), Old Lyme, Connecticut 06371</td>
                     <td class="content text-dark">Neck Rd, Old Lyme, Connecticut 06371</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 70<br>End concurrency with I-95</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1637.44 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
@@ -10849,7 +10849,7 @@
                     <td class="content text-dark small">2666.43 km<br><h4 class="small incr">+ 1.80 km</h4></td>
                     <td class="content text-dark">US-1 (SB) - Long Hill Rd, Groton, Connecticut 06340<br><a href="../state-highways/ct/12.php">CT-12</a>, Groton, Connecticut 06340</td>
                     <td class="content text-dark">Long Hill Rd, Groton, Connecticut 06340</td>
-                    <td class="content text-dark">End concurrency with I-95</td>
+                    <td class="content text-dark">Exit 85 (NB)<br>Exit 86 (SB)<br>End concurrency with I-95</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1657.28 mi<br><h4 class="small incr">+ 0.28 mi</h4></td>
@@ -11000,6 +11000,534 @@
                     <td class="content text-dark">Broad St, Westerly, Rhode Island 02891</td>
                     <td class="content text-dark">End US-1 in Connecticut<br>Start US-1 in Rhode Island<br>End New London County<br>Start Washington County</td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">1671.42 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
+                    <td class="content text-dark small">2689.64 km<br><h4 class="small incr">+ 0.05 km</h4></td>
+                    <td class="content text-dark">US-1 (NB) - Main St, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark">Broad St (SB) / Main St (NB), Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1671.45 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
+                    <td class="content text-dark small">2689.69 km<br><h4 class="small incr">+ 0.05 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/3.php">RI-3 - High St</a>, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1671.53 mi<br><h4 class="small incr">+ 0.08 mi</h4></td>
+                    <td class="content text-dark small">2689.81 km<br><h4 class="small incr">+ 0.12 km</h4></td>
+                    <td class="content text-dark">US-1 (NB) - Union St, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark">Broad St (SB) / Union St (NB), Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1671.66 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">2690.02 km<br><h4 class="small incr">+ 0.21 km</h4></td>
+                    <td class="content text-dark">US-1 - Broad St, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark">Broad St, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1671.71 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
+                    <td class="content text-dark small">2690.10 km<br><h4 class="small incr">+ 0.08 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Elm St</a>, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark">Broad St, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1671.79 mi<br><h4 class="small incr">+ 0.08 mi</h4></td>
+                    <td class="content text-dark small">2690.23 km<br><h4 class="small incr">+ 0.13 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Granite St, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1672.66 mi<br><h4 class="small incr">+ 0.87 mi</h4></td>
+                    <td class="content text-dark small">2691.64 km<br><h4 class="small incr">+ 1.41 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Franklin St, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1673.60 mi<br><h4 class="small incr">+ 0.94 mi</h4></td>
+                    <td class="content text-dark small">2693.16 km<br><h4 class="small incr">+ 1.52 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/78.php">RI-78 - Veterans Way</a>, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark">Post Rd, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1677.08 mi<br><h4 class="small incr">+ 3.48 mi</h4></td>
+                    <td class="content text-dark small">2698.76 km<br><h4 class="small incr">+ 5.60 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Shore Rd</a>, Westerly, Rhode Island 02891</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with RI-1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1677.81 mi<br><h4 class="small incr">+ 0.73 mi</h4></td>
+                    <td class="content text-dark small">2699.94 km<br><h4 class="small incr">+ 1.18 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Post Rd, Charlestown 02813</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1678.45 mi<br><h4 class="small incr">+ 0.64 mi</h4></td>
+                    <td class="content text-dark small">2700.97 km<br><h4 class="small incr">+ 1.03 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/216.php">RI-216 - Ross Hill Rd</a>, Charlestown, Rhode Island 02813</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1681.18 mi<br><h4 class="small incr">+ 2.73 mi</h4></td>
+                    <td class="content text-dark small">2705.37 km<br><h4 class="small incr">+ 4.40 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Old Post Rd</a>, Charlestown, Rhode Island 02813</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with RI-1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1682.39 mi<br><h4 class="small incr">+ 1.21 mi</h4></td>
+                    <td class="content text-dark small">2707.31 km<br><h4 class="small incr">+ 1.94 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ri/411.php">Washington BIA 411 - Kings Factory Rd</a>, Charlestown, Rhode Island 02813</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1682.58 mi<br><h4 class="small incr">+ 0.19 mi</h4></td>
+                    <td class="content text-dark small">2707.61 km<br><h4 class="small incr">+ 0.30 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Old Post Rd</a>, Charlestown, Rhode Island 02813</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with RI-1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1682.66 mi<br><h4 class="small incr">+ 0.08 mi</h4></td>
+                    <td class="content text-dark small">2707.73 km<br><h4 class="small incr">+ 0.12 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Old Post Rd</a>, Charlestown, Rhode Island 02813</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with RI-1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1682.75 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
+                    <td class="content text-dark small">2707.87 km<br><h4 class="small incr">+ 0.14 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ri/405.php">Washington BIA 405 - School House Pond Rd</a>, Charlestown, Rhode Island 02813</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1683.23 mi<br><h4 class="small incr">+ 0.48 mi</h4></td>
+                    <td class="content text-dark small">2708.65 km<br><h4 class="small incr">+ 0.78 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/2.php">RI-2 - S County Trl</a> (concurrent with <a href="../state-highways/112.php">RI-112</a>), Charlestown, Rhode Island 02813</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1684.87 mi<br><h4 class="small incr">+ 1.64 mi</h4></td>
+                    <td class="content text-dark small">2711.29 km<br><h4 class="small incr">+ 2.64 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Commodore Perry Hwy, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1685.71 mi<br><h4 class="small incr">+ 0.84 mi</h4></td>
+                    <td class="content text-dark small">2713.64 km<br><h4 class="small incr">+ 1.35 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Post Rd</a>, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with RI-1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1686.07 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
+                    <td class="content text-dark small">2713.22 km<br><h4 class="small incr">+ 0.58 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Post Rd</a>, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with RI-1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1687.64 mi<br><h4 class="small incr">+ 1.57 mi</h4></td>
+                    <td class="content text-dark small">2715.75 km<br><h4 class="small incr">+ 2.53 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/110.php">RI-110 - Ministerial Rd</a>, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1687.99 mi<br><h4 class="small incr">+ 0.35 mi</h4></td>
+                    <td class="content text-dark small">2716.31 km<br><h4 class="small incr">+ 0.56 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Post Rd</a>, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with RI-1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1688.44 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
+                    <td class="content text-dark small">2717.04 km<br><h4 class="small incr">+ 0.73 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Commodore Oliver Hazard Perry Hwy, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1689.79 mi<br><h4 class="small incr">+ 1.35 mi</h4></td>
+                    <td class="content text-dark small">2719.22 km<br><h4 class="small incr">+ 2.18 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Post Rd</a>, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark">Commodore Oliver Hazard Perry Hwy, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark">End concurrency with RI-1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1691.06 mi<br><h4 class="small incr">+ 1.27 mi</h4></td>
+                    <td class="content text-dark small">2721.26 km<br><h4 class="small incr">+ 2.04 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Post Rd</a>, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark">Commodore Perry Hwy, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1692.53 mi<br><h4 class="small incr">+ 1.47 mi</h4></td>
+                    <td class="content text-dark small">2723.62 km<br><h4 class="small incr">+ 2.36 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Commodore Perry Hwy, Narragansett, Rhode Island 02882</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1693.17 mi<br><h4 class="small incr">+ 0.64 mi</h4></td>
+                    <td class="content text-dark small">2724.66 km<br><h4 class="small incr">+ 1.04 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - Kingstown Rd</a> (concurrent with <a href="../state-highways/ri/108.php">RI-108</a>), Narragansett, Rhode Island 02882</td>
+                    <td class="content text-dark">Tower Hill Rd, Narragansett, Rhode Island 02882</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1693.22 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
+                    <td class="content text-dark small">2724.74 km<br><h4 class="small incr">+ 0.08 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Tower Hill Rd, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1697.60 mi<br><h4 class="small incr">+ 4.38 mi</h4></td>
+                    <td class="content text-dark small">2731.78 km<br><h4 class="small incr">+ 7.04 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/138.php">RI-138 - Mooresfield Rd</a>, South Kingstown, Rhode Island 02879</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with RI-138</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1697.60 mi<br><h4 class="small incr">+ 0.30 mi</h4></td>
+                    <td class="content text-dark small">2731.78 km<br><h4 class="small incr">+ 0.49 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Tower Hill Rd, North Kingstown, Rhode Island 02874</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1699.83 mi<br><h4 class="small incr">+ 2.23 mi</h4></td>
+                    <td class="content text-dark small">2735.36 km<br><h4 class="small incr">+ 3.58 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/138.php">RI-138</a>, North Kingstown, Rhode Island 02874</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with RI-138</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1700.48 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
+                    <td class="content text-dark small">2736.41 km<br><h4 class="small incr">+ 1.05 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/4.php">RI-4 - Colonel Rodman Hwy</a>, North Kingstown, Rhode Island 02874</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1702.44 mi<br><h4 class="small incr">+ 1.96 mi</h4></td>
+                    <td class="content text-dark small">2739.57 km<br><h4 class="small incr">+ 3.16 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/102.php">RI-102 - Phillips St</a>, North Kingstown, Rhode Island 02874</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1703.00 mi<br><h4 class="small incr">+ 0.56 mi</h4></td>
+                    <td class="content text-dark small">2740.47 km<br><h4 class="small incr">+ 0.90 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/1a.php">RI-1A - W Main St</a>, North Kingstown, Rhode Island 02874</td>
+                    <td class="content text-dark">Post Rd, North Kingstown, Rhode Island 02874</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1705.17 mi<br><h4 class="small incr">+ 2.17 mi</h4></td>
+                    <td class="content text-dark small">2743.97 km<br><h4 class="small incr">+ 3.50 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/403.php">RI-403</a>, North Kingstown, Rhode Island 02874</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1707.34 mi<br><h4 class="small incr">+ 2.17 mi</h4></td>
+                    <td class="content text-dark small">2747.47 km<br><h4 class="small incr">+ 3.50 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/402.php">RI-402 - Frenchtown Rd</a>, North Kingstown, Rhode Island 02874</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1707.34 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
+                    <td class="content text-dark small">2747.47 km<br><h4 class="small incr">+ 0.06 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Post Rd, East Greenwich, Rhode Island 02818</td>
+                    <td class="content text-dark">End Washington County<br>Start Kent County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1708.71 mi<br><h4 class="small incr">+ 1.37 mi</h4></td>
+                    <td class="content text-dark small">2749.68 km<br><h4 class="small incr">+ 2.21 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, East Greenwich, Rhode Island 02818</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1709.06 mi<br><h4 class="small incr">+ 0.35 mi</h4></td>
+                    <td class="content text-dark small">2750.24 km<br><h4 class="small incr">+ 0.56 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/401.php">RI-401 - 1st Ave</a>, East Greenwich, Rhode Island 02818</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1709.73 mi<br><h4 class="small incr">+ 0.67 mi</h4></td>
+                    <td class="content text-dark small">2751.32 km<br><h4 class="small incr">+ 1.08 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Post Rd, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1712.32 mi<br><h4 class="small incr">+ 2.59 mi</h4></td>
+                    <td class="content text-dark small">2755.49 km<br><h4 class="small incr">+ 4.17 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Greenwich Ave, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1712.42 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                    <td class="content text-dark small">2755.65 km<br><h4 class="small incr">+ 0.16 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/5.php">RI-5 (NB) - Greenwich Ave</a>, Warwick, Rhode Island 02886<br><a href="../state-highways/ri/117.php">RI-117 (WB) - Centerville Rd</a>, Warwick, Rhode Island 02886<br>US-1 (EB) - Veterans Memorial Dr (concurrent with <a href="../state-highways/ri/117.php">RI-117</a>), Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark">Veterans Memorial Dr, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark">Start concurrency with RI-117</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1712.72 mi<br><h4 class="small incr">+ 0.30 mi</h4></td>
+                    <td class="content text-dark small">2756.14 km<br><h4 class="small incr">+ 0.49 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/117.php">RI-117 - Post Rd</a>, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark">Post Rd Ext, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark">End concurrency with RI-117</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1713.58 mi<br><h4 class="small incr">+ 0.86 mi</h4></td>
+                    <td class="content text-dark small">2757.53 km<br><h4 class="small incr">+ 1.39 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/113.php">RI-113 - Main Ave</a>, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark">Post Rd, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1714.46 mi<br><h4 class="small incr">+ 0.88 mi</h4></td>
+                    <td class="content text-dark small">2758.94 km<br><h4 class="small incr">+ 1.41 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - T.F. Green Airport Connector Rd</a>, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1715.85 mi<br><h4 class="small incr">+ 1.39 mi</h4></td>
+                    <td class="content text-dark small">2761.18 km<br><h4 class="small incr">+ 2.24 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/37.php">RI-37 - Lincoln Ave Fwy</a>, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1716.50 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
+                    <td class="content text-dark small">2762.23 km<br><h4 class="small incr">+ 1.05 km</h4></td>
+                    <td class="content text-dark">US-1 (NB) - Elmwood Ave, Warwick, Rhode Island 02886<br><a href="#rimaus1altkepr">US-1 Alternate (EB) - Post Rd</a>, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark">Elmwood Ave, Warwick, Rhode Island 02886</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1717.41 mi<br><h4 class="small incr">+ 0.91 mi</h4></td>
+                    <td class="content text-dark small">2763.70 km<br><h4 class="small incr">+ 1.47 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Elmwood Ave, Cranston, Rhode Island 02910</td>
+                    <td class="content text-dark">End Kent County<br>Start Providence County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1718.44 mi<br><h4 class="small incr">+ 1.03 mi</h4></td>
+                    <td class="content text-dark small">2765.36 km<br><h4 class="small incr">+ 1.66 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/12.php">RI-12 - Park Ave</a>, Cranston, Rhode Island 02910</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1718.48 mi<br><h4 class="small incr">+ 0.04 mi</h4></td>
+                    <td class="content text-dark small">2765.43 km<br><h4 class="small incr">+ 0.07 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Elmwood Ave, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1718.83 mi<br><h4 class="small incr">+ 0.35 mi</h4></td>
+                    <td class="content text-dark small">2765.99 km<br><h4 class="small incr">+ 0.56 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/10.php">RI-10 - Huntingdon Expy</a>, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1719.27 mi<br><h4 class="small incr">+ 0.44 mi</h4></td>
+                    <td class="content text-dark small">2766.69 km<br><h4 class="small incr">+ 0.70 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95</a>, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1720.03 mi<br><h4 class="small incr">+ 0.76 mi</h4></td>
+                    <td class="content text-dark small">2767.91 km<br><h4 class="small incr">+ 1.22 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/2.php">RI-2 - Reservoir Ave</a>, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1721.13 mi<br><h4 class="small incr">+ 1.10 mi</h4></td>
+                    <td class="content text-dark small">2769.68 km<br><h4 class="small incr">+ 1.77 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broad St, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1721.57 mi<br><h4 class="small incr">+ 0.44 mi</h4></td>
+                    <td class="content text-dark small">2770.39 km<br><h4 class="small incr">+ 0.71 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Grand Army of the Republic Hwy</a> (concurrent with <a href="6.php">US-6</a>), Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1721.77 mi<br><h4 class="small incr">+ 0.20 mi</h4></td>
+                    <td class="content text-dark small">2770.72 km<br><h4 class="small incr">+ 0.33 km</h4></td>
+                    <td class="content text-dark">US-1 - Empire St, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark">Empire St, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1721.98 mi<br><h4 class="small incr">+ 0.21 mi</h4></td>
+                    <td class="content text-dark small">2771.06 km<br><h4 class="small incr">+ 0.34 km</h4></td>
+                    <td class="content text-dark">US-1 - Sabin St (SB) / Fountain St (NB), Providence, Rhode Island 02907</td>
+                    <td class="content text-dark">Sabin St (SB) / Fountain St (NB), Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1722.20 mi<br><h4 class="small incr">+ 0.22 mi</h4></td>
+                    <td class="content text-dark small">2771.41 km<br><h4 class="small incr">+ 0.35 km</h4></td>
+                    <td class="content text-dark">US-1 - Francis St, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark">Francis St, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1722.27 mi<br><h4 class="small incr">+ 0.07 mi</h4></td>
+                    <td class="content text-dark small">2771.52 km<br><h4 class="small incr">+ 0.11 km</h4></td>
+                    <td class="content text-dark">(to <a href="../interstates/95.php">I-95</a> & <a href="6.php">US-6</a>) - Memorial Blvd, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1722.52 mi<br><h4 class="small incr">+ 0.25 mi</h4></td>
+                    <td class="content text-dark small">2771.91 km<br><h4 class="small incr">+ 0.39 km</h4></td>
+                    <td class="content text-dark">US-1 - Gaspee St, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark">Gaspee St, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1722.75 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
+                    <td class="content text-dark small">2772.28 km<br><h4 class="small incr">+ 0.37 km</h4></td>
+                    <td class="content text-dark"><a href="44.php">US-44 - Smith St</a>, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark">Smith St, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark">Start concurrency with US-44</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1722.98 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
+                    <td class="content text-dark small">2772.65 km<br><h4 class="small incr">+ 0.37 km</h4></td>
+                    <td class="content text-dark"><a href="44.php">US-44 (SB) - Canal St</a>, Providence, Rhode Island 02907<br><a href="../state-highways/ri/246.php">RI-246 - Canal St</a>, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1723.01 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
+                    <td class="content text-dark small">2772.71 km<br><h4 class="small incr">+ 0.06 km</h4></td>
+                    <td class="content text-dark">US-1 (NB) - N Main St, Providence, Rhode Island 02907<br><a href="44.php">US-44 (NB) - N Main St</a>, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1723.01 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
+                    <td class="content text-dark small">2772.71 km<br><h4 class="small incr">+ 0.06 km</h4></td>
+                    <td class="content text-dark">US-1 (NB) - N Main St, Providence, Rhode Island 02907<br><a href="44.php">US-44 (NB) - N Main St</a>, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark">N Main St, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark">End concurrency with US-44</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1724.61 mi<br><h4 class="small incr">+ 1.60 mi</h4></td>
+                    <td class="content text-dark small">2775.29 km<br><h4 class="small incr">+ 2.58 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/126.php">RI-126 - Smithfield Ave</a>, Providence, Rhode Island 02907</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1724.86 mi<br><h4 class="small incr">+ 0.25 mi</h4></td>
+                    <td class="content text-dark small">2775.70 km<br><h4 class="small incr">+ 0.41 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Pawtucket Ave, Pawtucket, Rhode Island 02860</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1724.92 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
+                    <td class="content text-dark small">2775.80 km<br><h4 class="small incr">+ 0.10 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/122.php">RI-122 - Main St</a>, Pawtucket, Rhode Island 02860</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1725.96 mi<br><h4 class="small incr">+ 1.04 mi</h4></td>
+                    <td class="content text-dark small">2777.48 km<br><h4 class="small incr">+ 1.68 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">George St, Pawtucket, Rhode Island 02860</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1726.14 mi<br><h4 class="small incr">+ 0.18 mi</h4></td>
+                    <td class="content text-dark small">2777.77 km<br><h4 class="small incr">+ 0.29 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95</a>, Pawtucket, Rhode Island 02860</td>
+                    <td class="content text-dark">US-1, Pawtucket, Rhode Island 02860</td>
+                    <td class="content text-dark">Start concurrency with US-1</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1726.45 mi<br><h4 class="small incr">+ 0.31 mi</h4></td>
+                    <td class="content text-dark small">2778.27 km<br><h4 class="small incr">+ 0.50 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/114.php">RI-114 (SB)</a>, Pawtucket, Rhode Island 02860</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1726.50 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
+                    <td class="content text-dark small">2778.34 km<br><h4 class="small incr">+ 0.07 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/114.php">RI-114 (NB) - Prospect St</a>, Pawtucket, Rhode Island 02860</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 41B</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1726.70 mi<br><h4 class="small incr">+ 0.20 mi</h4></td>
+                    <td class="content text-dark small">2778.66 km<br><h4 class="small incr">+ 0.32 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ri/15.php">RI-15 - Walcott St</a>, Pawtucket, Rhode Island 02860</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 41B</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1727.15 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
+                    <td class="content text-dark small">2779.38 km<br><h4 class="small incr">+ 0.72 km</h4></td>
+                    <td class="content text-dark">US-1 - Broadway, Pawtucket, Rhode Island 02860</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 42A<br>End concurrency with I-95</td>
+                </tr>
+            </tbody>
+            <tbody id="maus1">
+                <tr>
+                    <td class="content text-dark small">1727.15 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
+                    <td class="content text-dark small">2779.38 km<br><h4 class="small incr">+ 0.72 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broadway, Attleboro, Massachusetts 02703</td>
+                    <td class="content text-dark">End US-1 in Rhode Island<br>Start US-1 in Massachusetts<br>End Providence County<br>Start Bristol County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1727.43 mi<br><h4 class="small incr">+ 0.28 mi</h4></td>
+                    <td class="content text-dark small">2779.83 km<br><h4 class="small incr">+ 0.45 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95</a>, Attleboro, Massachusetts 02703</td>
+                    <td class="content text-dark">Washington St, Attleboro, Massachusetts 02703</td>
+                    <td class="content text-dark"></td>
+                </tr>
+            </tbody>
             </tbody>
             <section id="us1aux">
                 <section id="flus1aux">
@@ -11261,7 +11789,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#gaus1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Wadley, Georgia 30477</td>
                     <td class="content text-dark">S Main St, Wadley, Georgia 30477</td>
-                    <td class="content text-dark">Start concurrency with GA-4 Business</td>
+                    <td class="content text-dark">Start of Business Route<br>Start concurrency with GA-4 Business</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.42 mi<br><h4 class="small incr">+ 1.42 mi</h4></td>
@@ -11626,7 +12154,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#ncus1">US-1</a>, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark">US-1 Business, Southern Pines, North Carolina 28387</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Business Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.48 mi<br><h4 class="small incr">+ 0.48 mi</h4></td>
@@ -11720,7 +12248,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#ncus1">US-1</a>, Vass, North Carolina 28394</td>
                     <td class="content text-dark">US-1 Business, Vass, North Carolina 28394</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Business Route<br>Start Moore County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.61 mi<br><h4 class="small incr">+ 0.61 mi</h4></td>
@@ -11807,7 +12335,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#ncus1">US-1 - Claude E. Pope Memorial Hwy</a> (concurrent with <a href="15.php">US-15</a> & <a href="501.php">US-501</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark">US-1 Business, Sanford, North Carolina 27330</td>
-                    <td class="content text-dark">Start concurrency with US-15 Business & US-501 Business</td>
+                    <td class="content text-dark">Start of Business Route<br>Start concurrency with US-15 Business & US-501 Business</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.27 mi<br><h4 class="small incr">+ 0.27 mi</h4></td>
@@ -11894,7 +12422,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#ncus1">US-1 - Capital Blvd</a>, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark">S Main St, Wake Forest, North Carolina 27587</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Alternate Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.53 mi<br><h4 class="small incr">+ 0.53 mi</h4></td>
@@ -12016,7 +12544,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#ncus1">US-1</a>, Franklinton, North Carolina 27596</td>
                     <td class="content text-dark">S Main St, Franklinton, North Carolina 27596</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Alternate Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.72 mi<br><h4 class="small incr">+ 1.72 mi</h4></td>
@@ -12054,7 +12582,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#ncus1">US-1</a>, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark">Raleigh Rd, Kittrell, North Carolina 27544</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Alternate Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.45 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
@@ -12225,7 +12753,7 @@
                     <td class="content text-dark small">0.00 km<br><h4 class="small incr">+ 8.23 km</h4></td>
                     <td class="content text-dark"><a href="#ncus1busva">US-1 Business - Raleigh Rd</a>, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with US-1</td>
+                    <td class="content text-dark">Start of Alternate Route<br>Start concurrency with US-1</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.66 mi<br><h4 class="small incr">+ 0.66 mi</h4></td>
@@ -12314,7 +12842,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#vaus1">US-1 - Patriot Hwy</a>, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark">Lafayette Blvd, Spotsylvania Courthouse, Virginia 22553</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Business Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.53 mi<br><h4 class="small incr">+ 1.53 mi</h4></td>
@@ -12396,7 +12924,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#dcus1">US-1 - NW 6th St (NB) / NW Constitution Ave (WB)</a> (concurrent with <a href="50.php">US-50</a>), Washington, District of Columbia 20505</td>
                     <td class="content text-dark">NW Constitution Ave, Washington, District of Columbia 20505</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Alternate Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.08 mi<br><h4 class="small incr">+ 0.08 mi</h4></td>
@@ -12513,7 +13041,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#mdus1">US-1 - Washington Blvd (SB) / Southwestern Blvd (NB)</a>, Arbutus, Maryland 21227</td>
                     <td class="content text-dark">Washington Blvd, Arbutus, Maryland 21227</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Alternate Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.65 mi<br><h4 class="small incr">+ 1.65 mi</h4></td>
@@ -12558,7 +13086,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#mdus1">US-1 - Belair Rd (SB) / Bel Air Byp (NB)</a>, Bel Air South, Maryland 21014</td>
                     <td class="content text-dark">Belair Rd, Bel Air North, Maryland 21014</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Alternate Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.82 mi<br><h4 class="small incr">+ 0.82 mi</h4></td>
@@ -13233,7 +13761,233 @@
                 </section>
                 <section id="rius1aux">
                 <?php include "../../static/endtable.php"; ?>
+                <hr>
+                <section id="sec-rimaus1altkeprbr">
+                <h1 class="header" id="rimaus1altkeprbr">United States Route 1 Alternate (Providence, Rhode Island)</h1>
+                <h2 class="content text-dark">US-1 Business is a business route from Warwick, Rhode Island to Attleboro, Massachusetts. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <?php include "../../static/table.php"; ?>
+                <tbody id="tb-rius1altwa">
+                    <tr>
+                        <td class="content text-dark small">0.00 mi</td>
+                        <td class="content text-dark small">0.00 km</td>
+                        <td class="content text-dark"><a href="#rius1">US-1 - Post Rd (SB) / Elmwood Ave (NB)</a>, Warwick, Rhode Island 02886</td>
+                        <td class="content text-dark">Post Rd, Warwick, Rhode Island 02886</td>
+                        <td class="content text-dark">Start of Alternate Route</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">1.22 mi<br><h4 class="small incr">+ 1.22 mi</h4></td>
+                        <td class="content text-dark small">1.97 km<br><h4 class="small incr">+ 1.97 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/ri/117.php">RI-117 (SB) - Warwick Ave</a>, Warwick, Rhode Island 02886<br>US-1 Alternate (NB) - Warwick Ave (concurrent with <a href="../state-highways/ri/117.php">RI-117</a>), Warwick, Rhode Island 02886</td>
+                        <td class="content text-dark">Warwick Ave, Warwick, Rhode Island 02886</td>
+                        <td class="content text-dark">Start of concurrency with RI-117</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">1.73 mi<br><h4 class="small incr">+ 0.51 mi</h4></td>
+                        <td class="content text-dark small">2.79 km<br><h4 class="small incr">+ 0.82 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Warwick Ave, Cranston, Rhode Island 02910</td>
+                        <td class="content text-dark">End Kent County<br>Start Providence County</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">2.14 mi<br><h4 class="small incr">+ 0.41 mi</h4></td>
+                        <td class="content text-dark small">3.45 km<br><h4 class="small incr">+ 0.66 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/ri/12.php">RI-12 - Park Ave</a>, Cranston, Rhode Island 02910</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">2.51 mi<br><h4 class="small incr">+ 0.37 mi</h4></td>
+                        <td class="content text-dark small">4.04 km<br><h4 class="small incr">+ 0.59 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Broad St, Cranston, Rhode Island 02910</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">2.52 mi<br><h4 class="small incr">+ 0.01 mi</h4></td>
+                        <td class="content text-dark small">4.06 km<br><h4 class="small incr">+ 0.02 km</h4></td>
+                        <td class="content text-dark">US-1 Alternate - Norwood Ave, Cranston, Rhode Island 02910</td>
+                        <td class="content text-dark">Norwood Ave, Cranston, Rhode Island 02910</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">2.92 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
+                        <td class="content text-dark small">4.71 km<br><h4 class="small incr">+ 0.65 km</h4></td>
+                        <td class="content text-dark">US-1 Alternate - Narragansett Blvd, Cranston, Rhode Island 02910</td>
+                        <td class="content text-dark">Narragansett Blvd, Cranston, Rhode Island 02910</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">3.39 mi<br><h4 class="small incr">+ 0.47 mi</h4></td>
+                        <td class="content text-dark small">5.47 km<br><h4 class="small incr">+ 0.76 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Narragansett Blvd, Providence, Rhode Island 02907</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">3.74 mi<br><h4 class="small incr">+ 0.35 mi</h4></td>
+                        <td class="content text-dark small">6.03 km<br><h4 class="small incr">+ 0.56 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Allens Ave, Providence, Rhode Island 02907</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">5.25 mi<br><h4 class="small incr">+ 1.51 mi</h4></td>
+                        <td class="content text-dark small">8.46 km<br><h4 class="small incr">+ 2.43 km</h4></td>
+                        <td class="content text-dark"><a href="../interstates/auxiliary/ri-195.php">I-195</a>, Providence, Rhode Island 02907</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">5.36 mi<br><h4 class="small incr">+ 0.11 mi</h4></td>
+                        <td class="content text-dark small">8.64 km<br><h4 class="small incr">+ 0.18 km</h4></td>
+                        <td class="content text-dark"><a href="6.php">US-6 (EB) - Grand Army of the Republic Hwy</a>, Providence, Rhode Island 02907</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">5.36 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
+                        <td class="content text-dark small">8.64 km<br><h4 class="small incr">+ 0.08 km</h4></td>
+                        <td class="content text-dark"><a href="6.php">US-6 (WB) - Grand Army of the Republic Hwy</a>, Providence, Rhode Island 02907</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">5.42 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
+                        <td class="content text-dark small">8.73 km<br><h4 class="small incr">+ 0.09 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Eddy St, Providence, Rhode Island 02907</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">5.55 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                        <td class="content text-dark small">8.95 km<br><h4 class="small incr">+ 0.22 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Point St, Providence, Rhode Island 02907</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">5.82 mi<br><h4 class="small incr">+ 0.27 mi</h4></td>
+                        <td class="content text-dark small">9.39 km<br><h4 class="small incr">+ 0.44 km</h4></td>
+                        <td class="content text-dark">US-1 Alternate (SB) - S Water St (concurrent with <a href="44.php">US-44</a>), Providence, Rhode Island 02907<br><a href="44.php">US-44 (NB) - S Water St</a>, Providence, Rhode Island 02907</td>
+                        <td class="content text-dark">S Main St (SB) / S Water St (NB), Providence, Rhode Island 02907</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">6.00 mi<br><h4 class="small incr">+ 0.18 mi</h4></td>
+                        <td class="content text-dark small">9.67 km<br><h4 class="small incr">+ 0.28 km</h4></td>
+                        <td class="content text-dark"><a href="../interstates/auxiliary/ri-195.php">I-195 - Grand Army of the Republic Hwy</a> (concurrent with <a href="6.php">US-6</a>), Providence, Rhode Island 02907</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">6.38 mi<br><h4 class="small incr">+ 0.38 mi</h4></td>
+                        <td class="content text-dark small">10.28 km<br><h4 class="small incr">+ 0.61 km</h4></td>
+                        <td class="content text-dark"><a href="../interstates/auxiliary/ri-195.php">I-195 - Grand Army of the Republic Hwy</a> (concurrent with <a href="6.php">US-6</a>), Providence, Rhode Island 02907</td>
+                        <td class="content text-dark">Grand Army of the Republic Hwy, Providence, Rhode Island 02907</td>
+                        <td class="content text-dark">Start concurrency with I-195 & US-6</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">6.79 mi<br><h4 class="small incr">+ 0.41 mi</h4></td>
+                        <td class="content text-dark small">10.93 km<br><h4 class="small incr">+ 0.65 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Grand Army of the Republic Hwy, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">7.00 mi<br><h4 class="small incr">+ 0.21 mi</h4></td>
+                        <td class="content text-dark small">11.27 km<br><h4 class="small incr">+ 0.34 km</h4></td>
+                        <td class="content text-dark"><a href="44.php">US-44 - Taunton Ave</a>, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Exit 1C<br>End concurrency with US-44</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">7.72 mi<br><h4 class="small incr">+ 0.72 mi</h4></td>
+                        <td class="content text-dark small">12.43 km<br><h4 class="small incr">+ 1.16 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/ri/103.php">RI-103 - Warren Ave</a>, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Exit 2A</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">8.27 mi<br><h4 class="small incr">+ 0.55 mi</h4></td>
+                        <td class="content text-dark small">13.32 km<br><h4 class="small incr">+ 0.89 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/ri/114.php">RI-114 (SB) - Pawtucket Ave</a>, East Providence, Rhode Island 02914<br>US-1 Alternate (NB) - Pawtucket Ave (concurrent with <a href="../state-highways/ri/114.php">RI-114</a>), East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">8.66 mi<br><h4 class="small incr">+ 0.39 mi</h4></td>
+                        <td class="content text-dark small">13.94 km<br><h4 class="small incr">+ 0.62 km</h4></td>
+                        <td class="content text-dark">US-1 Alternate - Warren Ave, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Exit 2C<br>End concurrency with I-195 & US-6</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">8.99 mi<br><h4 class="small incr">+ 0.33 mi</h4></td>
+                        <td class="content text-dark small">14.47 km<br><h4 class="small incr">+ 0.53 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/ri/103.php">RI-103 (SB) - Pawtucket Ave</a> (concurrent with <a href="../state-highways/ri/114.php">RI-114</a>), East Providence, Rhode Island 02914<br>US-1 Alternate (NB) - Pawtucket Ave (concurrent with <a href="../state-highways/ri/114.php">RI-114</a>), East Providence, Rhode Island 02914<br><a href="../state-highways/ri/103.php">RI-103 (WB) - Warren Ave</a>, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark">Pawtucket Ave, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark">Start concurrent with RI-114</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">9.07 mi<br><h4 class="small incr">+ 0.08 mi</h4></td>
+                        <td class="content text-dark small">14.60 km<br><h4 class="small incr">+ 0.13 km</h4></td>
+                        <td class="content text-dark"><a href="../interstates/auxiliary/ri-195.php">RI-195 (EB) - Grand Army of the Republic Hwy</a> (concurrent with US-1 Alternate & <a href="6.php">US-6</a>), East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">9.77 mi<br><h4 class="small incr">+ 0.70 mi</h4></td>
+                        <td class="content text-dark small">15.72 km<br><h4 class="small incr">+ 1.12 km</h4></td>
+                        <td class="content text-dark"><a href="44.php">US-44 - Taunton Ave</a>, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">10.70 mi<br><h4 class="small incr">+ 0.93 mi</h4></td>
+                        <td class="content text-dark small">17.21 km<br><h4 class="small incr">+ 1.49 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/ri/114.php/#risr114a">RI-114A - Pleasant St</a>, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">11.35 mi<br><h4 class="small incr">+ 0.55 mi</h4></td>
+                        <td class="content text-dark small">18.09 km<br><h4 class="small incr">+ 0.88 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/ri/152.php">RI-152 - Newman Ave</a>, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">11.88 mi<br><h4 class="small incr">+ 0.53 mi</h4></td>
+                        <td class="content text-dark small">18.94 km<br><h4 class="small incr">+ 0.85 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/ri/114.php">RI-114 - Pawtucket Ave</a>, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark">Newport Ave, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark">End concurrency with RI-114</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">12.68 mi<br><h4 class="small incr">+ 0.80 mi</h4></td>
+                        <td class="content text-dark small">20.23 km<br><h4 class="small incr">+ 1.29 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Newport Ave, Pawtucket, Rhode Island 02860</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">13.99 mi<br><h4 class="small incr">+ 1.31 mi</h4></td>
+                        <td class="content text-dark small">22.33 km<br><h4 class="small incr">+ 2.10 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/ri/15.php">RI-15 - Armistice Blvd</a>, Pawtucket, Rhode Island 02860</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">15.26 mi<br><h4 class="small incr">+ 1.27 mi</h4></td>
+                        <td class="content text-dark small">24.37 km<br><h4 class="small incr">+ 2.04 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Newport Ave, Attleboro, Massachusetts 02703</td>
+                        <td class="content text-dark">End Alternate Route in Rhode Island<br>Start Alternate Route in Massachusetts<br>End Providence County<br>Start Bristol County</td>
+                    </tr>
+                </tbody>
                 </section>
+                <?php include "../../static/endtable.php"; ?>
                 <hr>
             </section>
         <?php include "../../static/bottom.php"; ?>

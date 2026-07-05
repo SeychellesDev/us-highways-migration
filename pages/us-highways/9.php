@@ -385,7 +385,7 @@
                     <td class="content text-dark small">124.03 km<br><h4 class="small incr">+ 2.51 km</h4></td>
                     <td class="content text-dark">US-9 - New St, Somers Point, New Jersey 08244</td>
                     <td class="content text-dark">New Rd, Somers Point, New Jersey 08244</td>
-                    <td class="content text-dark">End concurrency with NJ-444</td>
+                    <td class="content text-dark">Exit 29<br>End concurrency with NJ-444</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">77.49 mi<br><h4 class="small incr">+ 0.27 mi</h4></td>
@@ -616,7 +616,7 @@
                     <td class="content text-dark small">159.80 km<br><h4 class="small incr">+ 3.17 km</h4></td>
                     <td class="content text-dark">US-9, Bass River, New Jersey 08087</td>
                     <td class="content text-dark">US-9, Bass River, New Jersey 08087</td>
-                    <td class="content text-dark">End concurrency with NJ-444</td>
+                    <td class="content text-dark">Exit 50<br>End concurrency with NJ-444</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">100.42 mi<br><h4 class="small incr">+ 1.03 mi</h4></td>
@@ -868,21 +868,21 @@
                     <td class="content text-dark small">219.08 km<br><h4 class="small incr">+ 0.74 km</h4></td>
                     <td class="content text-dark"><a href="../secondary-roads/nj/527.php">Ocean CR 527 - Lakehurst Rd</a>, Toms River, New Jersey 08753</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 81</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">136.72 mi<br><h4 class="small incr">+ 0.50 mi</h4></td>
                     <td class="content text-dark small">219.89 km<br><h4 class="small incr">+ 0.81 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/nj/37.php">NJ-37</a>, Toms River, New Jersey 08753</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 82/82A</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">138.84 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
                     <td class="content text-dark small">223.30 km<br><h4 class="small incr">+ 0.65 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/nj/166.php">NJ-166 - Lakewood Rd (SB)</a>, Toms River, New Jersey 08753<br><a href="../state-highways/nj/444.php">NJ-444 - Garden State Pkwy (SB/NB)</a>, Toms River, New Jersey 08753</td>
                     <td class="content text-dark">Lakewood Rd, Toms River, New Jersey 08753</td>
-                    <td class="content text-dark">End concurrency with NJ-444<br>Start concurrency with NJ-166</td>
+                    <td class="content text-dark">Exit 83<br>End concurrency with NJ-444<br>Start concurrency with NJ-166</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">139.05 mi<br><h4 class="small incr">+ 0.21 mi</h4></td>
@@ -1728,7 +1728,7 @@
                     <td class="content text-dark small">333.63 km<br><h4 class="small incr">+ 0.23 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/nj/67.php">NJ-67 - Lemoine Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 73</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">207.45 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
@@ -1765,14 +1765,14 @@
                     <td class="content text-dark small">335.66 km<br><h4 class="small incr">+ 0.70 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/ny/9a.php">NY-9A - Henry Hudson Pkwy (SB)</a>, Manhattan, New York 10033</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 1A</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">208.56 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
                     <td class="content text-dark small">335.80 km<br><h4 class="small incr">+ 0.14 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Henry Hudson Pkwy (NB)</a>, Manhattan, New York 10033</td>
                     <td class="content text-dark">Trans-Manhattan Expy, Manhattan, New York 10033</td>
-                    <td class="content text-dark">End of US-1-9</td>
+                    <td class="content text-dark">Exit 1A<br>End of US-1-9</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">208.78 mi<br><h4 class="small incr">+ 0.22 mi</h4></td>

@@ -39,7 +39,7 @@
                     <td class="content text-dark small">5.15 km<br><h4 class="small incr">+ 1.62 km</h4></td>
                     <td class="content text-dark"><a href="33.php">NJ-33 - Corlies Ave</a>, Neptune Township, New Jersey 07753</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 8</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.12 mi<br><h4 class="small incr">+ 0.92 mi</h4></td>
@@ -53,14 +53,14 @@
                     <td class="content text-dark small">7.65 km<br><h4 class="small incr">+ 1.02 km</h4></td>
                     <td class="content text-dark"><a href="66.php">NJ-66 - Asbury Ave</a> (concurrent with <a href="../../secondary-roads/nj/mo/16.php">Monmouth CR 16</a>), Neptune Township, New Jersey 07753</td>
                     <td class="content text-dark">NJ-18, Ocean Township, New Jersey 07712</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 10A/10B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">6.98 mi<br><h4 class="small incr">+ 2.23 mi</h4></td>
                     <td class="content text-dark small">11.24 km<br><h4 class="small incr">+ 3.59 km</h4></td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/mo/14.php">Monmouth CR 14 - W Park Ave</a>, Ocean Township, New Jersey 07712</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 12A/12B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">7.93 mi<br><h4 class="small incr">+ 0.95 mi</h4></td>
@@ -70,25 +70,18 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">7.93 mi<br><h4 class="small incr">+ 0.95 mi</h4></td>
-                    <td class="content text-dark small">12.76 km<br><h4 class="small incr">+ 1.52 km</h4></td>
-                    <td class="content text-dark"><a href="../../secondary-roads/nj/547.php">Monmouth CR 547 - Shafto Rd</a>, Eatontown, New Jersey 07724</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
                     <td class="content text-dark small">8.38 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
                     <td class="content text-dark small">13.48 km<br><h4 class="small incr">+ 0.72 km</h4></td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/547.php">Monmouth CR 547 - Shafto Rd</a>, Eatontown, New Jersey 07724</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 13A</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">8.62 mi<br><h4 class="small incr">+ 0.24 mi</h4></td>
                     <td class="content text-dark small">13.86 km<br><h4 class="small incr">+ 0.38 km</h4></td>
                     <td class="content text-dark"><a href="36.php">NJ-36</a>, Eatontown, New Jersey 07724</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 13B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">8.85 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
@@ -109,7 +102,7 @@
                     <td class="content text-dark small">15.15 km<br><h4 class="small incr">+ 0.41 km</h4></td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/mo/38.php">Monmouth CR 38 - Wayside Rd</a>, Tinton Falls, New Jersey 07724</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 15A</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">10.66 mi<br><h4 class="small incr">+ 1.23 mi</h4></td>
@@ -123,14 +116,14 @@
                     <td class="content text-dark small">22.38 km<br><h4 class="small incr">+ 5.25 km</h4></td>
                     <td class="content text-dark"><a href="34.php">NJ-34</a>, Colts Neck, New Jersey 07722</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 19A/19B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">17.22 mi<br><h4 class="small incr">+ 3.30 mi</h4></td>
                     <td class="content text-dark small">27.70 km<br><h4 class="small incr">+ 5.32 km</h4></td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/537.php">Monmouth CR 537 - Colts Neck Rd</a>, Colts Neck, New Jersey 07722</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 22A/22B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">17.38 mi<br><h4 class="small incr">+ 0.16 mi</h4></td>
@@ -158,7 +151,7 @@
                     <td class="content text-dark small">32.36 km<br><h4 class="small incr">+ 1.57 km</h4></td>
                     <td class="content text-dark"><a href="79.php">NJ-79 - S Main St</a>, Marlboro Township, New Jersey 07746</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 25A/25B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">23.32 mi<br><h4 class="small incr">+ 3.20 mi</h4></td>
@@ -172,7 +165,7 @@
                     <td class="content text-dark small">37.85 km<br><h4 class="small incr">+ 0.34 km</h4></td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/mo/3.php">Monmouth CR 3 - Tennent Rd</a>, Marlboro Township, New Jersey 07746</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 29</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">24.93 mi<br><h4 class="small incr">+ 1.40 mi</h4></td>
@@ -186,7 +179,7 @@
                     <td class="content text-dark small">40.64 km<br><h4 class="small incr">+ 0.53 km</h4></td>
                     <td class="content text-dark"><a href="../../us-highways/9.php">US-9</a>, Old Bridge, New Jersey 08857</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 30</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">26.93 mi<br><h4 class="small incr">+ 1.67 mi</h4></td>

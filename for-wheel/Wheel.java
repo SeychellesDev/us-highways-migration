@@ -37,14 +37,37 @@ public class Wheel {
                 break;
             }
         }
-        // int r = rand.nextInt(roadName.size());
+        String selectedRoad = roadName.get(selectedIndex);
         try(FileWriter fw = new FileWriter(new File("./us-highways-migration/for-wheel/wheel-results.txt"), true);
             PrintWriter out = new PrintWriter(fw)
         ){
-            out.println(roadName.get(selectedIndex));
+            out.println(selectedRoad);
+            removeRolledRoad(selectedRoad);
             System.out.println("Program exited with code 0 - Successful spin.");
         } catch (IOException e) {
             System.err.println("Program exited with code 2 - Could not write to file.");
+        }
+    }
+
+    private static void removeRolledRoad(String road) throws IOException {
+        File roadsFile = new File("./us-highways-migration/for-wheel/roads.txt");
+        ArrayList<String> roads = new ArrayList<>();
+        try (Scanner in = new Scanner(roadsFile)) {
+            while (in.hasNextLine()) {
+                roads.add(in.nextLine());
+            }
+        } catch (FileNotFoundException e) {
+            return;
+        }
+
+        if (!roads.remove(road)) {
+            return;
+        }
+
+        try (PrintWriter out = new PrintWriter(new FileWriter(roadsFile, false))) {
+            for (String line : roads) {
+                out.println(line);
+            }
         }
     }
 }

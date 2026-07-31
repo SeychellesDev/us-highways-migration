@@ -197,7 +197,7 @@
                 <tr>
                     <td class="content text-dark small">37.21 mi<br><h4 class="small incr">+ 3.29 mi</h4></td>
                     <td class="content text-dark small">59.82 km<br><h4 class="small incr">+ 5.29 km</h4></td>
-                    <td class="content text-dark">RI-1A (NB) - Brown St, North Kingstown, Rhode Island 02874<br><a href="102.php">RI-102 (WB) - Phillips St</a>, North Kingstown, Rhode Island 02874</td>
+                    <td class="content text-dark">RI-1A - Brown St, North Kingstown, Rhode Island 02874 (NB)<br><a href="102.php">RI-102 - Phillips St</a>, North Kingstown, Rhode Island 02874 (WB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

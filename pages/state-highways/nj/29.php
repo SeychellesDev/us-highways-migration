@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-195.php">I-195 (EB) - Central Jersey Expy</a>, Hamilton Township, New Jersey 08610<br><a href="../../interstates/auxiliary/denjpa-295.php">I-295 (SB/NB) - Camden Fwy</a>, Hamilton Township, New Jersey 08610</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-195.php">I-195 - Central Jersey Expy</a>, Hamilton Township, New Jersey 08610 (EB)<br><a href="../../interstates/auxiliary/denjpa-295.php">I-295 - Camden Fwy</a>, Hamilton Township, New Jersey 08610 (SB/NB)</td>
                     <td class="content text-dark">NJ-29, Hamilton Township, New Jersey 08610</td>
                     <td class="content text-dark">Start of Route<br>Start Mercer County</td>
                 </tr>

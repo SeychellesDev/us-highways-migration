@@ -111,7 +111,6 @@
             <h3 class="content text-dark"><a href="706.php">Camden CR 706 <i class="text-body-tertiary">New Brooklyn-Blackwood Rd, Erial Rd, Blackwood-Clementon Rd, Blenheim-Erial Rd, Alomnesson Rd</i></a></h3>
             <h3 class="content text-dark"><a href="707.php">Camden CR 707 <i class="text-body-tertiary">Woodbury-Turnersville Rd</i></a></h3>
             <h3 class="content text-dark"><a href="708.php">Camden CR 708 <i class="text-body-tertiary">Zulker Ave, Walker Ave</i></a></h3>
-            <h3 class="content text-dark"><a href="708.php">Camden CR 708 <i class="text-body-tertiary">Walker Ave</i></a></h3>
             <h3 class="content text-dark"><a href="709.php">Camden CR 709 <i class="text-body-tertiary">E Atlantic Ave</i></a></h3>
             <h3 class="content text-dark"><a href="710.php">Camden CR 710 <i class="text-body-tertiary">W Factory Rd, E Factory Rd, Hayes Mill Rd, Atco Ave</i></a></h3>
             <h3 class="content text-dark"><a href="711.php">Camden CR 711 <i class="text-body-tertiary">Norcross Rd</i></a></h3>

@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="30.php">US-30 - N White Horse Pk (WB / EB)</a>, Hammonton, New Jersey 08037<br><a href="../state-highways/nj/54.php">NJ-54 - Bellevue Ave</a>, Hammonton, New Jersey 08037</td>
+                    <td class="content text-dark"><a href="30.php">US-30 - N White Horse Pk (WB & EB)</a>, Hammonton, New Jersey 08037<br><a href="../state-highways/nj/54.php">NJ-54 - Bellevue Ave</a>, Hammonton, New Jersey 08037</td>
                     <td class="content text-dark">Trenton Rd, Hammonton, New Jersey 08037</td>
                     <td class="content text-dark">Start of Route<br>Start of Route in New Jersey<br>Start Atlantic County</td>
                 </tr>

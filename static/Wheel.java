@@ -7,15 +7,15 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-// javac .\\us-highways-migration\for-wheel\Wheel.java
-// java -cp us-highways-migration for-wheel.Wheel
+// javac .\\us-highways-migration\static\Wheel.java
+// java -cp us-highways-migration static.Wheel
 
 public class Wheel {
     public static void main(String[] args){
         ArrayList<String> roadName = new ArrayList<>();
         ArrayList<Double> weights = new ArrayList<>();
         double totalWeight = 0;
-        try(Scanner in = new Scanner(new File("./us-highways-migration/for-wheel/weighted-roads.txt"))){
+        try(Scanner in = new Scanner(new File("./us-highways-migration/static/weighted-roads.txt"))){
             while(in.hasNextLine()){
                 String[] parts = in.nextLine().split(",");
                 double weight = Double.parseDouble(parts[0]);
@@ -38,7 +38,7 @@ public class Wheel {
             }
         }
         String selectedRoad = roadName.get(selectedIndex);
-        try(FileWriter fw = new FileWriter(new File("./us-highways-migration/for-wheel/wheel-results.txt"), true);
+        try(FileWriter fw = new FileWriter(new File("./us-highways-migration/static/wheel-results.txt"), true);
             PrintWriter out = new PrintWriter(fw)
         ){
             out.println(selectedRoad);
@@ -50,7 +50,7 @@ public class Wheel {
     }
 
     private static void removeRolledRoad(String road) throws IOException {
-        File roadsFile = new File("./us-highways-migration/for-wheel/roads.txt");
+        File roadsFile = new File("./us-highways-migration/static/roads.txt");
         ArrayList<String> roads = new ArrayList<>();
         try (Scanner in = new Scanner(roadsFile)) {
             while (in.hasNextLine()) {

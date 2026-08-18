@@ -3224,11 +3224,15 @@
                     <tr>
                         <td class="content text-dark small">0.24 mi<br><h4 class="small incr">+ 0.24 mi</h4></td>
                         <td class="content text-dark small">0.38 km<br><h4 class="small incr">+ 0.38 km</h4></td>
+                        <td class="content text-dark small">0.24 mi<br><h4 class="small incr">+ 0.24 mi</h4></td>
+                        <td class="content text-dark small">0.38 km<br><h4 class="small incr">+ 0.38 km</h4></td>
                         <td class="content text-dark"><a href="../interstates/95.php">I-95 - New Jersey Tpke</a>, Fort Lee, New Jersey 07024</td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark"></td>
                     </tr>
                     <tr>
+                        <td class="content text-dark small">0.93 mi<br><h4 class="small incr">+ 0.69 mi</h4></td>
+                        <td class="content text-dark small">1.50 km<br><h4 class="small incr">+ 1.12 km</h4></td>
                         <td class="content text-dark small">0.93 mi<br><h4 class="small incr">+ 0.69 mi</h4></td>
                         <td class="content text-dark small">1.50 km<br><h4 class="small incr">+ 1.12 km</h4></td>
                         <td class="content text-dark"><a href="../state-highways/nj/67.php">NJ-67 - Lemoine Ave</a>, Fort Lee, New Jersey 07024</td>
@@ -3238,11 +3242,15 @@
                     <tr>
                         <td class="content text-dark small">0.93 mi<br><h4 class="small incr">+ 0.69 mi</h4></td>
                         <td class="content text-dark small">1.50 km<br><h4 class="small incr">+ 1.12 km</h4></td>
+                        <td class="content text-dark small">0.93 mi<br><h4 class="small incr">+ 0.69 mi</h4></td>
+                        <td class="content text-dark small">1.50 km<br><h4 class="small incr">+ 1.12 km</h4></td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark">Sylvan Ave, Englewood Cliffs, New Jersey 07632</td>
                         <td class="content text-dark"></td>
                     </tr>
                     <tr>
+                        <td class="content text-dark small">2.13 mi<br><h4 class="small incr">+ 1.20 mi</h4></td>
+                        <td class="content text-dark small">3.43 km<br><h4 class="small incr">+ 1.93 km</h4></td>
                         <td class="content text-dark small">2.13 mi<br><h4 class="small incr">+ 1.20 mi</h4></td>
                         <td class="content text-dark small">3.43 km<br><h4 class="small incr">+ 1.93 km</h4></td>
                         <td class="content text-dark"><a href="../secondary-roads/nj/505.php">Bergen CR 505 - E Palisade Ave</a>, Englewood Cliffs, New Jersey 07632</td>
@@ -3252,11 +3260,15 @@
                     <tr>
                         <td class="content text-dark small">3.75 mi<br><h4 class="small incr">+ 1.62 mi</h4></td>
                         <td class="content text-dark small">6.03 km<br><h4 class="small incr">+ 2.60 km</h4></td>
+                        <td class="content text-dark small">3.75 mi<br><h4 class="small incr">+ 1.62 mi</h4></td>
+                        <td class="content text-dark small">6.03 km<br><h4 class="small incr">+ 2.60 km</h4></td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark">Sylvan Ave, Tenafly, New Jersey 07670</td>
                         <td class="content text-dark"></td>
                     </tr>
                     <tr>
+                        <td class="content text-dark small">3.89 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
+                        <td class="content text-dark small">6.25 km<br><h4 class="small incr">+ 0.22 km</h4></td>
                         <td class="content text-dark small">3.89 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
                         <td class="content text-dark small">6.25 km<br><h4 class="small incr">+ 0.22 km</h4></td>
                         <td class="content text-dark"><a href="../secondary-roads/nj/be/72.php">Bergen CR 72 - E Clinton Ave</a>, Tenafly, New Jersey 07670</td>
@@ -3266,11 +3278,15 @@
                     <tr>
                         <td class="content text-dark small">5.28 mi<br><h4 class="small incr">+ 1.39 mi</h4></td>
                         <td class="content text-dark small">8.49 km<br><h4 class="small incr">+ 2.24 km</h4></td>
+                        <td class="content text-dark small">5.28 mi<br><h4 class="small incr">+ 1.39 mi</h4></td>
+                        <td class="content text-dark small">8.49 km<br><h4 class="small incr">+ 2.24 km</h4></td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark">Sylvan Ave, Alpine, New Jersey 07620</td>
                         <td class="content text-dark"></td>
                     </tr>
                     <tr>
+                        <td class="content text-dark small">6.77 mi<br><h4 class="small incr">+ 1.49 mi</h4></td>
+                        <td class="content text-dark small">10.90 km<br><h4 class="small incr">+ 2.41 km</h4></td>
                         <td class="content text-dark small">6.77 mi<br><h4 class="small incr">+ 1.49 mi</h4></td>
                         <td class="content text-dark small">10.90 km<br><h4 class="small incr">+ 2.41 km</h4></td>
                         <td class="content text-dark"><a href="../secondary-roads/nj/be/74.php">Bergen CR 74 - Hillside Ave</a>, Alpine, New Jersey 07620</td>
@@ -3280,11 +3296,15 @@
                     <tr>
                         <td class="content text-dark small">7.13 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
                         <td class="content text-dark small">11.48 km<br><h4 class="small incr">+ 0.58 km</h4></td>
+                        <td class="content text-dark small">7.13 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
+                        <td class="content text-dark small">11.48 km<br><h4 class="small incr">+ 0.58 km</h4></td>
                         <td class="content text-dark"><a href="../secondary-roads/nj/502.php">Bergen CR 74 - Hillside Ave</a>, Alpine, New Jersey 07620</td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark"></td>
                     </tr>
                     <tr>
+                        <td class="content text-dark small">7.75 mi<br><h4 class="small incr">+ 0.62 mi</h4></td>
+                        <td class="content text-dark small">12.48 km<br><h4 class="small incr">+ 1.00 km</h4></td>
                         <td class="content text-dark small">7.75 mi<br><h4 class="small incr">+ 0.62 mi</h4></td>
                         <td class="content text-dark small">12.48 km<br><h4 class="small incr">+ 1.00 km</h4></td>
                         <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy (SB)</a>, Alpine, New Jersey 07620</td>
@@ -3294,11 +3314,15 @@
                     <tr>
                         <td class="content text-dark small">7.85 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
                         <td class="content text-dark small">12.63 km<br><h4 class="small incr">+ 0.15 km</h4></td>
+                        <td class="content text-dark small">7.85 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                        <td class="content text-dark small">12.63 km<br><h4 class="small incr">+ 0.15 km</h4></td>
                         <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy (NB)</a>, Alpine, New Jersey 07620</td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark"></td>
                     </tr>
                     <tr>
+                        <td class="content text-dark small">10.42 mi<br><h4 class="small incr">+ 2.57 mi</h4></td>
+                        <td class="content text-dark small">16.76 km<br><h4 class="small incr">+ 4.13 km</h4></td>
                         <td class="content text-dark small">10.42 mi<br><h4 class="small incr">+ 2.57 mi</h4></td>
                         <td class="content text-dark small">16.76 km<br><h4 class="small incr">+ 4.13 km</h4></td>
                         <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy (SB)</a>, Alpine, New Jersey 07620</td>
@@ -3308,11 +3332,15 @@
                     <tr>
                         <td class="content text-dark small">10.79 mi<br><h4 class="small incr">+ 0.37 mi</h4></td>
                         <td class="content text-dark small">17.36 km<br><h4 class="small incr">+ 0.60 km</h4></td>
+                        <td class="content text-dark small">10.79 mi<br><h4 class="small incr">+ 0.37 mi</h4></td>
+                        <td class="content text-dark small">17.36 km<br><h4 class="small incr">+ 0.60 km</h4></td>
                         <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy</a>, Alpine, New Jersey 07620</td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark"></td>
                     </tr>
                     <tr>
+                        <td class="content text-dark small">10.88 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
+                        <td class="content text-dark small">17.51 km<br><h4 class="small incr">+ 0.15 km</h4></td>
                         <td class="content text-dark small">10.88 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
                         <td class="content text-dark small">17.51 km<br><h4 class="small incr">+ 0.15 km</h4></td>
                         <td class="content text-dark"><a href="../state-highways/nj/445.php">NJ-445 - Palisades Interstate Pkwy (NB)</a>, Alpine, New Jersey 07620</td>

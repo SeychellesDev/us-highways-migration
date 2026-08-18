@@ -3400,7 +3400,7 @@
                 </tr>
                 <tr>
                     <td class="content text-dark small">805.70 mi<br><h4 class="small incr">+ 1.37 mi</h4></td>
-                    <td class="content text-dark small">1296.86 km ( + 2.71km )</td>
+                    <td class="content text-dark small">1296.86 km<br><h4 class="small incr">+ 2.71km</h4></td>
                     <td class="content text-dark"><a href="../secondary-roads/sc/ai/589.php">Aiken CR 589 - Cromer Rd</a>, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
@@ -14319,29 +14319,29 @@
                     <td class="content text-dark">Start of Alternate Route</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.66 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">1.06 km ( + 1.06 km )</td>
+                    <td class="content text-dark small">0.66 mi<br><h4 class="small incr">+ 0.66 mi</h4></td>
+                    <td class="content text-dark small">1.06 km<br><h4 class="small incr">+ 1.06 km</h4></td>
                     <td class="content text-dark">US-1 Alternate - Trumbull Ave, Stonington, Connecticut 06355</td>
                     <td class="content text-dark">Trumbull Ave, Stonington, Connecticut 06355</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.85 mi ( + 0.19 mi )</td>
-                    <td class="content text-dark small">1.36 km ( + 0.30 km )</td>
+                    <td class="content text-dark small">0.85 mi<br><h4 class="small incr">+ 0.19 mi</h4></td>
+                    <td class="content text-dark small">1.36 km<br><h4 class="small incr">+ 0.30 km</h4></td>
                     <td class="content text-dark">US-1 Alternate - Alpha Ave, Stonington, Connecticut 06355</td>
                     <td class="content text-dark">Alpha Ave, Stonington, Connecticut 06355</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.23 mi ( + 0.38 mi )</td>
-                    <td class="content text-dark small">1.97 km ( + 0.61 km )</td>
+                    <td class="content text-dark small">1.23 mi<br><h4 class="small incr">+ 0.38 mi</h4></td>
+                    <td class="content text-dark small">1.97 km<br><h4 class="small incr">+ 0.61 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Elm St, Stonington, Connecticut 06355</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.94 mi ( + 0.71 mi )</td>
-                    <td class="content text-dark small">3.12 km ( + 1.15 km )</td>
+                    <td class="content text-dark small">1.94 mi<br><h4 class="small incr">+ 0.71 mi</h4></td>
+                    <td class="content text-dark small">3.12 km<br><h4 class="small incr">+ 1.15 km</h4></td>
                     <td class="content text-dark"><a href="#ctus1">US-1 - Stonington Rd</a>, Stonington, Connecticut 06355</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Alternate Route</td>

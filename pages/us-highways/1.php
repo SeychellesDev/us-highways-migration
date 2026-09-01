@@ -9711,21 +9711,21 @@
                 <tr>
                     <td class="content text-dark small">1537.57 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
                     <td class="content text-dark small">2474.17 km<br><h4 class="small incr">+ 1.05 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/908.php/#nysr908f">NY-908F - Southern Blvd</a>, Bronx, New York 10463</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/908.php/#nysr908f">NY-908F - Southern Blvd</a>, Bronx, New York 10463</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1538.05 mi<br><h4 class="small incr">+ 0.48 mi</h4></td>
                     <td class="content text-dark small">2474.94 km<br><h4 class="small incr">+ 0.77 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/907.php/#nysr907h">NY-907H - Bronx River Pkwy</a>, Bronx, New York 10463</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/907.php/#nysr907h">NY-907H - Bronx River Pkwy</a>, Bronx, New York 10463</td>
                     <td class="content text-dark">S Pelham Pkwy, Bronx, New York 10463</td>
                     <td class="content text-dark">Start concurrency with NY-907F</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1538.22 mi<br><h4 class="small incr">+ 0.17 mi</h4></td>
                     <td class="content text-dark small">2475.21 km<br><h4 class="small incr">+ 0.27 km</h4></td>
-                    <td class="content text-dark">US-1 - Boston Rd, Bronx, New York 10463 (NB)<br><a href="../state-highways/ny/907.php/#nysr907f">NY-907F - Bronx and Pelham Pkwy</a>, Bronx, New York 10463 (EB)</td>
+                    <td class="content text-dark">US-1 - Boston Rd, Bronx, New York 10463 (NB)<br><a href="../state-highways/ny/ref/907.php/#nysr907f">NY-907F - Bronx and Pelham Pkwy</a>, Bronx, New York 10463 (EB)</td>
                     <td class="content text-dark">Boston Rd, Bronx, New York 10463</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9753,7 +9753,7 @@
                 <tr>
                     <td class="content text-dark small">1542.01 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
                     <td class="content text-dark small">2481.31 km<br><h4 class="small incr">+ 0.22 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/907.php/#nysr907w">NY-907W - Hutchinson River Pkwy</a>, Pelham, New York 10803</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/907.php/#nysr907w">NY-907W - Hutchinson River Pkwy</a>, Pelham, New York 10803</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9774,7 +9774,7 @@
                 <tr>
                     <td class="content text-dark small">1544.15 mi<br><h4 class="small incr">+ 0.94 mi</h4></td>
                     <td class="content text-dark small">2484.75 km<br><h4 class="small incr">+ 1.51 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/981.php/#nysr981v">NY-981V - Memorial Hwy</a>, New Rochelle, New York 10801</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/981.php/#nysr981v">NY-981V - Memorial Hwy</a>, New Rochelle, New York 10801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9788,7 +9788,7 @@
                 <tr>
                     <td class="content text-dark small">1544.43 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
                     <td class="content text-dark small">2485.19 km<br><h4 class="small incr">+ 0.15 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/982.php/#nysr982k">NY-982K - Harrison St</a>, New Rochelle, New York 10801</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/982.php/#nysr982k">NY-982K - Harrison St</a>, New Rochelle, New York 10801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

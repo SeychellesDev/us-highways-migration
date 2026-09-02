@@ -1819,7 +1819,7 @@
                 <tr>
                     <td class="content text-dark small">215.52 mi<br><h4 class="small incr">+ 1.46 mi</h4></td>
                     <td class="content text-dark small">346.99 km<br><h4 class="small incr">+ 2.35 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/983.php/#nysr983b">NY-983B - Nepperhan Ave</a>, Yonkers, New York 10705</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/983.php/#nysr983b">NY-983B - Nepperhan Ave</a>, Yonkers, New York 10705</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2071,7 +2071,7 @@
                 <tr>
                     <td class="content text-dark small">242.67 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
                     <td class="content text-dark small">390.70 km<br><h4 class="small incr">+ 1.04 km</h4></td>
-                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy (WB)</a> (concurrent with <a href="202.php">US-202</a> & US-9), Peekskill, New York 10566<br><a href="../state-highways/ny/987.php/#nysr987h">NY-987H - Bear Mountain State Pkwy</a>, Peekskill, New York 10566</td>
+                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy (WB)</a> (concurrent with <a href="202.php">US-202</a> & US-9), Peekskill, New York 10566<br><a href="../state-highways/ny/ref/987.php/#nysr987h">NY-987H - Bear Mountain State Pkwy</a>, Peekskill, New York 10566</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2680,14 +2680,14 @@
                 <tr>
                     <td class="content text-dark small">333.03 mi<br><h4 class="small incr">+ 0.61 mi</h4></td>
                     <td class="content text-dark small">536.52 km<br><h4 class="small incr">+ 0.98 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/912.php/#nysr912m">NY-912M - Berkshire Conn (EB)</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/912.php/#nysr912m">NY-912M - Berkshire Conn (EB)</a>, Schodack, New York 12184</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">333.10 mi<br><h4 class="small incr">+ 0.07 mi</h4></td>
                     <td class="content text-dark small">536.63 km<br><h4 class="small incr">+ 0.11 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/912.php/#nysr912m">NY-912M - Berkshire Conn (WB)</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/912.php/#nysr912m">NY-912M - Berkshire Conn (WB)</a>, Schodack, New York 12184</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3351,8 +3351,8 @@
                 </section>
                 </section>
                 <section id="nyus9aux">
-                <section id="sec-nyus9wroorulgral">
-                    <tbody id="tb-nyus9wroorulgral">
+                <section id="sec-nyus9wrlorulgral">
+                    <tbody id="tb-nyus9wrlorulgral">
                         <tr>
                             <td class="content text-dark small">11.12 mi<br><h4 class="small incr">+ 0.24 mi</h4></td>
                             <td class="content text-dark small">17.89 km<br><h4 class="small incr">+ 0.38 km</h4></td>
@@ -3552,7 +3552,7 @@
                         <tr>
                             <td class="content text-dark small">37.30 mi<br><h4 class="small incr">+ 5.33 mi</h4></td>
                             <td class="content text-dark small">60.03 km<br><h4 class="small incr">+ 8.58 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/987.php/#nysr987e">NY-987E - Seven Lakes Dr</a>, Stony Point, New York 10980</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/987.php/#nysr987e">NY-987E - Seven Lakes Dr</a>, Stony Point, New York 10980</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -3566,21 +3566,21 @@
                         <tr>
                             <td class="content text-dark small">37.70 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
                             <td class="content text-dark small">60.68 km<br><h4 class="small incr">+ 0.21 km</h4></td>
-                            <td class="content text-dark">N US-9W, Highlands, New York 10928 (NB)<br><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="../state-highways/ny/987.php/#nysr987C">NY-987C - Palisades Interstate Pkwy</a>), Highlands, New York 10928 (WB)<br><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="202.php">US-202</a>), Highlands, New York 10928 (EB)</td>
+                            <td class="content text-dark">N US-9W, Highlands, New York 10928 (NB)<br><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="../state-highways/ny/ref/987.php/#nysr987C">NY-987C - Palisades Interstate Pkwy</a>), Highlands, New York 10928 (WB)<br><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="202.php">US-202</a>), Highlands, New York 10928 (EB)</td>
                             <td class="content text-dark">N US-9W, Highlands, New York 10928</td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">39.48 mi<br><h4 class="small incr">+ 1.78 mi</h4></td>
                             <td class="content text-dark small">63.54 km<br><h4 class="small incr">+ 2.86 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/980.php/#nysr980u">NY-980U - Old State Rd</a>, Highlands, New York 10928</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php/#nysr980u">NY-980U - Old State Rd</a>, Highlands, New York 10928</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">40.41 mi<br><h4 class="small incr">+ 0.93 mi</h4></td>
                             <td class="content text-dark small">65.03 km<br><h4 class="small incr">+ 1.49 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/982.php/#nysr982e">NY-982E - Crystal Lake Cross Rd</a>, Highlands, New York 10928 (SB)<br><a href="../state-highways/ny/218.php">NY-218 - Main St</a>, Highlands, New York 10928 (EB)</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/982.php/#nysr982e">NY-982E - Crystal Lake Cross Rd</a>, Highlands, New York 10928 (SB)<br><a href="../state-highways/ny/218.php">NY-218 - Main St</a>, Highlands, New York 10928 (EB)</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -3643,28 +3643,28 @@
                         <tr>
                             <td class="content text-dark small">51.94 mi<br><h4 class="small incr">+ 0.81 mi</h4></td>
                             <td class="content text-dark small">83.58 km<br><h4 class="small incr">+ 1.30 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/980.php/nysr980t">NY-980T - Old US-9W</a>, New Windsor, New York 12553</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php/nysr980t">NY-980T - Old US-9W</a>, New Windsor, New York 12553</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">51.94 mi<br><h4 class="small incr">+ 0.81 mi</h4></td>
                             <td class="content text-dark small">83.58 km<br><h4 class="small incr">+ 1.30 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/980.php/nysr980t">NY-980T - Old US-9W</a>, New Windsor, New York 12553</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php/nysr980t">NY-980T - Old US-9W</a>, New Windsor, New York 12553</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">51.97 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
                             <td class="content text-dark small">83.63 km<br><h4 class="small incr">+ 0.05 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/984.php/nysr984k">NY-984K - River Rd</a>, New Windsor, New York 12553</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/984.php/nysr984k">NY-984K - River Rd</a>, New Windsor, New York 12553</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">52.14 mi<br><h4 class="small incr">+ 0.17 mi</h4></td>
                             <td class="content text-dark small">83.91 km<br><h4 class="small incr">+ 0.28 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/984.php/nysr984k">NY-984K - River Rd</a>, New Windsor, New York 12553</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/984.php/nysr984k">NY-984K - River Rd</a>, New Windsor, New York 12553</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -3699,8 +3699,169 @@
                         <tr>
                             <td class="content text-dark small">54.79 mi<br><h4 class="small incr">+ 0.47 mi</h4></td>
                             <td class="content text-dark small">88.18 km<br><h4 class="small incr">+ 0.76 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/980.php/#nysr980p">NY-980P - South St</a>, Newburgh, New York 12550</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php/#nysr980p">NY-980P - South St</a>, Newburgh, New York 12550</td>
                             <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">55.52 mi<br><h4 class="small incr">+ 0.73 mi</h4></td>
+                            <td class="content text-dark small">89.36 km<br><h4 class="small incr">+ 1.18 km</h4></td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php/#nysr980t">NY-980T - Plank Rd</a>, Newburgh, New York 12550</td>
+                            <td class="content text-dark">N US-9W, Newburgh, New York 12550</td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">55.62 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                            <td class="content text-dark small">89.53 km<br><h4 class="small incr">+ 0.17 km</h4></td>
+                            <td class="content text-dark"><a href="../interstates/panyctma-84.php">I-84</a> (concurrent with <a href="../state-highways/ny/52.php">NY-52</a>), Newburgh, New York 12550</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">55.68 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
+                            <td class="content text-dark small">89.63 km<br><h4 class="small incr">+ 0.10 km</h4></td>
+                            <td class="content text-dark"><a href="../state-highways/ny/32.php">NY-32 - N Plank Rd</a>, Newburgh, New York 12550</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">End concurrency with NY-32</td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">56.75 mi<br><h4 class="small incr">+ 1.07 mi</h4></td>
+                            <td class="content text-dark small">91.36 km<br><h4 class="small incr">+ 1.73 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/or/86.php">Orange CR 86 - Fostertown Rd</a>, Newburgh, New York 12550</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">60.86 mi<br><h4 class="small incr">+ 4.11 mi</h4></td>
+                            <td class="content text-dark small">97.97 km<br><h4 class="small incr">+ 6.61 km</h4></td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">N US-9W, Marlborough, New York 12542</td>
+                            <td class="content text-dark">End Orange County<br>Start Ulster County</td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">62.28 mi<br><h4 class="small incr">+ 1.42 mi</h4></td>
+                            <td class="content text-dark small">100.25 km<br><h4 class="small incr">+ 2.28 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/14.php">Ulster CR 14 - Western Ave</a>, Marlborough, New York 12542</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">66.20 mi<br><h4 class="small incr">+ 3.92 mi</h4></td>
+                            <td class="content text-dark small">106.56 km<br><h4 class="small incr">+ 6.31 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/10.php">Ulster CR 10 - Milton Tpke</a>, Marlborough, New York 12542</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">67.18 mi<br><h4 class="small incr">+ 0.98 mi</h4></td>
+                            <td class="content text-dark small">108.14 km<br><h4 class="small incr">+ 1.58 km</h4></td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">N US-9W, Lloyd, New York 12528</td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">68.78 mi<br><h4 class="small incr">+ 1.60 mi</h4></td>
+                            <td class="content text-dark small">110.72 km<br><h4 class="small incr">+ 2.58 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/11.php">Ulster CR 11 - Chapel Hill Rd</a>, Lloyd, New York 12528</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">68.78 mi<br><h4 class="small incr">+ 0.78 mi</h4></td>
+                            <td class="content text-dark small">110.72 km<br><h4 class="small incr">+ 1.26 km</h4></td>
+                            <td class="content text-dark"><a href="44.php">US-44</a> (concurrent with <a href="../state-highways/ny/55.php">NY-55</a>), Lloyd, New York 12528</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">Start concurrency with US-44 & NY-55</td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">69.42 mi<br><h4 class="small incr">+ 0.64 mi</h4></td>
+                            <td class="content text-dark small">111.75 km<br><h4 class="small incr">+ 1.03 km</h4></td>
+                            <td class="content text-dark"><a href="44.php">US-44 - Milton Ave</a> (concurrent with <a href="../state-highways/ny/55.php">NY-55</a>), Lloyd, New York 12528</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">End concurrency with US-44 & NY-55</td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">71.24 mi<br><h4 class="small incr">+ 1.82 mi</h4></td>
+                            <td class="content text-dark small">114.68 km<br><h4 class="small incr">+ 2.93 km</h4></td>
+                            <td class="content text-dark"><a href="../state-highways/ny/299.php">NY-299</a>, Lloyd, New York 12528</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">71.87 mi<br><h4 class="small incr">+ 0.63 mi</h4></td>
+                            <td class="content text-dark small">115.69 km<br><h4 class="small incr">+ 1.01 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/15.php">Ulster CR 15 - N Riverside Rd</a>, Lloyd, New York 12528</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">73.16 mi<br><h4 class="small incr">+ 1.29 mi</h4></td>
+                            <td class="content text-dark small">117.77 km<br><h4 class="small incr">+ 2.08 km</h4></td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">N US-9W, Esopus, New York 12429</td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">76.05 mi<br><h4 class="small incr">+ 2.89 mi</h4></td>
+                            <td class="content text-dark small">122.42 km<br><h4 class="small incr">+ 4.65 km</h4></td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">Broadway, Esopus, New York 12429</td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">77.24 mi<br><h4 class="small incr">+ 1.19 mi</h4></td>
+                            <td class="content text-dark small">124.33 km<br><h4 class="small incr">+ 1.91 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/16.php">Ulster CR 16 - Old Post Rd</a>, Esopus, New York 12429</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">79.34 mi<br><h4 class="small incr">+ 2.10 mi</h4></td>
+                            <td class="content text-dark small">127.71 km<br><h4 class="small incr">+ 3.38 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/24.php">Ulster CR 24 - River Rd</a>, Esopus, New York 12429</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">Start concurrency with Ulster CR 24</td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">79.45 mi<br><h4 class="small incr">+ 0.11 mi</h4></td>
+                            <td class="content text-dark small">127.89 km<br><h4 class="small incr">+ 0.18 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/24.php">Ulster CR 24 - Ulster Ave</a>, Esopus, New York 12429</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">End concurrency with Ulster CR 24</td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">81.35 mi<br><h4 class="small incr">+ 1.90 mi</h4></td>
+                            <td class="content text-dark small">130.94 km<br><h4 class="small incr">+ 3.05 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/24.php">Ulster CR 124 - Ulster Ave</a>, Esopus, New York 12429</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">82.42 mi<br><h4 class="small incr">+ 1.07 mi</h4></td>
+                            <td class="content text-dark small">132.66 km<br><h4 class="small incr">+ 1.72 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/24.php">Ulster CR 24 - River Rd</a>, Esopus, New York 12429</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">82.91 mi<br><h4 class="small incr">+ 0.49 mi</h4></td>
+                            <td class="content text-dark small">133.45 km<br><h4 class="small incr">+ 0.79 km</h4></td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/ul/24.php">Ulster CR 25 - Salem St</a>, Esopus, New York 12429</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">83.27 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
+                            <td class="content text-dark small">134.03 km<br><h4 class="small incr">+ 0.58 km</h4></td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/984.php/#nysr984d">NY-984D - Old US-9W</a>, Esopus, New York 12429</td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">83.72 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
+                            <td class="content text-dark small">134.76 km<br><h4 class="small incr">+ 0.73 km</h4></td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">Frank Koenig Blvd, Kingston, New York 12401</td>
                             <td class="content text-dark"></td>
                         </tr>
                     </tbody>

@@ -13106,6 +13106,286 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">1969.50 mi<br><h4 class="small incr">+ 1.62 mi</h4></td>
+                    <td class="content text-dark small">3169.22 km<br><h4 class="small incr">+ 2.62 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Atlantic Hwy, Northport, Maine 04849</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1977.63 mi<br><h4 class="small incr">+ 8.13 mi</h4></td>
+                    <td class="content text-dark small">3182.30 km<br><h4 class="small incr">+ 13.08 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Northport Ave, Belfast, Maine 04915</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1978.67 mi<br><h4 class="small incr">+ 1.04 mi</h4></td>
+                    <td class="content text-dark small">3183.97 km<br><h4 class="small incr">+ 1.67 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Belfast, Maine 04915</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1980.17 mi<br><h4 class="small incr">+ 1.50 mi</h4></td>
+                    <td class="content text-dark small">3186.38 km<br><h4 class="small incr">+ 2.41 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/52.php">ME-52 - Lincolnville Ave</a>, Belfast, Maine 04915</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1980.57 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
+                    <td class="content text-dark small">3187.03 km<br><h4 class="small incr">+ 0.65 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/3.php">ME-3 - Acadia Hwy</a>, Belfast, Maine 04915</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1980.86 mi<br><h4 class="small incr">+ 0.29 mi</h4></td>
+                    <td class="content text-dark small">3187.50 km<br><h4 class="small incr">+ 0.47 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Acadia Hwy, Belfast, Maine 04915</td>
+                    <td class="content text-dark">Start concurrency with ME-3</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1981.16 mi<br><h4 class="small incr">+ 0.30 mi</h4></td>
+                    <td class="content text-dark small">3187.98 km<br><h4 class="small incr">+ 0.48 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/7.php">ME-7 - Waldo Ave</a>, Belfast, Maine 04915</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1981.85 mi<br><h4 class="small incr">+ 0.69 mi</h4></td>
+                    <td class="content text-dark small">3189.09 km<br><h4 class="small incr">+ 1.11 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/141.php">ME-141 - Swan Lake Ave</a>, Belfast, Maine 04915</td>
+                    <td class="content text-dark">Searsport Ave, Belfast, Maine 04915</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1984.22 mi<br><h4 class="small incr">+ 2.37 mi</h4></td>
+                    <td class="content text-dark small">3192.91 km<br><h4 class="small incr">+ 3.82 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W Main St, Searsport, Maine 04974</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1986.91 mi<br><h4 class="small incr">+ 2.69 mi</h4></td>
+                    <td class="content text-dark small">3197.24 km<br><h4 class="small incr">+ 4.33 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Acadia Hwy, Searsport, Maine 04974</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1990.52 mi<br><h4 class="small incr">+ 3.61 mi</h4></td>
+                    <td class="content text-dark small">3203.05 km<br><h4 class="small incr">+ 5.81 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Acadia Hwy, Stockton Springs, Maine 04981</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1991.34 mi<br><h4 class="small incr">+ 0.82 mi</h4></td>
+                    <td class="content text-dark small">3204.38 km<br><h4 class="small incr">+ 1.33 km</h4></td>
+                    <td class="content text-dark"><a href="#meus1altwapeha">US-1 Alternate - Bangor Rd</a>, Stockton Springs, Maine 04981</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1996.52 mi<br><h4 class="small incr">+ 5.18 mi</h4></td>
+                    <td class="content text-dark small">3212.72 km<br><h4 class="small incr">+ 8.34 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Acadia Hwy, Prospect, Maine 04981</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1997.39 mi<br><h4 class="small incr">+ 0.87 mi</h4></td>
+                    <td class="content text-dark small">3214.13 km<br><h4 class="small incr">+ 1.41 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/174.php">ME-174 - Fort Knox Rd</a>, Prospect, Maine 04981</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1997.58 mi<br><h4 class="small incr">+ 0.19 mi</h4></td>
+                    <td class="content text-dark small">3214.43 km<br><h4 class="small incr">+ 0.30 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Acadia Hwy, Verona Island, Maine 04416</td>
+                    <td class="content text-dark">End Waldo County<br>Start Hancock County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1998.82 mi<br><h4 class="small incr">+ 1.24 mi</h4></td>
+                    <td class="content text-dark small">3216.43 km<br><h4 class="small incr">+ 2.00 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Acadia Hwy, Bucksport, Maine 04416</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1998.96 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
+                    <td class="content text-dark small">3216.66 km<br><h4 class="small incr">+ 0.23 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/15.php">ME-15 - Main St</a>, Bucksport, Maine 04416 (WB)<br>US-1 - Acadia Hwy (concurrent with <a href="../state-highways/me/3.php">ME-3</a> & <a href="../state-highways/me/15.php">ME-15</a>), Bucksport, Maine 04416 (EB)</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with ME-15</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2000.02 mi<br><h4 class="small incr">+ 1.06 mi</h4></td>
+                    <td class="content text-dark small">3218.37 km<br><h4 class="small incr">+ 1.71 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Acadia Hwy, Orland, Maine 04472</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2000.05 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
+                    <td class="content text-dark small">3218.42 km<br><h4 class="small incr">+ 0.05 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/46.php">ME-46</a>, Orland, Maine 04472</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2000.67 mi<br><h4 class="small incr">+ 0.62 mi</h4></td>
+                    <td class="content text-dark small">3219.42 km<br><h4 class="small incr">+ 1.00 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/166.php">ME-166 - Castine Rd</a>, Orland, Maine 04472</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2003.30 mi<br><h4 class="small incr">+ 2.63 mi</h4></td>
+                    <td class="content text-dark small">3223.65 km<br><h4 class="small incr">+ 4.23 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/15.php">ME-15 - Front Ridge Rd</a>, Orland, Maine 04472</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with ME-15</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2007.48 mi<br><h4 class="small incr">+ 4.18 mi</h4></td>
+                    <td class="content text-dark small">3230.37 km<br><h4 class="small incr">+ 6.72 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/176.php">ME-176 - Surry Rd</a>, Orland, Maine 04472</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with ME-15</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2009.39 mi<br><h4 class="small incr">+ 1.91 mi</h4></td>
+                    <td class="content text-dark small">3233.44 km<br><h4 class="small incr">+ 3.07 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Ellsworth, Maine 04605</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2013.28 mi<br><h4 class="small incr">+ 3.89 mi</h4></td>
+                    <td class="content text-dark small">3239.69 km<br><h4 class="small incr">+ 6.25 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Bucksport Rd, Ellsworth, Maine 04605</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2017.81 mi<br><h4 class="small incr">+ 4.53 mi</h4></td>
+                    <td class="content text-dark small">3246.97 km<br><h4 class="small incr">+ 7.28 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/172.php">ME-172 - Surry Rd</a>, Ellsworth, Maine 04605</td>
+                    <td class="content text-dark">E Main St, Ellsworth, Maine 04605</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2017.92 mi<br><h4 class="small incr">+ 0.11 mi</h4></td>
+                    <td class="content text-dark small">3247.15 km<br><h4 class="small incr">+ 0.18 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W Main St, Ellsworth, Maine 04605</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2018.02 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                    <td class="content text-dark small">3247.31 km<br><h4 class="small incr">+ 0.16 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/230.php">ME-230 - Water St</a>, Ellsworth, Maine 04605</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2018.29 mi<br><h4 class="small incr">+ 0.27 mi</h4></td>
+                    <td class="content text-dark small">3247.75 km<br><h4 class="small incr">+ 0.44 km</h4></td>
+                    <td class="content text-dark"><a href="#meus1altwapeha">US-1 Alternate - Oak St</a>, Ellsworth, Maine 04605 (NB)<br>US-1 - High St (concurrent with <a href="../state-highways/me/3.php">ME-3</a>), Ellsworth, Maine 04605 (SB)</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2019.32 mi<br><h4 class="small incr">+ 1.03 mi</h4></td>
+                    <td class="content text-dark small">3249.41 km<br><h4 class="small incr">+ 1.66 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/3.php">ME-3 - High St</a>, Ellsworth, Maine 04605 (SB)<br>US-1 - Downeast Hwy, Ellsworth, Maine 04605 (EB)</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with ME-3</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2020.18 mi<br><h4 class="small incr">+ 0.86 mi</h4></td>
+                    <td class="content text-dark small">3250.80 km<br><h4 class="small incr">+ 1.39 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/184.php">ME-184 - Douglas Hwy</a>, Ellsworth, Maine 04605</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2020.44 mi<br><h4 class="small incr">+ 0.26 mi</h4></td>
+                    <td class="content text-dark small">3251.21 km<br><h4 class="small incr">+ 0.41 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Hancock, Maine 04640</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2024.00 mi<br><h4 class="small incr">+ 3.56 mi</h4></td>
+                    <td class="content text-dark small">3256.93 km<br><h4 class="small incr">+ 5.72 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/182.php">ME-182 - Franklin Rd</a>, Hancock, Maine 04640</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2028.43 mi<br><h4 class="small incr">+ 4.43 mi</h4></td>
+                    <td class="content text-dark small">3264.06 km<br><h4 class="small incr">+ 7.13 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Sullivan, Maine 04664</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2030.47 mi<br><h4 class="small incr">+ 2.04 mi</h4></td>
+                    <td class="content text-dark small">3267.34 km<br><h4 class="small incr">+ 3.28 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/200.php">ME-200 - Bert Gray Rd</a>, Sullivan, Maine 04664</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2031.46 mi<br><h4 class="small incr">+ 0.99 mi</h4></td>
+                    <td class="content text-dark small">3268.94 km<br><h4 class="small incr">+ 1.60 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/185.php">ME-185 - East Side Rd</a>, Sullivan, Maine 04664</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2034.74 mi<br><h4 class="small incr">+ 3.28 mi</h4></td>
+                    <td class="content text-dark small">3274.22 km<br><h4 class="small incr">+ 5.28 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Gouldsboro, Maine 04607</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2036.49 mi<br><h4 class="small incr">+ 1.75 mi</h4></td>
+                    <td class="content text-dark small">3277.04 km<br><h4 class="small incr">+ 2.82 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/186.php">ME-186 - S Gouldsboro Rd</a>, Gouldsboro, Maine 04607</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2037.74 mi<br><h4 class="small incr">+ 1.25 mi</h4></td>
+                    <td class="content text-dark small">3279.05 km<br><h4 class="small incr">+ 2.01 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/195.php">ME-195 - Pond Rd</a>, Gouldsboro, Maine 04607</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2039.65 mi<br><h4 class="small incr">+ 1.91 mi</h4></td>
+                    <td class="content text-dark small">3282.12 km<br><h4 class="small incr">+ 3.07 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/186.php">ME-186 - W Bay Rd</a>, Gouldsboro, Maine 04607</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2042.91 mi<br><h4 class="small incr">+ 3.26 mi</h4></td>
+                    <td class="content text-dark small">3287.37 km<br><h4 class="small incr">+ 5.25 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Steuben, Maine 04680</td>
+                    <td class="content text-dark">End Hancock County<br>Start Washington County</td>
+                </tr>
             </tbody>
             </tbody>
             <section id="us1aux">
@@ -15598,7 +15878,7 @@
                 </tbody>
                 </section>
                 </section>
-                <section id="nhus1alt">
+                <section id="nhus1aux">
                 <?php include "../../static/endtable.php"; ?>
                 <hr>
                 <section id="sec-nhusbypro">
@@ -15873,6 +16153,197 @@
                         <td class="content text-dark"><a href="#meus1">US-1 - Camden St</a>, Rockland, Maine 04841</td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark">End concurrency with ME-17<br>End of Alternate Route</td>
+                    </tr>
+                </section>
+                <?php include "../../static/endtable.php"; ?>
+                <hr>
+                <section id="sec-meus1altwapeha">
+                <h1 class="header" id="meus1altwapeha">United States Route 1 Alternate (Portland, Maine)</h1>
+                <h2 class="content text-dark">US-1 Alternate is an alternate route in Portland, Maine. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <?php include "../../static/table.php"; ?>
+                <tbody id="tb-meus1altwapeha">
+                    <tr>
+                        <td class="content text-dark small">0.00 mi</td>
+                        <td class="content text-dark small">0.00 km</td>
+                        <td class="content text-dark"><a href="#meus1">US-1 - Acadia Hwy</a>, Stockton Springs, Maine 04981</td>
+                        <td class="content text-dark">Bangor Rd, Stockton Springs, Maine 04981</td>
+                        <td class="content text-dark">Start of Alternate Route</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">3.01 mi<br><h4 class="small incr">+ 3.01 mi</h4></td>
+                        <td class="content text-dark small">4.85 km<br><h4 class="small incr">+ 4.85 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Bangor Rd, Prospect, Maine 04981</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">4.28 mi<br><h4 class="small incr">+ 1.27 mi</h4></td>
+                        <td class="content text-dark small">6.89 km<br><h4 class="small incr">+ 2.04 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/me/174.php">ME-174 - Fort Knox Rd</a>, Prospect, Maine 04981</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">6.05 mi<br><h4 class="small incr">+ 1.77 mi</h4></td>
+                        <td class="content text-dark small">9.73 km<br><h4 class="small incr">+ 2.84 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">S Main Rd, Frankfort, Maine 04438</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">8.44 mi<br><h4 class="small incr">+ 2.39 mi</h4></td>
+                        <td class="content text-dark small">13.58 km<br><h4 class="small incr">+ 3.85 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">N Main Rd, Frankfort, Maine 04438</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">9.69 mi<br><h4 class="small incr">+ 1.25 mi</h4></td>
+                        <td class="content text-dark small">15.60 km<br><h4 class="small incr">+ 2.02 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">S Main St, Winterport, Maine 04496</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">10.93 mi<br><h4 class="small incr">+ 1.24 mi</h4></td>
+                        <td class="content text-dark small">17.59 km<br><h4 class="small incr">+ 1.99 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/me/69.php">ME-69 - Whig St</a>, Winterport, Maine 04496</td>
+                        <td class="content text-dark">Main St, Winterport, Maine 04496</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">11.58 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
+                        <td class="content text-dark small">18.63 km<br><h4 class="small incr">+ 1.04 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">N Main St, Winterport, Maine 04496</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">16.06 mi<br><h4 class="small incr">+ 4.48 mi</h4></td>
+                        <td class="content text-dark small">25.84 km<br><h4 class="small incr">+ 7.21 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">S Main Rd, Hampden, Maine 04444</td>
+                        <td class="content text-dark">End Waldo County<br>Start Penobscot County</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">18.77 mi<br><h4 class="small incr">+ 2.71 mi</h4></td>
+                        <td class="content text-dark small">30.21 km<br><h4 class="small incr">+ 4.37 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">N Main Rd, Hampden, Maine 04444</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">19.20 mi<br><h4 class="small incr">+ 0.43 mi</h4></td>
+                        <td class="content text-dark small">30.90 km<br><h4 class="small incr">+ 0.69 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/me/9/#mesr9b">ME-9B - Western Ave</a>, Hampden, Maine 04444</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Start concurrency with ME-9B</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">22.81 mi<br><h4 class="small incr">+ 3.61 mi</h4></td>
+                        <td class="content text-dark small">36.70 km<br><h4 class="small incr">+ 5.80 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">N Main Rd, Bangor, Maine 04401</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">22.93 mi<br><h4 class="small incr">+ 0.12 mi</h4></td>
+                        <td class="content text-dark small">36.89 km<br><h4 class="small incr">+ 0.19 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Main St, Bangor, Maine 04401</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">23.28 mi<br><h4 class="small incr">+ 0.35 mi</h4></td>
+                        <td class="content text-dark small">37.46 km<br><h4 class="small incr">+ 0.57 km</h4></td>
+                        <td class="content text-dark"><a href="../interstates/auxiliary/me-395.php">I-395</a> (concurrent with <a href="../state-highways/me/9.php">ME-9</a> & <a href="../state-highways/me/15.php">ME-15</a>), Bangor, Maine 04401</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">24.26 mi<br><h4 class="small incr">+ 0.98 mi</h4></td>
+                        <td class="content text-dark small">39.04 km<br><h4 class="small incr">+ 1.58 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/me/222.php">ME-222 - Union St</a>, Bangor, Maine 04401 (WB)<br>US-1 Alternate - Union St (concurrent with <a href="../state-highways/me/9.php/#mesr9b">ME-9B</a>), Bangor, Maine 04401 (EB)</td>
+                        <td class="content text-dark">Union St, Bangor, Maine 04401</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">24.55 mi<br><h4 class="small incr">+ 0.29 mi</h4></td>
+                        <td class="content text-dark small">39.50 km<br><h4 class="small incr">+ 0.46 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Wilson St, Brewer, Maine 04412</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">24.69 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
+                        <td class="content text-dark small">39.73 km<br><h4 class="small incr">+ 0.23 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/me/15.php/#mesr15b">ME-15B - S Main St</a>, Brewer, Maine 04412 (SB)<br><a href="../state-highways/me/9.php/#mesr9b">ME-9B - N Main St</a> (concurrent with <a href="../state-highways/me/15.php/#mesr15b">ME-15B</a>), Brewer, Maine 04412 (NB)</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">27.46 mi<br><h4 class="small incr">+ 2.77 mi</h4></td>
+                        <td class="content text-dark small">44.19 km<br><h4 class="small incr">+ 4.46 km</h4></td>
+                        <td class="content text-dark"><a href="../interstates/auxiliary/me-395.php">I-395</a> (concurrent with <a href="../state-highways/me/9.php">ME-9</a>), Brewer, Maine 04412 (SB)<br><a href="../state-highways/me/9.php">ME-9</a>, Brewer, Maine 04412 (NB)</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">27.92 mi<br><h4 class="small incr">+ 0.46 mi</h4></td>
+                        <td class="content text-dark small">44.93 km<br><h4 class="small incr">+ 0.74 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Main Rd, Holden, Maine 04429</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">32.74 mi<br><h4 class="small incr">+ 4.82 mi</h4></td>
+                        <td class="content text-dark small">52.69 km<br><h4 class="small incr">+ 7.76 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/me/46.php">ME-46 - Lower Dedham Rd (WB) / Kidder Hill Rd (EB)</a>, Holden, Maine 04429</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">33.20 mi<br><h4 class="small incr">+ 0.46 mi</h4></td>
+                        <td class="content text-dark small">53.44 km<br><h4 class="small incr">+ 0.75 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Main Rd, Dedham, Maine 04429</td>
+                        <td class="content text-dark">End Penobscot County<br>Start Hancock County</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">39.88 mi<br><h4 class="small incr">+ 6.68 mi</h4></td>
+                        <td class="content text-dark small">64.18 km<br><h4 class="small incr">+ 10.74 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Bangor Rd, Ellsworth, Maine 04605</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">47.96 mi<br><h4 class="small incr">+ 8.08 mi</h4></td>
+                        <td class="content text-dark small">77.18 km<br><h4 class="small incr">+ 13.00 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/me/180.php">ME-180 - Vittum Rd</a>, Ellsworth, Maine 04605</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">48.78 mi<br><h4 class="small incr">+ 0.82 mi</h4></td>
+                        <td class="content text-dark small">78.49 km<br><h4 class="small incr">+ 1.31 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/me/179.php">ME-179 - North St</a>, Ellsworth, Maine 04605</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">49.87 mi<br><h4 class="small incr">+ 1.09 mi</h4></td>
+                        <td class="content text-dark small">80.25 km<br><h4 class="small incr">+ 1.76 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Oak St, Ellsworth, Maine 04605</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">50.46 mi<br><h4 class="small incr">+ 0.59 mi</h4></td>
+                        <td class="content text-dark small">81.20 km<br><h4 class="small incr">+ 0.95 km</h4></td>
+                        <td class="content text-dark"><a href="#meus1">US-1 - High St (SB) / Main St (WB)</a> (concurrent with <a href="../state-highways/me/3.php">ME-3</a>), Ellsworth, Maine 04605</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">End of Alternate Route</td>
                     </tr>
                 </section>
                 <?php include "../../static/endtable.php"; ?>

@@ -13186,7 +13186,7 @@
                 <tr>
                     <td class="content text-dark small">1991.34 mi<br><h4 class="small incr">+ 0.82 mi</h4></td>
                     <td class="content text-dark small">3204.38 km<br><h4 class="small incr">+ 1.33 km</h4></td>
-                    <td class="content text-dark"><a href="#meus1altwapeha">US-1 Alternate - Bangor Rd</a>, Stockton Springs, Maine 04981</td>
+                    <td class="content text-dark"><a href="#meus1altwlpeha">US-1 Alternate - Bangor Rd</a>, Stockton Springs, Maine 04981</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -13298,7 +13298,7 @@
                 <tr>
                     <td class="content text-dark small">2018.29 mi<br><h4 class="small incr">+ 0.27 mi</h4></td>
                     <td class="content text-dark small">3247.75 km<br><h4 class="small incr">+ 0.44 km</h4></td>
-                    <td class="content text-dark"><a href="#meus1altwapeha">US-1 Alternate - Oak St</a>, Ellsworth, Maine 04605 (NB)<br>US-1 - High St (concurrent with <a href="../state-highways/me/3.php">ME-3</a>), Ellsworth, Maine 04605 (SB)</td>
+                    <td class="content text-dark"><a href="#meus1altwlpeha">US-1 Alternate - Oak St</a>, Ellsworth, Maine 04605 (NB)<br>US-1 - High St (concurrent with <a href="../state-highways/me/3.php">ME-3</a>), Ellsworth, Maine 04605 (SB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -13385,6 +13385,125 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Main St, Steuben, Maine 04680</td>
                     <td class="content text-dark">End Hancock County<br>Start Washington County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2048.04 mi<br><h4 class="small incr">+ 5.13 mi</h4></td>
+                    <td class="content text-dark small">3295.62 km<br><h4 class="small incr">+ 8.25 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Milbridge, Maine 04658</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2049.89 mi<br><h4 class="small incr">+ 1.85 mi</h4></td>
+                    <td class="content text-dark small">3298.59 km<br><h4 class="small incr">+ 2.97 km</h4></td>
+                    <td class="content text-dark"><a href="#meus1altwamb">US-1 Alternate - Bridge St</a>, Milbridge, Maine 04658</td>
+                    <td class="content text-dark">N Main St, Milbridge, Maine 04658</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2051.99 mi<br><h4 class="small incr">+ 2.10 mi</h4></td>
+                    <td class="content text-dark small">3301.97 km<br><h4 class="small incr">+ 3.38 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Milbridge Rd, Cherryfield, Maine 04622</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2054.87 mi<br><h4 class="small incr">+ 2.88 mi</h4></td>
+                    <td class="content text-dark small">3306.60 km<br><h4 class="small incr">+ 4.63 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/182.php">ME-182 - Blacks Woods Rd</a>, Cherryfield, Maine 04622</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2055.02 mi<br><h4 class="small incr">+ 0.15 mi</h4></td>
+                    <td class="content text-dark small">3306.83 km<br><h4 class="small incr">+ 0.23 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/193.php">ME-193 - Main St</a>, Cherryfield, Maine 04622</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2055.33 mi<br><h4 class="small incr">+ 0.31 mi</h4></td>
+                    <td class="content text-dark small">3307.34 km<br><h4 class="small incr">+ 0.51 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Cherryfield Str, Milbridge, Maine 04658</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2056.78 mi<br><h4 class="small incr">+ 1.45 mi</h4></td>
+                    <td class="content text-dark small">3309.67 km<br><h4 class="small incr">+ 2.33 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Harrington Rd, Milbridge, Maine 04658</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2057.57 mi<br><h4 class="small incr">+ 0.79 mi</h4></td>
+                    <td class="content text-dark small">3310.94 km<br><h4 class="small incr">+ 1.27 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Cherryfield Str, Harrington, Maine 04643</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2057.61 mi<br><h4 class="small incr">+ 0.04 mi</h4></td>
+                    <td class="content text-dark small">3311.00 km<br><h4 class="small incr">+ 0.06 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Cherryfield Str, Cherryfield, Maine 04622</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2058.60 mi<br><h4 class="small incr">+ 0.99 mi</h4></td>
+                    <td class="content text-dark small">3312.60 km<br><h4 class="small incr">+ 1.60 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Cherryfield Str, Harrington, Maine 04643</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2061.55 mi<br><h4 class="small incr">+ 2.95 mi</h4></td>
+                    <td class="content text-dark small">3317.34 km<br><h4 class="small incr">+ 4.74 km</h4></td>
+                    <td class="content text-dark"><a href="#meus1altwamb">US-1 Alternate - Kennedy Hwy</a>, Harrington, Maine 04643</td>
+                    <td class="content text-dark">Harrington Rd, Harrington, Maine 04643</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2062.28 mi<br><h4 class="small incr">+ 0.73 mi</h4></td>
+                    <td class="content text-dark small">3318.52 km<br><h4 class="small incr">+ 1.18 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Harrington Rd, Columbia, Maine 04623</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2064.93 mi<br><h4 class="small incr">+ 2.65 mi</h4></td>
+                    <td class="content text-dark small">3322.79 km<br><h4 class="small incr">+ 4.27 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Harrington Rd, Columbia Falls, Maine 04623</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2067.14 mi<br><h4 class="small incr">+ 2.21 mi</h4></td>
+                    <td class="content text-dark small">3326.34 km<br><h4 class="small incr">+ 3.55 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/187.php">ME-187</a>, Columbia Falls, Maine 04623</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2069.25 mi<br><h4 class="small incr">+ 2.11 mi</h4></td>
+                    <td class="content text-dark small">3329.73 km<br><h4 class="small incr">+ 3.39 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Harrington Rd, Jonesboro, Maine 04648</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2072.98 mi<br><h4 class="small incr">+ 3.73 mi</h4></td>
+                    <td class="content text-dark small">3335.73 km<br><h4 class="small incr">+ 6.00 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/187.php">ME-187 - Bay Rd</a>, Jonesboro, Maine 04648</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2076.07 mi<br><h4 class="small incr">+ 3.09 mi</h4></td>
+                    <td class="content text-dark small">3340.71 km<br><h4 class="small incr">+ 4.98 km</h4></td>
+                    <td class="content text-dark"><a href="#meus1altwajb">US-1 Alternate - Whitneyville Rd</a>, Jonesboro, Maine 04648</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
                 </tr>
             </tbody>
             </tbody>
@@ -14004,7 +14123,7 @@
                 <hr>
                 <section id="sec-ncus1busmosp">
                 <h1 class="header" id="ncus1busmosp">United States Route 1 Business (Southern Pines, North Carolina)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route in Southern Pines, North Carolina. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route in Southern Pines, North Carolina. It is 2.87 mi, or 4.62 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-ncus1busmosp">
@@ -14098,7 +14217,7 @@
                 <hr>
                 <section id="sec-ncus1busmole">
                 <h1 class="header" id="ncus1busmole">United States Route 1 Business (Vass, North Carolina)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route in Vass, North Carolina. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route in Vass, North Carolina. It is 9.41 mi, or 15.14 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-ncus1busmole">
@@ -14185,7 +14304,7 @@
                 <hr>
                 <section id="sec-ncus1busle">
                 <h1 class="header" id="ncus1busle">United States Route 1 Business (Sanford, North Carolina)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route in Sanford, North Carolina. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route in Sanford, North Carolina. It is 5.35 mi, or 8.64 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-ncus1busle">
@@ -14432,7 +14551,7 @@
                 <hr>
                 <section id="sec-ncus1busva">
                 <h1 class="header" id="ncus1busva">United States Route 1 Alternate (Kittrell, North Carolina)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route in Kittrell, North Carolina. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route in Kittrell, North Carolina. It is 8.71 mi, or 14.01 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-ncus1busva">
@@ -14603,13 +14722,13 @@
                 <hr>
                 <section id="sec-ncus1bypva">
                 <h1 class="header" id="ncus1bypva">United States Route 1 Alternate (Kittrell, North Carolina)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route in Kittrell, North Carolina. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route in Kittrell, North Carolina. It is 10.61 mi, or 17.08 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-ncus1bypva">
                 <tr>
-                    <td class="content text-dark small">0.00 mi<br><h4 class="small incr">+ 5.12 mi</h4></td>
-                    <td class="content text-dark small">0.00 km<br><h4 class="small incr">+ 8.23 km</h4></td>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="#ncus1busva">US-1 Business - Raleigh Rd</a>, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start of Alternate Route<br>Start concurrency with US-1</td>
@@ -14692,7 +14811,7 @@
                 <hr>
                 <section id="sec-vaus1busspfr">
                 <h1 class="header" id="vaus1busspfr">United States Route 1 Business (Fredericksburg, Virginia)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route in Fredericksburg, Virginia. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route in Fredericksburg, Virginia. It is 4.98 mi, or 8.03 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-vaus1busspfr">
@@ -14774,7 +14893,7 @@
                 <hr>
                 <section id="sec-dcus1altco">
                 <h1 class="header" id="dcmdus1altcopg">United States Route 1 Alternate (Washington, District of Columbia)</h1>
-                <h2 class="content text-dark">US-1 Alternate is a alternate route in Washington, District of Columbia. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Alternate is a alternate route in Washington, District of Columbia. It is 6.81 mi, or 10.98 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-dcmdus1altcopg">
@@ -14890,12 +15009,12 @@
                         <td class="content text-dark">End of Alternate Route<br>End Alternate Route in Maryland<br>End Prince George's County</td>
                     </tr>
                     </tbody>
-                    </section>
+                </section>
                 <?php include "../../static/endtable.php"; ?>
                 <hr>
                 <section id="sec-mdus1altba">
                 <h1 class="header" id="mdus1altba">United States Route 1 Alternate (Baltimore, Maryland)</h1>
-                <h2 class="content text-dark">US-1 Alternate is a alternate route in Baltimore, Maryland. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Alternate is a alternate route in Baltimore, Maryland. It is 3.89 mi, or 6.26 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-mdus1altba">
@@ -14940,7 +15059,7 @@
                 <hr>
                 <section id="sec-mdus1busha">
                 <h1 class="header" id="mdus1busha">United States Route 1 Alternate (Baltimore, Maryland)</h1>
-                <h2 class="content text-dark">US-1 Alternate is a alternate route in Baltimore, Maryland. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Alternate is a alternate route in Baltimore, Maryland. It is 6.89 mi, or 11.11 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-mdus1busha">
@@ -15071,7 +15190,7 @@
                 <hr>
                 <section id="sec-paus1trkch">
                 <h1 class="header" id="paus1trkch">United States Route 1 Truck (West Grove, Pennsylvania)</h1>
-                <h2 class="content text-dark">US-1 Truck is a truck route in West Grove, Pennsylvania. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Truck is a truck route in West Grove, Pennsylvania. It is 3.39 mi, or 5.44 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-paus1trkch">
@@ -15137,7 +15256,7 @@
                 <hr>
                 <section id="sec-paus1trkph">
                 <h1 class="header" id="paus1trkph">United States Route 1 Truck (Philadelphia, Pennsylvania)</h1>
-                <h2 class="content text-dark">US-1 Truck is a truck route in Philadelphia, Pennsylvania. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Truck is a truck route in Philadelphia, Pennsylvania. It is 4.69 mi, or 7.54 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-paus1trkph">
@@ -15203,7 +15322,7 @@
                 <hr>
                 <section id="sec-paus1busbu">
                 <h1 class="header" id="paus1busbu">United States Route 1 Business (Penndel, Pennsylvania)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route in Penndel, Pennsylvania. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route in Penndel, Pennsylvania. It is 7.58 mi, or 12.13 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-paus1busbu">
@@ -15334,7 +15453,7 @@
                 <hr>
                 <section id="sec-njus1busme">
                 <h1 class="header" id="njus1busme">United States Route 1 Business (Trenton, New Jersey)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route in Trenton, New Jersey. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route in Trenton, New Jersey. It is 2.82 mi, or 4.55 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-njus1busme">
@@ -15580,7 +15699,7 @@
                 <hr>
                 <section id="sec-ctus1altnl">
                 <h1 class="header" id="ctus1altnl">United States Route 1 Alternate (Stonington, Connecticut)</h1>
-                <h2 class="content text-dark">US-1 Alternate is a truck route in Stonington, Connecticut. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Alternate is a truck route in Stonington, Connecticut. It is 1.94 mi, or 3.12 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-ctus1altnl">
@@ -15627,7 +15746,7 @@
                 <hr>
                 <section id="sec-rius1altkepr">
                 <h1 class="header" id="rimaus1altkeprbr">United States Route 1 Alternate (Providence, Rhode Island)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route from Warwick, Rhode Island to Attleboro, Massachusetts. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route from Warwick, Rhode Island to Attleboro, Massachusetts. It is 17.04 mi, or 27.23 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-rius1altkepr">
@@ -15883,7 +16002,7 @@
                 <hr>
                 <section id="sec-nhusbypro">
                 <h1 class="header" id="nhmeus1byproyo">United States Route 1 Alternate (Kittery, Maine)</h1>
-                <h2 class="content text-dark">US-1 Bypass is a bypass route from Portsmouth, New Hampshire to Kittery, Maine. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Bypass is a bypass route from Portsmouth, New Hampshire to Kittery, Maine. It is 3.66 mi, or 5.37 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-nhusbypro">
@@ -15962,7 +16081,7 @@
                 <hr>
                 <section id="sec-meus1altyo">
                     <h1 class="header" id="meus1altyo">United States Route 1 Alternate (York, Maine)</h1>
-                <h2 class="content text-dark">US-1 Alternate is an alternate route in York, Maine. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Alternate is an alternate route in York, Maine. It is 7.04 mi, or 11.35 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-meus1altyo">
@@ -16027,7 +16146,7 @@
                 <hr>
                 <section id="sec-meus1altcu">
                     <h1 class="header" id="meus1altcu">United States Route 1 Alternate (Portland, Maine)</h1>
-                <h2 class="content text-dark">US-1 Alternate is an alternate route in Portland, Maine. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Alternate is an alternate route in Portland, Maine. It is 4.19 mi, or 6.77 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-meus1altcu">
@@ -16078,7 +16197,7 @@
                 <hr>
                 <section id="sec-meus1busli">
                     <h1 class="header" id="meus1busli">United States Route 1 Business (Newcastle, Maine)</h1>
-                <h2 class="content text-dark">US-1 Business is a business route in Newcastle, Maine. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h2 class="content text-dark">US-1 Business is a business route in Newcastle, Maine. It is 3.31 mi, or 5.33 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-meus1altkn">
@@ -16121,8 +16240,8 @@
                 <?php include "../../static/endtable.php"; ?>
                 <hr>
                 <section id="sec-meus1altkn">
-                <h1 class="header" id="meus1altkn">United States Route 1 Alternate (Portland, Maine)</h1>
-                <h2 class="content text-dark">US-1 Alternate is an alternate route in Portland, Maine. It is 3.11 mi, or 5.00 km, long.</h2>
+                <h1 class="header" id="meus1altkn">United States Route 1 Alternate (Rockland, Maine)</h1>
+                <h2 class="content text-dark">US-1 Alternate is an alternate route in Rockland, Maine. It is 1.54 mi, or 2.47 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-meus1altkn">
@@ -16157,18 +16276,18 @@
                 </section>
                 <?php include "../../static/endtable.php"; ?>
                 <hr>
-                <section id="sec-meus1altwapeha">
-                <h1 class="header" id="meus1altwapeha">United States Route 1 Alternate (Portland, Maine)</h1>
-                <h2 class="content text-dark">US-1 Alternate is an alternate route in Portland, Maine. It is 3.11 mi, or 5.00 km, long.</h2>
+                <section id="sec-meus1altwlpeha">
+                <h1 class="header" id="meus1altwlpeha">United States Route 1 Alternate (Bangor, Maine)</h1>
+                <h2 class="content text-dark">US-1 Alternate is an alternate route in Bangor, Maine. It is 50.46 mi, or 81.20 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
-                <tbody id="tb-meus1altwapeha">
+                <tbody id="tb-meus1altwlpeha">
                     <tr>
                         <td class="content text-dark small">0.00 mi</td>
                         <td class="content text-dark small">0.00 km</td>
                         <td class="content text-dark"><a href="#meus1">US-1 - Acadia Hwy</a>, Stockton Springs, Maine 04981</td>
                         <td class="content text-dark">Bangor Rd, Stockton Springs, Maine 04981</td>
-                        <td class="content text-dark">Start of Alternate Route</td>
+                        <td class="content text-dark">Start of Alternate Route<br>Start Waldo County</td>
                     </tr>
                     <tr>
                         <td class="content text-dark small">3.01 mi<br><h4 class="small incr">+ 3.01 mi</h4></td>
@@ -16343,13 +16462,72 @@
                         <td class="content text-dark small">81.20 km<br><h4 class="small incr">+ 0.95 km</h4></td>
                         <td class="content text-dark"><a href="#meus1">US-1 - High St (SB) / Main St (WB)</a> (concurrent with <a href="../state-highways/me/3.php">ME-3</a>), Ellsworth, Maine 04605</td>
                         <td class="content text-dark"></td>
+                        <td class="content text-dark">End of Alternate Route<br>End Hancock County</td>
+                    </tr>
+                </section>
+                <?php include "../../static/endtable.php"; ?>
+                <hr>
+                <section id="sec-meus1altwamb">
+                <h1 class="header" id="meus1altwamb">United States Route 1 Alternate (Milbridge, Maine)</h1>
+                <h2 class="content text-dark">US-1 Alternate is an alternate route in Milbridge, Maine. It is 3.59 mi, or 5.78 km, long.</h2>
+                <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <?php include "../../static/table.php"; ?>
+                <tbody id="tb-meus1altwamb">
+                    <tr>
+                        <td class="content text-dark small">0.00 mi</td>
+                        <td class="content text-dark small">0.00 km</td>
+                        <td class="content text-dark"><a href="#meus1">US-1 - N Main St (WB) / Main St (EB)</a>, Milbridge, Maine 04658</td>
+                        <td class="content text-dark">Bridge St, Milbridge, Maine 04658</td>
+                        <td class="content text-dark">Start of Alternate Route</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">0.23 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
+                        <td class="content text-dark small">0.37 km<br><h4 class="small incr">+ 0.37 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Kennedy Hwy, Milbridge, Maine 04658</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">4.12 mi<br><h4 class="small incr">+ 3.89 mi</h4></td>
+                        <td class="content text-dark small">6.63 km<br><h4 class="small incr">+ 6.26 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Kennedy Hwy, Harrington, Maine 04643</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">7.71 mi<br><h4 class="small incr">+ 3.59 mi</h4></td>
+                        <td class="content text-dark small">12.41 km<br><h4 class="small incr">+ 5.78 km</h4></td>
+                        <td class="content text-dark"><a href="#meus1">US-1 - Harrington Rd</a>, Harrington, Maine 04643</td>
+                        <td class="content text-dark"></td>
                         <td class="content text-dark">End of Alternate Route</td>
                     </tr>
                 </section>
                 <?php include "../../static/endtable.php"; ?>
                 <hr>
+                <section id="sec-meus1altwajb">
+                <h1 class="header" id="meus1altwamb">United States Route 1 Alternate (Jonesboro, Maine)</h1>
+                <h2 class="content text-dark">US-1 Alternate is an alternate route in Jonesboro, Maine. It is 3.59 mi, or 5.78 km, long.</h2>
+                <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <?php include "../../static/table.php"; ?>
+                <tbody id="tb-meus1altwamb">
+                    <tr>
+                        <td class="content text-dark small">0.00 mi</td>
+                        <td class="content text-dark small">0.00 km</td>
+                        <td class="content text-dark"><a href="#meus1">US-1 - Harrington Rd</a>, Jonesboro, Maine 04648</td>
+                        <td class="content text-dark">Whitneyville Rd, Jonesboro, Maine 04648</td>
+                        <td class="content text-dark">Start of Alternate Route</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">0.23 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
+                        <td class="content text-dark small">0.37 km<br><h4 class="small incr">+ 0.37 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Kennedy Hwy, Milbridge, Maine 04658</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                </section>
+                <?php include "../../static/endtable.php"; ?>
+                <hr>
             </section>
-            
                 </section>
                 <?php include "../../static/endtable.php"; ?>
                 <hr>

@@ -13505,6 +13505,153 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">2078.02 mi<br><h4 class="small incr">+ 1.95 mi</h4></td>
+                    <td class="content text-dark small">3343.84 km<br><h4 class="small incr">+ 3.13 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Harrington Rd, Whitneyville, Maine 04654</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2079.43 mi<br><h4 class="small incr">+ 1.41 mi</h4></td>
+                    <td class="content text-dark small">3346.11 km<br><h4 class="small incr">+ 2.27 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Dublin St, Machias, Maine 04654</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2081.86 mi<br><h4 class="small incr">+ 2.43 mi</h4></td>
+                    <td class="content text-dark small">3350.03 km<br><h4 class="small incr">+ 3.92 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Machias, Maine 04654</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2082.31 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
+                    <td class="content text-dark small">3350.76 km<br><h4 class="small incr">+ 0.73 km</h4></td>
+                    <td class="content text-dark"><a href="#meus1wajb">US-1 Alternate - Court St</a>, Machias, Maine 04654</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2083.41 mi<br><h4 class="small incr">+ 1.10 mi</h4></td>
+                    <td class="content text-dark small">3352.53 km<br><h4 class="small incr">+ 1.77 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, East Machias, Maine 04630</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2086.06 mi<br><h4 class="small incr">+ 2.65 mi</h4></td>
+                    <td class="content text-dark small">3356.79 km<br><h4 class="small incr">+ 4.26 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/191.php">ME-191 - Jacksonville Rd</a>, Machias, Maine 04630</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with ME-191</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2086.15 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
+                    <td class="content text-dark small">3356.93 km<br><h4 class="small incr">+ 0.14 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/191.php">ME-191 - Cutler Rd</a>, Machias, Maine 04630</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with ME-191</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2088.43 mi<br><h4 class="small incr">+ 2.28 mi</h4></td>
+                    <td class="content text-dark small">3360.60 km<br><h4 class="small incr">+ 3.67 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Whiting, Maine 04691</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2093.26 mi<br><h4 class="small incr">+ 4.83 mi</h4></td>
+                    <td class="content text-dark small">3368.37 km<br><h4 class="small incr">+ 7.77 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S River Rd, Whiting, Maine 04691</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2098.76 mi<br><h4 class="small incr">+ 5.50 mi</h4></td>
+                    <td class="content text-dark small">3377.21 km<br><h4 class="small incr">+ 8.84 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/189.php">ME-189 - Lubec Rd</a>, Whiting, Maine 04691</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2107.94 mi<br><h4 class="small incr">+ 9.18 mi</h4></td>
+                    <td class="content text-dark small">3391.98 km<br><h4 class="small incr">+ 14.77 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S River Rd, Dennysville, Maine 04628</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2108.15 mi<br><h4 class="small incr">+ 0.21 mi</h4></td>
+                    <td class="content text-dark small">3392.33 km<br><h4 class="small incr">+ 0.35 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/86.php">ME-86 - Main St</a>, Dennysville, Maine 04628</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2110.35 mi<br><h4 class="small incr">+ 2.20 mi</h4></td>
+                    <td class="content text-dark small">3395.87 km<br><h4 class="small incr">+ 3.54 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S River Rd, Pembroke, Maine 04666</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2112.60 mi<br><h4 class="small incr">+ 2.25 mi</h4></td>
+                    <td class="content text-dark small">3399.48 km<br><h4 class="small incr">+ 3.61 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/214.php">ME-214 - Ayers Junction Rd</a>, Pembroke, Maine 04666</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2114.69 mi<br><h4 class="small incr">+ 2.09 mi</h4></td>
+                    <td class="content text-dark small">3402.85 km<br><h4 class="small incr">+ 3.37 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S River Rd, Perry, Maine 04667</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2119.17 mi<br><h4 class="small incr">+ 4.48 mi</h4></td>
+                    <td class="content text-dark small">3410.06 km<br><h4 class="small incr">+ 7.21 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/190.php">ME-190</a>, Perry, Maine 04667</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2124.55 mi<br><h4 class="small incr">+ 5.38 mi</h4></td>
+                    <td class="content text-dark small">3418.73 km<br><h4 class="small incr">+ 8.67 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S River Rd, Robbinston, Maine 04671</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2130.40 mi<br><h4 class="small incr">+ 5.85 mi</h4></td>
+                    <td class="content text-dark small">3428.15 km<br><h4 class="small incr">+ 9.42 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S River Rd, Calais, Maine 04619</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2138.00 mi<br><h4 class="small incr">+ 7.60 mi</h4></td>
+                    <td class="content text-dark small">3440.38 km<br><h4 class="small incr">+ 12.23 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Calais, Maine 04619</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2139.63 mi<br><h4 class="small incr">+ 1.63 mi</h4></td>
+                    <td class="content text-dark small">3443.00 km<br><h4 class="small incr">+ 2.62 km</h4></td>
+                    <td class="content text-dark">US-1 - North St (concurrent with <a href="../state-highways/me/9.php">ME-9</a>), Calais, Maine 04619 (SB)<br><a href="../state-highways/me/9.php">ME-9 - Main St</a>, Calais, Maine 04619 (WB)</td>
+                    <td class="content text-dark">North St, Calais, Maine 04619</td>
+                    <td class="content text-dark">Start concurrency with ME-9</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2141.30 mi<br><h4 class="small incr">+ 1.67 mi</h4></td>
+                    <td class="content text-dark small">3445.69 km<br><h4 class="small incr">+ 2.69 km</h4></td>
+                    <td class="content text-dark">(to NB-170) North St Ext, Calais, Maine 04619</td>
+                    <td class="content text-dark">Baring St, Calais, Maine 04619</td>
+                    <td class="content text-dark"></td>
+                </tr>
             </tbody>
             </tbody>
             <section id="us1aux">
@@ -16506,7 +16653,7 @@
                 <hr>
                 <section id="sec-meus1altwajb">
                 <h1 class="header" id="meus1altwamb">United States Route 1 Alternate (Jonesboro, Maine)</h1>
-                <h2 class="content text-dark">US-1 Alternate is an alternate route in Jonesboro, Maine. It is 3.59 mi, or 5.78 km, long.</h2>
+                <h2 class="content text-dark">US-1 Alternate is an alternate route in Jonesboro, Maine. It is 8.03 mi, or 12.90 km, long.</h2>
                 <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tbody id="tb-meus1altwamb">
@@ -16518,11 +16665,60 @@
                         <td class="content text-dark">Start of Alternate Route</td>
                     </tr>
                     <tr>
-                        <td class="content text-dark small">0.23 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
-                        <td class="content text-dark small">0.37 km<br><h4 class="small incr">+ 0.37 km</h4></td>
+                        <td class="content text-dark small">2.46 mi<br><h4 class="small incr">+ 2.46 mi</h4></td>
+                        <td class="content text-dark small">3.96 km<br><h4 class="small incr">+ 3.96 km</h4></td>
                         <td class="content text-dark"></td>
-                        <td class="content text-dark">Kennedy Hwy, Milbridge, Maine 04658</td>
+                        <td class="content text-dark">S Main St, Whitneyville, Maine 04654</td>
                         <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">4.00 mi<br><h4 class="small incr">+ 1.54 mi</h4></td>
+                        <td class="content text-dark small">6.44 km<br><h4 class="small incr">+ 2.48 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">N Main St, Whitneyville, Maine 04654</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">4.80 mi<br><h4 class="small incr">+ 0.80 mi</h4></td>
+                        <td class="content text-dark small">7.72 km<br><h4 class="small incr">+ 1.28 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">N Main St, Marshfield, Maine 04654</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">5.14 mi<br><h4 class="small incr">+ 0.34 mi</h4></td>
+                        <td class="content text-dark small">8.27 km<br><h4 class="small incr">+ 0.55 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">N Main St, Machias, Maine 04654</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">6.23 mi<br><h4 class="small incr">+ 1.09 mi</h4></td>
+                        <td class="content text-dark small">10.02 km<br><h4 class="small incr">+ 1.75 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">US-1 Alternate, Machias, Maine 04654</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">7.11 mi<br><h4 class="small incr">+ 0.88 mi</h4></td>
+                        <td class="content text-dark small">11.43 km<br><h4 class="small incr">+ 1.41 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Court St, Machias, Maine 04654</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">7.48 mi<br><h4 class="small incr">+ 0.37 mi</h4></td>
+                        <td class="content text-dark small">12.02 km<br><h4 class="small incr">+ 0.59 km</h4></td>
+                        <td class="content text-dark"><a href="../state-highways/me/192.php">ME-192 - Broadway</a>, Machias, Maine 04654</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">8.03 mi<br><h4 class="small incr">+ 0.55 mi</h4></td>
+                        <td class="content text-dark small">12.90 km<br><h4 class="small incr">+ 0.88 km</h4></td>
+                        <td class="content text-dark"><a href="#meus1">US-1 - Main St</a>, Machias, Maine 04654</td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">End of Alternate Route</td>
                     </tr>
                 </section>
                 <?php include "../../static/endtable.php"; ?>

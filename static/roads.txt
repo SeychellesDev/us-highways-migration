@@ -4910,3 +4910,24 @@ ME-139
 ME-69
 ME-161
 ME-11
+I-35
+IA Dallas F90
+IA Polk F90
+I-80
+I-235 (IA)
+IA-5
+IA-28
+IA Warren G14
+NY-32
+NY Greene 67
+NY Greene 35
+NY-81
+NY Greene 75
+NY Greene 26
+NY Greene 41
+I-90
+I-890 (NY)
+NY-7
+NY-146
+NY Schenectady 110
+I-87 (NY)

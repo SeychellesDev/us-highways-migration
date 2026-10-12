@@ -15670,7 +15670,7 @@
                         <td class="content text-dark small">10.98 km<br><h4 class="small incr">+ 0.92 km</h4></td>
                         <td class="content text-dark"><a href="#mdus1">US-1 - Rhode Island Ave (SB) / Baltimore Ave (NB)</a>, Hyattsville, Maryland 20781</td>
                         <td class="content text-dark"></td>
-                        <td class="content text-dark">End of Alternate Route<br>End Alternate Route in Maryland<br>End Prince George's County</td>
+                        <td class="content text-dark">End of Alternate Route in Maryland<br>End Prince George's County<br>End of Alternate Route</td>
                     </tr>
                     </tbody>
                 </section>
@@ -16656,7 +16656,7 @@
                         <td class="content text-dark small">27.23 km<br><h4 class="small incr">+ 0.19 km</h4></td>
                         <td class="content text-dark"><a href="#maus1">US-1 - Washington St</a>, Attleboro, Massachusetts 02703</td>
                         <td class="content text-dark"></td>
-                        <td class="content text-dark">End of Alternate Route</td>
+                        <td class="content text-dark">End Alternate Route in Massachusetts<br>End Bristol County<br>End of Alternate Route</td>
                     </tr>
                 </tbody>
                 </section>
@@ -17126,7 +17126,7 @@
                         <td class="content text-dark small">81.20 km<br><h4 class="small incr">+ 0.95 km</h4></td>
                         <td class="content text-dark"><a href="#meus1">US-1 - High St (SB) / Main St (WB)</a> (concurrent with <a href="../state-highways/me/3.php">ME-3</a>), Ellsworth, Maine 04605</td>
                         <td class="content text-dark"></td>
-                        <td class="content text-dark">End of Alternate Route<br>End Hancock County</td>
+                        <td class="content text-dark">End Hancock County<br>End of Alternate Route</td>
                     </tr>
                 </section>
                 <?php include "../../static/endtable.php"; ?>

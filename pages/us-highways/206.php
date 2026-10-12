@@ -4,7 +4,7 @@
             <h1 class="header" id="us206">United States Route 206</h1>
             <h2 class="content text-dark">United States Route 206 (US-206) is a north-south route covering a central-north New Jersey and crossing the Delaware River at one of the northernmost points in New Jersey. It is 131.30 mi, or 211.40 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <?php include "../../static/table.php"; ?>
+            <?php include "../../static/table_prim.php"; ?>
             <tbody id="njus206">
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>

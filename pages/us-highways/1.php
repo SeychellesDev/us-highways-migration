@@ -4,7 +4,7 @@
             <h1 class="header" id="us1">United States Route 1</h1>
             <h2 class="content text-dark">United States Route 1 (US-1) is a major north-south route spanning the east coast of the United States. It is 2362.14 mi, or 3801.85 km, long. It connects the Florida Keys to mainland Florida and continues through every eastern coast state (sans Delaware) up to the Canadian border.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <?php include "../../static/table.php"; ?>
+            <?php include "../../static/table_prim.php"; ?>
             <tbody id="flus1">
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>

@@ -5,7 +5,7 @@
             <h2 class="content text-dark">New Jersey Route 64 (NJ-64) is a very short state highway in west New Jersey that exists to consolidate the roads Mercer CR 571 and Mercer CR 526. It is 0.41 mi, or 0.65 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../static/table.php"; ?>
+            <?php include "../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

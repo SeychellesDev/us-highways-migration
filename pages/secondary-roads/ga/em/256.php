@@ -5,7 +5,7 @@
             <h2 class="content text-dark">Georgia Emanuel County Route 256 (Emanuel CR 256) is a very short county road in Emanuel County, Georgia. It is 0.78 mi, or 1.26 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../../static/table.php"; ?>
+            <?php include "../../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

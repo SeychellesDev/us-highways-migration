@@ -5,7 +5,7 @@
             <h2 class="content text-dark">New Jersey Atlantic County Route 608 (Atlantic CR 608) is a county road that connects the shore to US-40. It is 2.86 mi, or 4.58 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../../static/table.php"; ?>
+            <?php include "../../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

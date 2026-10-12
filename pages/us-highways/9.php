@@ -4,7 +4,7 @@
             <h1 class="header" id="us9">United States Route 9</h1>
             <h2 class="content text-dark">United States Route 9 (US-9) is a north-south route covering a little bit of Delaware through the whole of New York. It is xxx.xx mi, or xxx.xx km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <?php include "../../static/table.php"; ?>
+            <?php include "../../static/table_prim.php"; ?>
             <tbody id="deus9">
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>

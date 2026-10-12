@@ -4,7 +4,7 @@
             <h1 class="header">Monmouth County Route 53</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 53 (Monmouth CR 53) is a short county road spanning entirely within Georgia Rd. It is 1.03 mi, or 1.66 km, long and has one major intersection, making it one of the shortest county roads in Monmouth County.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <?php include "../../../../static/table.php"; ?>
+            <?php include "../../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

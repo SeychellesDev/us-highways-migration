@@ -5,7 +5,7 @@
             <h2 class="content text-dark">New Jersey Route 29 (NJ-29) is a state highway in west New Jersey that connects I-195 to northwest New Jersey, passing through Trenton and Lambertville. It is 34.75 mi, or 55.87 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../static/table.php"; ?>
+            <?php include "../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

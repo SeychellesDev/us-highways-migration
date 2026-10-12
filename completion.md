@@ -38,6 +38,9 @@
 
 ### Secondary Roads (26ct)
 
+* [Miami-Dade CR 913](pages/secondary-roads/fl/md/913.php) 10/08/26 - 10/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/fl/md/913.php]
+* [Miami-Dade CR 948](pages/secondary-roads/fl/md/948.php) 10/08/26 - 10/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/fl/md/948.php]
+* [Miami-Dade CR 959](pages/secondary-roads/fl/md/959.php) 10/08/26 - 10/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/fl/md/959.php]
 * [Emanuel CR 256](pages/secondary-roads/ga/em/256.php) 02/15/26 - 02/15/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ga/em/256.php]
 * [Jefferson SR 6332](pages/secondary-roads/ky/6332.php) 02/24/26 - 02/24/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ky/6332.php]
 * [Atlantic CR 608](pages/secondary-roads/nj/at/608.php) 08/27/25 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/at/608.php]
@@ -84,6 +87,7 @@
 * [NJ-440](pages/state-highways/nj/440.php) 07/24/25 - 09/03/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/nj/440.php]
 * [NY-440](pages/state-highways/ny/440.php) 07/28/25 - 09/03/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/ny/440.php]
 * [PA-26](pages/state-highways/pa/26.php) 10/24/25 - 05/24/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/pa/26.php]
+* [RI-1A](pages/state-highways/ri/1a.php) 10/24/25 - 05/24/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/ri/1a.php]
 * [WY-172](pages/state-highways/wy/172.php) 09/09/26 - 09/09/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/wy/172.php]
 
 ### US Highways (1ct)

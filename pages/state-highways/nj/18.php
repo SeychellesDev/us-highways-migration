@@ -5,7 +5,7 @@
             <h2 class="content text-dark">New Jersey Route 18 (NJ-18) is a state highway in New Jersey that connects I-195/NJ-138 in Wall Township to I-295 in Piscataway. It is 42.50 mi, or 68.40 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../static/table.php"; ?>
+            <?php include "../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

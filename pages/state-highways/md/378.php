@@ -5,7 +5,7 @@
             <h2 class="content text-dark">Maryland Route 378 (MD-378) is a state highway in Maryland that follows the shore in south Ocean City. It is 2.24 mi, or 3.63 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../static/table.php"; ?>
+            <?php include "../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

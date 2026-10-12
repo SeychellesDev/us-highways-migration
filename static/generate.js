@@ -1,44 +1,92 @@
-// Save this as I:\seychelles-hub\us-highways-migration\generator.js
 const fs = require('fs');
 const path = require('path');
 
-// 1. Path references pointing across your hub environment folders
-const jsonPath = path.join(__dirname, 'completed.json');
-const frontendOutputDir = path.join(__dirname, '..', '..', 'roads', 'static', 'geometries');
+const pagesDir = path.resolve(__dirname, '..', 'pages');
+const geometriesRootDir = path.resolve(__dirname, '..', '..', 'roads', 'static', 'geometries');
 
-// Ensure the frontend output directory exists
-if (!fs.existsSync(frontendOutputDir)){
-    fs.mkdirSync(frontendOutputDir, { recursive: true });
-}
+console.log("Looking for source templates inside: " + pagesDir);
+console.log("Outputting sorted JSON models out to: " + geometriesRootDir);
 
-// 2. Read your highway queue
-const rawData = fs.readFileSync(jsonPath, 'utf8');
-const roadsToProcess = JSON.parse(rawData); // Assumes ["US 1", "I-95", "NJ Monmouth 2"]
+console.log("Syncing geometry folder matrices with local OSRM server engine...");
 
-async function generateRouteGeometries() {
-    for (const road of roadsToProcess) {
-        console.log(`Querying OSRM server profile for highway: ${road}`);
-        
-        // Replace coordinates below with your route's approximate start and end bounding markers
-        // Format: http://localhost:5000/route/v1/driving/startLng,startLat;endLng,endLat?overview=full&geometries=geojson
-        const osrmApiUrl = `http://localhost:5000/route/v1/driving/-74.07,40.22;-74.02,40.27?overview=full&geometries=geojson`;
-        
-        try {
-            const response = await fetch(osrmApiUrl);
-            const data = await response.json();
-            
-            if (data.routes && data.routes.length > 0) {
-                const geometry = data.routes[0].geometry;
-                
-                // 3. Export the processed route structure clean to your frontend website folder
-                const safeFileName = road.replace(/[^a-z0-9]/gi, '_').toLowerCase() + '.json';
-                fs.writeFileSync(path.join(frontendOutputDir, safeFileName), JSON.stringify(geometry, null, 2));
-                console.log(`Successfully migrated ${road} -> front-end: /geometries/${safeFileName}`);
+async function scanAndGenerate(currentDir, relativeSubFolder = "") {
+    const entries = fs.readdirSync(currentDir, { withFileTypes: true });
+
+    for (const entry of entries) {
+        const fullPath = path.join(currentDir, entry.name);
+        const relativePath = path.join(relativeSubFolder, entry.name);
+
+        if (entry.isDirectory()) {
+            await scanAndGenerate(fullPath, relativePath);
+        } else if (entry.isFile() && path.extname(entry.name) === '.php') {
+            const roadName = path.parse(entry.name).name; 
+            const categoryFolder = relativeSubFolder.toLowerCase().replace(/\\/g, '/'); 
+            if(entry.name.includes('index') || entry.name.includes('list')){
+                // console.log(`Skipping index or list file: ${entry.name}`);
+                continue;
             }
-        } catch (error) {
-            console.error(`Failed to map routing infrastructure metrics for ${road}:`, error);
+            const fileStats = fs.statSync(fullPath);
+            if (fileStats.size === 0) {
+                // console.log(`Skipping empty page template: ${relativeSubFolder}/${entry.name}`);
+                continue; // Instantly advances to the next file in your queue
+            }
+            // Mirror the exact file tree layout
+            const targetJsonPath = path.join(geometriesRootDir, categoryFolder, `${roadName.toLowerCase()}.json`);
+
+            // Check if this road needs custom coordinate boxes (Format: Lng,Lat)
+            // Defaulting to a safe central mid-atlantic highway tracking box as fallback
+            let coordinates = "-74.07,40.22;-74.02,40.27"; 
+
+            // Custom coordinate lookups to ensure maps pinpoint reality
+            if (roadName.toLowerCase() === '1') coordinates = "-80.31,25.18;-67.28,47.35"; // Full US-1 tracking bounds
+            if (roadName.toLowerCase() === '95') coordinates = "-80.20,25.79;-67.79,46.14"; // Full I-95 tracking bounds
+            if (roadName.toLowerCase() === 'nj-195') coordinates = "-74.74,40.21;-74.05,40.16"; // NJ I-195 bounds
+            if (roadName.toLowerCase() === '184') coordinates = "-74.29,40.52;-74.26,40.50"; // NJ-184 bounds
+            if (roadName.toLowerCase() === '2') coordinates = "-74.03,40.21;-74.01,40.19"; // Monmouth CR-2 bounds
+
+            const osrmUrl = `http://127.0.0.1:5000/route/v1/driving/${coordinates}?overview=full&geometries=geojson`;
+
+            try {
+                const response = await fetch(osrmUrl);
+                const data = await response.json();
+
+                if (data.routes && data.routes.length > 0) {
+                    const geometry = data.routes[0].geometry;
+
+                    // Build missing subdirectories safely
+                    const targetDir = path.dirname(targetJsonPath);
+                    if (!fs.existsSync(targetDir)) {
+                        fs.mkdirSync(targetDir, { recursive: true });
+                    }
+
+                    fs.writeFileSync(targetJsonPath, JSON.stringify(geometry, null, 2));
+                    console.log(`Generated: /static/geometries/${categoryFolder}/${roadName.toLowerCase()}.json`);
+                } else {
+                    console.log(`OSRM returned empty route tracking bounds for: ${roadName}`);
+                }
+            } catch (error) {
+                console.error(`OSRM connection failure on route ${roadName}:`, error.message);
+                const fallbackLine = {
+                    type: "Feature",
+                    properties: { name: roadName },
+                    geometry: { 
+                        type: "LineString", 
+                        coordinates: [[-74.07, 40.22], [-74.02, 40.27]] 
+                    }
+                };
+
+                const targetDir = path.dirname(targetJsonPath);
+                if (!fs.existsSync(targetDir)) {
+                    fs.mkdirSync(targetDir, { recursive: true });
+                }
+
+                fs.writeFileSync(targetJsonPath, JSON.stringify(fallbackLine, null, 2));
+                console.log(`Saved Fallback: /static/geometries/${categoryFolder}/${roadName.toLowerCase()}.json`);
+            }
         }
     }
 }
 
-generateRouteGeometries();
+scanAndGenerate(pagesDir).then(() => {
+    console.log("All infrastructure track files updated successfully!");
+});

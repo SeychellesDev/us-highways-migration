@@ -1,10 +1,11 @@
-<?php include "../../../static/top.php"; ?>
+<?php include "../../static/top.php"; ?>
         
-            <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">Interstates</a> > <a href="list.php">Auxiliary Routes</a> > I-195 (NJ)</h6>
+            <h6 class="dir"><a href="../index-redirect.php">Home</a> > <a href="list.php">Interstates</a> > I-95</h6>
             <h1 class="header">Interstate 95</h1>
             <h2 class="content text-dark">Interstate 95 (I-95) is a major north-south route spanning the east coast of the United States. It is xxxx.xx mi, or xxxx.xx km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <?php include "../../../static/table_prim.php"; ?>
+            <?php include "../../static/table_prim.php"; ?>
+            <tbody id="fli95">
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
@@ -62,8 +63,22 @@
                     <td class="content text-dark">Exit 3A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">4.89 mi<br><h4 class="small incr">+ 1.62 mi</h4></td>
-                    <td class="content text-dark small">7.87 km<br><h4 class="small incr">+ 2.61 km</h4></td>
+                    <td class="content text-dark small">4.26 mi<br><h4 class="small incr">+ 0.99 mi</h4></td>
+                    <td class="content text-dark small">6.86 km<br><h4 class="small incr">+ 1.60 km</h4></td>
+                    <td class="content text-dark"><a href="#fli95exp">I-95 Express</a>, Miami, Florida 33129</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.69 mi<br><h4 class="small incr">+ 0.43 mi</h4></td>
+                    <td class="content text-dark small">7.55 km<br><h4 class="small incr">+ 0.69 km</h4></td>
+                    <td class="content text-dark"><a href="../us-highways/27.php">US-27</a>, Miami, Florida 33129</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.89 mi<br><h4 class="small incr">+ 0.20 mi</h4></td>
+                    <td class="content text-dark small">7.87 km<br><h4 class="small incr">+ 0.32 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/fl/112.php">FL-112 - Dolphin Expy</a>, Miami, Florida 33129 (WB)<br><a href="auxiliary/fl-195.php">I-195</a> (concurrent with <a href="../state-highways/fl/112.php">FL-112</a>), Miami, Florida 33129 (EB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Exit 4B</td>
@@ -120,14 +135,14 @@
                 <tr>
                     <td class="content text-dark small">10.87 mi<br><h4 class="small incr">+ 0.63 mi</h4></td>
                     <td class="content text-dark small">17.48 km<br><h4 class="small incr">+ 1.01 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/fl/916.php">FL-916 - NW 135th St (EB)</a>, North Miami, Florida 33168</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/916.php">FL-916 (EB) - NW 135th St</a>, North Miami, Florida 33168</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Exit 10B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">10.97 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
                     <td class="content text-dark small">17.64 km<br><h4 class="small incr">+ 0.16 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/fl/916.php">FL-916 - Opa-Locka Blvd (WB)</a>, North Miami, Florida 33168</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/916.php">FL-916 (WB) - Opa-Locka Blvd</a>, North Miami, Florida 33168</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -138,3 +153,32 @@
                     <td class="content text-dark">I-95, Biscayne Gardens, Florida 33168</td>
                     <td class="content text-dark"></td>
                 </tr>
+            </tbody>
+            <section id="i95aux">
+                <section id="fli95aux">
+                    <?php include "../../static/endtable.php"; ?>
+                    <hr>
+                    <section id="sec-fli95exp">
+                        <h1 class="header" id="fli95exp">Interstate 95 Express (Miami, Florida)</h1>
+                        <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi, or 6.74 km, long.</h2>
+                        <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                        <?php include "../../static/table.php"; ?>
+                        <tbody id="tb-flus1bussj">
+                            <tr>
+                                <td class="content text-dark small">0.00 mi</td>
+                                <td class="content text-dark small">0.00 km</td>
+                                <td class="content text-dark"><a href="#fli95">I-95</a>, Miami, Florida 33129</td>
+                                <td class="content text-dark">I-95 Express, Miami, Florida 33129</td>
+                                <td class="content text-dark">Start of Express Route</td>
+                            </tr>
+                            <tr>
+                                <td class="content text-dark small">0.15 mi<br><h4 class="small incr">+ 0.15 mi</h4></td>
+                                <td class="content text-dark small">0.23 km<br><h4 class="small incr">+ 0.23 km</h4></td>
+                                <td class="content text-dark"></td>
+                                <td class="content text-dark">King St, St Augustine, Florida 32084</td>
+                                <td class="content text-dark"></td>
+                            </tr>
+                        </tbody>
+                    </section>
+                </section>
+            </section>

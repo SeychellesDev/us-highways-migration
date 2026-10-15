@@ -3132,7 +3132,7 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
-                <tr> !=
+                <tr>
                     <td class="content text-dark small">784.49 mi<br><h4 class="small incr">+ 0.55 mi</h4></td>
                     <td class="content text-dark small">1262.70 km<br><h4 class="small incr">+ 0.88 km</h4></td>
                     <td class="content text-dark"><a href="../state-highways/sc/19.php">SC-19 - NW Laurens St</a>, Aiken, South Carolina 29801</td>

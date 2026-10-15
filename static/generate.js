@@ -1,3 +1,6 @@
+// osrm-routed --algorithm mld ./osrm/us-highways-only.osrm
+// node .\us-highways-migration\static\generate.js
+
 const fs = require('fs');
 const path = require('path');
 
@@ -38,7 +41,14 @@ async function scanAndGenerate(currentDir, relativeSubFolder = "") {
             let coordinates = "-74.07,40.22;-74.02,40.27"; 
 
             // Custom coordinate lookups to ensure maps pinpoint reality
-            if (roadName.toLowerCase() === '1') coordinates = "-80.31,25.18;-67.28,47.35"; // Full US-1 tracking bounds
+            if (roadName.toLowerCase() === '1') coordinates = [
+                "-81.803889,24.555278", // mile 0 
+                "-80.198777,25.753784", // miami, fl
+                "-80.188884,25.770932", // miami, fl
+                "-73.90379519387754,40.84454039141515", // new york, ny
+                "-67.931667,47.152778", // van buren, me
+                "-68.602222,47.248333"  // mile final
+             ].join(';'); // Full US-1 tracking bounds
             if (roadName.toLowerCase() === '95') coordinates = "-80.20,25.79;-67.79,46.14"; // Full I-95 tracking bounds
             if (roadName.toLowerCase() === 'nj-195') coordinates = "-74.74,40.21;-74.05,40.16"; // NJ I-195 bounds
             if (roadName.toLowerCase() === '184') coordinates = "-74.29,40.52;-74.26,40.50"; // NJ-184 bounds

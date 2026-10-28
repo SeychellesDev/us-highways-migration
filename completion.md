@@ -39,6 +39,11 @@
 ### Secondary Roads (26ct)
 
 * [Emanuel CR 256](pages/secondary-roads/ga/em/256.php) 02/15/26 - 02/15/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ga/em/256.php]
+* [Jefferson SR 6146](pages/secondary-roads/ky/6146.php) 10/27/26 - 10/27/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ky/6146.php]
+* [Jefferson SR 6147](pages/secondary-roads/ky/6147.php) 10/27/26 - 10/27/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ky/6147.php]
+* [Jefferson SR 6148](pages/secondary-roads/ky/6148.php) 10/27/26 - 10/27/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ky/6148.php]
+* [Jefferson SR 6158](pages/secondary-roads/ky/6158.php) 10/27/26 - 10/27/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ky/6158.php]
+* [Jefferson SR 6161](pages/secondary-roads/ky/6161.php) 10/27/26 - 10/27/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ky/6161.php]
 * [Jefferson SR 6332](pages/secondary-roads/ky/6332.php) 02/24/26 - 02/24/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ky/6332.php]
 * [Atlantic CR 608](pages/secondary-roads/nj/at/608.php) 08/27/25 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/at/608.php]
 * [Burlington CR 690](pages/secondary-roads/nj/bu/690.php) 09/05/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/bu/690.php]

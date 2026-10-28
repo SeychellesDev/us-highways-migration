@@ -6,6 +6,7 @@
 - NYSGIS Map of Greene County, New York [https://gis.gcgovny.com/greenewebmap/]
 - NYSGIS Map of Orange County, New York [https://gis.orangecountygov.com/Gallery/PDF/BASE_MAPS/OC_ZIPCODE_36x48.pdf]
 - NY Ulster County GOV Map of Ulster County, New York [https://www.ulstercountyny.gov/files/assets/countysite/v/1/public-works/documents/2013-county-map-004.pdf]
+- NY Warren County Historical Society Map of Warren County, New York [https://www.wcnyhs.org/rewind-november-15-2021-new-census-population-figures/]
 - Map of Columbia County, New York [https://columbiacountytourism.org/map/]
 - OSM United States Map [https://download.geofabrik.de/north-america/us.html]
 - PennDOT One Map [https://gis.penndot.pa.gov/onemap/]
@@ -14,7 +15,7 @@
 - SCSH List of County Routes in Saluda County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Saluda.pdf]
 - SCSH List of County Routes in Lexington County, South Carolina [https://www.scstatehouse.gov/CommitteeInfo/HouseTransportationInfrastructureAndManagementAdHocCommittee/LocalRoadTransfersBreakdownByCounty/Lexington.pdf]
 - VDOT List of Frontage Roads in Virginia [http://www.vahighways.com/route-log/fseries.htm]
-- VHB Interactive Map of Saratoga County, New York [https://spatial.vhb.com/SaratogaMapViewer/]
+- VHB Interactive Map of Saratoga County, New York [https://spatial.vhb.com/SaratogaMapViewer/].
 - Wikimedia Map of Rockland County, New York [https://commons.wikimedia.org/wiki/File:Map_of_Rockland_County.png]
 - Wikipedia List of County Routes in New Jersey by County [https://en.wikipedia.org/wiki/Category:County_routes_in_New_Jersey]
 - Wikipedia List of County Routes in New York State by County [https://en.wikipedia.org/wiki/Category:County_routes_in_New_York_(state)]

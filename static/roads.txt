@@ -598,12 +598,12 @@ DE-404
 DE-5
 DE-72
 DE-896
-FL Miami-dade 992
+FL Miami-Dade 992
 FL Monroe 905
 FL Monroe 939
 FL Monroe 940
 FL Monroe 941
-FL Monroe srd
+FL Monroe SRD
 FL-5
 FL-821
 FL-9336
@@ -4931,3 +4931,46 @@ NY-7
 NY-146
 NY Schenectady 110
 I-87 (NY)
+NY Greene 9
+NY Greene 28
+NY Greene 42
+NY Greene 49
+NY Greene 51
+NY Greene 74
+NY Orange 9
+NY Orange 32
+NY Orange 69
+NY Orange 74
+NY Orange 86
+NY Orange 107
+NY Rockland 4
+NY Rockland 5
+NY Rockland 28
+NY Rockland 53
+NY Rockland 80
+NY Rockland 90
+NY Rockland 94
+NY Rockland 98
+NY Rockland 100
+NY Rockland 102
+NY Rockland 108
+NY Rockland 110
+NY Rockland 112
+NY Rockland 118
+NY Ulster 10
+NY Ulster 11
+NY Ulster 14
+NY Ulster 15
+NY Ulster 16
+NY Ulster 24
+NY Ulster 25
+NY Ulster 31
+NY Ulster 32
+NY Ulster 124
+NY Ulster 157
+KY-864
+KY-1065
+I-265 (KY)
+I-65
+I-64
+US-60

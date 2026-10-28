@@ -4932,3 +4932,9 @@ NY-7
 NY-146
 NY Schenectady 110
 I-87 (NY)
+MO Cole C
+MO-179
+US-50
+US-54
+US-63
+MO-94

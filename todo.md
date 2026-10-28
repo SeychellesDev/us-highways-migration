@@ -2,14 +2,12 @@
 
 ## hi lol
 
-[https://pickerwheel.com/pw?id=AzLqx]
-
 ### HIGHEST PRIORITY / IN PROGRESS
 
-* us-1
+* i-95
 * us-9
 * i-40
-* i-95
+* tx fm 71
 
 ### HIGHER PRIORITY
 

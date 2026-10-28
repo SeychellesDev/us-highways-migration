@@ -4,7 +4,7 @@
             <h1 class="header" id="us1">Wyoming State Route 172</h1>
             <h2 class="content text-dark">Wyoming State Route 172 (WY-172) is an east-west route in Wyoming. It is 11.20 mi, or 18.02 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <?php include "../../static/table.php"; ?>
+            <?php include "../../static/table_prim.php"; ?>
             <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

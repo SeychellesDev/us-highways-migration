@@ -5,7 +5,7 @@
             <h2 class="content text-dark">New Jersey Monmouth County Route 46 (Monmouth CR 46) is a county road that connects NJ-79 to other roads closer to NJ-33 and NJ-34. It is 4.94 mi, or 7.95 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../../static/table.php"; ?>
+            <?php include "../../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

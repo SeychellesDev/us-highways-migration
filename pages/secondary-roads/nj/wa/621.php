@@ -4,7 +4,7 @@
             <h1 class="header" id="njcr621wa">Warren County Route 621</h1>
             <h2 class="content text-dark">New Jersey Warren County Route 621 (Warren CR 621) is a county road with almost no major intersections. It is 9.14 mi, or 14.72 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <?php include "../../../../static/table.php"; ?>
+            <?php include "../../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

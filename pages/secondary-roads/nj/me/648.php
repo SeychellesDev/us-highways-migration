@@ -5,7 +5,7 @@
             <h2 class="content text-dark">New Jersey Mercer County Route 648 (Mercer CR 648) is a very short county road In Ewing Township, Mercer County, New Jersey. It is 0.60 mi, or 0.97 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../../static/table.php"; ?>
+            <?php include "../../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

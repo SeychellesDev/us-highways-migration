@@ -5,7 +5,7 @@
             <h2 class="content text-dark">Maryland Route 528 (MD-528) is a state highway in Maryland that continues Delaware's Coastal Hwy until the end of Ocean City. It is 42.50 mi, or 68.40 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../static/table.php"; ?>
+            <?php include "../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

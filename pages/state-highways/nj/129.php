@@ -4,7 +4,7 @@
             <h2 class="content text-dark">New Jersey Route 129 (NJ-129) is a state highway in southwestern Mercer County that connects NJ-29 to US-1. It is 2.08 mi, or 3.34 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
-            <?php include "../../../static/table.php"; ?>
+            <?php include "../../../static/table_prim.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

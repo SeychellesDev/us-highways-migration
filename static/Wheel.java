@@ -8,7 +8,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 // javac .\\us-highways-migration\static\Wheel.java
-// java -cp us-highways-migration Wheel
+// java -cp us-highways-migration\static Wheel
 
 public class Wheel {
     public static void main(String[] args){

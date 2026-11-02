@@ -153,6 +153,48 @@
                     <td class="content text-dark">I-95, Biscayne Gardens, Florida 33168</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">12.51 mi<br><h4 class="small incr">+ 1.14 mi</h4></td>
+                    <td class="content text-dark small">20.13 km<br><h4 class="small incr">+ 1.84 km</h4></td>
+                    <td class="content text-dark"><a href="../us-highways/441.php">US-441</a> (concurrent with <a href="../state-highways/fl/7.php">FL-7</a>), Miami Gardens, Florida 33169 (NB)<br><a href="../state-highways/fl/91.php">FL-91 - Florida's Tpke</a>, Miami Gardens, Florida 33169 (NB)<br><a href="../state-highways/fl/826.php">FL-826 - Palmetto Expy</a>, Miami Gardens, Florida 33169 (WB)<br><a href="../state-highways/fl/826.php">FL-826 - NW 167th St</a>, North Miami Beach, Florida 33162 (EB)</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 12 (SB) / 12A/12B/12C (NB)</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">13.00 mi<br><h4 class="small incr">+ 0.49 mi</h4></td>
+                    <td class="content text-dark small">20.93 km<br><h4 class="small incr">+ 0.80 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">I-95, North Miami Beach, Florida 33162</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">14.43 mi<br><h4 class="small incr">+ 1.43 mi</h4></td>
+                    <td class="content text-dark small">23.24 km<br><h4 class="small incr">+ 2.31 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/fl/860.php">FL-860 - Miami Gardens Dr</a>, North Miami Beach, Florida 33162</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Exit 14</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">14.93 mi<br><h4 class="small incr">+ 0.50 mi</h4></td>
+                    <td class="content text-dark small">24.05 km<br><h4 class="small incr">+ 0.81 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">I-95, Ives Estates, Florida 33179</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">16.63 mi<br><h4 class="small incr">+ 1.70 mi</h4></td>
+                    <td class="content text-dark small">26.78 km<br><h4 class="small incr">+ 2.73 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/md/854.php">Miami-Dade CR 854 - Ives Dairy Rd</a>, Ives Estates, Florida 33179</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">17.31 mi<br><h4 class="small incr">+ 0.68 mi</h4></td>
+                    <td class="content text-dark small">27.87 km<br><h4 class="small incr">+ 1.09 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">I-95, Pembroke Park, Florida 33009</td>
+                    <td class="content text-dark">End Miami-Dade County<br>Start Broward County</td>
+                </tr>
             </tbody>
             <section id="i95aux">
                 <section id="fli95aux">

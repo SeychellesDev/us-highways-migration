@@ -331,8 +331,6 @@ NJ Hunterdon 627
 NJ Hudson 621
 NJ Mercer 621
 NJ Middlesex 621
-NJ Monmouth 1
-NJ Monmouth 3
 NJ Monmouth 21
 NJ Monmouth 30
 NJ Monmouth 40a
@@ -719,7 +717,6 @@ NJ Middlesex 656
 NJ Middlesex 700
 NJ Middlesex 701
 NJ Middlesex 621
-NJ Monmouth 10
 NJ Monmouth 11
 NJ Monmouth 12
 NJ Monmouth 13
@@ -740,16 +737,12 @@ NJ Monmouth 45
 NJ Monmouth 47
 NJ Monmouth 48
 NJ Monmouth 49
-NJ Monmouth 5
 NJ Monmouth 50
 NJ Monmouth 51
 NJ Monmouth 52
 NJ Monmouth 54
 NJ Monmouth 56
 NJ Monmouth 57
-NJ Monmouth 7
-NJ Monmouth 8
-NJ Monmouth 1
 NJ Monmouth 3 
 NJ Monmouth 21
 NJ Monmouth 30
@@ -895,9 +888,6 @@ NJ CR 547
 NJ CR 549
 NJ CR 571
 NJ CR 583
-NJ Monmouth 1
-NJ Monmouth 3
-NJ Monmouth 10
 NJ Monmouth 12
 NJ Monmouth 13
 NJ Monmouth 14
@@ -4695,7 +4685,6 @@ NJ CR 547
 NJ-33
 NJ CR 524A
 NJ Monmouth 11
-NJ Monmouth 10
 WY-789
 WY Hot Springs 6
 US-20

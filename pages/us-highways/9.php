@@ -3324,7 +3324,7 @@
                 <tr>
                     <td class="content text-dark small">401.09 mi<br><h4 class="small incr">+ 0.11 mi</h4></td>
                     <td class="content text-dark small">645.20 km<br><h4 class="small incr">+ 0.17 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/wa/34.php">Warren CR 34 - Glenwood Ave</a>, Queensbury, New York 12804</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/wa/34.php">Warren CR 34 - Glenwood Ave</a>, Queensbury, New York 12804</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3627,6 +3627,76 @@
                     <td class="content text-dark small">714.94 km<br><h4 class="small incr">+ 0.49 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Main St, Schroon, New York 12870</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">444.74 mi<br><h4 class="small incr">+ 0.32 mi</h4></td>
+                    <td class="content text-dark small">715.46 km<br><h4 class="small incr">+ 0.52 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Schroon, New York 12870</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">446.97 mi<br><h4 class="small incr">+ 2.23 mi</h4></td>
+                    <td class="content text-dark small">719.04 km<br><h4 class="small incr">+ 3.58 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/74.php">NY-74</a>, Schroon, New York 12870</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">451.15 mi<br><h4 class="small incr">+ 4.18 mi</h4></td>
+                    <td class="content text-dark small">725.77 km<br><h4 class="small incr">+ 6.73 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, North Hudson, New York 12855</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">453.19 mi<br><h4 class="small incr">+ 2.04 mi</h4></td>
+                    <td class="content text-dark small">729.05 km<br><h4 class="small incr">+ 3.28 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/910.php/#nysr910k">NY-910K - Blue Ridge Rd</a>, North Hudson, New York 12855</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">453.47 mi<br><h4 class="small incr">+ 0.28 mi</h4></td>
+                    <td class="content text-dark small">729.50 km<br><h4 class="small incr">+ 0.45 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/78.php">Essex CR 78 - Johnson Pond Rd</a>, North Hudson, New York 12855</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">453.47 mi<br><h4 class="small incr">+ 2.16 mi</h4></td>
+                    <td class="content text-dark small">729.50 km<br><h4 class="small incr">+ 3.47 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/4.php">Essex CR 4 - Caza Turn Rd</a>, North Hudson, New York 12855</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">453.83 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
+                    <td class="content text-dark small">730.08 km<br><h4 class="small incr">+ 0.58 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/4.php/#nycr4altes">Essex CR 4 Alternate - Caza Turn</a>, North Hudson, New York 12855</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">460.53 mi<br><h4 class="small incr">+ 6.70 mi</h4></td>
+                    <td class="content text-dark small">740.87 km<br><h4 class="small incr">+ 10.79 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/6.php">Essex CR 6 - Tracy Rd</a>, North Hudson, New York 12855</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">460.53 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
+                    <td class="content text-dark small">741.10 km<br><h4 class="small incr">+ 0.23 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/ny-87.php">I-87 - Adirondack Nwy</a>, North Hudson, New York 12855</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">460.53 mi<br><h4 class="small incr">+ 1.58 mi</h4></td>
+                    <td class="content text-dark small">741.10 km<br><h4 class="small incr">+ 2.54 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Elizabethtown, New York 12964</td>
                     <td class="content text-dark"></td>
                 </tr>
             </tbody>

@@ -4981,3 +4981,9 @@ US-50
 US-54
 US-63
 MO-94
+NY-74
+NY-22
+NY Clinton 24
+NY-191
+NY Clinton 23
+NY-456

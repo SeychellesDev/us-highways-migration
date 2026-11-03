@@ -1,7 +1,7 @@
 <?php include "../../../static/top.php"; ?>
         
             <h6 class="dir"><a href="../../index-redirect.php">Home</a> > <a href="list.php">State Highways in Pennsylvania</a> > Pennsylvania Route 26</h6>
-            <h1 class="header">Pennsylvania Route 26</h1>
+            <h1 class="header" id="pasr26">Pennsylvania Route 26</h1>
             <h2 class="content text-dark">Pennsylvania Route 26 (PA-26) is a state highway in Pennsylvania that connects . It is 42.50 mi, or 68.40 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             

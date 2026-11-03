@@ -2,6 +2,7 @@
 
 - Google Maps [maps.google.com]
 - KYTC Kentucky List of Primary Road Systems in Jefferson County, Kentucky [https://transportation.ky.gov/Planning/State%20Primary%20Road%20System%20Lists/Jefferson.pdf]
+- KYTC Official Milepoint Route Log Extract in Jefferson County, Kentucky [https://apps.transportation.ky.gov/DMI_Reports/Official_MP_RL_Report1.aspx?param=JEFFERSON]
 - NYSGIS Map of Albany County, New York [https://experience.arcgis.com/experience/163f1611abc3415383d7f89393d4e2d5]
 - NYSGIS Map of Greene County, New York [https://gis.gcgovny.com/greenewebmap/]
 - NYSGIS Map of Orange County, New York [https://gis.orangecountygov.com/Gallery/PDF/BASE_MAPS/OC_ZIPCODE_36x48.pdf]

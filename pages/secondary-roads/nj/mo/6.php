@@ -37,7 +37,7 @@
                 <tr>
                     <td class="content text-dark small">1.92 mi<br><h4 class="small incr">+ 0.66 mi</h4></td>
                     <td class="content text-dark small">3.08 km<br><h4 class="small incr">+ 1.06 km</h4></td>
-                    <td class="content text-dark"><a href="#njcr6smo">Monmouth CR 6S - Stone Rd</a>, Keyport, New Jersey 07730</td>
+                    <td class="content text-dark"><a href="#njcr6smo">Monmouth CR 6 South - Stone Rd</a>, Keyport, New Jersey 07730</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -65,9 +65,9 @@
                 <tr>
                     <td class="content text-dark small">1.92 mi</td>
                     <td class="content text-dark small">3.08 km</td>
-                    <td class="content text-dark"><a href="">Monmouth CR 6 - First St</a>, Keyport, New Jersey 07730</td>
+                    <td class="content text-dark"><a href="#njcr6mo">Monmouth CR 6 - First St</a>, Keyport, New Jersey 07730</td>
                     <td class="content text-dark">Stone Rd, Keyport, New Jersey 07730</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start of Alternate Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">2.01 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
@@ -88,7 +88,7 @@
                     <td class="content text-dark small">4.60 km<br><h4 class="small incr">+ 1.03 km</h4></td>
                     <td class="content text-dark"><a href="../../../state-highways/nj/36.php">NJ-36</a>, Union Beach, New Jersey 07735</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End of Alternate Route</td>
                 </tr>
             <?php include "../../../../static/endtable.php"; ?>
             <hr>
@@ -102,7 +102,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../mi/689.php">Middlesex CR 689 - Matawan Rd (WB) / Morristown Rd (EB)</a>, Old Bridge, New Jersey 08857</td>
                     <td class="content text-dark">Cliffwood Ave, Aberdeen Township, New Jersey 07735</td>
-                    <td class="content text-dark">Start of Route</td>
+                    <td class="content text-dark">Start of Alternate Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.16 mi<br><h4 class="small incr">+ 0.16 mi</h4></td>
@@ -116,6 +116,6 @@
                     <td class="content text-dark small">2.21 km<br><h4 class="small incr">+ 1.95 km</h4></td>
                     <td class="content text-dark"><a href="../../../state-highways/nj/35.php">NJ-35</a>, Aberdeen Township, New Jersey 07735</td>
                     <td class="content text-dark">Cliffwood Ave, Aberdeen Township, New Jersey 07735</td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End of Alternate Route</td>
                 </tr>
                 <?php include "../../../../static/bottom.php"; ?>

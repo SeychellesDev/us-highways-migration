@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../index-redirect.php">Home</a> > <a href="list.php">Secondary Roads in Kentucky</a> > Jefferson SR 6158</h6>
             <h1 class="header" id="kysr6158jf">Jefferson SR 6158</h1>
-            <h2 class="content text-dark">Jefferson Supplementary Route 6158 (Jefferson SR 6158 or KY-6158) is a supplementary road in Jefferson County, Kentucky. It is 0.05 mi, or 0.08 km, long.</h2>
+            <h2 class="content text-dark">Jefferson Supplementary Route 6158 (Jefferson SR 6158 or KY-6158) is a supplementary road in Jefferson County, Kentucky. It is 0.15 mi, or 0.24 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../../static/table.php"; ?>
                 <tr>

@@ -29,7 +29,7 @@
                 </tr>
                     <td class="content text-dark small">6.55 mi<br><h4 class="small incr">+ 3.56 mi</h4></td>
                     <td class="content text-dark small">10.53 km<br><h4 class="small incr">+ 5.72 km</h4></td>
-                    <td class="content text-dark"><a href="../527.php">Monmouth CR 527 - Smithburg Rd (SB) / Sweetmans Ln (EB)</a>, Manalapan Township, New Jersey 07726 (SB/EB)<br><a href="../527.php/#njcr527altmo">Monmouth CR 527A - Smithburg Rd</a>, Manalapan Township, New Jersey 07726 (NB)</td>
+                    <td class="content text-dark"><a href="../527.php">Monmouth CR 527 - Smithburg Rd (SB) / Sweetmans Ln (EB)</a>, Manalapan Township, New Jersey 07726 (SB/EB)<br><a href="../527.php#njcr527altmo">Monmouth CR 527A - Smithburg Rd</a>, Manalapan Township, New Jersey 07726 (NB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

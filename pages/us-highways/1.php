@@ -1598,7 +1598,7 @@
                 <tr>
                     <td class="content text-dark small">399.54 mi<br><h4 class="small incr">+ 0.19 mi</h4></td>
                     <td class="content text-dark small">643.16 km<br><h4 class="small incr">+ 0.31 km</h4></td>
-                    <td class="content text-dark"><a href="44.php/#flus44busvo">US-44 Business - Canal St</a>, New Smyrna Beach, 32168</td>
+                    <td class="content text-dark"><a href="44.php#flus44busvo">US-44 Business - Canal St</a>, New Smyrna Beach, 32168</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1955,7 +1955,7 @@
                 <tr>
                     <td class="content text-dark small">483.30 mi<br><h4 class="small incr">+ 8.35 mi</h4></td>
                     <td class="content text-dark small">777.94 km<br><h4 class="small incr">+ 13.44 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/210.php/#flcr210altsj">St. Johns CR 210 Alternate</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/210.php#flcr210altsj">St. Johns CR 210 Alternate</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1990,7 +1990,7 @@
                 <tr>
                     <td class="content text-dark small">488.50 mi<br><h4 class="small incr">+ 0.33 mi</h4></td>
                     <td class="content text-dark small">786.30 km<br><h4 class="small incr">+ 0.52 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/fl/9.php/#flsr9b">FL-9B (SB)</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/9.php#flsr9b">FL-9B (SB)</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2405,7 +2405,7 @@
                 <tr>
                     <td class="content text-dark small">581.94 mi<br><h4 class="small incr">+ 0.67 mi</h4></td>
                     <td class="content text-dark small">936.65 km<br><h4 class="small incr">+ 1.09 km</h4></td>
-                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23 Business</a> & <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php#gaus23buswa">US-23 Business</a> & <a href="../state-highways/ga/4.php#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">SE Georgia Pkwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Start concurrency with US-82 & GA-520</td>
                 </tr>
@@ -2461,7 +2461,7 @@
                 <tr>
                     <td class="content text-dark small">593.31 mi<br><h4 class="small incr">+ 3.83 mi</h4></td>
                     <td class="content text-dark small">954.91 km<br><h4 class="small incr">+ 6.17 km</h4></td>
-                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23 Business</a> & <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 51303</td>
+                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php#gaus23buswa">US-23 Business</a> & <a href="../state-highways/ga/4.php#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 51303</td>
                     <td class="content text-dark">Alma Hwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2482,7 +2482,7 @@
                 <tr>
                     <td class="content text-dark small">611.02 mi<br><h4 class="small incr">+ 1.88 mi</h4></td>
                     <td class="content text-dark small">983.41 km<br><h4 class="small incr">+ 3.02 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ga/4.php/#gasr4altbc">GA-4 Alternate - S Dixon St</a>, Alma, Georgia 31510</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/4.php#gasr4altbc">GA-4 Alternate - S Dixon St</a>, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2496,7 +2496,7 @@
                 <tr>
                     <td class="content text-dark small">612.57 mi<br><h4 class="small incr">+ 1.11 mi</h4></td>
                     <td class="content text-dark small">985.90 km<br><h4 class="small incr">+ 1.79 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ga/4.php/#gasr4altbc">GA-4 Alternate - Camellia Dr</a>, Alma, Georgia 31510</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/4.php#gasr4altbc">GA-4 Alternate - Camellia Dr</a>, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2706,7 +2706,7 @@
                 <tr>
                     <td class="content text-dark small">686.28 mi<br><h4 class="small incr">+ 0.22 mi</h4></td>
                     <td class="content text-dark small">1104.62 km<br><h4 class="small incr">+ 0.36 km</h4></td>
-                    <td class="content text-dark"><a href="#gaus1busem">US-1 Business - S Main St</a> (concurrent with <a href="../state-highways/ga/4.php/#gasr4busem">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
+                    <td class="content text-dark"><a href="#gaus1busem">US-1 Business - S Main St</a> (concurrent with <a href="../state-highways/ga/4.php#gasr4busem">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
                     <td class="content text-dark">US-1, Swainsboro, Georgia 30401</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2734,7 +2734,7 @@
                 <tr>
                     <td class="content text-dark small">695.18 mi<br><h4 class="small incr">+ 1.75 mi</h4></td>
                     <td class="content text-dark small">1118.97 km<br><h4 class="small incr">+ 2.81 km</h4></td>
-                    <td class="content text-dark"><a href="#gaus1busem">US-1 Business</a> (concurrent with <a href="../state-highways/ga/4.php/#gasr4busem">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
+                    <td class="content text-dark"><a href="#gaus1busem">US-1 Business</a> (concurrent with <a href="../state-highways/ga/4.php#gasr4busem">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with GA-57</td>
                 </tr>
@@ -3021,7 +3021,7 @@
                 <tr>
                     <td class="content text-dark small">768.77 mi<br><h4 class="small incr">+ 2.52 mi</h4></td>
                     <td class="content text-dark small">1237.36 km<br><h4 class="small incr">+ 4.06 km</h4></td>
-                    <td class="content text-dark"><a href="25.php/#gaus25busri">US-25 Business - Broad St</a> (concurrent with <a href="../state-highways/ga/28.php">GA-28</a> & <a href="../state-highways/ga/104.php">GA-104</a>), Augusta, Georgia 30815</td>
+                    <td class="content text-dark"><a href="25.php#gaus25busri">US-25 Business - Broad St</a> (concurrent with <a href="../state-highways/ga/28.php">GA-28</a> & <a href="../state-highways/ga/104.php">GA-104</a>), Augusta, Georgia 30815</td>
                     <td class="content text-dark">Jefferson Davis Hwy, Augusta, Georgia 30815</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3114,7 +3114,7 @@
                 <tr>
                     <td class="content text-dark small">781.18 mi<br><h4 class="small incr">+ 1.36 mi</h4></td>
                     <td class="content text-dark small">1257.37 km<br><h4 class="small incr">+ 2.18 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 Bypass - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#scus1trkai">US-1 Bypass - Robert M. Bell Pkwy (NB)</a> (concurrent with <a href="78.php/#scus78bypai">US-78 Bypass</a>, <a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 Bypass</a>, & <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/19.php#scsr19bypai">SC-19 Bypass - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#scus1trkai">US-1 Bypass - Robert M. Bell Pkwy (NB)</a> (concurrent with <a href="78.php#scus78bypai">US-78 Bypass</a>, <a href="../state-highways/sc/19.php#scsr19bypai">SC-19 Bypass</a>, & <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark">W Richland Ave, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3156,7 +3156,7 @@
                 <tr>
                     <td class="content text-dark small">786.25 mi<br><h4 class="small incr">+ 0.90 mi</h4></td>
                     <td class="content text-dark small">1265.54 km<br><h4 class="small incr">+ 1.45 km</h4></td>
-                    <td class="content text-dark"><a href="78.php/#scus78bypai">US-78 Bypass - Rudy Mason Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801<br><a href="1.php/#scus1trkai">US-1 Bypass - Rutland Dr (NB)</a> (concurrent with <a href="78.php/#scus78bypai">US-78 Bypass</a> & <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="78.php#scus78bypai">US-78 Bypass - Rudy Mason Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801<br><a href="1.php#scus1trkai">US-1 Bypass - Rutland Dr (NB)</a> (concurrent with <a href="78.php#scus78bypai">US-78 Bypass</a> & <a href="../state-highways/sc/118.php">SC-118</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4164,7 +4164,7 @@
                 <tr>
                     <td class="content text-dark small">872.09 mi<br><h4 class="small incr">+ 0.51 mi</h4></td>
                     <td class="content text-dark small">1403.77 km<br><h4 class="small incr">+ 0.82 km</h4></td>
-                    <td class="content text-dark"><a href="521.php/#scus521trkke">US-521 Bypass</a> (concurrent with <a href="601.php/#scus601trkke">US-601 Bypass</a> & <a href="../secondary-roads/sc/ke/130.php">Kershaw CR 130</a>), Camden, South Carolina 29020</td>
+                    <td class="content text-dark"><a href="521.php#scus521trkke">US-521 Bypass</a> (concurrent with <a href="601.php#scus601trkke">US-601 Bypass</a> & <a href="../secondary-roads/sc/ke/130.php">Kershaw CR 130</a>), Camden, South Carolina 29020</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-521 Bypass</td>
                 </tr>
@@ -4178,7 +4178,7 @@
                 <tr>
                     <td class="content text-dark small">873.31 mi<br><h4 class="small incr">+ 0.68 mi</h4></td>
                     <td class="content text-dark small">1405.73 km<br><h4 class="small incr">+ 1.09 km</h4></td>
-                    <td class="content text-dark"><a href="521.php/#scus521trkke">US-521 Bypass - Chestnut Ferry Rd</a> (concurrent with <a href="#scus1trkke">US-1 Truck</a>)  , Camden, South Carolina 29020</td>
+                    <td class="content text-dark"><a href="521.php#scus521trkke">US-521 Bypass - Chestnut Ferry Rd</a> (concurrent with <a href="#scus1trkke">US-1 Truck</a>)  , Camden, South Carolina 29020</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4710,7 +4710,7 @@
                 <tr>
                     <td class="content text-dark small">927.14 mi<br><h4 class="small incr">+ 0.17 mi</h4></td>
                     <td class="content text-dark small">1492.37 km<br><h4 class="small incr">+ 0.27 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/326.php">Chesterfield CR 326 - Manor Rd (WB)</a>, Cheraw, South Carolina 29520<br><a href="#scus1trkcf">US-1 Truck - Old Cash Rd</a> (concurrent with <a href="52.php/#scus52trkcf">US-52 Truck</a> & <a href="../state-highways/sc/9.php/#scsr9trkcf">SC-9 Truck</a>), Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"><a href="../secondary-roads/sc/cf/326.php">Chesterfield CR 326 - Manor Rd (WB)</a>, Cheraw, South Carolina 29520<br><a href="#scus1trkcf">US-1 Truck - Old Cash Rd</a> (concurrent with <a href="52.php#scus52trkcf">US-52 Truck</a> & <a href="../state-highways/sc/9.php#scsr9trkcf">SC-9 Truck</a>), Cheraw, South Carolina 29520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4759,7 +4759,7 @@
                 <tr>
                     <td class="content text-dark small">929.90 mi<br><h4 class="small incr">+ 0.12 mi</h4></td>
                     <td class="content text-dark small">1496.81 km<br><h4 class="small incr">+ 0.19 km</h4></td>
-                    <td class="content text-dark"><a href="#scus1trkcf">US-1 Truck - Front St (SB)</a> (concurrent with <a href="52.php/scus52trkcf">US-52 Truck</a> & <a href="../state-highways/sc/9.php/#scsr9trkcf">SC-9 Truck</a>), Cheraw, South Carolina 29520<br><a href="52.php/scus52trkcf">US-52 Truck - Front St (NB)</a>, Cheraw, South Carolina 29520</td>
+                    <td class="content text-dark"><a href="#scus1trkcf">US-1 Truck - Front St (SB)</a> (concurrent with <a href="52.php/scus52trkcf">US-52 Truck</a> & <a href="../state-highways/sc/9.php#scsr9trkcf">SC-9 Truck</a>), Cheraw, South Carolina 29520<br><a href="52.php/scus52trkcf">US-52 Truck - Front St (NB)</a>, Cheraw, South Carolina 29520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5391,7 +5391,7 @@
                 <tr>
                     <td class="content text-dark small">1001.80 mi<br><h4 class="small incr">+ 1.39 mi</h4></td>
                     <td class="content text-dark small">1612.52 km<br><h4 class="small incr">+ 2.24 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/nc/42.php">NC-42 - Wicker St (WB)</a>, Sanford, North Carolina 27330<br><a href="../state-highways/nc/42.php">NC-42 - Wicker St (EB)</a> (concurrent with <a href="#ncus1busle">US-1 Business</a>, <a href="15.php/#ncus15busle">US-15 Business</a>, & <a href="501.php/#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/42.php">NC-42 - Wicker St (WB)</a>, Sanford, North Carolina 27330<br><a href="../state-highways/nc/42.php">NC-42 - Wicker St (EB)</a> (concurrent with <a href="#ncus1busle">US-1 Business</a>, <a href="15.php#ncus15busle">US-15 Business</a>, & <a href="501.php#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5405,7 +5405,7 @@
                 <tr>
                     <td class="content text-dark small">1003.70 mi<br><h4 class="small incr">+ 1.07 mi</h4></td>
                     <td class="content text-dark small">1615.56 km<br><h4 class="small incr">+ 1.71 km</h4></td>
-                    <td class="content text-dark"><a href="421.php/#ncus421busle">US-421 Business - N Horner Blvd</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="421.php#ncus421busle">US-421 Business - N Horner Blvd</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5419,7 +5419,7 @@
                 <tr>
                     <td class="content text-dark small">1005.75 mi<br><h4 class="small incr">+ 0.87 mi</h4></td>
                     <td class="content text-dark small">1618.87 km<br><h4 class="small incr">+ 1.41 km</h4></td>
-                    <td class="content text-dark"><a href="15.php/#ncus15busle">US-15 Business - Hawkins Ave (SB)</a> (concurrent with <a href="501.php/#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330<br><a href="15.php">US-15 - Hawkins Ave (NB)</a> (concurrent with <a href="501.php">US-501</a> & <a href="../state-highways/nc/87.php">NC-87</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="15.php#ncus15busle">US-15 Business - Hawkins Ave (SB)</a> (concurrent with <a href="501.php#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330<br><a href="15.php">US-15 - Hawkins Ave (NB)</a> (concurrent with <a href="501.php">US-501</a> & <a href="../state-highways/nc/87.php">NC-87</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-15 & US-501</td>
                 </tr>
@@ -5594,7 +5594,7 @@
                 <tr>
                     <td class="content text-dark small">1060.57 mi<br><h4 class="small incr">+ 0.95 mi</h4></td>
                     <td class="content text-dark small">1707.10 km<br><h4 class="small incr">+ 1.53 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/nc/98.php/#ncsr98buswa">NC-98 Business - Durham Rd</a>, Wake Forest, North Carolina 27587</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/98.php#ncsr98buswa">NC-98 Business - Durham Rd</a>, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6352,7 +6352,7 @@
                 <tr>
                     <td class="content text-dark small">1179.65 mi<br><h4 class="small incr">+ 1.49 mi</h4></td>
                     <td class="content text-dark small">1898.75 km<br><h4 class="small incr">+ 2.40 km</h4></td>
-                    <td class="content text-dark"><a href="301.php/#vaus301altpe">US-301 Alternate - S Sycamore St</a>, Petersburg, Virginia 23803</td>
+                    <td class="content text-dark"><a href="301.php#vaus301altpe">US-301 Alternate - S Sycamore St</a>, Petersburg, Virginia 23803</td>
                     <td class="content text-dark">E Washington St (SB) / E Wythe St (NB), Petersburg, Virginia 23803</td>
                     <td class="content text-dark">Start concurrency with US-301 Alternate</td>
                 </tr>
@@ -6839,7 +6839,7 @@
                 <tr>
                     <td class="content text-dark small">1255.40 mi<br><h4 class="small incr">+ 0.31 mi</h4></td>
                     <td class="content text-dark small">2020.70 km<br><h4 class="small incr">+ 0.49 km</h4></td>
-                    <td class="content text-dark"><a href="#vaus1busspfr">US-1 Business - Princess Anne St</a> (concurrent with <a href="17.php/#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark"><a href="#vaus1busspfr">US-1 Business - Princess Anne St</a> (concurrent with <a href="17.php#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-17 Business</td>
                 </tr>
@@ -6853,7 +6853,7 @@
                 <tr>
                     <td class="content text-dark small">1255.83 mi<br><h4 class="small incr">+ 0.33 mi</h4></td>
                     <td class="content text-dark small">2021.43 km<br><h4 class="small incr">+ 0.56 km</h4></td>
-                    <td class="content text-dark"><a href="17.php/#vaus17busspfr">US-17 Business - Warrenton Rd (WB)</a>, Falmouth, Virginia 22405<br><a href="../secondary-roads/va/st/664.php">Stafford SR 664 - Butler Rd (EB)</a>, Falmouth, Virginia 22405</td>
+                    <td class="content text-dark"><a href="17.php#vaus17busspfr">US-17 Business - Warrenton Rd (WB)</a>, Falmouth, Virginia 22405<br><a href="../secondary-roads/va/st/664.php">Stafford SR 664 - Butler Rd (EB)</a>, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-17 Business</td>
                 </tr>
@@ -7536,7 +7536,7 @@
                 <tr>
                     <td class="content text-dark small">1344.44 mi<br><h4 class="small incr">+ 1.12 mi</h4></td>
                     <td class="content text-dark small">2164.01 km<br><h4 class="small incr">+ 1.80 km</h4></td>
-                    <td class="content text-dark"><a href="40.php/#mdus40bypba">US-40 Bypass - W North Ave</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="40.php#mdus40bypba">US-40 Bypass - W North Ave</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark">W North Ave, Baltimore, Maryland 21201</td>
                     <td class="content text-dark">Start concurrency with US-40 Bypass</td>
                 </tr>
@@ -7613,14 +7613,14 @@
                 <tr>
                     <td class="content text-dark small">1347.78 mi<br><h4 class="small incr">+ 0.82 mi</h4></td>
                     <td class="content text-dark small">2169.39 km<br><h4 class="small incr">+ 1.32 km</h4></td>
-                    <td class="content text-dark">US-1 - Belair Rd (concurrent with <a href="40.php/#mdus40altba">US-40 Bypass</a>), Baltimore, Maryland 21201</td>
+                    <td class="content text-dark">US-1 - Belair Rd (concurrent with <a href="40.php#mdus40altba">US-40 Bypass</a>), Baltimore, Maryland 21201</td>
                     <td class="content text-dark">Belair Rd, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1348.61 mi<br><h4 class="small incr">+ 0.83 mi</h4></td>
                     <td class="content text-dark small">2170.73 km<br><h4 class="small incr">+ 1.34 km</h4></td>
-                    <td class="content text-dark"><a href="40.php/#mdus40altba">US-40 Bypass - Erdman Ave</a>, Baltimore, Maryland 21201</td>
+                    <td class="content text-dark"><a href="40.php#mdus40altba">US-40 Bypass - Erdman Ave</a>, Baltimore, Maryland 21201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-40 Bypass</td>
                 </tr>
@@ -9283,7 +9283,7 @@
                 <tr>
                     <td class="content text-dark small">1519.15 mi<br><h4 class="small incr">+ 1.14 mi</h4></td>
                     <td class="content text-dark small">2445.18 km<br><h4 class="small incr">+ 1.84 km</h4></td>
-                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local - Spring St</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="1.php#njus1localuneshu">US-1 Local - Spring St</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">US-1-9, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9332,7 +9332,7 @@
                 <tr>
                     <td class="content text-dark small">1522.33 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
                     <td class="content text-dark small">2450.29 km<br><h4 class="small incr">+ 0.65 km</h4></td>
-                    <td class="content text-dark"><a href="#njus1localuneshu">US-1 Local</a> (concurrent with <a href="9.php/#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"><a href="#njus1localuneshu">US-1 Local</a> (concurrent with <a href="9.php#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9346,7 +9346,7 @@
                 <tr>
                     <td class="content text-dark small">1524.91 mi<br><h4 class="small incr">+ 2.28 mi</h4></td>
                     <td class="content text-dark small">2454.44 km<br><h4 class="small incr">+ 3.67 km</h4></td>
-                    <td class="content text-dark"><a href="#njus1localuneshu">US-1 Local</a> (concurrent with <a href="9.php/#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"><a href="#njus1localuneshu">US-1 Local</a> (concurrent with <a href="9.php#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
                     <td class="content text-dark">Pulaski Skwy, Newark, New Jersey</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9388,7 +9388,7 @@
                 <tr>
                     <td class="content text-dark small">1527.92 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
                     <td class="content text-dark small">2459.25 km<br><h4 class="small incr">+ 0.07 km</h4></td>
-                    <td class="content text-dark"><a href="#njus1localuneshu">US-1 Local</a> (concurrent with <a href="9.php/#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="#njus1localuneshu">US-1 Local</a> (concurrent with <a href="9.php#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9423,7 +9423,7 @@
                 <tr>
                     <td class="content text-dark small">1528.47 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
                     <td class="content text-dark small">2460.14 km<br><h4 class="small incr">+ 0.09 km</h4></td>
-                    <td class="content text-dark"><a href="#njus1localuneshu">US-1 Local</a> (concurrent with <a href="9.php/#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="#njus1localuneshu">US-1 Local</a> (concurrent with <a href="9.php#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9506,7 +9506,7 @@
                 <tr>
                     <td class="content text-dark small">1535.72 mi<br><h4 class="small incr">+ 0.58 mi</h4></td>
                     <td class="content text-dark small">2471.82 km<br><h4 class="small incr">+ 0.93 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/be/124.php/#njcr1241be">Bergen CR 124-1 - Hendricks Cswy</a>, Ridgefield, New Jersey 07657</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/124.php#njcr1241be">Bergen CR 124-1 - Hendricks Cswy</a>, Ridgefield, New Jersey 07657</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9576,7 +9576,7 @@
                 <tr>
                     <td class="content text-dark small">1538.41 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
                     <td class="content text-dark small">2476.16 km<br><h4 class="small incr">+ 0.22 km</h4></td>
-                    <td class="content text-dark"><a href="9.php/#njnyus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="9.php#njnyus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9597,7 +9597,7 @@
                 <tr>
                     <td class="content text-dark small">1538.63 mi<br><h4 class="small incr">+ 0.11 mi</h4></td>
                     <td class="content text-dark small">2476.50 km<br><h4 class="small incr">+ 0.17 km</h4></td>
-                    <td class="content text-dark"><a href="9.php/#njnyus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="9.php#njnyus9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9618,7 +9618,7 @@
                 <tr>
                     <td class="content text-dark small">1538.87 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
                     <td class="content text-dark small">2476.89 km<br><h4 class="small incr">+ 0.21 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/be/29.php/#njcr29sbe">Bergen CR S-29 - Center Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/29.php#njcr29sbe">Bergen CR S-29 - Center Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9662,14 +9662,14 @@
                 <tr>
                     <td class="content text-dark small">1540.26 mi<br><h4 class="small incr">+ 0.42 mi</h4></td>
                     <td class="content text-dark small">2479.15 km<br><h4 class="small incr">+ 0.70 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Henry Hudson Pkwy (SB)</a>, Manhattan, New York 10033</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Henry Hudson Pkwy (SB)</a>, Manhattan, New York 10033</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1540.35 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
                     <td class="content text-dark small">2479.29 km<br><h4 class="small incr">+ 0.14 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Henry Hudson Pkwy (NB)</a>, Manhattan, New York 10033</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Henry Hudson Pkwy (NB)</a>, Manhattan, New York 10033</td>
                     <td class="content text-dark">Cross Bronx Expy, Manhattan, New York 10033</td>
                     <td class="content text-dark">End of US-1-9</td>
                 </tr>
@@ -9711,21 +9711,21 @@
                 <tr>
                     <td class="content text-dark small">1544.53 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
                     <td class="content text-dark small">2486.02 km<br><h4 class="small incr">+ 1.05 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/908.php/#nysr908f">NY-908F - Southern Blvd</a>, Bronx, New York 10463</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/908.php#nysr908f">NY-908F - Southern Blvd</a>, Bronx, New York 10463</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1545.01 mi<br><h4 class="small incr">+ 0.48 mi</h4></td>
                     <td class="content text-dark small">2486.79 km<br><h4 class="small incr">+ 0.77 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/907.php/#nysr907h">NY-907H - Bronx River Pkwy</a>, Bronx, New York 10463</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/907.php#nysr907h">NY-907H - Bronx River Pkwy</a>, Bronx, New York 10463</td>
                     <td class="content text-dark">S Pelham Pkwy, Bronx, New York 10463</td>
                     <td class="content text-dark">Start concurrency with NY-907F</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1545.18 mi<br><h4 class="small incr">+ 0.17 mi</h4></td>
                     <td class="content text-dark small">2487.06 km<br><h4 class="small incr">+ 0.27 km</h4></td>
-                    <td class="content text-dark">US-1 - Boston Rd, Bronx, New York 10463 (NB)<br><a href="../state-highways/ny/ref/907.php/#nysr907f">NY-907F - Bronx and Pelham Pkwy</a>, Bronx, New York 10463 (EB)</td>
+                    <td class="content text-dark">US-1 - Boston Rd, Bronx, New York 10463 (NB)<br><a href="../state-highways/ny/ref/907.php#nysr907f">NY-907F - Bronx and Pelham Pkwy</a>, Bronx, New York 10463 (EB)</td>
                     <td class="content text-dark">Boston Rd, Bronx, New York 10463</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9753,7 +9753,7 @@
                 <tr>
                     <td class="content text-dark small">1548.97 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
                     <td class="content text-dark small">2493.16 km<br><h4 class="small incr">+ 0.22 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/907.php/#nysr907w">NY-907W - Hutchinson River Pkwy</a>, Pelham, New York 10803</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/907.php#nysr907w">NY-907W - Hutchinson River Pkwy</a>, Pelham, New York 10803</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9774,7 +9774,7 @@
                 <tr>
                     <td class="content text-dark small">1551.11 mi<br><h4 class="small incr">+ 0.94 mi</h4></td>
                     <td class="content text-dark small">2496.60 km<br><h4 class="small incr">+ 1.51 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/981.php/#nysr981v">NY-981V - Memorial Hwy</a>, New Rochelle, New York 10801</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/981.php#nysr981v">NY-981V - Memorial Hwy</a>, New Rochelle, New York 10801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9788,7 +9788,7 @@
                 <tr>
                     <td class="content text-dark small">1551.39 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
                     <td class="content text-dark small">2497.04 km<br><h4 class="small incr">+ 0.15 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/982.php/#nysr982k">NY-982K - Harrison St</a>, New Rochelle, New York 10801</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/982.php#nysr982k">NY-982K - Harrison St</a>, New Rochelle, New York 10801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -9886,7 +9886,7 @@
                 <tr>
                     <td class="content text-dark small">1559.98 mi<br><h4 class="small incr">+ 0.57 mi</h4></td>
                     <td class="content text-dark small">2510.86 km<br><h4 class="small incr">+ 0.91 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/120.php/#nysr120a">NY-120A - Pearl St</a>, Rye, New York 10580</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/120.php#nysr120a">NY-120A - Pearl St</a>, Rye, New York 10580</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with NY-120A</td>
                 </tr>
@@ -9914,7 +9914,7 @@
                 <tr>
                     <td class="content text-dark small">1561.29 mi<br><h4 class="small incr">+ 0.73 mi</h4></td>
                     <td class="content text-dark small">2512.95 km<br><h4 class="small incr">+ 1.17 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/982.php/#nysr982c">NY-982C - Putnam Ave</a>, Rye, New York 10580</td>
+                    <td class="content text-dark"><a href="../state-highways/982.php#nysr982c">NY-982C - Putnam Ave</a>, Rye, New York 10580</td>
                     <td class="content text-dark">W Putnam Ave, Rye, New York 10580</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -11803,7 +11803,7 @@
                 <tr>
                     <td class="content text-dark small">1774.94 mi<br><h4 class="small incr">+ 0.62 mi</h4></td>
                     <td class="content text-dark small">2856.89 km<br><h4 class="small incr">+ 1.00 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ma/203.php">MA-203 - Gallivan Blvd</a>, Boston, Massachusetts 02205 (WB)<br><a href="../state-highways/ma/3.php/#masr3a">MA-3A - Neponset Ave (SB) / Morrissey Blvd (NB)</a>, Boston, Massachusetts 02205 (EB)</td>
+                    <td class="content text-dark"><a href="../state-highways/ma/203.php">MA-203 - Gallivan Blvd</a>, Boston, Massachusetts 02205 (WB)<br><a href="../state-highways/ma/3.php#masr3a">MA-3A - Neponset Ave (SB) / Morrissey Blvd (NB)</a>, Boston, Massachusetts 02205 (EB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -12155,7 +12155,7 @@
                 <tr>
                     <td class="content text-dark small">1826.25 mi<br><h4 class="small incr">+ 0.51 mi</h4></td>
                     <td class="content text-dark small">2939.44 km<br><h4 class="small incr">+ 0.82 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/nh/101.php/#nhsr101E">NH-101E - Exeter-Hampton Expy</a>, Hampton, New Hampshire 03842</td>
+                    <td class="content text-dark"><a href="../state-highways/nh/101.php#nhsr101E">NH-101E - Exeter-Hampton Expy</a>, Hampton, New Hampshire 03842</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -12218,7 +12218,7 @@
                 <tr>
                     <td class="content text-dark small">1836.83 mi<br><h4 class="small incr">+ 0.56 mi</h4></td>
                     <td class="content text-dark small">2956.46 km<br><h4 class="small incr">+ 0.90 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/nh/1.php/#nhsr1a">NH-1A - Miller Ave</a>, Portsmouth, New Hampshire 03801</td>
+                    <td class="content text-dark"><a href="../state-highways/nh/1.php#nhsr1a">NH-1A - Miller Ave</a>, Portsmouth, New Hampshire 03801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -12246,7 +12246,7 @@
                 <tr>
                     <td class="content text-dark small">1837.52 mi<br><h4 class="small incr">+ 0.07 mi</h4></td>
                     <td class="content text-dark small">2957.56 km<br><h4 class="small incr">+ 0.10 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/nh/1.php/#nhsr1b">NH-1B - Daniel St (SB) / State St (NB)</a>, Portsmouth, New Hampshire 03801</td>
+                    <td class="content text-dark"><a href="../state-highways/nh/1.php#nhsr1b">NH-1B - Daniel St (SB) / State St (NB)</a>, Portsmouth, New Hampshire 03801</td>
                     <td class="content text-dark">Memorial Brg, Portsmouth, New Hampshire 03801</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -12353,7 +12353,7 @@
                 <tr>
                     <td class="content text-dark small">1855.81 mi<br><h4 class="small incr">+ 1.73 mi</h4></td>
                     <td class="content text-dark small">2986.99 km<br><h4 class="small incr">+ 2.79 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/me/9.php/#mesr9b">ME-9B - Littlefield Rd</a>, Wells, Maine 04090</td>
+                    <td class="content text-dark"><a href="../state-highways/me/9.php#mesr9b">ME-9B - Littlefield Rd</a>, Wells, Maine 04090</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -12388,7 +12388,7 @@
                 <tr>
                     <td class="content text-dark small">1862.59 mi<br><h4 class="small incr">+ 1.85 mi</h4></td>
                     <td class="content text-dark small">2997.93 km<br><h4 class="small incr">+ 2.98 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/me/9.php/#mesr9a">ME-9A - High St</a>, Kennebunk, Maine 04043</td>
+                    <td class="content text-dark"><a href="../state-highways/me/9.php#mesr9a">ME-9A - High St</a>, Kennebunk, Maine 04043</td>
                     <td class="content text-dark">Main St, Kennebunk, Maine 04043</td>
                     <td class="content text-dark">Start concurrency with ME-9A</td>
                 </tr>
@@ -12402,7 +12402,7 @@
                 <tr>
                     <td class="content text-dark small">1862.99 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
                     <td class="content text-dark small">2998.57 km<br><h4 class="small incr">+ 0.07 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/me/9.php/#mesr9a">ME-9A - Summer St</a> (concurrent with <a href="../state-highways/me/35.php">ME-35</a>), Kennebunk, Maine 04043</td>
+                    <td class="content text-dark"><a href="../state-highways/me/9.php#mesr9a">ME-9A - Summer St</a> (concurrent with <a href="../state-highways/me/35.php">ME-35</a>), Kennebunk, Maine 04043</td>
                     <td class="content text-dark">Portland Rd, Kennebunk, Maine 04043</td>
                     <td class="content text-dark">End concurrency with ME-9A & ME-35</td>
                 </tr>
@@ -12752,7 +12752,7 @@
                 <tr>
                     <td class="content text-dark small">1913.12 mi<br><h4 class="small incr">+ 0.16 mi</h4></td>
                     <td class="content text-dark small">3079.20 km<br><h4 class="small incr">+ 0.27 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/me/24.php/#mesr24b">ME-24B - Maine St</a>, Brunswick, Maine 04011 (SB)<br><a href="201.php">US-201 - Maine St</a>, Brunswick, Maine 04011 (NB)</td>
+                    <td class="content text-dark"><a href="../state-highways/me/24.php#mesr24b">ME-24B - Maine St</a>, Brunswick, Maine 04011 (SB)<br><a href="201.php">US-201 - Maine St</a>, Brunswick, Maine 04011 (NB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -13844,7 +13844,7 @@
                 <tr>
                     <td class="content text-dark small">2241.03 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
                     <td class="content text-dark small">3606.95 km<br><h4 class="small incr">+ 0.15 km</h4></td>
-                    <td class="content text-dark"><a href="2.php/#meus2altar">US-2 Alternate - Bangor St</a>, Houlton, Maine 04730</td>
+                    <td class="content text-dark"><a href="2.php#meus2altar">US-2 Alternate - Bangor St</a>, Houlton, Maine 04730</td>
                     <td class="content text-dark">North St, Houlton, Maine 04730</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -14026,7 +14026,7 @@
                 <tr>
                     <td class="content text-dark small">2295.00 mi<br><h4 class="small incr">+ 2.88 mi</h4></td>
                     <td class="content text-dark small">3693.79 km<br><h4 class="small incr">+ 4.63 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/me/161.php/#mesr161b">ME-161B - Fort St</a>, Caribou, Maine 04736 (WB)<br><a href="../state-highways/me/161.php">ME-161 - Fort St</a>, Caribou, Maine 04736 (EB)</td>
+                    <td class="content text-dark"><a href="../state-highways/me/161.php#mesr161b">ME-161B - Fort St</a>, Caribou, Maine 04736 (WB)<br><a href="../state-highways/me/161.php">ME-161 - Fort St</a>, Caribou, Maine 04736 (EB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with ME-161</td>
                 </tr>
@@ -14292,7 +14292,7 @@
                 <tr>
                     <td class="content text-dark small">2.51 mi<br><h4 class="small incr">+ 0.24 mi</h4></td>
                     <td class="content text-dark small">4.04 km<br><h4 class="small incr">+ 0.38 km</h4></td>
-                    <td class="content text-dark"><a href="90.php/#flus90altdu">US-90 Alternate - Atlantic Blvd</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="90.php#flus90altdu">US-90 Alternate - Atlantic Blvd</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -14474,7 +14474,7 @@
                 <tr>
                     <td class="content text-dark small">1.35 mi<br><h4 class="small incr">+ 1.35 mi</h4></td>
                     <td class="content text-dark small">2.18 km<br><h4 class="small incr">+ 2.18 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ga/24.php/#gasr24spurjf">GA-24 Spur</a>, Louisville, Georgia 30434</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/24.php#gasr24spurjf">GA-24 Spur</a>, Louisville, Georgia 30434</td>
                     <td class="content text-dark">W Broad St, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -14538,7 +14538,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../state-highways/sc/19.php/#scsr19bypai">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#scus1">US-1 - Jefferson Davis Hwy (NB/SB)</a> (concurrent with <a href="78.php">US-78</a>), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark"><a href="../state-highways/sc/19.php#scsr19bypai">SC-19 - Hitchcock Pkwy (SB)</a> (concurrent with <a href="../state-highways/sc/118.php">SC-118</a> & <a href="../state-highways/sc/478.php">SC-478</a>), Aiken, South Carolina 29801<br><a href="#scus1">US-1 - Jefferson Davis Hwy (NB/SB)</a> (concurrent with <a href="78.php">US-78</a>), Aiken, South Carolina 29801</td>
                     <td class="content text-dark">Robert M Bell Pkwy, Aiken, South Carolina 29801</td>
                     <td class="content text-dark">Start of Truck Route<br>Start concurrency with SC-19 Truck & SC-118</td>
                 </tr>
@@ -14625,7 +14625,7 @@
                 <tr>
                     <td class="content text-dark small">0.50 mi<br><h4 class="small incr">+ 0.18 mi</h4></td>
                     <td class="content text-dark small">0.80 km<br><h4 class="small incr">+ 0.29 km</h4></td>
-                    <td class="content text-dark"><a href="521.php/#scus521trkke">US-521 Truck - Ehrenclou Dr (SB)</a>, Camden, South Carolina 29020<br>US-1 Truck - York St (EB), Camden, South Carolina 29020</td>
+                    <td class="content text-dark"><a href="521.php#scus521trkke">US-521 Truck - Ehrenclou Dr (SB)</a>, Camden, South Carolina 29020<br>US-1 Truck - York St (EB), Camden, South Carolina 29020</td>
                     <td class="content text-dark">York St, Camden, South Carolina 29020</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -14989,7 +14989,7 @@
                 <tr>
                     <td class="content text-dark small">1.20 mi<br><h4 class="small incr">+ 0.93 mi</h4></td>
                     <td class="content text-dark small">1.94 km<br><h4 class="small incr">+ 1.50 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/nc/42.php">NC-42 - Wicker St (EB)</a>, Sanford, North Carolina 27330<br>US-1 Business - Carthage St (NB) (concurrent with <a href="15.php/#ncus15busle">NC-15 Business</a>, <a href="501.php/#ncus501busle">US-501 Business</a>, & <a href="../secondary-roads/nc/le/1237.php">Lee SR 1237</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/42.php">NC-42 - Wicker St (EB)</a>, Sanford, North Carolina 27330<br>US-1 Business - Carthage St (NB) (concurrent with <a href="15.php#ncus15busle">NC-15 Business</a>, <a href="501.php#ncus501busle">US-501 Business</a>, & <a href="../secondary-roads/nc/le/1237.php">Lee SR 1237</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark">Carthage St, Sanford, North Carolina 27330</td>
                     <td class="content text-dark">End concurrency with NC-42<br>Start concurrency with Lee SR 1237</td>
                 </tr>
@@ -15003,7 +15003,7 @@
                 <tr>
                     <td class="content text-dark small">1.80 mi<br><h4 class="small incr">+ 0.44 mi</h4></td>
                     <td class="content text-dark small">2.91 km<br><h4 class="small incr">+ 0.71 km</h4></td>
-                    <td class="content text-dark"><a href="421.php/#ncus421busle">US-421 Business - S Horner Blvd (SB) / N Horner Blvd (NB)</a>, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="421.php#ncus421busle">US-421 Business - S Horner Blvd (SB) / N Horner Blvd (NB)</a>, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -15017,7 +15017,7 @@
                 <tr>
                     <td class="content text-dark small">2.01 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
                     <td class="content text-dark small">3.25 km<br><h4 class="small incr">+ 0.08 km</h4></td>
-                    <td class="content text-dark">US-1 Business - Hawkins Ave (concurrent with <a href="15.php/#ncus15busle">US-15 Business</a> & <a href="501.php/#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">US-1 Business - Hawkins Ave (concurrent with <a href="15.php#ncus15busle">US-15 Business</a> & <a href="501.php#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark">Hawkins Ave, Sanford, North Carolina 27330</td>
                     <td class="content text-dark">End concurrency with Lee SR 1237</td>
                 </tr>
@@ -15038,7 +15038,7 @@
                 <tr>
                     <td class="content text-dark small">4.93 mi<br><h4 class="small incr">+ 1.03 mi</h4></td>
                     <td class="content text-dark small">7.97 km<br><h4 class="small incr">+ 1.66 km</h4></td>
-                    <td class="content text-dark"><a href="15.php/#ncus15busle">US-15 Bus</a> (concurrent with <a href="501.php/#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark"><a href="15.php#ncus15busle">US-15 Bus</a> (concurrent with <a href="501.php#ncus501busle">US-501 Business</a>), Sanford, North Carolina 27330</td>
                     <td class="content text-dark">US-1 Business, Sanford, North Carolina 27330</td>
                     <td class="content text-dark">End concurrency with US-15 Business & US-501 Business</td>
                 </tr>
@@ -15097,14 +15097,14 @@
                 <tr>
                     <td class="content text-dark small">2.53 mi<br><h4 class="small incr">+ 0.93 mi</h4></td>
                     <td class="content text-dark small">4.66 km<br><h4 class="small incr">+ 1.50 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/nc/98.php/#ncsr98buswa">NC-98 Business - South Ave (WB)</a>, Wake Forest, North Carolina 27587<br><a href="../state-highways/nc/98.php/#ncsr98buswa">NC-98 Business - E South Ave (EB)</a> (concurrent with US-1 Alternate), Wake Forest, North Carolina 27587</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/98.php#ncsr98buswa">NC-98 Business - South Ave (WB)</a>, Wake Forest, North Carolina 27587<br><a href="../state-highways/nc/98.php#ncsr98buswa">NC-98 Business - E South Ave (EB)</a> (concurrent with US-1 Alternate), Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark">E South Ave, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark">Start concurrency with NC-98 Business</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">2.68 mi<br><h4 class="small incr">+ 0.15 mi</h4></td>
                     <td class="content text-dark small">4.90 km<br><h4 class="small incr">+ 0.24 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/nc/98.php/#ncsr98buswa">NC-98 Business - E Roosevelt Ave</a>, Wake Forest, North Carolina 27587</td>
+                    <td class="content text-dark"><a href="../state-highways/nc/98.php#ncsr98buswa">NC-98 Business - E Roosevelt Ave</a>, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark">Front St, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark">End concurrency with NC-98 Business</td>
                 </tr>
@@ -15320,7 +15320,7 @@
                 <tr>
                     <td class="content text-dark small">6.35 mi<br><h4 class="small incr">+ 0.86 mi</h4></td>
                     <td class="content text-dark small">10.21 km<br><h4 class="small incr">+ 1.38 km</h4></td>
-                    <td class="content text-dark"><a href="158.php/#ncus158busva">US-158 Business - S Garnett St</a>, Henderson, North Carolina 27536</td>
+                    <td class="content text-dark"><a href="158.php#ncus158busva">US-158 Business - S Garnett St</a>, Henderson, North Carolina 27536</td>
                     <td class="content text-dark">S Garnett St, Henderson, North Carolina 27536</td>
                     <td class="content text-dark">Begin concurrency with US-158 Business</td>
                 </tr>
@@ -15503,49 +15503,49 @@
                 <tr>
                     <td class="content text-dark small">3.92 mi<br><h4 class="small incr">+ 0.98 mi</h4></td>
                     <td class="content text-dark small">6.30 km<br><h4 class="small incr">+ 1.58 km</h4></td>
-                    <td class="content text-dark"><a href="17.php/#vaus17busspfr">US-17 Business - Charles St</a>, Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark"><a href="17.php#vaus17busspfr">US-17 Business - Charles St</a>, Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-17 Business</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">3.98 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
                     <td class="content text-dark small">6.39 km<br><h4 class="small incr">+ 0.09 km</h4></td>
-                    <td class="content text-dark"><a href="17.php/#vaus17busspfr">US-17 Business (SB) - Princess Anne St</a>, Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark"><a href="17.php#vaus17busspfr">US-17 Business (SB) - Princess Anne St</a>, Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.04 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
                     <td class="content text-dark small">6.49 km<br><h4 class="small incr">+ 0.10 km</h4></td>
-                    <td class="content text-dark"><a href="17.php/#vaus17busspfr">US-17 Business (NB) - Caroline St</a>, Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark"><a href="17.php#vaus17busspfr">US-17 Business (NB) - Caroline St</a>, Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark">Princess Anne St (SB) / Caroline St (NB), Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.49 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
                     <td class="content text-dark small">7.23 km<br><h4 class="small incr">+ 0.74 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/va/3.php/#vasr3busfrst">VA-3 Business - Amelia St</a>, Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark"><a href="../state-highways/va/3.php#vasr3busfrst">VA-3 Business - Amelia St</a>, Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.92 mi<br><h4 class="small incr">+ 0.43 mi</h4></td>
                     <td class="content text-dark small">7.93 km<br><h4 class="small incr">+ 0.70 km</h4></td>
-                    <td class="content text-dark">US-1 Business - Herndon St (concurrent with <a href="17.php/#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark">US-1 Business - Herndon St (concurrent with <a href="17.php#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark">Herndon St, Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.98 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
                     <td class="content text-dark small">8.03 km<br><h4 class="small incr">+ 0.10 km</h4></td>
-                    <td class="content text-dark">US-1 Business - Princess Anne St (concurrent with <a href="17.php/#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark">US-1 Business - Princess Anne St (concurrent with <a href="17.php#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark">Princess Anne St, Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.98 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
                     <td class="content text-dark small">8.03 km<br><h4 class="small incr">+ 0.10 km</h4></td>
-                    <td class="content text-dark"><a href="#vaus1">US-1 - Jefferson Davis Hwy (SB)</a>, Fredericksburg, Virginia 22401<br><a href="#vaus1">US-1 - Jefferson Davis Hwy (NB)</a> (concurrent with <a href="17.php/#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
+                    <td class="content text-dark"><a href="#vaus1">US-1 - Jefferson Davis Hwy (SB)</a>, Fredericksburg, Virginia 22401<br><a href="#vaus1">US-1 - Jefferson Davis Hwy (NB)</a> (concurrent with <a href="17.php#vaus17busspfr">US-17 Business</a>), Fredericksburg, Virginia 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
@@ -16138,7 +16138,7 @@
                 <tr>
                     <td class="content text-dark small">0.43 mi<br><h4 class="small incr">+ 0.35 mi</h4></td>
                     <td class="content text-dark small">0.70 km<br><h4 class="small incr">+ 0.57 km</h4></td>
-                    <td class="content text-dark"><a href="206.php/#njus206spurme">US-206 Spur - Lawrence Rd</a>, Trenton, New Jersey 08628 (NB)<br><a href="206.php/#njus206spurme">US-206 Spur - Brunswick Cir</a> (concurrent with <a href="../secondary-roads/nj/me/645.php">Mercer CR 645</a>), Trenton, New Jersey 08628 (WB)<br>US-1 Business - Brunswick Ave, Lawrence Township, New Jersey 08648 (EB)</td>
+                    <td class="content text-dark"><a href="206.php#njus206spurme">US-206 Spur - Lawrence Rd</a>, Trenton, New Jersey 08628 (NB)<br><a href="206.php#njus206spurme">US-206 Spur - Brunswick Cir</a> (concurrent with <a href="../secondary-roads/nj/me/645.php">Mercer CR 645</a>), Trenton, New Jersey 08628 (WB)<br>US-1 Business - Brunswick Ave, Lawrence Township, New Jersey 08648 (EB)</td>
                     <td class="content text-dark">Brunswick Ave, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -16592,7 +16592,7 @@
                     <tr>
                         <td class="content text-dark small">10.70 mi<br><h4 class="small incr">+ 0.93 mi</h4></td>
                         <td class="content text-dark small">17.21 km<br><h4 class="small incr">+ 1.49 km</h4></td>
-                        <td class="content text-dark"><a href="../state-highways/ri/114.php/#risr114a">RI-114A - Pleasant St</a>, East Providence, Rhode Island 02914</td>
+                        <td class="content text-dark"><a href="../state-highways/ri/114.php#risr114a">RI-114A - Pleasant St</a>, East Providence, Rhode Island 02914</td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark"></td>
                     </tr>
@@ -17047,7 +17047,7 @@
                     <tr>
                         <td class="content text-dark small">24.26 mi<br><h4 class="small incr">+ 0.98 mi</h4></td>
                         <td class="content text-dark small">39.04 km<br><h4 class="small incr">+ 1.58 km</h4></td>
-                        <td class="content text-dark"><a href="../state-highways/me/222.php">ME-222 - Union St</a>, Bangor, Maine 04401 (WB)<br>US-1 Alternate - Union St (concurrent with <a href="../state-highways/me/9.php/#mesr9b">ME-9B</a>), Bangor, Maine 04401 (EB)</td>
+                        <td class="content text-dark"><a href="../state-highways/me/222.php">ME-222 - Union St</a>, Bangor, Maine 04401 (WB)<br>US-1 Alternate - Union St (concurrent with <a href="../state-highways/me/9.php#mesr9b">ME-9B</a>), Bangor, Maine 04401 (EB)</td>
                         <td class="content text-dark">Union St, Bangor, Maine 04401</td>
                         <td class="content text-dark"></td>
                     </tr>
@@ -17061,7 +17061,7 @@
                     <tr>
                         <td class="content text-dark small">24.69 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
                         <td class="content text-dark small">39.73 km<br><h4 class="small incr">+ 0.23 km</h4></td>
-                        <td class="content text-dark"><a href="../state-highways/me/15.php/#mesr15b">ME-15B - S Main St</a>, Brewer, Maine 04412 (SB)<br><a href="../state-highways/me/9.php/#mesr9b">ME-9B - N Main St</a> (concurrent with <a href="../state-highways/me/15.php/#mesr15b">ME-15B</a>), Brewer, Maine 04412 (NB)</td>
+                        <td class="content text-dark"><a href="../state-highways/me/15.php#mesr15b">ME-15B - S Main St</a>, Brewer, Maine 04412 (SB)<br><a href="../state-highways/me/9.php#mesr9b">ME-9B - N Main St</a> (concurrent with <a href="../state-highways/me/15.php#mesr15b">ME-15B</a>), Brewer, Maine 04412 (NB)</td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark"></td>
                     </tr>

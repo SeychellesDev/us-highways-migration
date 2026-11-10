@@ -1,8 +1,8 @@
 <?php include "../../../../static/top.php"; ?>
         
             <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 1</h6>
-            <h1 class="header" id="njcr8mo">Monmouth County Route 1</h1>
-            <h2 class="content text-dark">New Jersey Monmouth County Route 7 (Monmouth CR 7) is a county road that connects NJ-35 in Middletown Township to Ideal Beach in Keansburg. It is 3.55 mi, or 5.73 km, long.</h2>
+            <h1 class="header" id="njcr8mo">Monmouth County Route 8</h1>
+            <h2 class="content text-dark">New Jersey Monmouth County Route 8 (Monmouth CR 8) is a county road that connects NJ-35 in Middletown Township to Ideal Beach in Keansburg. It is 3.55 mi, or 5.73 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../../static/table_prim.php"; ?>
@@ -121,7 +121,7 @@
                 <tr>
                     <td class="content text-dark small">2.12 mi<br><h4 class="small incr">+ 0.48 mi</h4></td>
                     <td class="content text-dark small">3.42 km<br><h4 class="small incr">+ 0.77 km</h4></td>
-                    <td class="content text-dark"><a href="12.php/#njcr12amo">Monmouth CR 12A - Navesink River Rd</a>, Middletown Township, New Jersey 07748 (SB)<br>Monmouth CR 8A - Locust Point Rd, Middletown Township, New Jersey 07748 (NB)</td>
+                    <td class="content text-dark"><a href="12.php#njcr12amo">Monmouth CR 12A - Navesink River Rd</a>, Middletown Township, New Jersey 07748 (SB)<br>Monmouth CR 8A - Locust Point Rd, Middletown Township, New Jersey 07748 (NB)</td>
                     <td class="content text-dark">Locust Point Rd, Middletown Township, New Jersey 07748</td>
                     <td class="content text-dark"></td>
                 </tr>

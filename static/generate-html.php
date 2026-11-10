@@ -85,8 +85,13 @@ function renderPhpToHtml($phpFiles, $fromPath, $toPath)
                     return "<!-- Include file not found: $includePath -->";
                 }
             }, $content);
-            // Replace all <a href="...php"> with <a href="...html">
-            $finalContent = preg_replace('/(<a\s+[^>]*href=["\"][^"\']+)\.php(["\'])/i', '$1.html$2', $processedContent);
+            // Replace PHP page links, including id jumps such as "...php/#id" and "...php#id".
+            $finalContent = preg_replace_callback('/href\s*=\s*(["\'])([^"\']+?)\.php(?:\/)?((?:\?[^"\']*)?(?:#[^"\']*)?)\1/i', function ($matches) {
+                $quote = $matches[1];
+                $url = $matches[2];
+                $suffix = $matches[3];
+                return 'href=' . $quote . $url . '.html' . $suffix . $quote;
+            }, $processedContent);
             if (file_put_contents($htmlFile, $finalContent) === false) {
                 echo "Program exited with code 3b - Failed to write $htmlFile.\n";
                 break;

@@ -558,14 +558,14 @@
                 <tr>
                     <td class="content text-dark small">92.53 mi<br><h4 class="small incr">+ 1.11 mi</h4></td>
                     <td class="content text-dark small">148.84 km<br><h4 class="small incr">+ 1.79 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/561.php/#njcr561bypat">Atlantic CR 561 Bypass - Smithville Blvd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/561.php#njcr561bypat">Atlantic CR 561 Bypass - Smithville Blvd</a>, Galloway, New Jersey 08205</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">93.00 mi<br><h4 class="small incr">+ 0.47 mi</h4></td>
                     <td class="content text-dark small">149.59 km<br><h4 class="small incr">+ 0.75 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/561.php/#561a">Atlantic CR 561 Alternate - E Moss Mill Rd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/561.php#561a">Atlantic CR 561 Alternate - E Moss Mill Rd</a>, Galloway, New Jersey 08205</td>
                     <td class="content text-dark">N New York Rd, Galloway, New Jersey 08205</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1048,7 +1048,7 @@
                 <tr>
                     <td class="content text-dark small">158.59 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
                     <td class="content text-dark small">255.11 km<br><h4 class="small incr">+ 0.65 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/nj/33.php/#njsr33busmo">NJ-33 Business - Park Ave</a>, Freehold Township, New Jersey 07728<br><a href="../secondary-roads/nj/mo/24.php">Monmouth CR 24 - Manalapan Ave</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/33.php#njsr33busmo">NJ-33 Business - Park Ave</a>, Freehold Township, New Jersey 07728<br><a href="../secondary-roads/nj/mo/24.php">Monmouth CR 24 - Manalapan Ave</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1391,7 +1391,7 @@
                 <tr>
                     <td class="content text-dark small">189.98 mi<br><h4 class="small incr">+ 1.14 mi</h4></td>
                     <td class="content text-dark small">305.63 km<br><h4 class="small incr">+ 1.84 km</h4></td>
-                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local - Spring St</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="1.php#njus1localuneshu">US-1 Local - Spring St</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">US-1-9, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1440,7 +1440,7 @@
                 <tr>
                     <td class="content text-dark small">193.16 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
                     <td class="content text-dark small">310.74 km<br><h4 class="small incr">+ 0.65 km</h4></td>
-                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"><a href="1.php#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1454,7 +1454,7 @@
                 <tr>
                     <td class="content text-dark small">195.74 mi<br><h4 class="small incr">+ 2.28 mi</h4></td>
                     <td class="content text-dark small">314.89 km<br><h4 class="small incr">+ 3.67 km</h4></td>
-                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"><a href="1.php#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
                     <td class="content text-dark">Pulaski Skwy, Newark, New Jersey</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1496,7 +1496,7 @@
                 <tr>
                     <td class="content text-dark small">198.75 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
                     <td class="content text-dark small">319.70 km<br><h4 class="small incr">+ 0.07 km</h4></td>
-                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="1.php#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1531,7 +1531,7 @@
                 <tr>
                     <td class="content text-dark small">199.30 mi<br><h4 class="small incr">+ 0.05 mi</h4></td>
                     <td class="content text-dark small">320.59 km<br><h4 class="small incr">+ 0.09 km</h4></td>
-                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="1.php#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1614,7 +1614,7 @@
                 <tr>
                     <td class="content text-dark small">206.55 mi<br><h4 class="small incr">+ 0.58 mi</h4></td>
                     <td class="content text-dark small">332.27 km<br><h4 class="small incr">+ 0.93 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/be/124.php/#njcr1241be">Bergen CR 124-1 - Hendricks Cswy</a>, Ridgefield, New Jersey 07657</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/124.php#njcr1241be">Bergen CR 124-1 - Hendricks Cswy</a>, Ridgefield, New Jersey 07657</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1726,7 +1726,7 @@
                 <tr>
                     <td class="content text-dark small">209.70 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
                     <td class="content text-dark small">337.34 km<br><h4 class="small incr">+ 0.21 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/be/29.php/#njcr29sbe">Bergen CR S-29 - Center Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/29.php#njcr29sbe">Bergen CR S-29 - Center Ave</a>, Fort Lee, New Jersey 07024</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1777,7 +1777,7 @@
                 <tr>
                     <td class="content text-dark small">211.18 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
                     <td class="content text-dark small">339.74 km<br><h4 class="small incr">+ 0.14 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Henry Hudson Pkwy (NB)</a>, Manhattan, New York 10033</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Henry Hudson Pkwy (NB)</a>, Manhattan, New York 10033</td>
                     <td class="content text-dark">Trans-Manhattan Expy, Manhattan, New York 10033</td>
                     <td class="content text-dark">Exit 1A<br>End of US-1-9</td>
                 </tr>
@@ -1812,7 +1812,7 @@
                 <tr>
                     <td class="content text-dark small">215.94 mi<br><h4 class="small incr">+ 1.80 mi</h4></td>
                     <td class="content text-dark small">347.38 km<br><h4 class="small incr">+ 2.89 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Henry Hudson Pkwy</a>, Bronx, New York 10463</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Henry Hudson Pkwy</a>, Bronx, New York 10463</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with NY-9A</td>
                 </tr>
@@ -1826,7 +1826,7 @@
                 <tr>
                     <td class="content text-dark small">218.17 mi<br><h4 class="small incr">+ 1.46 mi</h4></td>
                     <td class="content text-dark small">350.97 km<br><h4 class="small incr">+ 2.35 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/983.php/#nysr983b">NY-983B - Nepperhan Ave</a>, Yonkers, New York 10705</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/983.php#nysr983b">NY-983B - Nepperhan Ave</a>, Yonkers, New York 10705</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1840,7 +1840,7 @@
                 <tr>
                     <td class="content text-dark small">218.77 mi<br><h4 class="small incr">+ 0.46 mi</h4></td>
                     <td class="content text-dark small">351.94 km<br><h4 class="small incr">+ 0.74 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Ashburton Ave</a>, Yonkers, New York 10705</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Ashburton Ave</a>, Yonkers, New York 10705</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1987,14 +1987,14 @@
                 <tr>
                     <td class="content text-dark small">236.55 mi<br><h4 class="small incr">+ 1.53 mi</h4></td>
                     <td class="content text-dark small">380.56 km<br><h4 class="small incr">+ 2.47 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Briarcliff-Peekskill Pkwy (SB)</a>, Ossining, New York 10562</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Briarcliff-Peekskill Pkwy (SB)</a>, Ossining, New York 10562</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">236.74 mi<br><h4 class="small incr">+ 0.19 mi</h4></td>
                     <td class="content text-dark small">380.87 km<br><h4 class="small incr">+ 0.31 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Briarcliff-Peekskill Pkwy (NB)</a>, Ossining, New York 10562</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Briarcliff-Peekskill Pkwy (NB)</a>, Ossining, New York 10562</td>
                     <td class="content text-dark">Croton Expy, Ossining, New York 10562</td>
                     <td class="content text-dark">Start concurrency with NY-9A</td>
                 </tr>
@@ -2015,7 +2015,7 @@
                 <tr>
                     <td class="content text-dark small">238.13 mi<br><h4 class="small incr">+ 0.68 mi</h4></td>
                     <td class="content text-dark small">383.12 km<br><h4 class="small incr">+ 1.10 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Municipal Pl</a>, Croton-On-Hudson, New York 10520</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Municipal Pl</a>, Croton-On-Hudson, New York 10520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2029,7 +2029,7 @@
                 <tr>
                     <td class="content text-dark small">240.77 mi<br><h4 class="small incr">+ 0.27 mi</h4></td>
                     <td class="content text-dark small">387.37 km<br><h4 class="small incr">+ 0.43 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Albany Post Rd</a>, Crugers, New York 10520</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Albany Post Rd</a>, Crugers, New York 10520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2057,7 +2057,7 @@
                 <tr>
                     <td class="content text-dark small">243.80 mi<br><h4 class="small incr">+ 0.17 mi</h4></td>
                     <td class="content text-dark small">392.24 km<br><h4 class="small incr">+ 0.27 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Welcher St</a> (concurrent with <a href="../secondary-roads/ny/wc/92.php">Westchester CR 92</a>), Peekskill, New York 10566</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9a">NY-9A - Welcher St</a> (concurrent with <a href="../secondary-roads/ny/wc/92.php">Westchester CR 92</a>), Peekskill, New York 10566</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2078,7 +2078,7 @@
                 <tr>
                     <td class="content text-dark small">245.49 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
                     <td class="content text-dark small">394.95 km<br><h4 class="small incr">+ 1.04 km</h4></td>
-                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy (WB)</a> (concurrent with <a href="202.php">US-202</a> & US-9), Peekskill, New York 10566<br><a href="../state-highways/ny/ref/987.php/#nysr987h">NY-987H - Bear Mountain State Pkwy</a>, Peekskill, New York 10566</td>
+                    <td class="content text-dark"><a href="6.php">US-6 - Grand Army of the Republic Hwy (WB)</a> (concurrent with <a href="202.php">US-202</a> & US-9), Peekskill, New York 10566<br><a href="../state-highways/ny/ref/987.php#nysr987h">NY-987H - Bear Mountain State Pkwy</a>, Peekskill, New York 10566</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2197,7 +2197,7 @@
                 <tr>
                     <td class="content text-dark small">269.38 mi<br><h4 class="small incr">+ 0.59 mi</h4></td>
                     <td class="content text-dark small">433.38 km<br><h4 class="small incr">+ 0.95 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9d">NY-9D - W Main St</a>, Poughkeepsie, New York 12603<br><a href="../secondary-roads/ny/du/77.php">Dutchess CR 77 - Vassar Rd</a>, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9d">NY-9D - W Main St</a>, Poughkeepsie, New York 12603<br><a href="../secondary-roads/ny/du/77.php">Dutchess CR 77 - Vassar Rd</a>, Poughkeepsie, New York 12603</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2239,7 +2239,7 @@
                 <tr>
                     <td class="content text-dark small">276.88 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
                     <td class="content text-dark small">445.44 km<br><h4 class="small incr">+ 0.21 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9g">NY-9G - Marist Dr</a>, Poughkeepsie, New York 12603</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9g">NY-9G - Marist Dr</a>, Poughkeepsie, New York 12603</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2330,7 +2330,7 @@
                 <tr>
                     <td class="content text-dark small">294.36 mi<br><h4 class="small incr">+ 0.47 mi</h4></td>
                     <td class="content text-dark small">473.57 km<br><h4 class="small incr">+ 0.76 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9g">NY-9G</a>, Rhinebeck, New York 12572</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9g">NY-9G</a>, Rhinebeck, New York 12572</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2463,7 +2463,7 @@
                 <tr>
                     <td class="content text-dark small">312.02 mi<br><h4 class="small incr">+ 2.16 mi</h4></td>
                     <td class="content text-dark small">501.98 km<br><h4 class="small incr">+ 3.47 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/82.php">NY-82 (SB)</a>, Livingston, New York 12541<br><a href="../state-highways/ny/9.php/#nysr9h">NY-9H (NB)</a> (concurrent with <a href="../state-highways/ny/23.php">NY-23</a>), Livingston, New York 12541<br>US-9 (WB) (concurrent with <a href="../state-highways/ny/23.php">NY-23</a>), Livingston, New York 12541</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/82.php">NY-82 (SB)</a>, Livingston, New York 12541<br><a href="../state-highways/ny/9.php#nysr9h">NY-9H (NB)</a> (concurrent with <a href="../state-highways/ny/23.php">NY-23</a>), Livingston, New York 12541<br>US-9 (WB) (concurrent with <a href="../state-highways/ny/23.php">NY-23</a>), Livingston, New York 12541</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with NY-23</td>
                 </tr>
@@ -2512,14 +2512,14 @@
                 <tr>
                     <td class="content text-dark small">317.67 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
                     <td class="content text-dark small">511.08 km<br><h4 class="small incr">+ 0.10 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9g">NY-9G - Columbia St (WB)</a> (concurrent with <a href="../state-highways/ny/23.php/#nysr23b">NY-23B</a>), Hudson, New York 12534<br>US-9 - Green St (EB) (concurrent with <a href="../state-highways/ny/23.php#nysr23b">NY-23B</a>), Hudson, New York 12534</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9g">NY-9G - Columbia St (WB)</a> (concurrent with <a href="../state-highways/ny/23.php#nysr23b">NY-23B</a>), Hudson, New York 12534<br>US-9 - Green St (EB) (concurrent with <a href="../state-highways/ny/23.php#nysr23b">NY-23B</a>), Hudson, New York 12534</td>
                     <td class="content text-dark">Green St, Hudson, New York 12534</td>
                     <td class="content text-dark">Start concurrency with NY-23B</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">318.17 mi<br><h4 class="small incr">+ 0.50 mi</h4></td>
                     <td class="content text-dark small">511.88 km<br><h4 class="small incr">+ 0.80 km</h4></td>
-                    <td class="content text-dark">US-9 - Fairview Ave, Hudson, New York 12534<br><a href="../state-highways/ny/23.php/#nysr23b">NY-23B - Green St</a>, Hudson, New York 12534</td>
+                    <td class="content text-dark">US-9 - Fairview Ave, Hudson, New York 12534<br><a href="../state-highways/ny/23.php#nysr23b">NY-23B - Green St</a>, Hudson, New York 12534</td>
                     <td class="content text-dark">Fairview Ave, Hudson, New York 12534</td>
                     <td class="content text-dark">End concurrency with NY-23B</td>
                 </tr>
@@ -2547,7 +2547,7 @@
                 <tr>
                     <td class="content text-dark small">322.95 mi<br><h4 class="small incr">+ 1.42 mi</h4></td>
                     <td class="content text-dark small">519.59 km<br><h4 class="small incr">+ 2.29 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/ny/co/25.php/#nycr25bco">Columbia CR 25B</a>, Stockport, New York 12172</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/25.php#nycr25bco">Columbia CR 25B</a>, Stockport, New York 12172</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2568,7 +2568,7 @@
                 <tr>
                     <td class="content text-dark small">324.76 mi<br><h4 class="small incr">+ 1.09 mi</h4></td>
                     <td class="content text-dark small">522.49 km<br><h4 class="small incr">+ 1.75 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9j">NY-9J</a>, Stockport, New York 12172</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9j">NY-9J</a>, Stockport, New York 12172</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2589,14 +2589,14 @@
                 <tr>
                     <td class="content text-dark small">327.40 mi<br><h4 class="small incr">+ 0.57 mi</h4></td>
                     <td class="content text-dark small">526.73 km<br><h4 class="small incr">+ 0.91 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/ny/co/25.php/#nycr25aco">Columbia CR 25A - Hudson Ave</a>, Stuyvesant, New York 12173</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/25.php#nycr25aco">Columbia CR 25A - Hudson Ave</a>, Stuyvesant, New York 12173</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">328.56 mi<br><h4 class="small incr">+ 1.16 mi</h4></td>
                     <td class="content text-dark small">528.59 km<br><h4 class="small incr">+ 1.86 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/ny/co/26.php/#nycr26aco">Columbia CR 26A</a>, Stuyvesant, New York 12173</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/co/26.php#nycr26aco">Columbia CR 26A</a>, Stuyvesant, New York 12173</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2631,7 +2631,7 @@
                 <tr>
                     <td class="content text-dark small">331.47 mi<br><h4 class="small incr">+ 0.40 mi</h4></td>
                     <td class="content text-dark small">533.27 km<br><h4 class="small incr">+ 0.64 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9h">NY-9H</a>, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9h">NY-9H</a>, Kinderhook, New York 12106</td>
                     <td class="content text-dark">Kinderhook St, Kinderhook, New York 12106</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2659,7 +2659,7 @@
                 <tr>
                     <td class="content text-dark small">333.24 mi<br><h4 class="small incr">+ 0.73 mi</h4></td>
                     <td class="content text-dark small">536.12 km<br><h4 class="small incr">+ 1.18 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9h">NY-9H</a>, Kinderhook, New York 12106</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9h">NY-9H</a>, Kinderhook, New York 12106</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2687,14 +2687,14 @@
                 <tr>
                     <td class="content text-dark small">337.33 mi<br><h4 class="small incr">+ 0.61 mi</h4></td>
                     <td class="content text-dark small">542.68 km<br><h4 class="small incr">+ 0.98 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/912.php/#nysr912m">NY-912M - Berkshire Conn (EB)</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/912.php#nysr912m">NY-912M - Berkshire Conn (EB)</a>, Schodack, New York 12184</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">337.40 mi<br><h4 class="small incr">+ 0.07 mi</h4></td>
                     <td class="content text-dark small">542.79 km<br><h4 class="small incr">+ 0.11 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/912.php/#nysr912m">NY-912M - Berkshire Conn (WB)</a>, Schodack, New York 12184</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/912.php#nysr912m">NY-912M - Berkshire Conn (WB)</a>, Schodack, New York 12184</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2799,7 +2799,7 @@
                 <tr>
                     <td class="content text-dark small">349.09 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
                     <td class="content text-dark small">561.60 km<br><h4 class="small incr">+ 0.16 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9j">NY-9J - South St</a>, Rensselaer, New York 12144</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9j">NY-9J - South St</a>, Rensselaer, New York 12144</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2974,14 +2974,14 @@
                 <tr>
                     <td class="content text-dark small">360.08 mi<br><h4 class="small incr">+ 0.32 mi</h4></td>
                     <td class="content text-dark small">579.26 km<br><h4 class="small incr">+ 0.52 km</h4></td>
-                    <td class="content text-dark"><a href="../interstates/ny-87.php">I-87 - Adirondack Nwy</a> (concurrent with <a href="../state-highways/ny/7.php">NY-7</a>), Colonie, New York 12211 (SB)<br><a href="../interstates/ny-87.php">I-87 - Adirondack Nwy</a>, Colonie, New York 12211 (NB)<br><a href="../state-highways/ny/9.php/#nysr9r">NY-9R - Columbia St Ext</a>, Colonie, New York 12211 (EB)</td>
+                    <td class="content text-dark"><a href="../interstates/ny-87.php">I-87 - Adirondack Nwy</a> (concurrent with <a href="../state-highways/ny/7.php">NY-7</a>), Colonie, New York 12211 (SB)<br><a href="../interstates/ny-87.php">I-87 - Adirondack Nwy</a>, Colonie, New York 12211 (NB)<br><a href="../state-highways/ny/9.php#nysr9r">NY-9R - Columbia St Ext</a>, Colonie, New York 12211 (EB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">361.64 mi<br><h4 class="small incr">+ 1.56 mi</h4></td>
                     <td class="content text-dark small">581.78 km<br><h4 class="small incr">+ 2.52 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9r">NY-9R - Boght Rd</a>, Colonie, New York 12211</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9r">NY-9R - Boght Rd</a>, Colonie, New York 12211</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2995,7 +2995,7 @@
                 <tr>
                     <td class="content text-dark small">362.15 mi<br><h4 class="small incr">+ 0.18 mi</h4></td>
                     <td class="content text-dark small">582.60 km<br><h4 class="small incr">+ 0.28 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/911.php/#nysr911p">NY-911P - Crescent Vischer Ferry Rd</a>, Halfmoon, New York 12065</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/911.php#nysr911p">NY-911P - Crescent Vischer Ferry Rd</a>, Halfmoon, New York 12065</td>
                     <td class="content text-dark">Halfmoon Pkwy, Halfmoon, New York 12065</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3058,7 +3058,7 @@
                 <tr>
                     <td class="content text-dark small">368.58 mi<br><h4 class="small incr">+ 0.32 mi</h4></td>
                     <td class="content text-dark small">592.93 km<br><h4 class="small incr">+ 0.52 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/911.php/#nysr911t">NY-911T - Ushers Rd</a>, Clifton Park, New York 12065</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/911.php#nysr911t">NY-911T - Ushers Rd</a>, Clifton Park, New York 12065</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3079,7 +3079,7 @@
                 <tr>
                     <td class="content text-dark small">371.78 mi<br><h4 class="small incr">+ 0.64 mi</h4></td>
                     <td class="content text-dark small">598.08 km<br><h4 class="small incr">+ 1.03 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/915.php/#nysr915j">NY-915J - Round Hill Byp</a>, Malta, New York 12118 (WB)<br><a href="../state-highways/ny/67.php">NY-67</a>, Malta, New York 12118 (EB)</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/915.php#nysr915j">NY-915J - Round Hill Byp</a>, Malta, New York 12118 (WB)<br><a href="../state-highways/ny/67.php">NY-67</a>, Malta, New York 12118 (EB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with NY-67</td>
                 </tr>
@@ -3100,7 +3100,7 @@
                 <tr>
                     <td class="content text-dark small">375.08 mi<br><h4 class="small incr">+ 1.71 mi</h4></td>
                     <td class="content text-dark small">603.38 km<br><h4 class="small incr">+ 2.75 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9p">NY-9P</a>, Malta, New York 12118</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9p">NY-9P</a>, Malta, New York 12118</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3142,7 +3142,7 @@
                 <tr>
                     <td class="content text-dark small">381.08 mi<br><h4 class="small incr">+ 0.30 mi</h4></td>
                     <td class="content text-dark small">613.02 km<br><h4 class="small incr">+ 0.48 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9p">NY-9P - Spring St</a>, Saratoga Springs, New York 12866</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9p">NY-9P - Spring St</a>, Saratoga Springs, New York 12866</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3156,7 +3156,7 @@
                 <tr>
                     <td class="content text-dark small">381.34 mi<br><h4 class="small incr">+ 0.23 mi</h4></td>
                     <td class="content text-dark small">613.44 km<br><h4 class="small incr">+ 0.37 km</h4></td>
-                    <td class="content text-dark">US-9 - Broadway (concurrent with <a href="../state-highways/ny/29.php/#nysr29trk">NY-29 Truck</a> and <a href="../state-highways/ny/50.php">NY-50</a>), Saratoga Springs, New York 12866 (NB)<br><a href="../state-highways/ny/9.php/#nysr9n">NY-9N - Church St</a>, Saratoga Springs, New York 12866 (WB)<br><a href="../state-highways/ny/29.php">NY-29 - Lake Ave</a>, Saratoga Springs, New York 12866 (EB)</td>
+                    <td class="content text-dark">US-9 - Broadway (concurrent with <a href="../state-highways/ny/29.php#nysr29trk">NY-29 Truck</a> and <a href="../state-highways/ny/50.php">NY-50</a>), Saratoga Springs, New York 12866 (NB)<br><a href="../state-highways/ny/9.php#nysr9n">NY-9N - Church St</a>, Saratoga Springs, New York 12866 (WB)<br><a href="../state-highways/ny/29.php">NY-29 - Lake Ave</a>, Saratoga Springs, New York 12866 (EB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with NY-29<br>Start concurrency with NY-29 Truck & NY-9N</td>
                 </tr>
@@ -3170,7 +3170,7 @@
                 <tr>
                     <td class="content text-dark small">382.31 mi<br><h4 class="small incr">+ 0.77 mi</h4></td>
                     <td class="content text-dark small">615.00 km<br><h4 class="small incr">+ 1.23 km</h4></td>
-                    <td class="content text-dark">US-9 - Marion Ave, Saratoga Springs, New York 12866 (NB)<br><a href="../state-highways/ny/29.php/#nysr29trk">NY-29 Truck</a> (concurrent with <a href="../state-highways/ny/50.php">NY-50</a>), Saratoga Springs, New York 12866 (EB)</td>
+                    <td class="content text-dark">US-9 - Marion Ave, Saratoga Springs, New York 12866 (NB)<br><a href="../state-highways/ny/29.php#nysr29trk">NY-29 Truck</a> (concurrent with <a href="../state-highways/ny/50.php">NY-50</a>), Saratoga Springs, New York 12866 (EB)</td>
                     <td class="content text-dark">Marion Ave, Saratoga Springs, New York 12866</td>
                     <td class="content text-dark">End concurrency with NY-29 Truck & NY-50</td>
                 </tr>
@@ -3310,7 +3310,7 @@
                 <tr>
                     <td class="content text-dark small">399.60 mi<br><h4 class="small incr">+ 0.02 mi</h4></td>
                     <td class="content text-dark small">642.82 km<br><h4 class="small incr">+ 0.02 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9l">NY-9L - Ridge St</a>, Glens Falls, New York 12801</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9l">NY-9L - Ridge St</a>, Glens Falls, New York 12801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3394,14 +3394,14 @@
                 <tr>
                     <td class="content text-dark small">407.54 mi<br><h4 class="small incr">+ 0.77 mi</h4></td>
                     <td class="content text-dark small">655.62 km<br><h4 class="small incr">+ 1.24 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9n">NY-9N</a>, Lake George, New York 12845</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9n">NY-9N</a>, Lake George, New York 12845</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with NY-9N</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">407.87 mi<br><h4 class="small incr">+ 0.33 mi</h4></td>
                     <td class="content text-dark small">656.16 km<br><h4 class="small incr">+ 0.54 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9l">NY-9L - E Shore Dr</a>, Lake George, New York 12845</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9l">NY-9L - E Shore Dr</a>, Lake George, New York 12845</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3415,7 +3415,7 @@
                 <tr>
                     <td class="content text-dark small">408.01 mi<br><h4 class="small incr">+ 0.02 mi</h4></td>
                     <td class="content text-dark small">656.39 km<br><h4 class="small incr">+ 0.03 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/917.php/#nysr917a">NY-917A - Prospect Mountain Veterans Memorial Hwy</a>, Lake George, New York 12845</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/917.php#nysr917a">NY-917A - Prospect Mountain Veterans Memorial Hwy</a>, Lake George, New York 12845</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3436,14 +3436,14 @@
                 <tr>
                     <td class="content text-dark small">409.41 mi<br><h4 class="small incr">+ 0.62 mi</h4></td>
                     <td class="content text-dark small">658.64 km<br><h4 class="small incr">+ 1.00 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9n">NY-9N - Lake Shore Dr</a>, Lake George, New York 12845</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9n">NY-9N - Lake Shore Dr</a>, Lake George, New York 12845</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with NY-9N</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">409.65 mi<br><h4 class="small incr">+ 0.24 mi</h4></td>
                     <td class="content text-dark small">659.03 km<br><h4 class="small incr">+ 0.39 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/ny/ref/912.php/#nysr912q">NY-912Q</a>, Lake George, New York 12845</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/912.php#nysr912q">NY-912Q</a>, Lake George, New York 12845</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4686,14 +4686,14 @@
                         <tr>
                             <td class="content text-dark small">31.97 mi<br><h4 class="small incr">+ 0.30 mi</h4></td>
                             <td class="content text-dark small">51.45 km<br><h4 class="small incr">+ 0.49 km</h4></td>
-                            <td class="content text-dark"><a href="../secondary-roads/ny/rl/118.php/#nycr18arl">Rockland CR 118A - W Shore Rd</a>, Stony Point, New York 10980</td>
+                            <td class="content text-dark"><a href="../secondary-roads/ny/rl/118.php#nycr18arl">Rockland CR 118A - W Shore Rd</a>, Stony Point, New York 10980</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">37.30 mi<br><h4 class="small incr">+ 5.33 mi</h4></td>
                             <td class="content text-dark small">60.03 km<br><h4 class="small incr">+ 8.58 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/987.php/#nysr987e">NY-987E - Seven Lakes Dr</a>, Stony Point, New York 10980</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/987.php#nysr987e">NY-987E - Seven Lakes Dr</a>, Stony Point, New York 10980</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -4707,21 +4707,21 @@
                         <tr>
                             <td class="content text-dark small">37.70 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
                             <td class="content text-dark small">60.68 km<br><h4 class="small incr">+ 0.21 km</h4></td>
-                            <td class="content text-dark">N US-9W, Highlands, New York 10928 (NB)<br><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="../state-highways/ny/ref/987.php/#nysr987C">NY-987C - Palisades Interstate Pkwy</a>), Highlands, New York 10928 (WB)<br><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="202.php">US-202</a>), Highlands, New York 10928 (EB)</td>
+                            <td class="content text-dark">N US-9W, Highlands, New York 10928 (NB)<br><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="../state-highways/ny/ref/987.php#nysr987C">NY-987C - Palisades Interstate Pkwy</a>), Highlands, New York 10928 (WB)<br><a href="6.php">US-6 - Grand Army of the Republic Hwy</a> (concurrent with <a href="202.php">US-202</a>), Highlands, New York 10928 (EB)</td>
                             <td class="content text-dark">N US-9W, Highlands, New York 10928</td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">39.48 mi<br><h4 class="small incr">+ 1.78 mi</h4></td>
                             <td class="content text-dark small">63.54 km<br><h4 class="small incr">+ 2.86 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php/#nysr980u">NY-980U - Old State Rd</a>, Highlands, New York 10928</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php#nysr980u">NY-980U - Old State Rd</a>, Highlands, New York 10928</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">40.41 mi<br><h4 class="small incr">+ 0.93 mi</h4></td>
                             <td class="content text-dark small">65.03 km<br><h4 class="small incr">+ 1.49 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/982.php/#nysr982e">NY-982E - Crystal Lake Cross Rd</a>, Highlands, New York 10928 (SB)<br><a href="../state-highways/ny/218.php">NY-218 - Main St</a>, Highlands, New York 10928 (EB)</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/982.php#nysr982e">NY-982E - Crystal Lake Cross Rd</a>, Highlands, New York 10928 (SB)<br><a href="../state-highways/ny/218.php">NY-218 - Main St</a>, Highlands, New York 10928 (EB)</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -4833,21 +4833,21 @@
                         <tr>
                             <td class="content text-dark small">54.32 mi<br><h4 class="small incr">+ 0.66 mi</h4></td>
                             <td class="content text-dark small">87.42 km<br><h4 class="small incr">+ 1.06 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/17.php/#nysr17k">NY-17K - Broadway</a> (concurrent with <a href="../state-highways/ny/32.php">NY-32</a>), Newburgh, New York 12550</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/17.php#nysr17k">NY-17K - Broadway</a> (concurrent with <a href="../state-highways/ny/32.php">NY-32</a>), Newburgh, New York 12550</td>
                             <td class="content text-dark">Robinson Ave, Newburgh, New York 12550</td>
                             <td class="content text-dark">Start concurrency with NY-32</td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">54.79 mi<br><h4 class="small incr">+ 0.47 mi</h4></td>
                             <td class="content text-dark small">88.18 km<br><h4 class="small incr">+ 0.76 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php/#nysr980p">NY-980P - South St</a>, Newburgh, New York 12550</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php#nysr980p">NY-980P - South St</a>, Newburgh, New York 12550</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">55.52 mi<br><h4 class="small incr">+ 0.73 mi</h4></td>
                             <td class="content text-dark small">89.36 km<br><h4 class="small incr">+ 1.18 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php/#nysr980t">NY-980T - Plank Rd</a>, Newburgh, New York 12550</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/980.php#nysr980t">NY-980T - Plank Rd</a>, Newburgh, New York 12550</td>
                             <td class="content text-dark">N US-9W, Newburgh, New York 12550</td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -4994,7 +4994,7 @@
                         <tr>
                             <td class="content text-dark small">83.27 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
                             <td class="content text-dark small">134.03 km<br><h4 class="small incr">+ 0.58 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/984.php/#nysr984d">NY-984D - Old US-9W</a>, Esopus, New York 12429</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/984.php#nysr984d">NY-984D - Old US-9W</a>, Esopus, New York 12429</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -5043,7 +5043,7 @@
                         <tr>
                             <td class="content text-dark small">87.37 mi<br><h4 class="small incr">+ 1.34 mi</h4></td>
                             <td class="content text-dark small">140.63 km<br><h4 class="small incr">+ 2.15 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/981.php/#nysr981m">NY-981M - Ulster Ave</a>, Ulster, New York 12401</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/981.php#nysr981m">NY-981M - Ulster Ave</a>, Ulster, New York 12401</td>
                             <td class="content text-dark">Ulster Ave, Ulster, New York 12401</td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -5274,7 +5274,7 @@
                         <tr>
                             <td class="content text-dark small">117.03 mi<br><h4 class="small incr">+ 0.16 mi</h4></td>
                             <td class="content text-dark small">188.33 km<br><h4 class="small incr">+ 0.25 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/910.php/#nysr910u">NY-910U - Mansion St Ext</a>, Coxsackie, New York 12192</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/910.php#nysr910u">NY-910U - Mansion St Ext</a>, Coxsackie, New York 12192</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -5365,14 +5365,14 @@
                         <tr>
                             <td class="content text-dark small">134.04 mi<br><h4 class="small incr">+ 2.10 mi</h4></td>
                             <td class="content text-dark small">215.69 km<br><h4 class="small incr">+ 3.38 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/910.php/#nysr910a">NY-910A - Feura Bush Rd (WB) / Glenmont Rd (EB)</a>, Bethlehem, New York 12158</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/910.php#nysr910a">NY-910A - Feura Bush Rd (WB) / Glenmont Rd (EB)</a>, Bethlehem, New York 12158</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
                         <tr>
                             <td class="content text-dark small">134.97 mi<br><h4 class="small incr">+ 0.93 mi</h4></td>
                             <td class="content text-dark small">217.18 km<br><h4 class="small incr">+ 1.49 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/913.php/#nysr913j">NY-913J</a>, Bethlehem, New York 12158</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/913.php#nysr913j">NY-913J</a>, Bethlehem, New York 12158</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -5393,7 +5393,7 @@
                         <tr>
                             <td class="content text-dark small">135.57 mi<br><h4 class="small incr">+ 0.08 mi</h4></td>
                             <td class="content text-dark small">218.16 km<br><h4 class="small incr">+ 0.13 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/913.php/#nysr913h">NY-913H</a>, Bethlehem, New York 12158</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/913.php#nysr913h">NY-913H</a>, Bethlehem, New York 12158</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -5421,7 +5421,7 @@
                         <tr>
                             <td class="content text-dark small">136.53 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
                             <td class="content text-dark small">219.70 km<br><h4 class="small incr">+ 0.09 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/912.php/#nysr912s">NY-912S</a>, Albany, New York 12208</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/912.php#nysr912s">NY-912S</a>, Albany, New York 12208</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>
@@ -5435,7 +5435,7 @@
                         <tr>
                             <td class="content text-dark small">136.77 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
                             <td class="content text-dark small">220.10 km<br><h4 class="small incr">+ 0.10 km</h4></td>
-                            <td class="content text-dark"><a href="../state-highways/ny/ref/912.php/#nysr912s">NY-912S</a>, Albany, New York 12208</td>
+                            <td class="content text-dark"><a href="../state-highways/ny/ref/912.php#nysr912s">NY-912S</a>, Albany, New York 12208</td>
                             <td class="content text-dark"></td>
                             <td class="content text-dark"></td>
                         </tr>

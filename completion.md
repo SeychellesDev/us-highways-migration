@@ -1,8 +1,8 @@
 # completion progress
 
-## Completed Route Pages: 45 pages (08/18/2026)
+## Completed Route Pages: 80 pages (08/18/2026)
 
-## Lines of Code Written: 26083 lines (08/18/2026)
+## Lines of Code Written: 31401 lines (08/18/2026)
 
 ### Static Pages
 
@@ -12,20 +12,17 @@
 
 ### Lists
 
-* List of County Roads in New Jersey 04/18/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/list.php]
-* List of County Roads in Atlantic County, New Jersey 04/17/25-01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/at/list.php]
-* List of County Roads in Bergen County, New Jersey 04/17/25-01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/be/list.php]
-* List of County Roads in Burlington County, New Jersey 04/18/25-01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/bu/list.php]
-* List of County Roads in Camden County, New Jersey 04/18/25-02/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/ca/list.php]
-* List of County Roads in Cape May County, New Jersey 04/18/25-01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/cm/list.php]
-* List of County Roads in Cumberland County, New Jersey 04/18/25-01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/cu/list.php]
-* List of County Roads in Essex County, New Jersey 04/18/25-02/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/es/list.php]
-* List of County Roads in Gloucester County, New Jersey 04/18/25-01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/gl/list.php]
-<!-- * List of County Roads in Hudson County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/hu/list.php]-->
-<!-- * List of County Roads in Hunterdon County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/hn/list.php]-->
-<!-- * List of County Roads in Mercer County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/me/list.php]-->
-<!-- * List of County Roads in Middlesex County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mi/list.php]-->
-* List of County Roads in Monmouth County, New Jersey 04/17/25-01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/list.php]
+* [List of County Roads in New Jersey](pages/secondary-roads/nj/list.php) 04/18/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/list.php]
+* [List of County Roads in Atlantic County, New Jersey](pages/secondary-roads/nj/at/list.php) 04/17/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/at/list.php]
+* [List of County Roads in Bergen County, New Jersey](pages/secondary-roads/nj/be/list.php) 04/17/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/be/list.php]
+* [List of County Roads in Burlington County, New Jersey](pages/secondary-roads/nj/bu/list.php) 04/18/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/bu/list.php]
+* [List of County Roads in Camden County, New Jersey](pages/secondary-roads/nj/ca/list.php) 04/18/25 - 02/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/ca/list.php]
+* [List of County Roads in Cape May County, New Jersey](pages/secondary-roads/nj/cm/list.php) 04/18/25 - 02/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/cm/list.php]
+* [List of County Roads in Cumberland County, New Jersey](pages/secondary-roads/nj/cu/list.php) 04/18/25 - 02/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/cu/list.php]
+* [List of County Roads in Essex County, New Jersey](pages/secondary-roads/nj/es/list.php) 04/18/25 - 02/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/es/list.php]
+* [List of County Roads in Gloucester County, New Jersey](pages/secondary-roads/nj/gl/list.php) 04/18/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/gl/list.php]
+* [List of County Roads in Hudson County, New Jersey](pages/secondary-roads/nj/hu/list.php) 04/18/25 - 11/10/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/hu/list.php]
+* [List of County Roads in Monmouth County, New Jersey](pages/secondary-roads/nj/mo/list.php) 04/17/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/list.php]
 <!-- * List of County Roads in Morris County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mr/list.php]-->
 <!-- * List of County Roads in Οcean County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/oc/list.php]-->
 <!-- * List of County Roads in Passaic County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/pa/list.php]-->
@@ -34,7 +31,7 @@
 <!-- * List of County Roads in Sussex County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/su/list.php]-->
 <!-- * List of County Roads in Union County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/un/list.php]-->
 <!-- * List of County Roads in Warren County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/wa/list.php]-->
-* List of US Highways 04/17/25-01/17/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/list.php]
+* [List of US Highways](pages/us-highways/list.php) 04/17/25 - 01/17/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/list.php]
 
 ### Secondary Roads (26ct)
 
@@ -63,7 +60,14 @@
 * [Monmouth CR 5](pages/secondary-roads/nj/mo/5.php) 11/02/26 - 11/02/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/5.php]
 * [Monmouth CR 6](pages/secondary-roads/nj/mo/6.php) 06/13/25 - 11/02/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/6.php]
 * [Monmouth CR 7](pages/secondary-roads/nj/mo/7.php) 11/02/26 - 11/02/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/7.php]
+* [Monmouth CR 8](pages/secondary-roads/nj/mo/8.php) 11/02/26 - 11/02/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/8.php]
+* [Monmouth CR 10](pages/secondary-roads/nj/mo/10.php) 11/02/26 - 11/02/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/10.php]
+* [Monmouth CR 11](pages/secondary-roads/nj/mo/11.php) 11/02/26 - 11/02/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/11.php]
+* [Monmouth CR 12](pages/secondary-roads/nj/mo/12.php) 11/02/26 - 11/02/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/12.php]
+* [Monmouth CR 13](pages/secondary-roads/nj/mo/13.php) 11/02/26 - 11/02/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/13.php]
 * [Monmouth CR 14](pages/secondary-roads/nj/mo/14.php) 08/27/25 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/14.php]
+* [Monmouth CR 15](pages/secondary-roads/nj/mo/15.php) 11/09/26 - 11/09/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/15.php]
+* [Monmouth CR 16](pages/secondary-roads/nj/mo/16.php) 11/09/26 - 11/09/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/16.php]
 * [Monmouth CR 20](pages/secondary-roads/nj/mo/20.php) 02/12/26 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/20.php]
 * [Monmouth CR 22](pages/secondary-roads/nj/mo/22.php) 09/03/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/22.php]
 * [Monmouth CR 23](pages/secondary-roads/nj/mo/23.php) 06/13/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/23.php]

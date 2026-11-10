@@ -1208,14 +1208,14 @@
                 <tr>
                     <td class="content text-dark small">0.31 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
                     <td class="content text-dark small">0.51 km<br><h4 class="small incr">+ 0.05 km</h4></td>
-                    <td class="content text-dark"><a href="1.php/#njus1busme">US-1 Business - Strawberry St</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"><a href="1.php#njus1busme">US-1 Business - Strawberry St</a>, Trenton, New Jersey 08608</td>
                     <td class="content text-dark">Brunswick Cir, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Start concurrency with US-1 Business</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.33 mi<br><h4 class="small incr">+ 0.02 mi</h4></td>
                     <td class="content text-dark small">0.54 km<br><h4 class="small incr">+ 0.03 km</h4></td>
-                    <td class="content text-dark"><a href="1.php/#njus1busme">US-1 Business - Brunswick Ave</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="1.php#njus1busme">US-1 Business - Brunswick Ave</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-1 Business</td>
                 </tr>

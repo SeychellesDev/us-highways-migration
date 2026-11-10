@@ -79,7 +79,7 @@
                 <tr>
                     <td class="content text-dark small">11.89 mi<br><h4 class="small incr">+ 1.88 mi</h4></td>
                     <td class="content text-dark small">19.10 km<br><h4 class="small incr">+ 3.02 km</h4></td>
-                    <td class="content text-dark"><a href="../../../state-highways/nj/444.php/#njsr444exp">NJ-444 Express (SB) - Garden State Pkwy</a>, Aberdeen Township, New Jersey 07747</td>
+                    <td class="content text-dark"><a href="../../../state-highways/nj/444.php#njsr444exp">NJ-444 Express (SB) - Garden State Pkwy</a>, Aberdeen Township, New Jersey 07747</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -93,7 +93,7 @@
                 <tr>
                     <td class="content text-dark small">11.97 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
                     <td class="content text-dark small">19.23 km<br><h4 class="small incr">+ 0.05 km</h4></td>
-                    <td class="content text-dark"><a href="../../../state-highways/nj/444.php/#njsr444exp">NJ-444 Express (NB) - Garden State Pkwy</a>, Aberdeen Township, New Jersey 07747</td>
+                    <td class="content text-dark"><a href="../../../state-highways/nj/444.php#njsr444exp">NJ-444 Express (NB) - Garden State Pkwy</a>, Aberdeen Township, New Jersey 07747</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

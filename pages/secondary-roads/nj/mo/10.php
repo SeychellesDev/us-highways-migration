@@ -1,8 +1,8 @@
 <?php include "../../../../static/top.php"; ?>
         
-            <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 1</h6>
+            <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 10</h6>
             <h1 class="header" id="njcr10mo">Monmouth County Route 10</h1>
-            <h2 class="content text-dark">New Jersey Monmouth County Route 10 (Monmouth CR 10) is a county road that spans northern coastal Monmouth County, from Red Bank to Rumson. It is 6.55 mi, or 10.53 km, long.</h2>
+            <h2 class="content text-dark">New Jersey Monmouth County Route 10 (Monmouth CR 10) is a county road that spans northern coastal Monmouth County, from Red Bank to Rumson. It is 5.19 mi, or 8.35 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../../static/table_prim.php"; ?>
@@ -79,7 +79,7 @@
                 <tr>
                     <td class="content text-dark small">4.26 mi<br><h4 class="small incr">+ 1.04 mi</h4></td>
                     <td class="content text-dark small">6.86 km<br><h4 class="small incr">+ 1.67 km</h4></td>
-                    <td class="content text-dark"><a href="8.php/#njcr8amo">Monmouth CR 8A - Bingham Ave</a>, Rumson, New Jersey 07760</td>
+                    <td class="content text-dark"><a href="8.php#njcr8amo">Monmouth CR 8A - Bingham Ave</a>, Rumson, New Jersey 07760</td>
                     <td class="content text-dark">E River Rd, Rumson, New Jersey 07760</td>
                     <td class="content text-dark"></td>
                 </tr>

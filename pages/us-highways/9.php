@@ -3609,8 +3609,15 @@
                     <td class="content text-dark">End Warren County<br>Start Essex County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">441.48 mi<br><h4 class="small incr">+ 2.12 mi</h4></td>
-                    <td class="content text-dark small">710.21 km<br><h4 class="small incr">+ 3.41 km</h4></td>
+                    <td class="content text-dark small">440.02 mi<br><h4 class="small incr">+ 0.66 mi</h4></td>
+                    <td class="content text-dark small">707.87 km<br><h4 class="small incr">+ 1.07 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/915.php#nysr915f">NY-915F - Vanderwalker Rd</a>, Schroon, New York 12870</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">441.48 mi<br><h4 class="small incr">+ 1.46 mi</h4></td>
+                    <td class="content text-dark small">710.21 km<br><h4 class="small incr">+ 2.34 km</h4></td>
                     <td class="content text-dark"><a href="../secondary-roads/ny/es/67.php">Essex CR 67 - Old Schroon Rd</a>, Schroon, New York 12870</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
@@ -3697,6 +3704,321 @@
                     <td class="content text-dark small">741.10 km<br><h4 class="small incr">+ 2.54 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-9, Elizabethtown, New York 12964</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">461.10 mi<br><h4 class="small incr">+ 0.57 mi</h4></td>
+                    <td class="content text-dark small">742.01 km<br><h4 class="small incr">+ 0.91 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/73.php">NY-73</a>, Elizabethtown, New York 12964</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">470.91 mi<br><h4 class="small incr">+ 9.81 mi</h4></td>
+                    <td class="content text-dark small">757.80 km<br><h4 class="small incr">+ 15.79 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Court St, Elizabethtown, New York 12964</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">471.04 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">758.00 km<br><h4 class="small incr">+ 0.20 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/9.php#nysr9n">NY-9N - High St</a>, Elizabethtown, New York 12964</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with NY-9N</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">471.51 mi<br><h4 class="small incr">+ 0.47 mi</h4></td>
+                    <td class="content text-dark small">758.75 km<br><h4 class="small incr">+ 0.75 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/10.php#nycr10aes">Essex CR 10A - Water St</a>, Elizabethtown, New York 12964 (WB)<br><a href="../state-highways/9.php#nysr9n">NY-9N - River St</a>, Elizabethtown, New York 12964 (EB)</td>
+                    <td class="content text-dark">Maple St, Elizabethtown, New York 12964</td>
+                    <td class="content text-dark">End concurrency with NY-9N</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">471.69 mi<br><h4 class="small incr">+ 0.18 mi</h4></td>
+                    <td class="content text-dark small">759.04 km<br><h4 class="small incr">+ 0.29 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/8.php">Essex CR 8 - Elizabethtown-Wadhams Rd</a>, Elizabethtown, New York 12964</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">471.80 mi<br><h4 class="small incr">+ 0.11 mi</h4></td>
+                    <td class="content text-dark small">759.22 km<br><h4 class="small incr">+ 0.18 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Elizabethtown, New York 12964</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">472.21 mi<br><h4 class="small incr">+ 0.41 mi</h4></td>
+                    <td class="content text-dark small">759.88 km<br><h4 class="small incr">+ 0.66 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/8.php#nycr8aes">Essex CR 8A - Old Forge Ln</a>, Elizabethtown, New York 12964</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">472.94 mi<br><h4 class="small incr">+ 0.73 mi</h4></td>
+                    <td class="content text-dark small">761.05 km<br><h4 class="small incr">+ 1.17 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Lewis, New York 12950</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">473.55 mi<br><h4 class="small incr">+ 0.61 mi</h4></td>
+                    <td class="content text-dark small">762.03 km<br><h4 class="small incr">+ 0.98 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/53.php">Essex CR 53 - Cutting Rd</a>, Lewis, New York 12950</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">475.97 mi<br><h4 class="small incr">+ 2.42 mi</h4></td>
+                    <td class="content text-dark small">765.93 km<br><h4 class="small incr">+ 3.90 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/10.php">Essex CR 10 - Fox Run Rd (WB) / Lewis-Wadhams Rd (EB)</a>, Lewis, New York 12950</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">476.62 mi<br><h4 class="small incr">+ 0.65 mi</h4></td>
+                    <td class="content text-dark small">766.98 km<br><h4 class="small incr">+ 1.05 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/12.php">Essex CR 12 - Wells Hill Rd (WB) / Stowersville Rd (EB)</a>, Lewis, New York 12950</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">485.34 mi<br><h4 class="small incr">+ 8.72 mi</h4></td>
+                    <td class="content text-dark small">781.02 km<br><h4 class="small incr">+ 14.04 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Chesterfield, New York 12950</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">486.66 mi<br><h4 class="small incr">+ 1.32 mi</h4></td>
+                    <td class="content text-dark small">783.14 km<br><h4 class="small incr">+ 2.12 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/ny-87.php">I-87 - Adirondack Nwy</a>, Chesterfield, New York 12950</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">488.84 mi<br><h4 class="small incr">+ 2.18 mi</h4></td>
+                    <td class="content text-dark small">786.65 km<br><h4 class="small incr">+ 3.51 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/915.php#nysr915k">NY-915K</a>, Chesterfield, New York 12950 (WB)<br><a href="../state-highways/ny/22.php">NY-22 - Empire State Trl</a>, Chesterfield, New York 12950 (EB)</td>
+                    <td class="content text-dark">Empire State Trl, Chesterfield, New York 12950</td>
+                    <td class="content text-dark">Start concurrency with NY-22</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">490.00 mi<br><h4 class="small incr">+ 1.16 mi</h4></td>
+                    <td class="content text-dark small">788.51 km<br><h4 class="small incr">+ 1.86 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/71.php">Essex CR 71 - Mace Chasm Rd</a>, Chesterfield, New York 12950</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">492.10 mi<br><h4 class="small incr">+ 2.10 mi</h4></td>
+                    <td class="content text-dark small">791.90 km<br><h4 class="small incr">+ 3.39 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/es/15.php">Essex CR 15 - Augur Lake Rd</a>, Chesterfield, New York 12950</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">493.19 mi<br><h4 class="small incr">+ 1.09 mi</h4></td>
+                    <td class="content text-dark small">793.65 km<br><h4 class="small incr">+ 1.75 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/22.php">NY-22 - Main St</a>, Chesterfield, New York 12950</td>
+                    <td class="content text-dark">Empire State Trl, Chesterfield, New York 12950</td>
+                    <td class="content text-dark">End concurrency with NY-22</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">493.19 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">793.65 km<br><h4 class="small incr">+ 0.21 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Au Sable, New York 12944</td>
+                    <td class="content text-dark">End Essex County<br>Start Clinton County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">493.27 mi<br><h4 class="small incr">+ 0.08 mi</h4></td>
+                    <td class="content text-dark small">793.78 km<br><h4 class="small incr">+ 0.13 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php#nysr9n">NY-9N - Pleasant St</a>, Au Sable, New York 12944</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">494.54 mi<br><h4 class="small incr">+ 1.27 mi</h4></td>
+                    <td class="content text-dark small">795.82 km<br><h4 class="small incr">+ 2.04 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/38.php">Clinton CR 38 - Chasm Rd</a>, Au Sable, New York 12944</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">494.72 mi<br><h4 class="small incr">+ 0.18 mi</h4></td>
+                    <td class="content text-dark small">796.12 km<br><h4 class="small incr">+ 0.30 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Chesterfield, New York 12950</td>
+                    <td class="content text-dark">End Clinton County<br>Start Essex County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">494.91 mi<br><h4 class="small incr">+ 0.19 mi</h4></td>
+                    <td class="content text-dark small">796.43 km<br><h4 class="small incr">+ 0.31 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/373.php">NY-373 (EB)</a> (concurrent with <a href="../state-highways/ny/ref/912.php#nysr912t">NY-912T</a>), Chesterfield, New York 12950</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">495.00 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
+                    <td class="content text-dark small">796.57 km<br><h4 class="small incr">+ 0.14 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/373.php">NY-373 (WB)</a>, Chesterfield, New York 12950</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">495.87 mi<br><h4 class="small incr">+ 0.87 mi</h4></td>
+                    <td class="content text-dark small">797.97 km<br><h4 class="small incr">+ 1.40 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Au Sable, New York 12944</td>
+                    <td class="content text-dark">End Essex County<br>Start Clinton County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">497.30 mi<br><h4 class="small incr">+ 1.43 mi</h4></td>
+                    <td class="content text-dark small">800.27 km<br><h4 class="small incr">+ 2.30 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Peru, New York 12972</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">498.55 mi<br><h4 class="small incr">+ 1.25 mi</h4></td>
+                    <td class="content text-dark small">802.28 km<br><h4 class="small incr">+ 2.01 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/442.php">NY-442 - Bear Swamp Rd</a>, Peru, New York 12972</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">502.33 mi<br><h4 class="small incr">+ 3.78 mi</h4></td>
+                    <td class="content text-dark small">808.37 km<br><h4 class="small incr">+ 6.09 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">502.33 mi<br><h4 class="small incr">+ 3.78 mi</h4></td>
+                    <td class="content text-dark small">808.37 km<br><h4 class="small incr">+ 6.09 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">505.59 mi<br><h4 class="small incr">+ 3.26 mi</h4></td>
+                    <td class="content text-dark small">813.62 km<br><h4 class="small incr">+ 5.25 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">U.S. Ave, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">509.82 mi<br><h4 class="small incr">+ 4.23 mi</h4></td>
+                    <td class="content text-dark small">820.43 km<br><h4 class="small incr">+ 6.81 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Peru St, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">510.62 mi<br><h4 class="small incr">+ 0.80 mi</h4></td>
+                    <td class="content text-dark small">821.71 km<br><h4 class="small incr">+ 1.28 km</h4></td>
+                    <td class="content text-dark">US-9 - Empire State Trl, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark">Empire State Trl, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">510.75 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                    <td class="content text-dark small">821.92 km<br><h4 class="small incr">+ 0.21 km</h4></td>
+                    <td class="content text-dark">US-9 - Empire State Trl, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">510.87 mi<br><h4 class="small incr">+ 0.12 mi</h4></td>
+                    <td class="content text-dark small">822.11 km<br><h4 class="small incr">+ 0.19 km</h4></td>
+                    <td class="content text-dark">US-9 - Miller St, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark">Miller St, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">510.90 mi<br><h4 class="small incr">+ 0.03 mi</h4></td>
+                    <td class="content text-dark small">822.15 km<br><h4 class="small incr">+ 0.04 km</h4></td>
+                    <td class="content text-dark">US-9 - Cornelia St, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark">Cornelia St, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">510.96 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
+                    <td class="content text-dark small">822.25 km<br><h4 class="small incr">+ 0.10 km</h4></td>
+                    <td class="content text-dark">US-9 - Margaret St, Plattsburgh, New York 12901 (NB)<br><a href="../state-highways/ny/3.php">NY-3 - Cornelia St</a>, Plattsburgh, New York 12901 (WB)</td>
+                    <td class="content text-dark">Margaret St, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">510.96 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
+                    <td class="content text-dark small">822.25 km<br><h4 class="small incr">+ 0.10 km</h4></td>
+                    <td class="content text-dark">US-9 - Margaret St, Plattsburgh, New York 12901 (NB)<br><a href="../state-highways/ny/3.php">NY-3 - Cornelia St</a>, Plattsburgh, New York 12901 (WB)</td>
+                    <td class="content text-dark">Margaret St, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">512.71 mi<br><h4 class="small incr">+ 1.75 mi</h4></td>
+                    <td class="content text-dark small">825.07 km<br><h4 class="small incr">+ 2.82 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">513.29 mi<br><h4 class="small incr">+ 0.29 mi</h4></td>
+                    <td class="content text-dark small">825.99 km<br><h4 class="small incr">+ 0.46 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/314.php">NY-314 - Moffitt Rd</a>, Plattsburgh, New York 12901 (WB)<br><a href="../secondary-roads/ny/cl/57.php">Clinton CR 57 - Commodore Thomas MacDonough Hwy</a>, Plattsburgh, New York 12901 (EB)</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">513.90 mi<br><h4 class="small incr">+ 0.61 mi</h4></td>
+                    <td class="content text-dark small">826.97 km<br><h4 class="small incr">+ 0.98 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Plattsburgh, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">514.86 mi<br><h4 class="small incr">+ 0.96 mi</h4></td>
+                    <td class="content text-dark small">828.52 km<br><h4 class="small incr">+ 1.55 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Beekmantown, New York 12901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">517.09 mi<br><h4 class="small incr">+ 2.23 mi</h4></td>
+                    <td class="content text-dark small">832.11 km<br><h4 class="small incr">+ 3.59 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/22.php">Clinton CR 22 - Port Au Roche Rd</a>, Beekmantown, New York 12901</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">517.50 mi<br><h4 class="small incr">+ 0.41 mi</h4></td>
+                    <td class="content text-dark small">832.77 km<br><h4 class="small incr">+ 0.66 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/58.php">Clinton CR 58 - Spellman Rd</a>, Beekmantown, New York 12901</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">519.26 mi<br><h4 class="small incr">+ 1.76 mi</h4></td>
+                    <td class="content text-dark small">835.60 km<br><h4 class="small incr">+ 2.83 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/25.php">Clinton CR 25 - Stratton Hill Rd</a>, Beekmantown, New York 12901</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">519.40 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
+                    <td class="content text-dark small">835.82 km<br><h4 class="small incr">+ 0.22 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Chazy, New York 12921</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">519.55 mi<br><h4 class="small incr">+ 0.15 mi</h4></td>
+                    <td class="content text-dark small">836.06 km<br><h4 class="small incr">+ 0.24 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/25.php">Clinton CR 25 - Reynolds Rd</a>, Chazy, New York 12921</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
             </tbody>

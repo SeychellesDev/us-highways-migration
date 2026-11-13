@@ -2,7 +2,7 @@
 
             <h6 class="dir"><a href="../index-redirect.php">Home</a> > <a href="../list.php">US Highways</a> > US-9</h6>
             <h1 class="header" id="us9">United States Route 9</h1>
-            <h2 class="content text-dark">United States Route 9 (US-9) is a north-south route covering a little bit of Delaware through the whole of New York. It is xxx.xx mi, or xxx.xx km, long.</h2>
+            <h2 class="content text-dark">United States Route 9 (US-9) is a north-south route covering Delaware through the whole of New York, running mostly parallel to I-87. It is 529.89 mi, or 852.71 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table_prim.php"; ?>
             <tbody id="deus9">
@@ -4017,9 +4017,79 @@
                 <tr>
                     <td class="content text-dark small">519.55 mi<br><h4 class="small incr">+ 0.15 mi</h4></td>
                     <td class="content text-dark small">836.06 km<br><h4 class="small incr">+ 0.24 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/25.php">Clinton CR 25 - Reynolds Rd</a>, Chazy, New York 12921</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/25.php#nycr25altcl">Clinton CR 25 Alternate - Reynolds Rd</a>, Chazy, New York 12921</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">524.95 mi<br><h4 class="small incr">+ 5.40 mi</h4></td>
+                    <td class="content text-dark small">844.75 km<br><h4 class="small incr">+ 8.69 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/24.php">Clinton CR 24 - Fiske Rd</a>, Chazy, New York 12921</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">525.05 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                    <td class="content text-dark small">844.91 km<br><h4 class="small incr">+ 0.16 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/23.php">Clinton CR 23 - Old Rte 191</a>, Chazy, New York 12921</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with Clinton CR 23</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">525.56 mi<br><h4 class="small incr">+ 0.51 mi</h4></td>
+                    <td class="content text-dark small">845.74 km<br><h4 class="small incr">+ 0.83 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/191.php">NY-191 - Miner Farm Rd</a> (concurrent with <a href="../secondary-roads/ny/cl/23.php">Clinton CR 23</a>), Chazy, New York 12921</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Clinton CR 23</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">526.59 mi<br><h4 class="small incr">+ 1.03 mi</h4></td>
+                    <td class="content text-dark small">847.40 km<br><h4 class="small incr">+ 1.66 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Empire State Trl, Champlain, New York 12919</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">528.17 mi<br><h4 class="small incr">+ 1.58 mi</h4></td>
+                    <td class="content text-dark small">849.95 km<br><h4 class="small incr">+ 2.55 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/21.php">Clinton CR 21 - Lavalley Rd</a>, Champlain, New York 12919 (WB)<br><a href="../state-highways/ny/9.php#nysr9b">NY-9B - Empire State Trl</a>, Champlain, New York 12919 (EB)</td>
+                    <td class="content text-dark">US-9, Champlain, New York 12919</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">528.17 mi<br><h4 class="small incr">+ 3.23 mi</h4></td>
+                    <td class="content text-dark small">849.95 km<br><h4 class="small incr">+ 5.19 km</h4></td>
+                    <td class="content text-dark"><a href="11.php">US-11</a>, Champlain, New York 12919</td>
+                    <td class="content text-dark">Main St, Champlain, New York 12919</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">529.24 mi<br><h4 class="small incr">+ 1.07 mi</h4></td>
+                    <td class="content text-dark small">851.67 km<br><h4 class="small incr">+ 1.72 km</h4></td>
+                    <td class="content text-dark"><a href="../secondary-roads/ny/cl/17.php">Clinton CR 17 - Locust St</a>, Champlain, New York 12919</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">529.38 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
+                    <td class="content text-dark small">851.89 km<br><h4 class="small incr">+ 0.22 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/ny/ref/972.php#nysr972d">NY-972D - W Service Rd</a>, Champlain, New York 12919</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">529.57 mi<br><h4 class="small incr">+ 0.19 mi</h4></td>
+                    <td class="content text-dark small">852.20 km<br><h4 class="small incr">+ 0.31 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Champlain, New York 12919</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">529.89 mi<br><h4 class="small incr">+ 0.32 mi</h4></td>
+                    <td class="content text-dark small">852.71 km<br><h4 class="small incr">+ 0.51 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/ny-87.php">I-87 - Adirondack Nwy</a>, Champlain, New York 12919 (SB/NB)<br><a href="../state-highways/ny/ref/971.php#nysr971b">NY-971B - E Service Rd</a>, Champlain, New York 12919</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End US-9 in New York<br>End Clinton County<br>End of Route</td>
                 </tr>
             </tbody>
             <section id="us9aux">

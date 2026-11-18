@@ -2,13 +2,13 @@
 
 ## Completed Route Pages: 80 pages (08/18/2026)
 
-## Lines of Code Written: 31401 lines (08/18/2026)
+## Lines of Code Written: 32525 lines (11/17/2026)
 
 ### Static Pages
 
 * index-redirect.php 04/02/25 - 09/11/25 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/index-redirect.php]
 * index.html 09/09/25 - 01/21/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/index.html]
-* generate_html.php 09/09/25 - 01/21/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/static/generate-html.php]
+* generate-html.php 09/09/25 - 01/21/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/static/generate-html.php]
 
 ### Lists
 
@@ -44,7 +44,7 @@
 * [NJ Atlantic CR 608](pages/secondary-roads/nj/at/608.php) 08/27/25 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/at/608.php]
 * [NJ Burlington CR 690](pages/secondary-roads/nj/bu/690.php) 09/05/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/bu/690.php]
 * [NJ Essex CR 621](pages/secondary-roads/nj/es/621.php) 09/19/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/es/621.php]
-* [NJ Essex CR 640](pages/secondary-roads/nj/es/621.php) 09/19/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/es/621.php]
+* [NJ Essex CR 640](pages/secondary-roads/nj/es/640.php) 09/19/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/es/640.php]
 * [NJ Mercer CR 645](pages/secondary-roads/nj/me/645.php) 09/12/25 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/me/645.php]
 * [NJ Mercer CR 648](pages/secondary-roads/nj/me/648.php) 09/05/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/me/648.php]
 * [NJ Monmouth CR 1](pages/secondary-roads/nj/mo/1.php) 11/02/26 - 11/02/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/1.php]
@@ -107,7 +107,10 @@
 * [US-9](pages/us-highways/9.php) 06/13/25 - 11/13/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/9.php]
 * [US-206](pages/us-highways/206.php) 06/16/25 - 09/03/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/206.php]
 
-### Interstates (1ct)
-<!-- * I-95 06/16/25 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/95.php] -->
+### Interstates (4ct)
 <!-- * I-40 02/16/26 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/95.php] -->
+* [I-42 (AR)](pages/interstates/auxiliary/ar-42.php) 11/18/26 - 11/18/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/auxiliary/ar-42.php]
+<!-- * I-95 06/16/25 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/95.php] -->
 * [I-195 (NJ)](pages/interstates/auxiliary/nj-195.php) 06/14/25 - 02/16/25 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/auxiliary/nj-195.php]
+* [I-464 (VA)](pages/interstates/auxiliary/va-464.php) 11/17/26 - 11/17/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/auxiliary/va-464.php]
+* [I-564 (VA)](pages/interstates/auxiliary/va-564.php) 11/17/26 - 11/17/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/auxiliary/va-564.php]

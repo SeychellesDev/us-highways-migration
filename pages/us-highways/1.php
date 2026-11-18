@@ -499,7 +499,7 @@
                 <tr>
                     <td class="content text-dark small">179.66 mi<br><h4 class="small incr">+ 0.52 mi</h4></td>
                     <td class="content text-dark small">289.17 km<br><h4 class="small incr">+ 0.83 km</h4></td>
-                    <td class="content text-dark"><a href="../state-highways/fl/a1a.php">FL-A1A - SE 17th St</a> (to <a href="../state-highways/fl/811">FL-811</a>), Fort Lauderdale, Florida 33304</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/811.php">FL-811 - SE 17th St</a>, Fort Lauderdale, Florida 33304 (WB)<br><a href="../state-highways/fl/a1a.php">FL-A1A - SE 17th St</a>, Fort Lauderdale, Florida 33304 (EB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with FL-A1A</td>
                 </tr>
@@ -1682,7 +1682,7 @@
                 <tr>
                     <td class="content text-dark small">414.09 mi<br><h4 class="small incr">+ 0.29 mi</h4></td>
                     <td class="content text-dark small">666.57 km<br><h4 class="small incr">+ 0.47 km</h4></td>
-                    <td class="content text-dark"><a href="92.php">US-92 - W International Speedway Blvd</a> (to <a href="../state-highways/fl/600.php">FL-600</a>), Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark"><a href="92.php">US-92 - W International Speedway Blvd</a> (concurrent with <a href="../state-highways/fl/600.php">FL-600</a>), Daytona Beach, Florida 32114</td>
                     <td class="content text-dark">N Ridgewood Ave, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1913,7 +1913,7 @@
                 <tr>
                     <td class="content text-dark small">467.57 mi<br><h4 class="small incr">+ 0.70 mi</h4></td>
                     <td class="content text-dark small">752.61 km<br><h4 class="small incr">+ 1.13 km</h4></td>
-                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/214.php">St. Johns CR 214 - W King St</a> (to <a href="#flus1bussj">US-1 Business</a>), St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/214.php">St. Johns CR 214 - W King St</a>, St Augustine, Florida 32084 (WB)<br><a href="#flus1bussj">US-1 Business</a>, St Augustine, Florida 32084 (EB)</td>
                     <td class="content text-dark">US-1, St Augustine, 32084</td>
                     <td class="content text-dark"></td>
                 </tr>

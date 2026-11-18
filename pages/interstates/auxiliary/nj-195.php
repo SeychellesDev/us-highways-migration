@@ -9,8 +9,8 @@
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../state-highways/nj/29.php">NJ-29</a>, Hamilton Township, New Jersey 08610 (WB)<br><a href="295.php">I-295 - Camden Fwy</a>, Hamilton Township, New Jersey 08610 (SB/NB)</td>
-                    <td class="content text-dark">Central Jersey Expy, Hamilton Township, 08610</td>
-                    <td class="content text-dark">Start of Route<br>Exit 1A/1B<br>Start Mercer County</td>
+                    <td class="content text-dark">Central Jersey Expy, Hamilton Township, New Jersey 08610</td>
+                    <td class="content text-dark">Start of Route<br>Start I-195 in New Jersey<br>Exit 1A/1B<br>Start Mercer County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.93 mi<br><h4 class="small incr">+ 0.93 mi</h4></td>
@@ -164,6 +164,6 @@
                     <td class="content text-dark small">54.86 km<br><h4 class="small incr">+ 3.15 km</h4></td>
                     <td class="content text-dark"><a href="../../state-highways/nj/34.php">NJ-34 (SB/NB)</a>, Wall Township, New Jersey 07727<br><a href="../../state-highways/nj/138.php">NJ-138 (EB)</a>, Wall Township, New Jersey 07727</td>
                     <td class="content text-dark">Central Jersey Expy, Wall Township, New Jersey 07727</td>
-                    <td class="content text-dark">Exit 35A/35B<br>End Monmouth County<br>End of Route</td>
+                    <td class="content text-dark">Exit 35A/35B<br>End Monmouth County<br>End I-195 in New Jersey<br>End of Route</td>
                 </tr>
             <?php include "../../../static/bottom.php"; ?>

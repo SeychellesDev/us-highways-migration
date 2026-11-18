@@ -1,21 +1,29 @@
 @echo off
-setlocal enabledelayedexpansion
+setlocal
 
-@REM .\us-highways-migration\linectr.bat
+set "SCAN_DIR=%~dp0"
 
-set dir=us-highways-migration
-set php_files=0
-set php_lines=0
+powershell.exe -NoProfile -Command ^
+"$ErrorActionPreference = 'Stop'; ^
+$root = $env:SCAN_DIR; ^
+$files = Get-ChildItem -LiteralPath $root -Filter '*.php' -File -Recurse; ^
+$totalLines = 0; $filesWithContent = 0; ^
+foreach ($file in $files) { ^
+  $hasContent = $false; ^
+  $fileLines = 0; ^
+  $reader = [System.IO.File]::OpenText($file.FullName); ^
+  try { ^
+    while (($line = $reader.ReadLine()) -ne $null) { ^
+      $fileLines++; ^
+      if ($line.Trim().Length -gt 0) { $hasContent = $true } ^
+    } ^
+  } finally { $reader.Dispose() }; ^
+  if ($hasContent) { ^
+    $filesWithContent++; $totalLines += $fileLines; ^
+    Write-Output ('{0}.	{1}: {2} lines' -f $filesWithContent, $file.FullName, $fileLines) ^
+  } ^
+}; ^
+Write-Output ('Total lines of PHP code: {0}' -f $totalLines); ^
+Write-Output ('Total number of PHP files with content: {0}' -f $filesWithContent)"
 
-for /r "%dir%" %%F in (*.php) do (
-    findstr /r /v "^[[:space:]]*$" "%%F" >nul
-    if !errorlevel! equ 0 (
-        set /a php_files+=1
-        for /f %%C in ('find /c /v "" ^< "%%F"') do (
-            set /a php_lines+=%%C
-        )
-    )
-)
-
-echo Total lines of PHP code: %php_lines%
-echo Total number of PHP files with content: %php_files%
+if errorlevel 1 exit /b %errorlevel%

@@ -6,7 +6,7 @@ if you're insane like i am and love roads and know how to code please follow thi
 
 for mapping:
 
-1. open Google Maps [maps.google.com]
+1. open [Google Maps](maps.google.com)
 2. go to road you want to map
 3. find out whether route is marked north/south or east/west
 4. go to southernmost/westernmost point of route and right click and select "measure distance"
@@ -16,6 +16,7 @@ for mapping:
 8. follow the table template
 9. for partial intersections, directions have a priority of southbound, then northbound, then westbound, then eastbound (for good example, see us-highways/1.php:2408)
 10. for concurrencies, roads have a priority of interstates, then united states highways, then state highways, than county/secondary routes
+11. for alternate routes, the format is state - type - number - alt - count(y/ies). alternate routes across state lines have different ids. see [samples.txt](./samples.txt) for samples
 
 for images:
 

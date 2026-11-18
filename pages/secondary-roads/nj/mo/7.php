@@ -23,7 +23,7 @@
                 <tr>
                     <td class="content text-dark small">2.09 mi<br><h4 class="small incr">+ 0.37 mi</h4></td>
                     <td class="content text-dark small">3.36 km<br><h4 class="small incr">+ 0.60 km</h4></td>
-                    <td class="content text-dark"><a href="#njcr7altmo">Monmouth CR 7 Alternate - Main St</a>, Keansburg, New Jersey 07734 (NB)<br>Monmouth CR 7 - Port Monmouth Rd, Keansburg, New Jersey 07734 (EB)</td>
+                    <td class="content text-dark"><a href="#njcr7spurmo">Monmouth CR 7 Spur - Main St</a>, Keansburg, New Jersey 07734 (NB)<br>Monmouth CR 7 - Port Monmouth Rd, Keansburg, New Jersey 07734 (EB)</td>
                     <td class="content text-dark">Port Monmouth Rd, Keansburg, New Jersey 07734</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -36,7 +36,7 @@
                 </tr>
             <?php include "../../../../static/endtable.php"; ?>
             <hr>
-            <h1 class="header" id="njcr7altmo">Monmouth County Route 7 Alternate</h1>
+            <h1 class="header" id="njcr7spurmo">Monmouth County Route 7 Spur</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) splits into two roads near the Keyport-Keansburg border. It is 0.72 mi, or 1.15 km, long and connects Monmouth CR 7 to NJ-36.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             

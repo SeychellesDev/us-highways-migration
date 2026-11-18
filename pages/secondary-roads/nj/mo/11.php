@@ -44,7 +44,7 @@
                 <tr>
                     <td class="content text-dark small">2.06 mi<br><h4 class="small incr">+ 0.75 mi</h4></td>
                     <td class="content text-dark small">3.34 km<br><h4 class="small incr">+ 1.21 km</h4></td>
-                    <td class="content text-dark"><a href="../537.php#njcr537altmo">Monmouth CR 537 Alternate - Hildreth Ave</a>, Oceanport, New Jersey 07757</td>
+                    <td class="content text-dark"><a href="../537.php#njcr537spurmo">Monmouth CR 537 Spur - Hildreth Ave</a>, Oceanport, New Jersey 07757</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

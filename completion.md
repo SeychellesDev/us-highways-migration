@@ -84,6 +84,7 @@
 * [NJ Monmouth CR 55](pages/secondary-roads/nj/mo/55.php) 06/13/25 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/55.php]
 * [NJ Warren CR 621](pages/secondary-roads/nj/wa/621.php) 10/24/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/wa/621.php]
 * [NY Monroe CR 84](pages/secondary-roads/ny/mo/84.php) 10/11/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ny/mo/84.php]
+* [TX FM 71](pages/secondary-roads/tx/fm/71.php) 09/09/26 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/tx/fm/71.php]
 
 ### State Highways (19ct)
 

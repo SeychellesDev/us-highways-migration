@@ -18,7 +18,7 @@
                     <td class="content text-dark small">0.15 km<br><h4 class="small incr">+ 0.15 km</h4></td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/501.php">Middlesex CR 501 - King Georges Rd</a>, Woodbridge Township, New Jersey 07095</td>
                     <td class="content text-dark">King Georges Rd, Woodbridge Township, New Jersey 07095</td>
-                    <td class="content text-dark">Start of Route<br>Start concurrency with Middlesex CR 501</td>
+                    <td class="content text-dark">Start concurrency with Middlesex CR 501</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.22 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
@@ -51,7 +51,7 @@
                 <tr>
                     <td class="content text-dark small">1.29 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
                     <td class="content text-dark small">2.06 km<br><h4 class="small incr">+ 0.16 km</h4></td>
-                    <td class="content text-dark"><a href="440.php">NJ-440</a>, Perth Amboy, New Jersey 08861</td>
+                    <td class="content text-dark"><a href="35.php">NJ-35 - Convery Blvd</a>, Perth Amboy, New Jersey 08861 (SB/NB)<br><a href="440.php">NJ-440</a> (concurrent with <a href="../../secondary-roads/nj/501.php">Middlesex CR 501</a>), Perth Amboy, New Jersey 08861 (EB)</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End Middlesex County<br>End of Route</td>
                 </tr>

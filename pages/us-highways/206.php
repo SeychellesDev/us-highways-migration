@@ -1236,7 +1236,7 @@
                 <?php include "../../static/endtable.php"; ?>
 <hr>
             <h1 class="header" id="njus206bypso">United States Route 206 Bypass</h1>
-            <h2 class="content text-dark">US-206 splits into two routes in Lawrence Township: Princeton Ave and Brunswick Circle. The circle route is 0.65 mi, or 1.05 km, long.</h2>
+            <h2 class="content text-dark">US-206 splits into two routes in Lawrence Township: Princeton Ave and Brunswick Circle. The circle route is 2.86 mi, or 4.59 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
                 <tr>

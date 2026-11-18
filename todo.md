@@ -5,7 +5,6 @@
 ### HIGHEST PRIORITY / IN PROGRESS
 
 * i-95
-* us-9
 * i-40
 * tx fm 71
 

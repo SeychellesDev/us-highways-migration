@@ -1,6 +1,6 @@
 <?php include "../../../../static/top.php"; ?>
         
-            <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 55</h6>
+            <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 38</h6>
             <h1 class="header" id="njcr38mo">Monmouth County Route 38</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 38 (Monmouth CR 38) is a county road that connects US-9 and NJ-79. It is 3.55 mi, or 5.70 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>

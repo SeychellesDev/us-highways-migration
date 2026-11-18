@@ -37,14 +37,14 @@
                 <tr>
                     <td class="content text-dark small">3.20 mi<br><h4 class="small incr">+ 1.01 mi</h4></td>
                     <td class="content text-dark small">5.15 km<br><h4 class="small incr">+ 1.62 km</h4></td>
-                    <td class="content text-dark"><a href="33.php">NJ-33 - Corlies Ave</a>, Neptune Township, New Jersey 07753</td>
+                    <td class="content text-dark"><a href="33.php">NJ-33 - Corlies Ave</a> (concurrent with <a href="../../secondary-roads/nj/mo/17.php">Monmouth CR 17</a>), Neptune Township, New Jersey 07753</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Exit 8</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.12 mi<br><h4 class="small incr">+ 0.92 mi</h4></td>
                     <td class="content text-dark small">6.63 km<br><h4 class="small incr">+ 1.48 km</h4></td>
-                    <td class="content text-dark"><a href="../../secondary-roads/nj/mo/17.php">Monmouth CR 17 - W Bangs Ave</a>, Neptune Township, New Jersey 07753</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/mo/17.php#njcr17altmo">Monmouth CR 17 Alternate - W Bangs Ave</a>, Neptune Township, New Jersey 07753</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

@@ -22,15 +22,8 @@
 * [List of County Roads in Essex County, New Jersey](pages/secondary-roads/nj/es/list.php) 04/18/25 - 02/08/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/es/list.php]
 * [List of County Roads in Gloucester County, New Jersey](pages/secondary-roads/nj/gl/list.php) 04/18/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/gl/list.php]
 * [List of County Roads in Hudson County, New Jersey](pages/secondary-roads/nj/hu/list.php) 04/18/25 - 11/10/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/hu/list.php]
+* [List of County Roads in Hunterdon County, New Jersey](pages/secondary-roads/nj/hn/list.php) 04/18/25 - 11/11/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/hn/list.php]
 * [List of County Roads in Monmouth County, New Jersey](pages/secondary-roads/nj/mo/list.php) 04/17/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mo/list.php]
-<!-- * List of County Roads in Morris County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/mr/list.php]-->
-<!-- * List of County Roads in Οcean County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/oc/list.php]-->
-<!-- * List of County Roads in Passaic County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/pa/list.php]-->
-<!-- * List of County Roads in Salem County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/sa/list.php]-->
-<!-- * List of County Roads in Somerset County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/so/list.php]-->
-<!-- * List of County Roads in Sussex County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/su/list.php]-->
-<!-- * List of County Roads in Union County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/un/list.php]-->
-<!-- * List of County Roads in Warren County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/wa/list.php]-->
 * [List of US Highways](pages/us-highways/list.php) 04/17/25 - 01/17/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/list.php]
 
 ### Secondary Roads (26ct)
